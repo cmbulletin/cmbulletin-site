@@ -1,11 +1,145 @@
 {
  "api": "v1",
- "generated_at": "2026-10-06T20:10:59Z",
+ "generated_at": "2026-10-06T21:17:52Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 34,
+ "count": 37,
  "entries": [
+  {
+   "slug": "athos-metals-closes-first-tranche-as-meed-growth-deal-deadline",
+   "url": "https://www.cmbulletin.com/posts/athos-metals-closes-first-tranche-as-meed-growth-deal-deadline.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/athos-metals-closes-first-tranche-as-meed-growth-deal-deadline.json",
+   "date": "2026-10-06T21:06:25Z",
+   "headline": "Athos Metals closes first tranche as Meed Growth deal deadline extended",
+   "dek": "Athos raised $1,276,799.96 in two classes of subscription receipt, held in escrow, as the outside date for its proposed reverse take-over of Meed moves to October 31.",
+   "caption": "First-tranche proceeds from Athos Metals' placement sit in escrow pending the conditions of its proposed reverse take-over of Meed Growth.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Capital Pool Company",
+    "Qualifying Transaction"
+   ],
+   "tickers": [
+    "TSXV:MEED.P"
+   ],
+   "image": "https://www.cmbulletin.com/images/athos-metals-closes-first-tranche-as-meed-growth-deal-deadline.png",
+   "source_name": "Newsfile",
+   "sources": [
+    {
+     "title": "Meed Provides Update with Respect to Qualifying Transaction with Athos Metals and Announces Closing of First Tranche of Concurrent Financing",
+     "url": "https://www.newsfilecorp.com/release/317650/Meed-Provides-Update-with-Respect-to-Qualifying-Transaction-with-Athos-Metals-and-Announces-Closing-of-First-Tranche-of-Concurrent-Financing",
+     "publisher": "Newsfile"
+    },
+    {
+     "title": "Meed Growth Corp. Secures $1.28M in First Financing Tranche as Athos Metals’ Qualifying Transaction Deadline Extended",
+     "url": "https://kalkinemedia.com/ca/news/announcements/meed-growth-corp-secures-128m-in-first-financing-tranche-as-athos-metals-qualifying-transaction-deadline-extended",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "That the escrow release conditions will be satisfied and the transaction completed; the release states there can be no assurance it will be completed on the terms proposed or at all.",
+    "That Athos will close one or more additional tranches, which it says it anticipates.",
+    "That Athos will incur critical mineral exploration expenditures equal to the flow-through proceeds and renounce them effective no later than December 31, 2026, as the release states."
+   ],
+   "brief": [
+    "Athos Metals Corp. has closed the first tranche of its non-brokered private placement for aggregate gross proceeds of $1,276,799.96, Meed Growth Corp. (TSXV: MEED.P) said. Athos issued 5,720,000 subscription receipts at $0.10 and 5,873,333 flow-through subscription receipts at $0.12. The two companies also extended the outside date for their proposed transaction from September 30 to October 31, 2026.",
+    "The money is held in escrow pending conditions that include the satisfaction or waiver of all conditions precedent to the transaction. If they are not met by 5:00 p.m. Vancouver time on November 30, 2026, extended from September 30, the receipts are cancelled and holders receive their purchase price plus a pro rata share of any interest.",
+    "The release sets two dates a month apart: an outside date of October 31 for the transaction and an escrow deadline of November 30. Athos anticipates closing one or more further tranches. Until the escrow conditions are met, subscribers hold receipts rather than shares, and Meed has no assets other than cash and cash equivalents."
+   ]
+  },
+  {
+   "slug": "big-bear-gold-to-resume-tsxv-trading-after-peerless-option-assignment",
+   "url": "https://www.cmbulletin.com/posts/big-bear-gold-to-resume-tsxv-trading-after-peerless-option-assignment.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/big-bear-gold-to-resume-tsxv-trading-after-peerless-option-assignment.json",
+   "date": "2026-10-06T21:06:25Z",
+   "headline": "Big Bear Gold to resume TSXV trading after Peerless option assignment",
+   "dek": "Shares halted since September 28 are expected to reopen on October 8, after the company agreed to acquire Bathurst Metals' 100% optioned interest in the Peerless Property.",
+   "caption": "Big Bear Gold's shares are expected to resume trading on October 8 after a halt for its Peerless Property option assignment.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Gold",
+    "Trading Halt",
+    "Acquisition"
+   ],
+   "tickers": [
+    "TSXV:BEAR"
+   ],
+   "image": "https://www.cmbulletin.com/images/big-bear-gold-to-resume-tsxv-trading-after-peerless-option-assignment.png",
+   "source_name": "GlobeNewswire",
+   "sources": [
+    {
+     "title": "Big Bear Gold Corp. Announces Resumption of Trading",
+     "url": "https://www.globenewswire.com/news-release/2026/10/06/3375728/36679/en/big-bear-gold-corp-announces-resumption-of-trading.html",
+     "publisher": "GlobeNewswire"
+    },
+    {
+     "title": "Big Bear Gold Corp. to Restart Trading on TSXV October 8 Following Peerless Property Acquisition Disclosure",
+     "url": "https://kalkinemedia.com/ca/news/announcements/big-bear-gold-corp-to-restart-trading-on-tsxv-october-8-following-peerless-property-acquisition-disclosure",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "The expected resumption of trading at market open on October 8, 2026, which the company states as an expectation.",
+    "Completion of the acquisition, which is subject to TSXV approval."
+   ],
+   "brief": [
+    "Big Bear Gold Corp. (TSXV: BEAR) said its common shares are expected to resume trading on the TSX Venture Exchange at market open on Thursday, October 8, 2026. Trading was halted on September 28, 2026, pending the announcement of the company's acquisition of an optioned interest in the Peerless Property.",
+    "Under an assignment and assumption of property option agreement dated September 25, 2026, with Bathurst Metals Corp. and Stanley R McClay, as bare trustee for BCT Holdings Corp., Big Bear will acquire Bathurst's 100% optioned interest in the Peerless Property in the Bridge River Mining Camp, British Columbia.",
+    "The notice does not restate the transaction's terms: it says full details are set out in the company's news release dated October 1, 2026, and this entry draws only on the notice. The transaction remains subject to TSXV approval, and the notice gives no closing date."
+   ]
+  },
+  {
+   "slug": "elton-resources-begins-tsx-venture-trading-and-grants-12-7-million",
+   "url": "https://www.cmbulletin.com/posts/elton-resources-begins-tsx-venture-trading-and-grants-12-7-million.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/elton-resources-begins-tsx-venture-trading-and-grants-12-7-million.json",
+   "date": "2026-10-06T21:06:25Z",
+   "headline": "Elton Resources begins TSX Venture trading and grants 12.7 million options",
+   "dek": "The former Chicane Capital I Corp. opened under the symbol DBAY on October 6, engaged ICP Securities Inc. for market-making and granted options exercisable at $0.20 for 10 years.",
+   "caption": "Elton Resources, formerly Chicane Capital I Corp., began trading on the TSX Venture Exchange with its Darnley Bay Project in the Northwest Territories.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Listing",
+    "Nickel-Copper-PGE"
+   ],
+   "tickers": [
+    "TSXV:DBAY"
+   ],
+   "image": "https://www.cmbulletin.com/images/elton-resources-begins-tsx-venture-trading-and-grants-12-7-million.png",
+   "source_name": "Investing News Network (Newsfile release)",
+   "sources": [
+    {
+     "title": "Elton Resources Announces Commencement of Trading on The TSXV",
+     "url": "https://investingnews.com/elton-resources-announces-commencement-of-trading-on-the-tsxv/",
+     "publisher": "Investing News Network (Newsfile release)"
+    },
+    {
+     "title": "Elton Resources (TSXV: DBAY) Commences Trading on TSX Venture, Advances Darnley Bay Nickel-Copper-PGE Exploration",
+     "url": "https://kalkinemedia.com/ca/news/announcements/elton-resources-tsxv-dbay-commences-trading-on-tsx-venture-advances-darnley-bay-nickel-copper-pge-exploration",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "That the Darnley Bay anomaly is one of the strongest isolated gravity anomalies in the world and is prospective for nickel-copper-platinum group elements, as the company states.",
+    "That the anomaly's source has drawn favourable comparisons to Sudbury, Noril'sk and the Bushveld Complex, as the release states.",
+    "That the 2018 magnetotelluric survey identified several targets (over ten large-scale targets, in the chief executive's words).",
+    "That the company will carry out a drilling program, which it says it plans."
+   ],
+   "brief": [
+    "Elton Resources Corp. (TSXV: DBAY), formerly Chicane Capital I Corp., said its common shares began trading on the TSX Venture Exchange under the symbol DBAY at market open on October 6, 2026. The company is focused on its flagship Darnley Bay Project in the Northwest Territories, where it says the anomaly is considered prospective for nickel-copper-platinum group elements.",
+    "The company granted 12,720,378 incentive stock options under its equity incentive plan to eligible participants, including certain directors, officers and consultants. Each is exercisable for one common share at $0.20 for 10 years and vests immediately. It also engaged Toronto-based ICP Securities Inc. for automated market-making at C$7,500 a month, plus applicable taxes, from October 1, 2026.",
+    "The release does not state the number of shares outstanding, so the option grant cannot be measured against the share count from this disclosure. The market-making agreement has no performance factors and, beyond the monthly fee, no options or other compensation; ICP bears its own trading costs, and no third party is providing funds or securities."
+   ]
+  },
   {
    "slug": "strikepoint-sets-ten-for-one-consolidation-ahead-of-northumberland",
    "url": "https://www.cmbulletin.com/posts/strikepoint-sets-ten-for-one-consolidation-ahead-of-northumberland.html",

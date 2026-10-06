@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-10-06T20:10:59Z",
+ "generated_at": "2026-10-06T21:17:52Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 38,
+ "count": 39,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -833,6 +833,24 @@
    "warrant_expiry": null,
    "hold_expiry": null,
    "entry_url": "https://www.cmbulletin.com/posts/aterra-metals-launches-brokered-life-offering-for-up-to-6-million.html"
+  },
+  {
+   "company": "Athos Metals Corp.",
+   "ticker": "TSXV:MEED.P",
+   "type": "Subscription receipts and flow-through subscription receipts (first tranche)",
+   "currency": "C$",
+   "closed": "",
+   "agent": "",
+   "hold_period": true,
+   "note": "Non-brokered; 5,720,000 receipts at $0.10 and 5,873,333 flow-through receipts at $0.12, in escrow with a November 30, 2026 deadline; concurrent financing for Athos's proposed reverse take-over of Meed Growth (MEED.P)",
+   "gross": 1276799.96,
+   "units": null,
+   "price": null,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/athos-metals-closes-first-tranche-as-meed-growth-deal-deadline.html"
   }
  ]
 }

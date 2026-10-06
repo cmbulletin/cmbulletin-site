@@ -1,114 +1,170 @@
 {
  "api": "v1",
- "generated_at": "2026-10-06T20:10:59Z",
+ "generated_at": "2026-10-06T21:17:52Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-09-30",
- "count": 2,
+ "issue_date": "2026-10-06",
+ "count": 3,
  "entries": [
   {
-   "slug": "strikepoint-sets-ten-for-one-consolidation-ahead-of-northumberland",
-   "url": "https://www.cmbulletin.com/posts/strikepoint-sets-ten-for-one-consolidation-ahead-of-northumberland.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/strikepoint-sets-ten-for-one-consolidation-ahead-of-northumberland.json",
-   "date": "2026-09-30T12:56:30Z",
-   "headline": "StrikePoint sets ten-for-one consolidation ahead of Northumberland closing",
-   "dek": "The company expects to close its purchase of the Nevada gold project from Newmont subsidiaries on or about October 6, with about C$90 million in cash.",
-   "caption": "A Nevada gold project idle for more than 15 years is scheduled to change hands on or about October 6.",
-   "sections": [
-    "mining"
-   ],
-   "tags": [
-    "Mining",
-    "M&A",
-    "Gold",
-    "Capital Structure"
-   ],
-   "tickers": [
-    "TSXV:SKP",
-    "OTCQB:STKXF"
-   ],
-   "image": "https://www.cmbulletin.com/images/strikepoint-sets-ten-for-one-consolidation-ahead-of-northumberland.png",
-   "source_name": "Kalkine Media — Canada",
-   "sources": [
-    {
-     "title": "StrikePoint Gold Announces October 2 Share Consolidation and October 6 Northumberland Acquisition Closing with C$90M Cash Backing",
-     "url": "https://kalkinemedia.com/ca/news/announcements/strikepoint-gold-announces-october-2-share-consolidation-and-october-6-northumberland-acquisition-closing-with-c90m-cash-backing",
-     "publisher": "Kalkine Media — Canada"
-    }
-   ],
-   "unverified_claims": [
-    "StrikePoint's expectation that the Northumberland acquisition will close on or about October 6, 2026.",
-    "The company's expectation of approximately C$90 million in cash after closing.",
-    "The estimated share counts of about 7,239,238 after consolidation and about 102.2 million after conversion of the subscription receipts.",
-    "The company's statement that the amended technical report contains no material changes.",
-    "The planned use of cash for resource expansion, infill drilling and technical, economic and environmental studies."
-   ],
-   "brief": [
-    "StrikePoint Gold Inc. (TSXV: SKP) will consolidate its shares, options and warrants on a ten-for-one basis effective October 2, 2026, leaving about 7,239,238 common shares outstanding. The company said it expects to close its acquisition of the Northumberland Gold Project in Nevada from subsidiaries of Newmont Corporation on or about October 6.",
-    "Closing releases the proceeds of a $190 million bought deal of subscription receipts completed to fund the purchase. After closing, the company expects roughly C$90 million in cash and, once the receipts convert, about 102.2 million shares outstanding. The shares remain halted pending final TSX Venture Exchange approval and completion of the transaction.",
-    "The two share counts matter most to existing holders: the register as it stands will be a small fraction of the enlarged company once the receipts convert. The receipt structure ties the money to the deal, since the proceeds are released on closing, so the financing and the purchase complete together."
-   ],
-   "body": [
-    "StrikePoint Gold Inc. (TSXV: SKP, OTCQB: STKXF) said on September 29, 2026 that a ten-for-one consolidation of its common shares, options and warrants will take effect on October 2. Every ten pre-consolidation securities become one. The company expects about 7,239,238 common shares to be outstanding afterwards. Fractional entitlements of one-half or more will be rounded up to a whole share, and those below one-half will be cancelled.",
-    "The consolidated shares carry a new CUSIP, 86332K509, and a new ISIN, CA86332K5098, and Computershare Trust Company of Canada is the transfer agent. A consolidation changes the number of shares in issue, not the value of the company: each holder ends up with one-tenth as many shares, representing essentially the same proportionate interest, and the options and warrants are consolidated on the same ratio.",
-    "The larger event is the acquisition. StrikePoint said it has set the closing of its purchase of the Northumberland Gold Project, in Nevada's Walker Lane, from subsidiaries of Newmont Corporation for on or about October 6, 2026. The same date governs the release of funds from the related $190 million bought deal of subscription receipts, which the company said was completed to fund the purchase.",
-    "A subscription receipt is a way of raising money for an acquisition before it has closed. Investors pay up front and receive a receipt; the proceeds are held back, and the receipts convert into shares when the acquisition completes, at which point the funds are released to the company. That is why the release gives two share counts: about 7.24 million after the consolidation, and about 102.2 million once the receipts convert.",
-    "Set side by side, those figures make one point plain for existing holders: the register as it stands will be a small fraction of the enlarged company. After closing and the release of funds, StrikePoint expects to hold approximately C$90 million in cash, which it has said will fund resource expansion, infill drilling and technical, economic and environmental studies at Northumberland, a project it describes as idle for more than 15 years.",
-    "Several things are not in this release. It does not state the purchase price payable to Newmont's subsidiaries, and readers should not try to infer one from the gap between the gross financing and the expected cash balance. It gives no date for trading to resume: the shares remain halted pending final TSX Venture Exchange approval and closing. And the C$90 million is the company's expectation, not a reported balance.",
-    "The release also records that, at the request of the TSX Venture Exchange, StrikePoint filed an amended technical report on Northumberland under National Instrument 43-101, the Canadian standard for disclosing mineral projects. The company said there were no material changes to the report. Michael G. Allen, P.Geo., its President and Chief Executive Officer, is identified as the qualified person under NI 43-101 for the release.",
-    "For the venture market the transaction is worth reading for its structure rather than as a signal. Receipts that convert when the purchase completes put the financing and the acquisition on a single timetable, and the consolidation resets the share count four days before the scheduled closing. What matters for readers now is the pending closing, final exchange approval and the resumption of trading."
-   ]
-  },
-  {
-   "slug": "aterra-metals-launches-brokered-life-offering-for-up-to-6-million",
-   "url": "https://www.cmbulletin.com/posts/aterra-metals-launches-brokered-life-offering-for-up-to-6-million.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/aterra-metals-launches-brokered-life-offering-for-up-to-6-million.json",
-   "date": "2026-09-30T12:56:30Z",
-   "headline": "ATERRA Metals launches brokered LIFE offering for up to $6 million",
-   "dek": "Research Capital leads the best-efforts sale of common shares at $0.06 to fund Phase II work at the Totora copper-gold project in Chile, following a maiden resource estimate.",
-   "caption": "A Chilean copper-gold project with a newly announced maiden Inferred resource is the focus of a brokered share offering.",
+   "slug": "athos-metals-closes-first-tranche-as-meed-growth-deal-deadline",
+   "url": "https://www.cmbulletin.com/posts/athos-metals-closes-first-tranche-as-meed-growth-deal-deadline.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/athos-metals-closes-first-tranche-as-meed-growth-deal-deadline.json",
+   "date": "2026-10-06T21:06:25Z",
+   "headline": "Athos Metals closes first tranche as Meed Growth deal deadline extended",
+   "dek": "Athos raised $1,276,799.96 in two classes of subscription receipt, held in escrow, as the outside date for its proposed reverse take-over of Meed moves to October 31.",
+   "caption": "First-tranche proceeds from Athos Metals' placement sit in escrow pending the conditions of its proposed reverse take-over of Meed Growth.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
     "Financing",
-    "Copper",
-    "Chile"
+    "Capital Pool Company",
+    "Qualifying Transaction"
    ],
    "tickers": [
-    "CSE:ATC",
-    "OTCQB:CSSCF"
+    "TSXV:MEED.P"
    ],
-   "image": "https://www.cmbulletin.com/images/aterra-metals-launches-brokered-life-offering-for-up-to-6-million.png",
-   "source_name": "Kalkine Media — Canada",
+   "image": "https://www.cmbulletin.com/images/athos-metals-closes-first-tranche-as-meed-growth-deal-deadline.png",
+   "source_name": "Newsfile",
    "sources": [
     {
-     "title": "ATERRA Metals Initiates Brokered Private Placement to Secure Up to $6 Million for Chile Copper-Gold Exploration",
-     "url": "https://kalkinemedia.com/ca/news/announcements/aterra-metals-initiates-brokered-private-placement-to-secure-up-to-6-million-for-chile-copper-gold-exploration",
+     "title": "Meed Provides Update with Respect to Qualifying Transaction with Athos Metals and Announces Closing of First Tranche of Concurrent Financing",
+     "url": "https://www.newsfilecorp.com/release/317650/Meed-Provides-Update-with-Respect-to-Qualifying-Transaction-with-Athos-Metals-and-Announces-Closing-of-First-Tranche-of-Concurrent-Financing",
+     "publisher": "Newsfile"
+    },
+    {
+     "title": "Meed Growth Corp. Secures $1.28M in First Financing Tranche as Athos Metals’ Qualifying Transaction Deadline Extended",
+     "url": "https://kalkinemedia.com/ca/news/announcements/meed-growth-corp-secures-128m-in-first-financing-tranche-as-athos-metals-qualifying-transaction-deadline-extended",
      "publisher": "Kalkine Media — Canada"
     }
    ],
    "unverified_claims": [
-    "The maiden Inferred Mineral Resource estimate for Totora of 159.8 million tonnes at 0.51% copper equivalent (0.30% copper, 0.15 g/t gold) at a 0.2% copper cut-off, as announced by the company.",
-    "The offering size and the expected closing on or about October 14, 2026, which depend on demand under a best-efforts mandate and on CSE conditional approval.",
-    "The planned use of proceeds for Phase II exploration at Totora."
+    "That the escrow release conditions will be satisfied and the transaction completed; the release states there can be no assurance it will be completed on the terms proposed or at all.",
+    "That Athos will close one or more additional tranches, which it says it anticipates.",
+    "That Athos will incur critical mineral exploration expenditures equal to the flow-through proceeds and renounce them effective no later than December 31, 2026, as the release states."
    ],
    "brief": [
-    "ATERRA Metals Inc. (CSE: ATC) has engaged Research Capital Corporation as lead agent and sole bookrunner for a brokered, best-efforts private placement of common shares at $0.06, for gross proceeds of $4 million to $6 million. The agents may increase the offering by up to 15% of the shares sold. Closing is targeted for on or about October 14, 2026.",
-    "The shares are offered in all provinces except Quebec and in qualifying jurisdictions including the United States, under the listed issuer financing exemption, and are free-trading on closing. Agents receive a 6.0% cash commission and broker warrants for 6.0% of shares sold, exercisable at $0.06 for 24 months. CSE conditional approval is required.",
-    "Proceeds go to Phase II exploration at Totora, in Chile's Region III, where ATERRA announced a maiden Inferred resource of 159.8 million tonnes at 0.51% copper equivalent on September 24. Raising on the back of a first resource is a familiar sequence; at six cents, the final share count is the figure to watch."
+    "Athos Metals Corp. has closed the first tranche of its non-brokered private placement for aggregate gross proceeds of $1,276,799.96, Meed Growth Corp. (TSXV: MEED.P) said. Athos issued 5,720,000 subscription receipts at $0.10 and 5,873,333 flow-through subscription receipts at $0.12. The two companies also extended the outside date for their proposed transaction from September 30 to October 31, 2026.",
+    "The money is held in escrow pending conditions that include the satisfaction or waiver of all conditions precedent to the transaction. If they are not met by 5:00 p.m. Vancouver time on November 30, 2026, extended from September 30, the receipts are cancelled and holders receive their purchase price plus a pro rata share of any interest.",
+    "The release sets two dates a month apart: an outside date of October 31 for the transaction and an escrow deadline of November 30. Athos anticipates closing one or more further tranches. Until the escrow conditions are met, subscribers hold receipts rather than shares, and Meed has no assets other than cash and cash equivalents."
    ],
    "body": [
-    "ATERRA Metals Inc. (CSE: ATC, OTCQB: CSSCF), which is exploring for copper and gold in Chile, said on September 29, 2026 that it had entered into an agreement with Research Capital Corporation as lead agent and sole bookrunner, on behalf of a syndicate of agents, for a brokered, best-efforts private placement of common shares at $0.06 each. The offering is for a minimum of $4,000,000 and a maximum of $6,000,000 in gross proceeds.",
-    "Best efforts means the agents undertake to sell the shares without committing to buy any themselves, as underwriters would in a bought deal, so the size of the raise depends on demand; $4,000,000 is the stated minimum. The agents also hold an option to increase the offering by up to an additional 15% of the number of shares sold, exercisable by written notice up to two business days before closing.",
-    "The shares are being sold under the listed issuer financing exemption. That exemption lets a listed company raise money from the public on the strength of an offering document and its continuous disclosure record rather than a full prospectus, and, according to the release, shares sold this way are immediately free-trading under Canadian securities laws on closing. The offering document is available on SEDAR+ and on the company's website.",
-    "The offering is open in all provinces of Canada except Quebec and in other qualifying jurisdictions, including the United States, subject to applicable exemptions; the shares have not been registered under the U.S. Securities Act of 1933. The agents will receive a cash commission of 6.0% of gross proceeds and broker warrants equal to 6.0% of the shares sold, each exercisable for one share at the $0.06 issue price for 24 months after closing.",
-    "Closing is expected on or about October 14, 2026, or on another date the agents and the company agree, and is subject to regulatory approvals including the conditional approval of the Canadian Securities Exchange. Net proceeds are to fund the Phase II exploration program at the Totora Copper-Gold Project, covering infill and resource expansion drilling, geophysical surveys targeting grassroots prospects and preliminary metallurgical testing, as well as general working capital and corporate purposes.",
-    "Totora lies in the Dos Amigos Mining District of Region III, about 60 kilometres south of Vallenar. On September 24, 2026 the company announced a maiden Inferred Mineral Resource of 159.8 million tonnes grading 0.51% copper equivalent, comprising 0.30% copper and 0.15 grams per tonne gold, at a 0.2% copper cut-off. Inferred is the lowest-confidence resource category under Canadian disclosure rules, and infill drilling is the usual way of upgrading it.",
-    "The release discloses no insider participation. At $0.06 a share, a raise in this range means a large issuance measured in shares, so the final share count, together with any exercise of the agents' option, is the figure to look for when closing is announced. It will say more about the effect on the register than the dollar range does.",
-    "For the venture market the sequence is a familiar one: a maiden resource followed within days by a brokered financing to drill it out. Choosing a brokered listed issuer financing over a non-brokered placement puts a dealer syndicate behind the distribution and gives subscribers free-trading stock, at the cost of a 6.0% commission and broker warrants priced at the issue price."
+    "Meed Growth Corp. (TSXV: MEED.P), a capital pool company, announced on October 6, 2026 that Athos Metals Corp. has closed the first tranche of its non-brokered private placement for aggregate gross proceeds of $1,276,799.96. Athos issued 5,720,000 subscription receipts at $0.10 each, for $572,000, and 5,873,333 flow-through subscription receipts at $0.12 each, for $704,799.96. The release presents the placement as the concurrent financing for the proposed transaction between the two companies.",
+    "That transaction would, if completed, result in the reverse take-over of Meed by Athos and constitute Meed's Qualifying Transaction under the TSX Venture Exchange's Policy 2.4 – Capital Pool Companies. On completion, Meed, referred to in the release as the Resulting Issuer, will carry on the business of Athos. Meed was incorporated in British Columbia on February 2, 2021; according to the release, it has not commenced commercial operations and has no assets other than cash and cash equivalents.",
+    "The receipts make the money conditional on the transaction. The gross proceeds of the first tranche are held in escrow pending certain escrow release conditions, including the satisfaction or waiver of all conditions precedent to the transaction. Once those are met, each subscription receipt entitles its holder, without further payment or action, to one common share of Athos, and each flow-through subscription receipt to one Athos share that will qualify as a flow-through share.",
+    "Upon completion of the transaction, the Athos shares issued on the receipts will be exchanged for common shares of the Resulting Issuer, and the flow-through Athos shares for flow-through common shares of the Resulting Issuer. If the escrow release conditions are not satisfied by 5:00 p.m. Vancouver time on November 30, 2026, a deadline extended from September 30, 2026, the receipts will be cancelled and holders will be entitled to their aggregate purchase price plus a pro rata share of any interest earned.",
+    "The two classes of receipt are earmarked differently. Athos will incur Canadian exploration expenses qualifying as critical mineral exploration expenditures in an amount equal to the aggregate issue price of the flow-through receipts, to be renounced to subscribers with an effective date no later than December 31, 2026. The proceeds of the ordinary subscription receipts will be used to advance exploration on Athos' mineral properties and for working capital and general corporate purposes.",
+    "Finder's compensation is payable only once the escrow release conditions are satisfied. Athos will pay $29,750.01 in cash, representing 7% of the first-tranche gross proceeds received from subscribers introduced by finders, and issue 266,000 non-transferable finder's warrants, representing 7% of the receipts issued to those subscribers. Each warrant is exercisable for one Athos share at $0.10 for 24 months from issue. Securities issued in the placement, and any finder's securities, are subject to applicable statutory hold periods and any exchange escrow or resale restrictions.",
+    "Separately, Meed and Athos have entered into an extension letter to their binding merger agreement dated May 28, 2026. It moves the outside date for completing the transaction from September 30, 2026 to October 31, 2026, or such later date as the two companies agree in writing. Athos anticipates closing one or more additional tranches of the placement.",
+    "For readers following capital pool company transactions, the release sets out the dates this one now depends on. The outside date of October 31 falls a month before the November 30 escrow deadline, and the outside date can be moved again by written agreement. Until the conditions are met, subscribers hold receipts rather than shares. The release cautions that there can be no assurance the transaction will be completed on the terms proposed or at all, and that trading in Meed's securities should be considered highly speculative."
+   ]
+  },
+  {
+   "slug": "big-bear-gold-to-resume-tsxv-trading-after-peerless-option-assignment",
+   "url": "https://www.cmbulletin.com/posts/big-bear-gold-to-resume-tsxv-trading-after-peerless-option-assignment.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/big-bear-gold-to-resume-tsxv-trading-after-peerless-option-assignment.json",
+   "date": "2026-10-06T21:06:25Z",
+   "headline": "Big Bear Gold to resume TSXV trading after Peerless option assignment",
+   "dek": "Shares halted since September 28 are expected to reopen on October 8, after the company agreed to acquire Bathurst Metals' 100% optioned interest in the Peerless Property.",
+   "caption": "Big Bear Gold's shares are expected to resume trading on October 8 after a halt for its Peerless Property option assignment.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Gold",
+    "Trading Halt",
+    "Acquisition"
+   ],
+   "tickers": [
+    "TSXV:BEAR"
+   ],
+   "image": "https://www.cmbulletin.com/images/big-bear-gold-to-resume-tsxv-trading-after-peerless-option-assignment.png",
+   "source_name": "GlobeNewswire",
+   "sources": [
+    {
+     "title": "Big Bear Gold Corp. Announces Resumption of Trading",
+     "url": "https://www.globenewswire.com/news-release/2026/10/06/3375728/36679/en/big-bear-gold-corp-announces-resumption-of-trading.html",
+     "publisher": "GlobeNewswire"
+    },
+    {
+     "title": "Big Bear Gold Corp. to Restart Trading on TSXV October 8 Following Peerless Property Acquisition Disclosure",
+     "url": "https://kalkinemedia.com/ca/news/announcements/big-bear-gold-corp-to-restart-trading-on-tsxv-october-8-following-peerless-property-acquisition-disclosure",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "The expected resumption of trading at market open on October 8, 2026, which the company states as an expectation.",
+    "Completion of the acquisition, which is subject to TSXV approval."
+   ],
+   "brief": [
+    "Big Bear Gold Corp. (TSXV: BEAR) said its common shares are expected to resume trading on the TSX Venture Exchange at market open on Thursday, October 8, 2026. Trading was halted on September 28, 2026, pending the announcement of the company's acquisition of an optioned interest in the Peerless Property.",
+    "Under an assignment and assumption of property option agreement dated September 25, 2026, with Bathurst Metals Corp. and Stanley R McClay, as bare trustee for BCT Holdings Corp., Big Bear will acquire Bathurst's 100% optioned interest in the Peerless Property in the Bridge River Mining Camp, British Columbia.",
+    "The notice does not restate the transaction's terms: it says full details are set out in the company's news release dated October 1, 2026, and this entry draws only on the notice. The transaction remains subject to TSXV approval, and the notice gives no closing date."
+   ],
+   "body": [
+    "Big Bear Gold Corp. (TSXV: BEAR) announced on October 6, 2026 that its common shares are expected to resume trading on the TSX Venture Exchange at market open on Thursday, October 8, 2026. Trading in the shares was halted on September 28, 2026, pending the announcement of the company's acquisition of an optioned interest in the Peerless Property. The announcement is a short notice, and the disclosure in it is limited.",
+    "The transaction behind the halt is an assignment and assumption of property option agreement dated September 25, 2026, between the company, Bathurst Metals Corp. and Stanley R McClay, as bare trustee for BCT Holdings Corp. Under it, Big Bear will acquire Bathurst Metals' 100% optioned interest in the Peerless Property, located in the Bridge River Mining Camp in British Columbia. The transaction is subject to TSXV approval.",
+    "The notice does not restate the consideration or the terms of the underlying option. It states that full details of the transaction are set out in the company's news release dated October 1, 2026. This entry draws only on the resumption notice; a reader looking for the price and the option terms should go to that earlier release, and to the exchange's decision on approval.",
+    "Beyond its location in the Bridge River Mining Camp, the notice gives no information on the property itself, such as its size, mineralization or past work, and no closing date. The company describes itself as focused on acquiring and developing mineral properties with strong potential to host significant resources in Western Canada. For holders, the practical change is the date: shares halted since September 28 are expected to trade again from the open on October 8, with the transaction still subject to TSXV approval."
+   ]
+  },
+  {
+   "slug": "elton-resources-begins-tsx-venture-trading-and-grants-12-7-million",
+   "url": "https://www.cmbulletin.com/posts/elton-resources-begins-tsx-venture-trading-and-grants-12-7-million.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/elton-resources-begins-tsx-venture-trading-and-grants-12-7-million.json",
+   "date": "2026-10-06T21:06:25Z",
+   "headline": "Elton Resources begins TSX Venture trading and grants 12.7 million options",
+   "dek": "The former Chicane Capital I Corp. opened under the symbol DBAY on October 6, engaged ICP Securities Inc. for market-making and granted options exercisable at $0.20 for 10 years.",
+   "caption": "Elton Resources, formerly Chicane Capital I Corp., began trading on the TSX Venture Exchange with its Darnley Bay Project in the Northwest Territories.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Listing",
+    "Nickel-Copper-PGE"
+   ],
+   "tickers": [
+    "TSXV:DBAY"
+   ],
+   "image": "https://www.cmbulletin.com/images/elton-resources-begins-tsx-venture-trading-and-grants-12-7-million.png",
+   "source_name": "Investing News Network (Newsfile release)",
+   "sources": [
+    {
+     "title": "Elton Resources Announces Commencement of Trading on The TSXV",
+     "url": "https://investingnews.com/elton-resources-announces-commencement-of-trading-on-the-tsxv/",
+     "publisher": "Investing News Network (Newsfile release)"
+    },
+    {
+     "title": "Elton Resources (TSXV: DBAY) Commences Trading on TSX Venture, Advances Darnley Bay Nickel-Copper-PGE Exploration",
+     "url": "https://kalkinemedia.com/ca/news/announcements/elton-resources-tsxv-dbay-commences-trading-on-tsx-venture-advances-darnley-bay-nickel-copper-pge-exploration",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "That the Darnley Bay anomaly is one of the strongest isolated gravity anomalies in the world and is prospective for nickel-copper-platinum group elements, as the company states.",
+    "That the anomaly's source has drawn favourable comparisons to Sudbury, Noril'sk and the Bushveld Complex, as the release states.",
+    "That the 2018 magnetotelluric survey identified several targets (over ten large-scale targets, in the chief executive's words).",
+    "That the company will carry out a drilling program, which it says it plans."
+   ],
+   "brief": [
+    "Elton Resources Corp. (TSXV: DBAY), formerly Chicane Capital I Corp., said its common shares began trading on the TSX Venture Exchange under the symbol DBAY at market open on October 6, 2026. The company is focused on its flagship Darnley Bay Project in the Northwest Territories, where it says the anomaly is considered prospective for nickel-copper-platinum group elements.",
+    "The company granted 12,720,378 incentive stock options under its equity incentive plan to eligible participants, including certain directors, officers and consultants. Each is exercisable for one common share at $0.20 for 10 years and vests immediately. It also engaged Toronto-based ICP Securities Inc. for automated market-making at C$7,500 a month, plus applicable taxes, from October 1, 2026.",
+    "The release does not state the number of shares outstanding, so the option grant cannot be measured against the share count from this disclosure. The market-making agreement has no performance factors and, beyond the monthly fee, no options or other compensation; ICP bears its own trading costs, and no third party is providing funds or securities."
+   ],
+   "body": [
+    "Elton Resources Corp. (TSXV: DBAY), formerly Chicane Capital I Corp., announced that its common shares commenced trading on the TSX Venture Exchange under the symbol DBAY at market open on October 6, 2026. The company describes itself as a mining exploration company focused on the exploration and development of its flagship Darnley Bay Project in the Northwest Territories. The release's cautionary language refers to the company's qualifying transaction and states that trading in its securities should be considered highly speculative.",
+    "Carson Phillips, the company's chief executive officer, said: “We believe Darnley Bay represents one of the most compelling geophysical anomalies in the world, and the closing of this transaction marks a historical moment for the Project.” He added that the anomaly has “attracted scientific and exploration interest for decades”, and that the company plans to advance its targets with what he called “a robust drilling program”.",
+    "According to the release, Darnley Bay hosts a large gravity and magnetic anomaly that is considered one of the strongest isolated gravity anomalies in the world. It has a gravity amplitude of 132 mGal and dimensions of 80 km by 100 km, with a coincident magnetic anomaly of 1,350 nT. The release says the anomaly is considered prospective for nickel-copper-platinum group elements, and that its source has drawn favourable comparisons to the mining camps of Sudbury in Canada, Noril'sk in Russia and the Bushveld Complex in South Africa.",
+    "In July 2018, Quantec Geoscience completed a magnetotelluric survey over a 40 by 50 km area of the anomaly. The release says the results identified several targets that are expected to be followed up through the company's future exploration drill program. Phillips went further: in his words, the survey “not only identified the source of the anomaly but it also identified over ten large-scale targets across the project area, demonstrating clear district-scale potential.”",
+    "The release reports no drill results, assay grades or mineral resource estimate, and gives no timing, budget or metreage for the planned drill program. Readers should treat the prospectivity, the comparison with Sudbury, Noril'sk and the Bushveld, and the target count as the company's own statements. David White, P.Geo., a qualified person, reviewed and approved the scientific and technical information in the release.",
+    "Alongside the listing, Elton granted an aggregate of 12,720,378 incentive stock options under its equity incentive plan to certain eligible participants, including certain directors, officers and consultants. Each option is exercisable to acquire one common share for 10 years at $0.20 and vests immediately. The release does not state the number of shares outstanding, so a reader cannot gauge from this disclosure what proportion of the company the grant represents.",
+    "Elton has also engaged Toronto-based ICP Securities Inc. to provide automated market-making services. The agreement has a start date of October 1, 2026, runs for an initial four months and renews automatically for one-month terms unless either party gives at least 30 days' written notice. ICP is paid C$7,500 a month plus applicable taxes. The agreement contains no performance factors, and there are no options or other compensation in connection with the engagement; ICP is responsible for its own trading costs, and no third party is providing funds or securities.",
+    "For the venture market, the listing brings onto a public board a geophysical anomaly that the chief executive says has attracted interest for decades, with a market maker engaged from October 1 and a ten-year option grant at $0.20 announced alongside the listing. What follows depends on the drill program the company says it plans, for which the release gives no timing or budget."
    ]
   }
  ]
