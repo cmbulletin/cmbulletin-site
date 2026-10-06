@@ -1,0 +1,54 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "pinnacle-prices-200-million-blank-cheque-listing-with-rights-not",
+ "url": "https://www.cmbulletin.com/posts/pinnacle-prices-200-million-blank-cheque-listing-with-rights-not.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/pinnacle-prices-200-million-blank-cheque-listing-with-rights-not.json",
+ "date": "2026-08-07T15:58:39Z",
+ "headline": "Pinnacle prices $200 million blank-cheque listing with rights, not warrants",
+ "dek": "The vehicle priced 20 million units at $10.00 for NYSE listing on August 7, each unit carrying a right to one-eighth of a share rather than a warrant.",
+ "caption": "A newly listed acquisition vehicle holds cash and a deadline, and little else, until it names a target.",
+ "sections": [
+  "financings",
+  "news"
+ ],
+ "tags": [
+  "IPO",
+  "M&A",
+  "Capital Markets"
+ ],
+ "tickers": [
+  "NYSE:PNAQ.U"
+ ],
+ "image": "https://www.cmbulletin.com/images/pinnacle-prices-200-million-blank-cheque-listing-with-rights-not.png",
+ "source_name": "GlobeNewswire — Public Companies",
+ "sources": [
+  {
+   "title": "Pinnacle Acquisition Corporation Announces Pricing of $200 Million Initial Public Offering",
+   "url": "https://www.globenewswire.com/news-release/2026/08/07/3340897/0/en/pinnacle-acquisition-corporation-announces-pricing-of-200-million-initial-public-offering.html",
+   "publisher": "GlobeNewswire — Public Companies"
+  }
+ ],
+ "unverified_claims": [
+  "The commencement of trading on August 7, the separate trading of shares and rights, and closing on August 10 are statements of expectation. None had occurred at the time of the release.",
+  "The release discloses no trust account amount, sponsor identity, promote structure or combination deadline. Those terms should be confirmed against the registration statement before this vehicle is compared with any other.",
+  "The $230 million figure is calculated from the disclosed base offering and the full over-allotment option; the option had not been exercised."
+ ],
+ "brief": [
+  "Pinnacle Acquisition Corporation priced an initial public offering of 20,000,000 units at $10.00 per unit, for gross proceeds of $200 million. The units were to begin trading on the New York Stock Exchange under the symbol PNAQ.U on August 7. Santander and CIBC Capital Markets are joint book-running managers, and closing is expected on August 10.",
+  "Each unit comprises one Class A ordinary share and one right to receive one-eighth of a share on completion of an initial business combination. The underwriters hold a 45-day option over a further 3,000,000 units. Shares and rights separate no later than the 52nd day, trading as PNAQ and PNAQ.RT.",
+  "The release discloses no trust amount, no sponsor and no target sector; the company says it may pursue a combination in any industry. For venture-market readers, the terms a blank-cheque vehicle can raise on at this size frame what a capital pool company or reverse-takeover shell can credibly offer a vendor at the small end."
+ ],
+ "body": [
+  "Pinnacle Acquisition Corporation announced the pricing of an initial public offering of 20,000,000 units at $10.00 per unit, for gross proceeds of $200 million before the underwriters' option. The units were to begin trading on the New York Stock Exchange under the symbol PNAQ.U on August 7, 2026. The registration statement was declared effective on August 6, and the company said closing is expected on August 10, subject to customary conditions.",
+  "A unit is a bundle, and what it bundles is the economics of the instrument. Here each unit comprises one Class A ordinary share and one right entitling the holder to receive one-eighth of one Class A ordinary share upon consummation of an initial business combination. The right is not an option and carries no exercise price: it converts if a deal closes, and it pays nothing if none does.",
+  "That distinction matters for anyone modelling dilution. A warrant gives the holder a decision and the issuer a cash inflow at exercise; a right gives neither. Every unit outstanding at completion converts into an additional 0.125 of a share, so the dilution is fixed and known at pricing rather than contingent on where the shares trade afterwards. It is also dilution the vehicle receives no capital for.",
+  "The shares and rights trade together as a unit at first and separate no later than the 52nd day following pricing, after which the Class A ordinary shares are expected to list under PNAQ and the rights under PNAQ.RT. The underwriters hold a 45-day option to purchase up to an additional 3,000,000 units, which if exercised in full would lift gross proceeds to $230 million.",
+  "Santander and CIBC Capital Markets are acting as joint book-running managers. Steven K. Hudson is chief executive officer and chairman and Jack Schneider is chief financial officer, with Andrew Rechtschaffen, Paul Stoyan, Karen Martin and Harry Brandler named to the board. The company said it intends to pursue growth platforms with strong management teams, while reserving the ability to complete a combination in any industry.",
+  "What the release does not say is as informative as what it does. It gives no trust account figure, no sponsor identity or promote structure, no deadline by which a combination must be completed, and no target sector beyond the reservation of a right to look anywhere. A pricing announcement is not where those terms normally appear, but a reader cannot size the vehicle or the sponsor's incentives without them.",
+  "For the venture market the relevance is comparative rather than direct. A $200 million vehicle on the NYSE is not competing with a capital pool company for the same targets. It is competing for the same private issuers weighing a listing route, and the terms a blank-cheque buyer can raise on at the large end set the reference point against which a Canadian shell negotiates with a vendor at the small end."
+ ]
+}

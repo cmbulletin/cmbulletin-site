@@ -1,0 +1,45 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "exeblock-shell-closes-reverse-takeover-relists-on-cse-as-aitenders",
+ "url": "https://www.cmbulletin.com/posts/exeblock-shell-closes-reverse-takeover-relists-on-cse-as-aitenders.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/exeblock-shell-closes-reverse-takeover-relists-on-cse-as-aitenders.json",
+ "date": "2026-08-06T21:30:00Z",
+ "headline": "eXeBlock shell closes reverse takeover, relists on CSE as Aitenders",
+ "dek": "The dormant issuer consolidated roughly twelve-to-one, issued 54 million shares to the vendors and raised $2.4 million in subscription receipts to acquire a French construction-tender software business.",
+ "caption": "The resulting issuer expects to trade on the CSE under the symbol BIDS, subject to final listing conditions.",
+ "sections": [
+  "tech",
+  "news"
+ ],
+ "tags": [
+  "M&A",
+  "Technology"
+ ],
+ "tickers": [
+  "CSE:BIDS"
+ ],
+ "image": "https://www.cmbulletin.com/images/exeblock-shell-closes-reverse-takeover-relists-on-cse-as-aitenders.png",
+ "source_name": "TradingView (Newsfile)",
+ "sources": [
+  {
+   "title": "Aitenders Technologies Inc. Announces Closing of Reverse Takeover and Receipt of Conditional Listing Approval from the CSE",
+   "url": "https://www.tradingview.com/news/tmx_newsfile:85db37009094b:0-aitenders-technologies-inc-formerly-exeblock-technology-corporation-announces-closing-of-reverse-takeover-with-aitenders-and-receipt-of-conditional-listing-approval-from-the-canadian-securities-exchange/",
+   "publisher": "TradingView (Newsfile)"
+  }
+ ],
+ "unverified_claims": [
+  "Trading was expected to commence during the week of August 3; confirm the security is actually trading before relying on the listing.",
+  "Conditional listing approval is not final approval. The CSE's final listing requirements remained outstanding at announcement.",
+  "The description of Aitenders' customer base and product is drawn from the company's own release."
+ ],
+ "brief": [],
+ "body": [
+  "eXeBlock Technology Corporation has closed its reverse takeover of Aitenders and been renamed Aitenders Technologies Inc. The Canadian Securities Exchange has granted conditional approval to list the resulting issuer shares under the symbol BIDS, subject to final listing requirements. Trading was expected to commence during the week of August 3.",
+  "Former Aitenders shareholders exchanged all of their shares for an aggregate of 54,000,000 resulting issuer shares. The shell consolidated at approximately one new share for every 12.589839 old shares, leaving roughly 6,000,000 shares outstanding before closing. A concurrent financing raised $2.4 million through 4,114,521 subscription receipts at $0.5833, leaving about 60,857,143 shares outstanding before conversion.",
+  "The structure is the standard venture answer to a dormant listing: consolidate hard, issue the bulk of the equity to the vendors, and attach the financing as subscription receipts so the money is escrowed until listing conditions are met. Aitenders, founded in 2019 and based in Saint-Étienne, sells tender-response and contract-management software into construction and infrastructure."
+ ]
+}

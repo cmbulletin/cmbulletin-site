@@ -1,0 +1,53 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "city-view-green-restructures-arkenyield-deal-adds-up-to-us-2m",
+ "url": "https://www.cmbulletin.com/posts/city-view-green-restructures-arkenyield-deal-adds-up-to-us-2m.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/city-view-green-restructures-arkenyield-deal-adds-up-to-us-2m.json",
+ "date": "2026-08-19T17:02:57Z",
+ "headline": "City View Green restructures ArkenYield deal, adds up to US$2M financing",
+ "dek": "An amended agreement replaces the September 2025 acquisition with an amalgamation and a Finco subscription-receipt placement of up to US$2,000,000, leaving City View a 10% Newco holder.",
+ "caption": "A restructured acquisition routes a subsidiary-level placement into a digital-asset venture, with the raise capped and partly deferred to December.",
+ "sections": [
+  "financings"
+ ],
+ "tags": [
+  "Financing",
+  "M&A",
+  "Digital Assets"
+ ],
+ "tickers": [
+  "CSE:CVGR",
+  "OTC:CVGRF"
+ ],
+ "image": "https://www.cmbulletin.com/images/city-view-green-restructures-arkenyield-deal-adds-up-to-us-2m.png",
+ "source_name": "Kalkine Media — Canada",
+ "sources": [
+  {
+   "title": "City View Green Updates ArkenYield Transaction with New Amalgamation and Up to $2M Financing",
+   "url": "https://kalkinemedia.com/ca/news/announcements/city-view-green-updates-arkenyield-transaction-with-new-amalgamation-and-up-to-2m-financing",
+   "publisher": "Kalkine Media — Canada"
+  }
+ ],
+ "unverified_claims": [
+  "The Elara total value locked of more than US$655,000 and the 14.74% quoted yield are figures attributed to ArkenYield and the product, not independently verified.",
+  "The transaction structure, cap table and financing terms are as disclosed in City View's release; the placement amount is a maximum and the deal remains to be completed."
+ ],
+ "brief": [
+  "City View Green Holdings said it has signed an amended and restated securities purchase agreement, dated August 12, with ArkenYield Ltd., replacing the September 17, 2025 agreement entirely. The revised deal drops the earlier plan to buy 2,000,000 ArkenYield shares for 5,750,000 City View shares and a $287,500 debenture, substituting an amalgamation structure and a new financing.",
+  "ArkenYield continues into British Columbia; a subsidiary called Finco raises up to US$2,000,000 in subscription receipts and amalgamates with ArkenYield to form Amalco; and City View ends up with 1,000,000 Newco shares, or 10%. The founder group holds 90%. On closing, City View issues the Founder 2,500,000 shares and 2,500,000 warrants exercisable at $0.10 for three years, on a cashless basis.",
+  "The release pairs the restructuring with a commercial marker for ArkenYield, whose technology it says supports Elara, a stablecoin treasury product, with more than US$655,000 in total value locked as of August 17. A minimum US$400,000 of the financing must close by December 7. City View said CSE approval of the change of business is not required to complete the transaction."
+ ],
+ "body": [
+  "City View Green Holdings Inc. announced on August 19 an amended and restated securities purchase agreement with ArkenYield Ltd., dated August 12, 2026, that replaces the parties' original agreement dated September 17, 2025 in its entirety. The revised transaction changes both the structure of City View's investment in ArkenYield and the way it is financed, and pairs the restructuring with a corporate update.",
+  "The terminated arrangement would have had City View acquire 2,000,000 ArkenYield shares — a 20% stake — in exchange for issuing 5,750,000 City View shares and a $287,500 convertible debenture. That direct share-purchase-and-debenture structure has been dropped entirely in favour of an amalgamation carried out through a chain of newly formed entities.",
+  "Under the amended terms, ArkenYield first continues its jurisdiction of incorporation into British Columbia. A company called Finco — a subsidiary of Newco, which is held by City View — conducts a private placement of subscription receipts for up to US$2,000,000. Finco and ArkenYield then amalgamate to form 'Amalco', and a spin-out and share exchange follow. Subscription receipts convert into securities once specified conditions are met.",
+  "Before the financing, 10,000,000 Newco shares are allocated with the founder and advisors holding 9,000,000, or 90%, and City View holding 1,000,000, representing 10%. As part of the consideration, City View will issue the Founder or a designated entity 2,500,000 City View common shares and 2,500,000 warrants exercisable at $0.10 per share for three years, available on a cashless basis, at closing.",
+  "Separately, City View reported that ArkenYield's technology has launched in a live, on-chain deployment supporting Elara, a stablecoin treasury-management offering, and that as of August 17, 2026 the Elara vault held more than US$655,000 in total value locked, with a quoted annual percentage yield of 14.74%. These are figures attributed to the product and the company rather than independently verified.",
+  "The release states that a minimum of US$400,000 of the financing must close by December 7, 2026, and that CSE approval of the proposed change of business is not required for the transaction to complete. It does not disclose the subscription-receipt price, the number of receipts, the escrow-release conditions, or a valuation for ArkenYield, so the US$2,000,000 figure is a ceiling on the raise rather than a committed amount.",
+  "The restructuring converts a straightforward share purchase into an amalgamation funded by a subsidiary-level placement — a more elaborate path that lets the financing sit at Finco rather than on City View's own balance sheet. For venture readers it is another small-cap issuer pivoting toward digital-asset infrastructure via a restructured transaction, with the substance still resting on ArkenYield's early commercial traction rather than on disclosed financials."
+ ]
+}

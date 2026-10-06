@@ -1,0 +1,53 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "tempramed-upsizes-cse-placement-to-c-1-6-million-of-debentures-and",
+ "url": "https://www.cmbulletin.com/posts/tempramed-upsizes-cse-placement-to-c-1-6-million-of-debentures-and.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/tempramed-upsizes-cse-placement-to-c-1-6-million-of-debentures-and.json",
+ "date": "2026-09-29T13:00:33Z",
+ "headline": "TempraMed upsizes CSE placement to C$1.6 million of debentures and units",
+ "dek": "The CSE-listed medical-device company now seeks up to C$600,000 in 10% unsecured convertible debentures and up to C$1,000,000 in units, with each unit carrying a C$1.00 warrant.",
+ "caption": "TempraMed's upsized offering pairs 10% convertible debentures with units carrying C$1.00 warrants, subject to Canadian Securities Exchange approval.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Medical Devices",
+  "Financing",
+  "Convertible Debentures"
+ ],
+ "tickers": [
+  "CSE:VIVI"
+ ],
+ "image": "https://www.cmbulletin.com/images/tempramed-upsizes-cse-placement-to-c-1-6-million-of-debentures-and.png",
+ "source_name": "Kalkine Media — Canada",
+ "sources": [
+  {
+   "title": "TempraMed Technologies Boosts Private Placement to C$1.6 Million Featuring Convertible Debentures and Warrants",
+   "url": "https://kalkinemedia.com/ca/news/announcements/tempramed-technologies-boosts-private-placement-to-c16-million-featuring-convertible-debentures-and-warrants",
+   "publisher": "Kalkine Media — Canada"
+  }
+ ],
+ "unverified_claims": [
+  "The description of TempraMed's devices as patented, FDA-registered and operating without batteries or external power is the company's own.",
+  "The company's reported operations in North America, Europe and Asia and its four in-market products are as stated by the company.",
+  "The intended use of proceeds is as stated by the company; the offering has not closed, remains subject to CSE approval, and the amounts are maximums."
+ ],
+ "brief": [
+  "TempraMed Technologies Ltd. (CSE:VIVI) said on September 28 it has upsized the non-brokered private placement it announced on September 23. The offering now comprises up to C$600,000 of unsecured convertible debentures and up to C$1,000,000 of units, for aggregate gross proceeds of up to C$1,600,000. Each unit is one share and one warrant.",
+  "The debentures pay 10% a year, calculated monthly and paid quarterly in cash, mature after one year and convert at $0.50 a share. Each warrant buys a further share at C$1.00 for 18 months after closing. The offering needs CSE approval, and all securities carry a four-month-and-one-day hold.",
+  "The release does not state the unit price, so the relationship between the $0.50 conversion price, the C$1.00 warrant and the price at which units are sold cannot be read from this disclosure. For a device company, pairing debt with equity defers part of the dilution while fixing the price at which that debt would convert."
+ ],
+ "body": [
+  "TempraMed Technologies Ltd. (CSE:VIVI) announced on September 28, 2026 an upsize to the non-brokered private placement it first announced on Wednesday, September 23, 2026. The upsized offering will include up to C$600,000 in unsecured convertible debentures and up to C$1,000,000 in units, for aggregate gross proceeds of up to C$1,600,000. Every figure is a ceiling rather than an amount raised: the release announces the terms of an offering, not its closing, and gives no closing date.",
+  "A convertible debenture is a loan the lender can choose to turn into shares. TempraMed's will bear interest at 10% a year, calculated monthly and payable quarterly in cash, and mature on the first anniversary of issuance. A holder may convert outstanding principal into shares at $0.50 each at any time on or before maturity, and at maturity may convert principal together with accrued and unpaid interest at the same price. The debentures are unsecured, so they carry no claim on specific assets.",
+  "Each unit consists of one common share and one share purchase warrant. Each warrant entitles the holder to buy one additional share at C$1.00 at any time up to 18 months after the closing of the upsized offering. The release does not state the price at which units will be sold or how many will be issued, which leaves the unit side of the offering defined only by its C$1,000,000 ceiling.",
+  "The company said the proceeds are intended to fund new inventory and product development, to scale its sales and marketing division globally, and for general working capital. The offering is subject to approval by the Canadian Securities Exchange and the filing of required documentation. All securities issued will carry a statutory hold period of four months and one day from issuance under Canadian securities laws, which restricts resale by subscribers over that period.",
+  "TempraMed describes itself as a global medical-device company with a portfolio of temperature-controlled medication storage products. It says its devices are patented, FDA-registered thermal insulation products that work without batteries or external power, and names four products already in market: VIVI Cap, VIVI Cap Smart, VIVI Epi and VIVI Med. The company reports operations in North America, Europe and Asia. Those descriptions are the company's own and are not independently verified in the release.",
+  "Several things a reader might expect are absent from this release. It gives no reason for the upsize and does not say whether demand prompted it. It discloses no finder's fees, no commission and no insider participation. Nor does it say what the offering's size was before the upsize, so the extent of the increase cannot be measured from this document alone.",
+  "For venture-market readers, the structure is the substance of this release. A combined offering of convertible debt and warrant-bearing units lets a company raise part of its capital as interest-bearing debt that converts only if holders choose, rather than issuing all of it as equity at once. The $0.50 conversion price and the C$1.00 warrant exercise price set two different price points at which the company's share count could grow."
+ ]
+}

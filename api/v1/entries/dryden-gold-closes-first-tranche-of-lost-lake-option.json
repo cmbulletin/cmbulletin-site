@@ -1,0 +1,57 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "dryden-gold-closes-first-tranche-of-lost-lake-option",
+ "url": "https://www.cmbulletin.com/posts/dryden-gold-closes-first-tranche-of-lost-lake-option.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/dryden-gold-closes-first-tranche-of-lost-lake-option.json",
+ "date": "2026-08-18T16:41:34Z",
+ "headline": "Dryden Gold closes first tranche of Lost Lake option",
+ "dek": "The TSX Venture Exchange approved the Orebot option, letting Dryden issue its opening cash and shares toward a full interest in the 122-claim Northwestern Ontario property.",
+ "caption": "Staged option agreements let junior explorers assemble claim blocks in Ontario's historic gold camps while conserving cash.",
+ "sections": [
+  "mining"
+ ],
+ "tags": [
+  "Mining",
+  "Gold",
+  "Exploration"
+ ],
+ "tickers": [
+  "TSXV:DRY",
+  "OTCQX:DRYGF",
+  "FSE:X7W"
+ ],
+ "image": "https://www.cmbulletin.com/images/dryden-gold-closes-first-tranche-of-lost-lake-option.png",
+ "source_name": "Newsfile Corp.",
+ "sources": [
+  {
+   "title": "Dryden Gold Closes Option Agreement for Lost Lake Property",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69343185-dryden-gold-corp-dryden-gold-closes-option-agreement-for-lost-lake-property-296.htm",
+   "publisher": "Newsfile Corp."
+  },
+  {
+   "title": "Dryden Gold Clarifies Number of Claims on Lost Lake Property",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69290722-dryden-gold-corp-dryden-gold-clarifies-number-of-claims-on-lost-lake-property-296.htm",
+   "publisher": "Newsfile Corp."
+  }
+ ],
+ "unverified_claims": [
+  "The claim count, the staged cash-and-share consideration, the deemed price of $0.21, the four-month-and-one-day hold, and the 3% NSR royalty and buyback terms are as stated in the company's release."
+ ],
+ "brief": [
+  "Dryden Gold has closed the initial tranche of its option to acquire a full interest in the Lost Lake Property, 122 claims in the Gold Rock Mining Camp of Northwestern Ontario. The step followed TSX Venture Exchange approval of the June 29 agreement with arm's-length vendor Orebot Inc.",
+  "The opening consideration was $10,000 in cash and 25,000 shares at a deemed $0.21, carrying a four-month-and-one-day hold. Two further payments follow: $40,000 and 50,000 shares on the first anniversary, and $50,000 and 50,000 shares on the second, to earn the 100% interest.",
+  "On completion, Orebot retains a 3% net smelter return royalty payable after commercial production, half of which Dryden may repurchase for $1 million. The staged structure — modest cash, most consideration in paper and time — is the standard way venture explorers add ground without straining treasury."
+ ],
+ "body": [
+  "Dryden Gold Corp. has closed the initial tranche of an option agreement to acquire a 100% interest in the Lost Lake Property, a block of 122 tenured mineral claims in the Gold Rock Mining Camp of Northwestern Ontario. The company disclosed that the TSX Venture Exchange has approved for filing its agreement with Orebot Inc., an arm's-length vendor, dated June 29, 2026, clearing the way for the first payment to be made.",
+  "An option agreement lets an explorer earn ownership of a property in stages rather than buying it outright, spreading cash and share payments over time and committing capital only as the ground proves worth holding. Here, the opening consideration was a $10,000 cash payment and the issuance of 25,000 common shares at a deemed price of $0.21, with those shares carrying a four-month-and-one-day resale hold.",
+  "Two further instalments are required to complete the earn-in. On or before the first anniversary of the agreement, Dryden must pay a further $40,000 and issue 50,000 shares; on or before the second anniversary, another $50,000 and a further 50,000 shares. Completing all three tranches conveys the full interest. The weighting toward the later payments keeps the immediate cash cost low while the company assesses the ground.",
+  "On final acquisition, Orebot retains a 3% net smelter return royalty — a share of revenue from any eventual production, calculated after refining and transport costs — payable once commercial production begins. Dryden holds the right to buy back one-half of that royalty, reducing it to 1.5%, for $1 million. A royalty buyback clause of this kind is common, and preserves the vendor's exposure to a discovery while capping the burden on the operator.",
+  "The Lost Lake claims sit within the Gold Rock Mining Camp, a historic gold district in Northwestern Ontario. Consolidating a large, contiguous claim block is a routine step for an explorer ahead of systematic work, since fragmented ownership complicates permitting and drill planning. The release frames the acquisition as a land addition and does not report any drilling, sampling or resource figures for the property.",
+  "What the disclosure does not contain is as notable as what it does: there are no exploration results, no historical production data and no work program attached to the announcement, so a reader should not infer that the claims host a known deposit. For venture-market observers, the item is a reminder that staged option deals — light on cash, heavy on shares and time — remain the principal mechanism by which junior explorers assemble land in a firm gold market."
+ ]
+}

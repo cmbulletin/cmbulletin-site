@@ -1,0 +1,55 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "canagold-closes-c-7-1-million-placement-sun-valley-rises-to-49-75",
+ "url": "https://www.cmbulletin.com/posts/canagold-closes-c-7-1-million-placement-sun-valley-rises-to-49-75.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/canagold-closes-c-7-1-million-placement-sun-valley-rises-to-49-75.json",
+ "date": "2026-09-19T12:52:44Z",
+ "headline": "Canagold closes C$7.1 million placement, Sun Valley rises to 49.75%",
+ "dek": "The financing for the New Polaris gold-antimony project in British Columbia lifted major insider Sun Valley Investments AG to just under half of Canagold's shares.",
+ "caption": "Junior gold developers increasingly lean on a single anchor shareholder to fund permitting.",
+ "sections": [
+  "mining"
+ ],
+ "tags": [
+  "Mining",
+  "Gold",
+  "Financing",
+  "Insider"
+ ],
+ "tickers": [
+  "TSX:CCM"
+ ],
+ "image": "https://www.cmbulletin.com/images/canagold-closes-c-7-1-million-placement-sun-valley-rises-to-49-75.png",
+ "source_name": "Kalkine Media — Canada",
+ "sources": [
+  {
+   "title": "Canagold Resources Secures $7.1M in Private Placement to Boost New Polaris Gold-Antimony Project",
+   "url": "https://kalkinemedia.com/ca/news/announcements/canagold-resources-secures-71m-in-private-placement-to-boost-new-polaris-gold-antimony-project",
+   "publisher": "Kalkine Media — Canada"
+  }
+ ],
+ "unverified_claims": [
+  "Sun Valley Investments AG's holdings and percentages (48.25% rising to 49.75%), per the company's disclosure.",
+  "Application of MI 61-101 exemptions on the basis that participation did not exceed 25% of market capitalisation, per the release.",
+  "New Polaris's advanced-stage status and permitting progress, per the company."
+ ],
+ "brief": [
+  "Canagold Resources Ltd. (TSX: CCM) completed a C$7.1 million private placement of common and flow-through shares for its New Polaris gold-antimony project in northwestern British Columbia. Common shares were priced at C$0.47 and flow-through shares at C$0.52, with no finder's fees paid.",
+  "The company issued 5,319,149 common shares and 8,846,154 flow-through shares. Major shareholder Sun Valley Investments AG took 3,856,383 common and 6,413,462 flow-through shares, lifting its stake from 48.25% to 49.75%. The TSX granted conditional approval on September 8; final approval is pending.",
+  "The insider participation was reviewed under Multilateral Instrument 61-101, with exemptions applied because it did not exceed 25% of market capitalisation. A single holder near 50% concentrates control, a recurring feature of thinly financed developers advancing capital-intensive permitting. New Polaris remains in environmental assessment."
+ ],
+ "body": [
+  "Canagold Resources Ltd. (TSX: CCM) has completed a private placement raising gross proceeds of approximately C$7.1 million, split between common shares and flow-through shares, to advance the New Polaris gold-antimony project in northwestern British Columbia. No finder's fees were paid on the financing.",
+  "The company issued 5,319,149 common shares at C$0.47 and 8,846,154 flow-through shares at C$0.52. Flow-through shares are priced above the common because they pass the tax deduction for Canadian exploration spending to the buyer, a premium that reflects the value of that deduction rather than any difference in the underlying equity.",
+  "The most consequential detail is the change in the register. Sun Valley Investments AG, already the largest holder, subscribed for 3,856,383 common shares and 6,413,462 flow-through shares, taking its position from 103,226,102 shares (48.25%) to 113,495,947 shares (49.75%) of the issued and outstanding total.",
+  "A holding of 49.75% sits just below the level at which many jurisdictions treat a shareholder as having effective control, and the release frames the increase as ordinary participation in the raise. Because a related party took part, the placement was assessed under Multilateral Instrument 61-101, the Canadian rule governing related-party transactions.",
+  "Canagold relied on exemptions from that instrument's formal valuation and minority-approval requirements on the basis that the insider's participation did not exceed 25% of the company's market capitalisation. That threshold is the standard test that keeps a routine insider subscription from triggering the fuller minority-protection process.",
+  "Proceeds from the common shares are earmarked for working capital, administration and project development, while the flow-through funds must be spent on qualifying Canadian exploration expenses at New Polaris under the federal and British Columbia Income Tax Acts. The shares carry a hold period expiring January 19, 2027.",
+  "New Polaris is described as an advanced-stage deposit undergoing environmental assessment and permitting. The TSX granted conditional approval of the placement on September 8, 2026, with final approval still pending; the raise itself has been announced as completed. The release does not disclose a post-financing share count beyond Sun Valley's holding.",
+  "The read-across: a developer funding permitting through a single dominant shareholder trades financing certainty for concentration. For minority holders the signal cuts both ways — continued insider commitment on one hand, a register approaching majority control on the other — and it is a pattern common among junior gold names carrying long-dated, capital-heavy assets toward a construction decision."
+ ]
+}

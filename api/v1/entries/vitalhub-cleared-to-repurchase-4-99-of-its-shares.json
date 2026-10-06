@@ -1,0 +1,45 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "vitalhub-cleared-to-repurchase-4-99-of-its-shares",
+ "url": "https://www.cmbulletin.com/posts/vitalhub-cleared-to-repurchase-4-99-of-its-shares.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/vitalhub-cleared-to-repurchase-4-99-of-its-shares.json",
+ "date": "2026-08-06T21:30:00Z",
+ "headline": "VitalHub cleared to repurchase 4.99% of its shares",
+ "dek": "The Toronto Stock Exchange has accepted a notice covering 3,170,708 shares over twelve months, which the board says reflects a view that the market price may not capture underlying value.",
+ "caption": "The bid runs from 11 August 2026 to 10 August 2027 and is funded from working capital.",
+ "sections": [
+  "financings",
+  "tech"
+ ],
+ "tags": [
+  "Capital Structure",
+  "Health Tech"
+ ],
+ "tickers": [
+  "TSX:VHI",
+  "OTCQX:VHIBF"
+ ],
+ "image": "https://www.cmbulletin.com/images/vitalhub-cleared-to-repurchase-4-99-of-its-shares.png",
+ "source_name": "GlobeNewswire",
+ "sources": [
+  {
+   "title": "VitalHub Announces Normal Course Issuer Bid",
+   "url": "https://www.globenewswire.com/news-release/2026/08/06/3340853/0/en/VitalHub-Announces-Normal-Course-Issuer-Bid.html",
+   "publisher": "GlobeNewswire"
+  }
+ ],
+ "unverified_claims": [
+  "The board's view that the market price may not reflect underlying value is the company's own characterisation.",
+  "A normal course issuer bid authorises purchases; it does not oblige the company to make any. Actual repurchases must be confirmed from subsequent filings."
+ ],
+ "brief": [],
+ "body": [
+  "Vitalhub Corp. (TSX: VHI; OTCQX: VHIBF) said the Toronto Stock Exchange has accepted its notice of intention to conduct a normal course issuer bid. The bid covers up to 3,170,708 shares, approximately 4.99% of the 63,414,163 shares outstanding as at July 28, and runs from August 11 through August 10, 2027.",
+  "Daily purchases are capped at the greater of 1,000 shares and 25% of average daily trading volume, being 89,910 shares against an average daily volume of 359,640. Purchases will be funded from working capital. The company said the board believes the underlying value of the company may not be reflected in the current market price of its shares.",
+  "A buyback authorisation is permission, not a commitment, and the distinction matters at this size. What it does establish is that the board is willing to deploy working capital against its own equity rather than hold it, and the 4.99% ceiling is the standard maximum rather than a company-specific judgement about scale."
+ ]
+}

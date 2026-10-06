@@ -1,0 +1,55 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "battery-x-metals-files-fifth-amended-f-1-for-us-ipo",
+ "url": "https://www.cmbulletin.com/posts/battery-x-metals-files-fifth-amended-f-1-for-us-ipo.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/battery-x-metals-files-fifth-amended-f-1-for-us-ipo.json",
+ "date": "2026-09-19T12:52:44Z",
+ "headline": "Battery X Metals files fifth amended F-1 for US IPO",
+ "dek": "The Vancouver battery-metals and battery-technology company has made its fifth confidential draft submission to the SEC as it works toward a US listing.",
+ "caption": "A confidential draft registration is a negotiation with the regulator, not a launched offering.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Battery Metals",
+  "IPO",
+  "Technology",
+  "Energy Transition"
+ ],
+ "tickers": [
+  "CSE:BATX"
+ ],
+ "image": "https://www.cmbulletin.com/images/battery-x-metals-files-fifth-amended-f-1-for-us-ipo.png",
+ "source_name": "Kalkine Media — Canada",
+ "sources": [
+  {
+   "title": "Battery X Metals Submits Fifth Amended Form F-1 to SEC for Proposed U.S. IPO",
+   "url": "https://kalkinemedia.com/ca/news/announcements/battery-x-metals-submits-fifth-amended-form-f-1-to-sec-for-proposed-us-ipo",
+   "publisher": "Kalkine Media — Canada"
+  }
+ ],
+ "unverified_claims": [
+  "Recovery of approximately 99% of capacity lost to cell imbalance by the company's battery-rebalancing technology, per the company.",
+  "The patent-pending status and National Research Council collaboration, per the company.",
+  "The dates of the four prior confidential amendments and the initial December 12, 2025 filing, as stated in the release."
+ ],
+ "brief": [
+  "Battery X Metals Inc. (CSE: BATX) submitted a fifth amended draft registration statement on Form F-1 to the US Securities and Exchange Commission, effective September 8, 2026, as it pursues an initial public offering on a US national securities exchange.",
+  "The confidential submission is the fifth since the company's initial SEC filing on December 12, 2025. The proposed offering price and number of shares remain undecided, and the release states completion depends on SEC review and market conditions. The filing was made under Rule 135 and is not itself an offer.",
+  "Battery X describes itself as an energy-transition resource exploration and technology firm, working on battery-metal exploration and lithium-ion battery lifespan and recovery technology. A confidential draft is a negotiation with the regulator, not a launched deal; the count of amendments marks progress, not proximity to pricing."
+ ],
+ "body": [
+  "Battery X Metals Inc. (CSE: BATX) has confidentially submitted a fifth amended draft registration statement on Form F-1 to the United States Securities and Exchange Commission, effective September 8, 2026, advancing its plan for an initial public offering on a US national securities exchange. The company already trades on the Canadian Securities Exchange.",
+  "A Form F-1 is the registration statement a foreign private issuer files to sell securities into the United States. Filing it confidentially, as a draft, is a route the SEC permits that lets a company and the regulator work through comments before any of it becomes public — the amendments are the record of that back-and-forth.",
+  "This is the fifth such submission since the initial filing on December 12, 2025, following earlier confidential amendments the release dates to February 27, April 1, April 10 and May 18, 2026. The cadence indicates an active review rather than a stalled one, though it says nothing about when — or whether — an offering will price.",
+  "Crucially, the release states the proposed offering price and the number of shares remain undecided, and that completion is contingent on the SEC completing its review and on market conditions. There is, in other words, no offering to subscribe to yet: this is a step in registration, not a capital raise.",
+  "The company describes itself as an energy-transition resource exploration and technology firm, with activities spanning battery-metal exploration, lithium-ion battery lifespan extension, and battery material recovery and recycling. It cites patent-pending lithium-ion battery rebalancing technology developed with Canada's National Research Council.",
+  "It also states that technology has demonstrated recovery of approximately 99% of capacity lost to cell imbalance. That figure rests on the company's own statement and is not independently verified in the release; a reader should treat it as a claim about a patent-pending process, not an established result.",
+  "The filing was made under Rule 135 of the US Securities Act of 1933, which lets an issuer confirm the existence of a planned registration without the notice constituting an offer to sell. That is why the release carries no terms and reads as a status update.",
+  "The read-across: a Canadian venture issuer pursuing a US exchange listing through the confidential F-1 route is seeking deeper capital markets and a broader shareholder base than the CSE offers. The repeated amendments show the path is available but slow, and the absence of pricing is the reminder that a registration on file is not money in the door."
+ ]
+}

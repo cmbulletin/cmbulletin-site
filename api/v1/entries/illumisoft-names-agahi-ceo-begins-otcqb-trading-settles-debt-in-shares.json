@@ -1,0 +1,53 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "illumisoft-names-agahi-ceo-begins-otcqb-trading-settles-debt-in-shares",
+ "url": "https://www.cmbulletin.com/posts/illumisoft-names-agahi-ceo-begins-otcqb-trading-settles-debt-in-shares.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/illumisoft-names-agahi-ceo-begins-otcqb-trading-settles-debt-in-shares.json",
+ "date": "2026-08-19T17:02:57Z",
+ "headline": "Illumisoft names Agahi CEO, begins OTCQB trading, settles debt in shares",
+ "dek": "The photonic-disinfection company made its chairman chief executive, started U.S. OTCQB trading under FUVCF, and moved to settle C$413,764 of debt with stock.",
+ "caption": "A newly OTCQB-quoted disinfection-technology issuer consolidates its chair and chief-executive roles and settles payables in stock.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Technology",
+  "Listing",
+  "Debt Settlement"
+ ],
+ "tickers": [
+  "TSXV:UVC",
+  "OTCQB:FUVCF"
+ ],
+ "image": "https://www.cmbulletin.com/images/illumisoft-names-agahi-ceo-begins-otcqb-trading-settles-debt-in-shares.png",
+ "source_name": "Kalkine Media — Canada",
+ "sources": [
+  {
+   "title": "Illumisoft Lighting Names Ehsan Agahi as CEO, Begins OTCQB Trading, and Settles C$413,764 Debt with Shares",
+   "url": "https://kalkinemedia.com/ca/news/announcements/illumisoft-lighting-names-ehsan-agahi-as-ceo-begins-otcqb-trading-and-settles-c413764-debt-with-shares",
+   "publisher": "Kalkine Media — Canada"
+  }
+ ],
+ "unverified_claims": [
+  "The leadership changes, OTCQB commencement, DTC application status and shares-for-debt terms are as disclosed in Illumisoft's release.",
+  "The description of the company's business and end markets is the company's own."
+ ],
+ "brief": [
+  "Illumisoft Lighting Corp. said Ehsan Agahi became chief executive effective August 19 while remaining chairman, with former CEO Brett Nicholds moving to senior strategic advisor and staying a director. The same day its shares began trading on the U.S. OTCQB Venture Market under FUVCF, alongside its existing TSX Venture listing as UVC.",
+  "Illumisoft also proposed to settle C$413,764.12 of debt by issuing 646,506 common shares at a deemed C$0.64 — C$203,764.12 owed on two promissory notes and C$210,000 for consulting services, all to arm's-length parties. The settlement is subject to TSXV acceptance. The company has applied for full-service DTC eligibility, which it said is not assured.",
+  "For a micro-cap technology issuer, an OTCQB quotation widens U.S. retail access without the cost of a full exchange listing, and DTC eligibility, if granted, eases electronic settlement of its shares stateside. Paying advisers and noteholders in stock preserves cash — common for early-stage venture names — at the price of modest dilution."
+ ],
+ "body": [
+  "Illumisoft Lighting Corp. announced on August 19 three corporate developments at once: a change of chief executive, the commencement of trading in the United States on the OTCQB Venture Market, and a proposed shares-for-debt settlement. The company describes itself as a photonic disinfection and lighting technology business developing ultraviolet germicidal solutions for healthcare, commercial, transportation, hospitality and built-environment markets.",
+  "Ehsan Agahi was appointed chief executive officer effective August 19, 2026, and will continue to serve as chairman of the board. Brett Nicholds, previously chief executive, transitions to senior strategic advisor and remains a director. The company thus keeps both executives, with Agahi consolidating the chair and chief-executive roles and Nicholds staying on the board in an advisory capacity.",
+  "Illumisoft's common shares began trading on the OTCQB Venture Market in the United States under the symbol FUVCF, while continuing to trade on the TSX Venture Exchange under UVC. The OTCQB is a U.S. over-the-counter tier for early-stage and developing companies; a quotation there gives U.S. investors a domestic line in which to trade the stock without the company undertaking a full U.S. exchange listing.",
+  "The company said it has applied for full-service eligibility with the Depository Trust Company but that there can be no assurance eligibility will be obtained. DTC eligibility allows shares to be held and transferred electronically through the U.S. clearing system, which typically makes an over-the-counter line easier and cheaper for American brokers to settle. Until it is granted, trading in FUVCF can be more cumbersome.",
+  "Separately, Illumisoft proposed to settle C$413,764.12 of indebtedness by issuing 646,506 common shares at a deemed price of C$0.64 per share. The debt comprises C$203,764.12 owing under two promissory notes and C$210,000 owing for consulting services, and the company said the creditors are arm's-length parties. The settlement remains subject to the acceptance of the TSX Venture Exchange.",
+  "Settling debt with shares conserves cash by converting obligations into equity, at the cost of diluting existing holders — here by the 646,506 shares to be issued at C$0.64. The release does not state the company's total shares outstanding, so the proportional dilution cannot be calculated from it, nor does it break down the consulting services or name the noteholders beyond describing them as arm's length.",
+  "Bundling a leadership change, a U.S. over-the-counter quotation and a stock settlement of payables into a single update is characteristic of a newly listed venture issuer building out its capital-markets presence while managing a thin treasury. Illumisoft already trades on the TSXV; the OTCQB step extends its reach to U.S. retail, and the debt-for-shares deal keeps cash for the technology programme."
+ ]
+}

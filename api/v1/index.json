@@ -1,0 +1,50 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "description": "A daily read on financings, transactions and regulatory events across the small- and micro-cap markets.",
+ "contact": "info@cmbulletin.com",
+ "feed": "https://www.cmbulletin.com/feed.xml",
+ "endpoints": {
+  "issue": {
+   "url": "https://www.cmbulletin.com/api/v1/issue.json",
+   "what": "Today's issue in full."
+  },
+  "entries": {
+   "url": "https://www.cmbulletin.com/api/v1/entries.json",
+   "what": "Every published entry, without the body; each row links its own JSON."
+  },
+  "entry": {
+   "url": "https://www.cmbulletin.com/api/v1/entries/{slug}.json",
+   "what": "One entry in full."
+  },
+  "markets": {
+   "url": "https://www.cmbulletin.com/api/v1/markets.json",
+   "what": "The rail and the four section boards, delayed, as of fetched_at."
+  },
+  "quotes": {
+   "url": "https://cmbulletin-quotes.cmbulletin.workers.dev/",
+   "what": "Every symbol on the rail and the boards, delayed, live to the minute; ?symbols=^SPCDNX,^GSPTSE narrows it."
+  },
+  "financings": {
+   "url": "https://www.cmbulletin.com/api/v1/financings.json",
+   "what": "The placement tracker with warrant and hold expiries."
+  },
+  "exchange": {
+   "url": "https://www.cmbulletin.com/api/v1/exchange.json",
+   "what": "TSXV bulletins accepted for filing and CSE share-count moves."
+  },
+  "wire": {
+   "url": "https://www.cmbulletin.com/api/v1/wire.json",
+   "what": "The industry wire, by section."
+  }
+ },
+ "conventions": {
+  "dates": "ISO 8601, UTC unless a field is a plain YYYY-MM-DD.",
+  "currency": "As disclosed; see each row's currency field where present.",
+  "cors": "Allowed from any origin.",
+  "cache": "Files rebuild with the site; check generated_at."
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "pyrogenesis-revenue-rises-47-as-cash-falls-to-1-3-million",
+ "url": "https://www.cmbulletin.com/posts/pyrogenesis-revenue-rises-47-as-cash-falls-to-1-3-million.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/pyrogenesis-revenue-rises-47-as-cash-falls-to-1-3-million.json",
+ "date": "2026-08-07T15:58:39Z",
+ "headline": "PyroGenesis revenue rises 47% as cash falls to $1.3 million",
+ "dek": "Second-quarter revenue reached $4.4 million and the net loss narrowed to $1.1 million, but the company closed the quarter with a $7.1 million working capital deficiency.",
+ "caption": "Order books of this size are won years before they are delivered, and delivery has to be funded in the interval.",
+ "sections": [
+  "tech",
+  "news"
+ ],
+ "tags": [
+  "Earnings",
+  "Industrials",
+  "Technology"
+ ],
+ "tickers": [
+  "TSX:PYR",
+  "OTCQX:PYRGF",
+  "FRA:8PY1"
+ ],
+ "image": "https://www.cmbulletin.com/images/pyrogenesis-revenue-rises-47-as-cash-falls-to-1-3-million.png",
+ "source_name": "GlobeNewswire — Public Companies",
+ "sources": [
+  {
+   "title": "PyroGenesis Announces Second Quarter 2026 Results: Revenue of $4.4 Million, Up 47% Year-Over-Year for Best Q2 Since 2022",
+   "url": "https://www.globenewswire.com/news-release/2026/08/07/3340901/0/en/pyrogenesis-announces-second-quarter-2026-results-revenue-of-4-4-million-up-47-year-over-year-for-best-q2-since-2022.html",
+   "publisher": "GlobeNewswire — Public Companies"
+  }
+ ],
+ "unverified_claims": [
+  "The characterisation of the quarter as the company's best second quarter since 2022, and the commentary on demand for metal powders, are the company's own statements.",
+  "The release states first-half capital raised of $6.26 million, which does not reconcile with the three financings it itemises ($1.97 million, $4.26 million and $2.0 million). Confirm against the interim financial statements before using either figure.",
+  "Modified EBITDA is a non-IFRS measure defined by the company and is not comparable across issuers.",
+  "The $40.0 million backlog is a company-reported figure covering signed and awarded contracts; awarded work is not necessarily contracted revenue."
+ ],
+ "brief": [
+  "PyroGenesis Inc. reported second-quarter revenue of $4.4 million, up 47% from a year earlier, at a 32% gross margin. The net loss narrowed to $1.1 million from $2.9 million, and the modified EBITDA loss to $0.5 million from $2.1 million. Six-month revenue was $9.3 million against $6.0 million.",
+  "Growth came from SPARC refrigerant destruction, at $1.06 million against $0.33 million, and DROSRITE dross recovery, at $0.60 million against $0.13 million. Torch-related sales rose to $1.59 million. Biogas upgrading and PUREVAP silicon fell. Signed and awarded contracts stood at $40.0 million, 88% denominated in US dollars.",
+  "The balance sheet is the constraint. Cash was $1.3 million at June 30 against a $7.1 million working capital deficiency, after three financings in the first half. A book of that size converts only as fast as working capital allows, and management again declined to give revenue guidance."
+ ],
+ "body": [
+  "PyroGenesis Inc. (TSX: PYR) reported revenue of $4.4 million for the second quarter ended June 30, 2026, a 47% increase on the same quarter a year earlier and, the company said, its strongest second quarter since 2022. Gross margin was 32%. The net loss narrowed to $1.1 million from $2.9 million, and the modified EBITDA loss to $0.5 million from $2.1 million.",
+  "For the six months, revenue was $9.3 million against $6.0 million in the first half of 2025. Gross profit rose to $3.0 million from $2.5 million, but the margin fell to 32% from 41%, so the additional revenue arrived at a materially lower rate of contribution. The half-year net loss was $2.1 million.",
+  "The revenue mix moved. SPARC refrigerant destruction contributed $1.06 million against $0.33 million a year earlier, and DROSRITE dross recovery $0.60 million against $0.13 million, while torch-related sales rose to $1.59 million from $1.23 million. US Navy development and support work added $0.41 million. Biogas upgrading fell to $0.59 million, and PUREVAP silicon production recorded nothing against $0.14 million.",
+  "Costs moved the right way. Selling, general and administrative expense fell to $3.1 million from $3.6 million, and net research and development to $0.1 million from $0.4 million. Net finance expense of $0.3 million compares with $0.8 million of finance income a year earlier — an adverse swing of roughly $1.1 million, which the loss narrowed through rather than because of.",
+  "The balance sheet is where the quarter is decided. Cash stood at $1.3 million at June 30 against a working capital deficiency of $7.1 million. The release describes three first-half financings: a $1.97 million non-brokered private placement in March, a $4.26 million bought deal in June, and a $2.0 million private placement to the chief executive, also in June.",
+  "Against that, the company reported $40.0 million in signed and awarded contracts, with 88% denominated in US dollars. A book of that size against $9.3 million of half-year revenue is the argument for the equity story, and also the working capital question: converting it means funding delivery ahead of collection, from a $1.3 million cash position.",
+  "Chief executive Peter Pascali attributed the quarter to a titanium powder supply agreement announced during the period and to rising interest in metal powders as additive manufacturing matures, and said the company is carrying the first half into the third quarter. Management again declined to give 2026 revenue guidance, citing early stages of market adoption — a defensible position for an order-book business, and an unhelpful one for modelling.",
+  "For venture-market readers the pattern is familiar rather than unusual: a technology issuer with commercial traction, improving operating leverage, and a funding requirement that recurs every few quarters. The question the results do not answer is not whether the revenue is real, but what the next financing costs. Three raises in six months is the disclosure that bears on that most directly."
+ ]
+}

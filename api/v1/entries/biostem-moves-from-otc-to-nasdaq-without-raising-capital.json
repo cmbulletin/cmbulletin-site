@@ -1,0 +1,44 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "biostem-moves-from-otc-to-nasdaq-without-raising-capital",
+ "url": "https://www.cmbulletin.com/posts/biostem-moves-from-otc-to-nasdaq-without-raising-capital.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/biostem-moves-from-otc-to-nasdaq-without-raising-capital.json",
+ "date": "2026-08-06T21:30:00Z",
+ "headline": "BioStem moves from OTC to Nasdaq without raising capital",
+ "dek": "The company keeps the BSEM ticker and begins trading on the Nasdaq Capital Market on 7 August, with no concurrent offering disclosed in the announcement.",
+ "caption": "BioStem retains the BSEM ticker on the Nasdaq Capital Market, with no concurrent offering disclosed.",
+ "sections": [
+  "tech",
+  "news"
+ ],
+ "tags": [
+  "Listing",
+  "Life Sciences"
+ ],
+ "tickers": [
+  "NASDAQ:BSEM"
+ ],
+ "image": "https://www.cmbulletin.com/images/biostem-moves-from-otc-to-nasdaq-without-raising-capital.png",
+ "source_name": "GlobeNewswire",
+ "sources": [
+  {
+   "title": "BioStem Technologies Announces Nasdaq Uplisting",
+   "url": "https://www.globenewswire.com/news-release/2026/08/06/3340867/0/en/BioStem-Technologies-Announces-Nasdaq-Uplisting.html",
+   "publisher": "GlobeNewswire"
+  }
+ ],
+ "unverified_claims": [
+  "The stated rationale for uplisting and the characterisation of operational progress are the company's own.",
+  "The release disclosed no concurrent offering. That is an absence of disclosure at this date rather than a commitment that none will follow."
+ ],
+ "brief": [],
+ "body": [
+  "BioStem Technologies, Inc. said its shares will begin trading on the Nasdaq Capital Market on August 7, moving up from the over-the-counter market. The ticker remains BSEM. The company said shareholders need take no action as a result of the listing, and the release disclosed no concurrent offering or capital raise.",
+  "Chairman and chief executive Jason Matuszewski described the uplisting as a milestone reflecting progress in strengthening the company's foundation, streamlining operations and executing on its core strategy. The company gave three reasons for the move: expanding access to capital, improving market visibility and liquidity for shareholders, and strengthening its ability to attract talent.",
+  "Uplistings are most often paired with an offering, because the exchange's listing standards and the capital need tend to arrive together. One that arrives without a raise is the less common shape, and it puts the emphasis on the qualification itself rather than the financing. Whether that access to capital gets used is a question for subsequent filings."
+ ]
+}

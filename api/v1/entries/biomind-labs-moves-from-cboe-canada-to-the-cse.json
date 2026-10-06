@@ -1,0 +1,56 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "biomind-labs-moves-from-cboe-canada-to-the-cse",
+ "url": "https://www.cmbulletin.com/posts/biomind-labs-moves-from-cboe-canada-to-the-cse.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/biomind-labs-moves-from-cboe-canada-to-the-cse.json",
+ "date": "2026-08-07T15:58:39Z",
+ "headline": "Biomind Labs moves from Cboe Canada to the CSE",
+ "dek": "The clinical-stage drug developer begins trading on the Canadian Securities Exchange on August 11 under BMND, delisting from Cboe Canada the previous evening after five years.",
+ "caption": "A change of listing venue leaves the shares untouched and changes the rules the issuer answers to.",
+ "sections": [
+  "tech",
+  "news"
+ ],
+ "tags": [
+  "Life Sciences",
+  "Listings",
+  "Regulatory"
+ ],
+ "tickers": [
+  "CSE:BMND",
+  "OTC:BMNDF"
+ ],
+ "image": "https://www.cmbulletin.com/images/biomind-labs-moves-from-cboe-canada-to-the-cse.png",
+ "source_name": "Investing News Network",
+ "sources": [
+  {
+   "title": "Biomind Labs Announces Listing on the Canadian Securities Exchange and the Delisting From the Cboe Canada",
+   "url": "https://investingnews.com/biomind-labs-announces-listing-on-the-canadian-securities-exchange-and-the-delisting-from-the-cboe-canada/",
+   "publisher": "Investing News Network"
+  }
+ ],
+ "unverified_claims": [
+  "The cease trade order history is taken from Biomind's separate release dated November 25, 2025. The August 6, 2026 listing release does not mention it, and the company has not linked the two events.",
+  "The stated rationale for the venue change is the company's own. It gives no operational, cost or regulatory reason for leaving Cboe Canada.",
+  "The OTC Pink symbol BMNDF is taken from the November 2025 release rather than the listing release. Confirm it remains current after the CSE listing.",
+  "The listing and delisting dates are scheduled events as at the date of the release, not completed ones."
+ ],
+ "brief": [
+  "Biomind Labs Inc. said on August 6 that it had received approval to list its common shares on the Canadian Securities Exchange, with trading to begin at the open on August 11 under the symbol BMND. The shares are to be delisted from Cboe Canada at the close of business on August 10.",
+  "No shareholder action is required and the company's OTC Pink listing is unaffected. Biomind described the CSE listing as offering opportunities to investors as it continues to develop its operations, and thanked Cboe Canada for five years of support. It is a clinical-stage biopharmaceutical company working on central nervous system conditions.",
+  "A voluntary move between Canadian venues is rarely only about liquidity. The relevant context sits in a separate release: the Ontario Securities Commission cease traded the company in April 2025 for failing to file its 2024 audited statements, and revoked the order in November 2025 once the filings were made."
+ ],
+ "body": [
+  "Biomind Labs Inc. announced on August 6, 2026 that it had received approval to list its common shares on the Canadian Securities Exchange. Trading is to begin at market open on August 11, 2026 under the symbol BMND. In connection with the listing, the common shares are to be delisted from Cboe Canada effective at the close of business on August 10, 2026.",
+  "The company said no shareholder action is required and that its OTC Pink listing is unaffected. A venue change of this kind does not alter the securities, the share count or the register. It changes the market on which the shares trade, the listing standards the issuer must meet, and the fees it pays. Holders wake up on August 11 owning the same shares on a different board.",
+  "Biomind describes itself as a clinical-stage biopharmaceutical company working to turn neuroscience and biomedical research into novel pharmaceutical drugs and nanotechnology-based delivery systems, directed at psychiatric and neurological conditions of the central nervous system. Alejandro Antalich is chief executive officer. The release attributes the move to the opportunities a CSE listing offers investors as the company continues to develop its business.",
+  "The release gives no reason for leaving Cboe Canada beyond that general statement, and it does not mention the company's recent regulatory history. That history is on the record separately. In a release dated November 25, 2025, Biomind announced the revocation of a cease trade order that had been issued against it by the Ontario Securities Commission on April 4, 2025.",
+  "The order followed a failure to file audited financial statements for the year ended December 31, 2024, together with the related management's discussion and analysis, officers' certificates and annual information form. Curing it required those filings, along with interim unaudited statements for three quarters of 2025, executive compensation disclosure and the associated certificates. The order was revoked on November 25, 2025.",
+  "The two events are disclosed separately and the company has not linked them, so a reader should not either. What the sequence establishes is that the issuer spent roughly eight months of 2025 under a cease trade order for delinquent filings, and is changing listing venue some eight months after it was lifted. Both facts belong in view when the listing statement is read.",
+  "For venture-market readers the practical point is venue competition. Cboe Canada and the CSE compete for the same small-cap issuers, and issuers move between them for cost, for visibility and for the profile of the investor base each attracts. A single move signals little on its own. The pattern of moves across a year is the more informative series, and it is not one either exchange publishes."
+ ]
+}

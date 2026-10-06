@@ -1,0 +1,45 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "harmony-cpc-signs-letter-of-intent-for-vimy-pharma-takeover",
+ "url": "https://www.cmbulletin.com/posts/harmony-cpc-signs-letter-of-intent-for-vimy-pharma-takeover.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/harmony-cpc-signs-letter-of-intent-for-vimy-pharma-takeover.json",
+ "date": "2026-08-06T21:30:00Z",
+ "headline": "Harmony CPC signs letter of intent for Vimy Pharma takeover",
+ "dek": "The non-binding agreement would take the private drug developer public on the TSX Venture Exchange as Vimy Pharmaceuticals Corp., with Beacon Securities leading a concurrent financing whose terms have not been disclosed.",
+ "caption": "Harmony's shares are halted pending completion of the proposed qualifying transaction under TSXV Policy 2.4.",
+ "sections": [
+  "tech",
+  "news"
+ ],
+ "tags": [
+  "M&A",
+  "Life Sciences"
+ ],
+ "tickers": [
+  "TSXV:MONY.P"
+ ],
+ "image": "https://www.cmbulletin.com/images/harmony-cpc-signs-letter-of-intent-for-vimy-pharma-takeover.png",
+ "source_name": "Cision Canada",
+ "sources": [
+  {
+   "title": "Harmony Acquisitions Announces Proposed Qualifying Transaction with Vimy Pharmaceuticals",
+   "url": "https://www.newswire.ca/news-releases/harmony-acquisitions-announces-proposed-qualifying-transaction-with-vimy-pharmaceuticals-884161796.html",
+   "publisher": "Cision Canada"
+  }
+ ],
+ "unverified_claims": [
+  "The description of Vimy Pharma's management team, including the reference to former Novo Nordisk A/S executives, is provided by the companies. The release states this information has not been independently verified by Harmony's management.",
+  "The letter of intent is non-binding; there is no assurance the transaction proceeds on these or any terms.",
+  "Consideration, exchange ratio and the size and pricing of the concurrent financing have not been disclosed."
+ ],
+ "brief": [],
+ "body": [
+  "Harmony Acquisitions Corp. (TSXV: MONY.P), a capital pool company incorporated in British Columbia in May 2021, entered a non-binding letter of intent dated August 4 with Vimy Pharmaceuticals Inc. The parties intend a reverse takeover of Harmony that would constitute its qualifying transaction under TSXV Policy 2.4. Harmony's shares are halted pending completion.",
+  "Consideration and the exchange ratio were not disclosed. Beacon Securities Inc. is acting as lead agent and sole bookrunner on a concurrent financing whose size and pricing the companies say will follow in a comprehensive release. Closing requires TSXV acceptance and, if applicable, majority-of-the-minority shareholder approval. The resulting issuer would be named Vimy Pharmaceuticals Corp.",
+  "For the venture board, the read is on which sectors are still clearing the CPC route. A pharmaceutical developer taking the qualifying-transaction path rather than a conventional prospectus suggests the shell market remains the faster listing mechanism for pre-revenue life sciences. The absence of disclosed terms at announcement is ordinary at the letter-of-intent stage, not a signal either way."
+ ]
+}

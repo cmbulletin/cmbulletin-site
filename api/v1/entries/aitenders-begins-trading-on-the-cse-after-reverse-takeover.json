@@ -1,0 +1,53 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-06T19:49:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "aitenders-begins-trading-on-the-cse-after-reverse-takeover",
+ "url": "https://www.cmbulletin.com/posts/aitenders-begins-trading-on-the-cse-after-reverse-takeover.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/aitenders-begins-trading-on-the-cse-after-reverse-takeover.json",
+ "date": "2026-08-10T18:31:26Z",
+ "headline": "Aitenders begins trading on the CSE after reverse takeover",
+ "dek": "The French tender-software developer received final listing approval and opened under the symbol BIDS, four days after closing its shell transaction with eXeBlock.",
+ "caption": "The listing completes a reverse takeover of a dormant Canadian shell by a France-based software developer.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Technology",
+  "Listing",
+  "RTO"
+ ],
+ "tickers": [
+  "CSE:BIDS"
+ ],
+ "image": "https://www.cmbulletin.com/images/aitenders-begins-trading-on-the-cse-after-reverse-takeover.png",
+ "source_name": "Kalkine Media — Canada",
+ "sources": [
+  {
+   "title": "Aitenders Technologies Commences Trading on Canadian Securities Exchange with Innovative AI Construction Platform",
+   "url": "https://kalkinemedia.com/ca/news/announcements/aitenders-technologies-commences-trading-on-canadian-securities-exchange-with-innovative-ai-construction-platform",
+   "publisher": "Kalkine Media — Canada"
+  }
+ ],
+ "unverified_claims": [
+  "The description of the platform, and the characterisation of construction as the world's largest and least digitised industry, are the company's own marketing language.",
+  "The chief executive's statement that Aitenders was built without raising venture capital before the reverse takeover is the company's account and is not independently verified in the release.",
+  "The biographies of incoming directors and officers are as supplied by the company.",
+  "The release contains no revenue, customer or share-structure disclosure for the operating business."
+ ],
+ "brief": [
+  "Aitenders Technologies Inc. has received final approval to list on the Canadian Securities Exchange and its shares began trading at Monday's open under the symbol BIDS. The listing completes the reverse takeover of eXeBlock Technology Corporation, whose closing and conditional approval were announced on 6 August.",
+  "The company sells software for tender response and contract management to construction and infrastructure firms. Management changed at closing, with founder Geoffrey Guilly as chief executive. The release sets out the incoming directors and officers but carries no financial information about the operating business.",
+  "A dormant Canadian shell taking a French software company public is the CSE route working as designed: faster and cheaper than a prospectus, at the cost of the disclosure a prospectus would have forced. What the market can price on day one is correspondingly thin."
+ ],
+ "body": [
+  "Aitenders Technologies Inc. (CSE: BIDS) has received final approval to list its common shares on the Canadian Securities Exchange, and the shares commenced trading at market open on 10 August 2026. The company describes itself as the developer of an end-to-end, AI-powered platform for tender response and contract management, built for complex construction and infrastructure projects. The listing follows the reverse takeover of eXeBlock Technology Corporation, whose closing and conditional listing approval were announced four days earlier.",
+  "A reverse takeover puts a private operating business into an existing listed shell rather than taking it public by prospectus. The private company's shareholders end up controlling the listed entity, which is renamed and re-tickered — here from eXeBlock to Aitenders, trading as BIDS. The attraction is speed and cost. The cost of the attraction is that the process does not compel the same disclosure a prospectus offering would, and this release contains none of it.",
+  "Management changed at closing, and the release sets out biographies for the incoming directors and officers. Geoffrey Guilly, who co-founded Aitenders and has led it since 2019, is chief executive; the company describes more than twenty years of experience in executive leadership, corporate finance and large-scale infrastructure, including senior roles at Systra, Egis and Vinci. Those descriptions come from the company and are not independently verified in the release.",
+  "The chief executive's statement is worth reading for what it claims about the funding history. He says Aitenders was built without raising venture capital before initiating the reverse takeover, and that the listing provides growth capital, liquidity for shareholders and visibility. That is an unusual profile for a software company arriving on a Canadian venture exchange, where the more common path is a business that has already raised privately and needs a public market to continue.",
+  "What the release does not contain is the substance a new investor would want. There is no revenue figure, no customer count, no disclosure of the capital raised alongside the transaction, and no indication of the share structure post-closing. The company's descriptions of its platform and of construction as the world's largest and least digitised industry are marketing language rather than reported fact, and should be treated as such.",
+  "For the venture board, this is the shell route functioning as intended, and the second such completion covered here this month. A dormant Canadian issuer with a listing and no business is worth something precisely to a private company that wants the listing; the shell's shareholders get a live asset back in exchange for control. Whether the operating business justifies its new public valuation is a separate question that the day-one disclosure does not answer."
+ ]
+}
