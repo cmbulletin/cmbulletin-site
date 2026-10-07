@@ -1,6 +1,6 @@
 {
  "api": "v1",
- "generated_at": "2026-10-07T12:29:38Z",
+ "generated_at": "2026-10-07T13:55:33Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
@@ -45,7 +45,7 @@
    "warrant_fraction": "Full",
    "is_placement": true,
    "first_seen": "2026-10-07T12:29:35+00:00",
-   "last_seen": "2026-10-07T12:29:35+00:00"
+   "last_seen": "2026-10-07T13:55:28+00:00"
   },
   {
    "id": "V2026-3158",
@@ -86,7 +86,7 @@
    "warrant_fraction": "Full",
    "is_placement": true,
    "first_seen": "2026-10-07T12:29:35+00:00",
-   "last_seen": "2026-10-07T12:29:35+00:00"
+   "last_seen": "2026-10-07T13:55:28+00:00"
   },
   {
    "id": "V2026-3142",
@@ -123,7 +123,7 @@
    "warrant_fraction": "",
    "is_placement": true,
    "first_seen": "2026-10-07T12:29:35+00:00",
-   "last_seen": "2026-10-07T12:29:35+00:00"
+   "last_seen": "2026-10-07T13:55:28+00:00"
   },
   {
    "id": "V2026-3155",
@@ -164,7 +164,7 @@
    "warrant_fraction": "Half",
    "is_placement": true,
    "first_seen": "2026-10-07T12:29:35+00:00",
-   "last_seen": "2026-10-07T12:29:35+00:00"
+   "last_seen": "2026-10-07T13:55:28+00:00"
   },
   {
    "id": "V2026-3152",
@@ -203,7 +203,7 @@
    "warrant_fraction": "",
    "is_placement": true,
    "first_seen": "2026-10-07T12:29:35+00:00",
-   "last_seen": "2026-10-07T12:29:35+00:00"
+   "last_seen": "2026-10-07T13:55:28+00:00"
   },
   {
    "id": "V2026-3150",
@@ -240,7 +240,7 @@
    "warrant_fraction": "",
    "is_placement": true,
    "first_seen": "2026-10-07T12:29:35+00:00",
-   "last_seen": "2026-10-07T12:29:35+00:00"
+   "last_seen": "2026-10-07T13:55:28+00:00"
   },
   {
    "id": "V2026-3147",
@@ -280,7 +280,7 @@
    "warrant_fraction": "Full",
    "is_placement": true,
    "first_seen": "2026-10-07T12:29:35+00:00",
-   "last_seen": "2026-10-07T12:29:35+00:00"
+   "last_seen": "2026-10-07T13:55:28+00:00"
   },
   {
    "id": "V2026-3146",
@@ -316,7 +316,7 @@
    "warrant_fraction": "",
    "is_placement": true,
    "first_seen": "2026-10-07T12:29:35+00:00",
-   "last_seen": "2026-10-07T12:29:35+00:00"
+   "last_seen": "2026-10-07T13:55:28+00:00"
   }
  ],
  "cse": [

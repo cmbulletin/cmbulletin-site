@@ -1,11 +1,49 @@
 {
  "api": "v1",
- "generated_at": "2026-10-07T12:29:38Z",
+ "generated_at": "2026-10-07T13:55:33Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 37,
+ "count": 38,
  "entries": [
+  {
+   "slug": "georgia-street-capital-raises-250-000-in-tsx-venture-ipo",
+   "url": "https://www.cmbulletin.com/posts/georgia-street-capital-raises-250-000-in-tsx-venture-ipo.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/georgia-street-capital-raises-250-000-in-tsx-venture-ipo.json",
+   "date": "2026-10-07T13:52:10Z",
+   "headline": "Georgia Street Capital raises $250,000 in TSX Venture IPO",
+   "dek": "The capital pool company listed on the TSX Venture Exchange October 6 and begins searching for a business to acquire via a Qualifying Transaction.",
+   "caption": "Georgia Street Capital Corp. listed on the TSX Venture Exchange October 6, 2026, raising $250,000 as a capital pool company.",
+   "sections": [
+    "financings"
+   ],
+   "tags": [
+    "Financing",
+    "IPO",
+    "Capital Pool Company",
+    "Listing"
+   ],
+   "tickers": [
+    "TSXV:GOST.P"
+   ],
+   "image": "https://www.cmbulletin.com/images/georgia-street-capital-raises-250-000-in-tsx-venture-ipo.png",
+   "source_name": "TheNewswire",
+   "sources": [
+    {
+     "title": "Georgia Street Capital Corp. Completes Initial Public Offering and Lists on the TSX Venture Exchange as a Capital Pool Company",
+     "url": "https://thenewswire.com/press-releases/1kEjFW39x-georgia-street-capital-corp-completes-initial-public-offering-and-lists-on-the-tsx-venture-exchange-as-a-capital-pool-company.html",
+     "publisher": "TheNewswire"
+    }
+   ],
+   "unverified_claims": [
+    "The company's stated intention to identify and complete a Qualifying Transaction is a forward-looking plan announced by the company; no target or timeline has been disclosed or independently confirmed."
+   ],
+   "brief": [
+    "Georgia Street Capital Corp. completed its initial public offering, issuing 2,500,000 common shares at $0.10 each for gross proceeds of $250,000, and listed on the TSX Venture Exchange on October 6, 2026 as a capital pool company under the symbol GOST.P. Trading is expected to begin October 8.",
+    "Leede Financial Inc. acted as agent, receiving a 10% cash commission, a $15,000 corporate finance fee and options on 250,000 shares at $0.10 exercisable to October 6, 2031. The company has 8,832,000 shares outstanding; 6,632,000 held by directors, officers and seed shareholders are subject to escrow.",
+    "The listing illustrates the capital pool company route onto the TSX Venture Exchange: a shell raises seed capital, lists, and then searches for an operating business to merge with under a Qualifying Transaction. Georgia Street now begins that search with $250,000 in the treasury and no stated target."
+   ]
+  },
   {
    "slug": "athos-metals-closes-first-tranche-as-meed-growth-deal-deadline",
    "url": "https://www.cmbulletin.com/posts/athos-metals-closes-first-tranche-as-meed-growth-deal-deadline.html",

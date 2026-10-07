@@ -1,12 +1,30 @@
 {
  "api": "v1",
- "generated_at": "2026-10-07T12:29:38Z",
+ "generated_at": "2026-10-07T13:55:33Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 39,
+ "count": 40,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
+  {
+   "company": "Georgia Street Capital Corp.",
+   "ticker": "TSXV:GOST.P",
+   "type": "Initial public offering (capital pool company)",
+   "currency": "C$",
+   "closed": "2026-10-06",
+   "agent": "Leede Financial Inc.",
+   "hold_period": false,
+   "note": "Agent received a 10% cash commission, a $15,000 corporate finance fee and options on 250,000 shares at $0.10 to October 6, 2031; 6,632,000 shares held by directors, officers and seed shareholders are subject to escrow of undisclosed length.",
+   "gross": 250000.0,
+   "units": 2500000.0,
+   "price": 0.1,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/georgia-street-capital-raises-250-000-in-tsx-venture-ipo.html"
+  },
   {
    "company": "Thesis Gold & Silver",
    "ticker": "TSXV:TAU",
