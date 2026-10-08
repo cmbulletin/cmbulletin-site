@@ -1,12 +1,30 @@
 {
  "api": "v1",
- "generated_at": "2026-10-07T13:55:33Z",
+ "generated_at": "2026-10-08T12:34:44Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 40,
+ "count": 41,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
+  {
+   "company": "Nord Precious Metals Mining Inc.",
+   "ticker": "TSXV:NTH",
+   "type": "Non-brokered flow-through private placement",
+   "currency": "$",
+   "closed": "2026-10-07",
+   "agent": "",
+   "hold_period": true,
+   "note": "Non-brokered; finders to receive $112,000 cash and 622,222 warrants at $0.18 for two years, subject to exchange approval. Financing subject to final TSX Venture Exchange acceptance.",
+   "gross": 1600000.0,
+   "units": 8888888.0,
+   "price": 0.18,
+   "warrant_strike": 0.18,
+   "warrant_months": 24.0,
+   "warrant_expiry": "2028-10-07",
+   "hold_expiry": "2027-02-05",
+   "entry_url": "https://www.cmbulletin.com/posts/nord-precious-metals-closes-1-6-million-flow-through-placement.html"
+  },
   {
    "company": "Georgia Street Capital Corp.",
    "ticker": "TSXV:GOST.P",

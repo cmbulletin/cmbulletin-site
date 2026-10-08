@@ -1,11 +1,89 @@
 {
  "api": "v1",
- "generated_at": "2026-10-07T13:55:33Z",
+ "generated_at": "2026-10-08T12:34:44Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 38,
+ "count": 40,
  "entries": [
+  {
+   "slug": "nord-precious-metals-closes-1-6-million-flow-through-placement",
+   "url": "https://www.cmbulletin.com/posts/nord-precious-metals-closes-1-6-million-flow-through-placement.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/nord-precious-metals-closes-1-6-million-flow-through-placement.json",
+   "date": "2026-10-08T12:23:52Z",
+   "headline": "Nord Precious Metals closes $1.6-million flow-through placement",
+   "dek": "The non-brokered financing will fund exploration at the Castle East project in Ontario, with finder's fees of $112,000 cash and warrants.",
+   "caption": "Nord Precious Metals closes a $1.6-million flow-through financing to fund exploration at its Castle East project in Ontario.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Financing",
+    "Mining",
+    "Flow-Through"
+   ],
+   "tickers": [
+    "TSXV:NTH",
+    "OTCQB:NPMMF"
+   ],
+   "image": "https://www.cmbulletin.com/images/nord-precious-metals-closes-1-6-million-flow-through-placement.png",
+   "source_name": "TheNewswire",
+   "sources": [
+    {
+     "title": "Nord Precious Metals Closes Non-Brokered Critical Mineral Flow-Through Share Private Placement",
+     "url": "https://thenewswire.com/press-releases/1A8vFjbaz-nord-precious-metals-closes-non-brokered-critical-mineral-flow-through-share-private-placement.html",
+     "publisher": "TheNewswire"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Nord Precious Metals Mining Inc. closed a non-brokered private placement of 8,888,888 flow-through shares at $0.18 each on October 7, 2026, for gross proceeds of $1,600,000. The financing remains subject to final acceptance by the TSX Venture Exchange.",
+    "Finders are to receive $112,000 in cash and 622,222 non-transferable warrants, each exercisable at $0.18 for two years, subject to exchange approval. All securities issued in the placement, including the finder's warrants, are subject to a hold period of four months and one day, expiring February 8, 2027.",
+    "Proceeds will fund exploration at the company's Castle East project, qualifying as Canadian exploration expenses and flow-through critical mineral mining expenditures. The company operates in the Cobalt-Gowganda camp in Ontario, where it also runs the TTL Laboratories processing facility."
+   ]
+  },
+  {
+   "slug": "heliostar-graduates-from-tsx-venture-exchange-to-tsx",
+   "url": "https://www.cmbulletin.com/posts/heliostar-graduates-from-tsx-venture-exchange-to-tsx.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/heliostar-graduates-from-tsx-venture-exchange-to-tsx.json",
+   "date": "2026-10-08T12:23:52Z",
+   "headline": "Heliostar graduates from TSX Venture Exchange to TSX",
+   "dek": "Common shares began trading on the senior exchange October 7 under the unchanged symbol HSTR, with no action required of shareholders.",
+   "caption": "Heliostar Metals' shares began trading on the Toronto Stock Exchange October 7, after the company's graduation from the TSX Venture Exchange.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Listing",
+    "Mining",
+    "TSX"
+   ],
+   "tickers": [
+    "TSX:HSTR"
+   ],
+   "image": "https://www.cmbulletin.com/images/heliostar-graduates-from-tsx-venture-exchange-to-tsx.png",
+   "source_name": "Newsfile Corp.",
+   "sources": [
+    {
+     "title": "Heliostar Announces Graduation to TSX",
+     "url": "https://www.newsfilecorp.com/release/317319/Heliostar-Announces-Graduation-to-TSX",
+     "publisher": "Newsfile Corp."
+    },
+    {
+     "title": "Can Heliostar (TSX:HSTR) Hold the Gold Stocks Spotlight After Its TSX Graduation?",
+     "url": "https://kalkinemedia.com/ca/stocks/gold/can-heliostar-tsxhstr-hold-the-gold-stocks-spotlight-after-its-tsx-graduation",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "The company's stated goal of 500,000 ounces of annual gold production by the end of the decade, and its targeted timing for the Ana Paula feasibility study and 2028 production start, rest only on the company's own statements."
+   ],
+   "brief": [
+    "Heliostar Metals Ltd.'s common shares commenced trading on the Toronto Stock Exchange at market open on October 7, 2026, after the company graduated from the TSX Venture Exchange. The shares retain their existing ticker symbol, HSTR, and were voluntarily delisted from the TSXV effective market close on October 6.",
+    "The company said shareholders are not required to take any action or exchange share certificates in connection with the move, and that the CUSIP and ISIN numbers are unchanged. Chief executive Charles Funk said the TSX listing rewards shareholders with greater trading liquidity, potential for additional index inclusions, and broader capital markets exposure.",
+    "Heliostar operates the La Colorada and San Agustin gold mines in Mexico and is advancing development projects including Ana Paula, Cerro del Gallo and the Goldstrike project in Utah. The company has stated a goal of reaching 500,000 ounces of annual gold production by the end of the decade."
+   ]
+  },
   {
    "slug": "georgia-street-capital-raises-250-000-in-tsx-venture-ipo",
    "url": "https://www.cmbulletin.com/posts/georgia-street-capital-raises-250-000-in-tsx-venture-ipo.html",

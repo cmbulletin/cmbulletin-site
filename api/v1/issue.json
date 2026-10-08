@@ -1,57 +1,102 @@
 {
  "api": "v1",
- "generated_at": "2026-10-07T13:55:33Z",
+ "generated_at": "2026-10-08T12:34:44Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-07",
- "count": 1,
+ "issue_date": "2026-10-08",
+ "count": 2,
  "entries": [
   {
-   "slug": "georgia-street-capital-raises-250-000-in-tsx-venture-ipo",
-   "url": "https://www.cmbulletin.com/posts/georgia-street-capital-raises-250-000-in-tsx-venture-ipo.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/georgia-street-capital-raises-250-000-in-tsx-venture-ipo.json",
-   "date": "2026-10-07T13:52:10Z",
-   "headline": "Georgia Street Capital raises $250,000 in TSX Venture IPO",
-   "dek": "The capital pool company listed on the TSX Venture Exchange October 6 and begins searching for a business to acquire via a Qualifying Transaction.",
-   "caption": "Georgia Street Capital Corp. listed on the TSX Venture Exchange October 6, 2026, raising $250,000 as a capital pool company.",
+   "slug": "nord-precious-metals-closes-1-6-million-flow-through-placement",
+   "url": "https://www.cmbulletin.com/posts/nord-precious-metals-closes-1-6-million-flow-through-placement.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/nord-precious-metals-closes-1-6-million-flow-through-placement.json",
+   "date": "2026-10-08T12:23:52Z",
+   "headline": "Nord Precious Metals closes $1.6-million flow-through placement",
+   "dek": "The non-brokered financing will fund exploration at the Castle East project in Ontario, with finder's fees of $112,000 cash and warrants.",
+   "caption": "Nord Precious Metals closes a $1.6-million flow-through financing to fund exploration at its Castle East project in Ontario.",
    "sections": [
-    "financings"
+    "mining"
    ],
    "tags": [
     "Financing",
-    "IPO",
-    "Capital Pool Company",
-    "Listing"
+    "Mining",
+    "Flow-Through"
    ],
    "tickers": [
-    "TSXV:GOST.P"
+    "TSXV:NTH",
+    "OTCQB:NPMMF"
    ],
-   "image": "https://www.cmbulletin.com/images/georgia-street-capital-raises-250-000-in-tsx-venture-ipo.png",
+   "image": "https://www.cmbulletin.com/images/nord-precious-metals-closes-1-6-million-flow-through-placement.png",
    "source_name": "TheNewswire",
    "sources": [
     {
-     "title": "Georgia Street Capital Corp. Completes Initial Public Offering and Lists on the TSX Venture Exchange as a Capital Pool Company",
-     "url": "https://thenewswire.com/press-releases/1kEjFW39x-georgia-street-capital-corp-completes-initial-public-offering-and-lists-on-the-tsx-venture-exchange-as-a-capital-pool-company.html",
+     "title": "Nord Precious Metals Closes Non-Brokered Critical Mineral Flow-Through Share Private Placement",
+     "url": "https://thenewswire.com/press-releases/1A8vFjbaz-nord-precious-metals-closes-non-brokered-critical-mineral-flow-through-share-private-placement.html",
      "publisher": "TheNewswire"
     }
    ],
-   "unverified_claims": [
-    "The company's stated intention to identify and complete a Qualifying Transaction is a forward-looking plan announced by the company; no target or timeline has been disclosed or independently confirmed."
-   ],
+   "unverified_claims": [],
    "brief": [
-    "Georgia Street Capital Corp. completed its initial public offering, issuing 2,500,000 common shares at $0.10 each for gross proceeds of $250,000, and listed on the TSX Venture Exchange on October 6, 2026 as a capital pool company under the symbol GOST.P. Trading is expected to begin October 8.",
-    "Leede Financial Inc. acted as agent, receiving a 10% cash commission, a $15,000 corporate finance fee and options on 250,000 shares at $0.10 exercisable to October 6, 2031. The company has 8,832,000 shares outstanding; 6,632,000 held by directors, officers and seed shareholders are subject to escrow.",
-    "The listing illustrates the capital pool company route onto the TSX Venture Exchange: a shell raises seed capital, lists, and then searches for an operating business to merge with under a Qualifying Transaction. Georgia Street now begins that search with $250,000 in the treasury and no stated target."
+    "Nord Precious Metals Mining Inc. closed a non-brokered private placement of 8,888,888 flow-through shares at $0.18 each on October 7, 2026, for gross proceeds of $1,600,000. The financing remains subject to final acceptance by the TSX Venture Exchange.",
+    "Finders are to receive $112,000 in cash and 622,222 non-transferable warrants, each exercisable at $0.18 for two years, subject to exchange approval. All securities issued in the placement, including the finder's warrants, are subject to a hold period of four months and one day, expiring February 8, 2027.",
+    "Proceeds will fund exploration at the company's Castle East project, qualifying as Canadian exploration expenses and flow-through critical mineral mining expenditures. The company operates in the Cobalt-Gowganda camp in Ontario, where it also runs the TTL Laboratories processing facility."
    ],
    "body": [
-    "Georgia Street Capital Corp. completed its initial public offering on October 6, 2026, issuing 2,500,000 common shares at $0.10 per share for gross proceeds of $250,000, and listed on the TSX Venture Exchange the same day as a capital pool company under the symbol GOST.P. The shares were listed and immediately halted pending completion of the offering; trading is expected to commence at the market open on or about October 8, 2026.",
-    "A capital pool company is a shell corporation listed under TSX Venture Exchange Policy 2.4 with no commercial operations and no assets other than cash raised in its initial offering. Georgia Street's release states the corporation intends to identify and evaluate businesses with a view to completing a Qualifying Transaction — the process by which a CPC acquires an operating business and converts from a shell into a regular listed issuer. No target or sector has been disclosed.",
-    "Leede Financial Inc. acted as agent for the offering. Its compensation was a cash commission equal to 10% of gross proceeds, a corporate finance fee of $15,000, and non-transferable options to purchase up to 250,000 shares at $0.10 per share, exercisable until October 6, 2031. The release discloses no other fees paid in connection with the offering.",
-    "Georgia Street now has 8,832,000 shares issued and outstanding. Of those, 6,632,000 shares held in aggregate by the corporation's directors, officers and seed shareholders are subject to escrow restrictions. The release does not state the length of the escrow or the conditions for its release.",
-    "The corporation's officers and directors are Steven Vanry, who holds the roles of chief executive, chief financial officer and corporate secretary in addition to his board seat, and directors Kevin Bottomley and Craig Roberts. The release discloses no further detail on their backgrounds or on how the seed shares were allocated among them.",
-    "The release does not state what Georgia Street intends to do with the $250,000 raised beyond its general purpose of pursuing a Qualifying Transaction, nor does it name any industry or target company under consideration. A reader should not infer that an acquisition is pending or imminent — none is disclosed.",
-    "The capital pool company mechanism is how the TSX Venture Exchange brings new shell vehicles to market ahead of an eventual business combination, and this listing follows that structure. Whether Georgia Street attracts a Qualifying Transaction, and on what terms, is not yet determined; the release discloses no timeline and no prospective target."
+    "Nord Precious Metals Mining Inc. (TSX.V: NTH) closed a non-brokered private placement of 8,888,888 flow-through shares priced at $0.18 each on October 7, 2026, for gross proceeds of $1,600,000. The announcement, issued from the company's Cobalt, Ontario office, states the financing remains subject to final acceptance by the TSX Venture Exchange.",
+    "The release states that proceeds will be used for exploration on the company's Castle East project, and that the spending will qualify as Canadian exploration expenses and as flow-through critical mineral mining expenditures. It gives no further detail on the exploration program itself — no target, no budget breakdown and no timeline beyond the financing's close.",
+    "Finders are to be paid $112,000 in cash — 7% of the gross proceeds — and issued 622,222 non-transferable warrants, also calculated at 7%, each exercisable at $0.18 per share for two years from closing, subject to exchange approval. All securities in the placement, including the finder's warrants, are subject to a hold period of four months and one day, expiring February 8, 2027, and the financing as a whole remains conditional on final TSX Venture Exchange acceptance.",
+    "The release names Frank J. Basa as chief executive officer and Wayne Cheveldayoff as the company's corporate communications contact. Nord Precious Metals, which trades as TSX.V: NTH, OTCQB: NPMMF and FSE: QN3, describes itself as focused on silver recovery and exploration in Ontario's Cobalt-Gowganda mining camp, where it also operates the TTL Laboratories processing facility; Castle East is the target of this round of spending.",
+    "The release does not disclose a drilling program, a budget breakdown within the $1,600,000, or a timeline for exploration results at Castle East. It is a financing disclosure rather than a technical one, and what the money will find at the project is not addressed."
+   ]
+  },
+  {
+   "slug": "heliostar-graduates-from-tsx-venture-exchange-to-tsx",
+   "url": "https://www.cmbulletin.com/posts/heliostar-graduates-from-tsx-venture-exchange-to-tsx.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/heliostar-graduates-from-tsx-venture-exchange-to-tsx.json",
+   "date": "2026-10-08T12:23:52Z",
+   "headline": "Heliostar graduates from TSX Venture Exchange to TSX",
+   "dek": "Common shares began trading on the senior exchange October 7 under the unchanged symbol HSTR, with no action required of shareholders.",
+   "caption": "Heliostar Metals' shares began trading on the Toronto Stock Exchange October 7, after the company's graduation from the TSX Venture Exchange.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Listing",
+    "Mining",
+    "TSX"
+   ],
+   "tickers": [
+    "TSX:HSTR"
+   ],
+   "image": "https://www.cmbulletin.com/images/heliostar-graduates-from-tsx-venture-exchange-to-tsx.png",
+   "source_name": "Newsfile Corp.",
+   "sources": [
+    {
+     "title": "Heliostar Announces Graduation to TSX",
+     "url": "https://www.newsfilecorp.com/release/317319/Heliostar-Announces-Graduation-to-TSX",
+     "publisher": "Newsfile Corp."
+    },
+    {
+     "title": "Can Heliostar (TSX:HSTR) Hold the Gold Stocks Spotlight After Its TSX Graduation?",
+     "url": "https://kalkinemedia.com/ca/stocks/gold/can-heliostar-tsxhstr-hold-the-gold-stocks-spotlight-after-its-tsx-graduation",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "The company's stated goal of 500,000 ounces of annual gold production by the end of the decade, and its targeted timing for the Ana Paula feasibility study and 2028 production start, rest only on the company's own statements."
+   ],
+   "brief": [
+    "Heliostar Metals Ltd.'s common shares commenced trading on the Toronto Stock Exchange at market open on October 7, 2026, after the company graduated from the TSX Venture Exchange. The shares retain their existing ticker symbol, HSTR, and were voluntarily delisted from the TSXV effective market close on October 6.",
+    "The company said shareholders are not required to take any action or exchange share certificates in connection with the move, and that the CUSIP and ISIN numbers are unchanged. Chief executive Charles Funk said the TSX listing rewards shareholders with greater trading liquidity, potential for additional index inclusions, and broader capital markets exposure.",
+    "Heliostar operates the La Colorada and San Agustin gold mines in Mexico and is advancing development projects including Ana Paula, Cerro del Gallo and the Goldstrike project in Utah. The company has stated a goal of reaching 500,000 ounces of annual gold production by the end of the decade."
+   ],
+   "body": [
+    "Heliostar Metals Ltd.'s common shares commenced trading on the Toronto Stock Exchange at market open on October 7, 2026, following the company's graduation from the TSX Venture Exchange. The shares continue to trade under the symbol HSTR, with the same CUSIP and ISIN numbers as before. They were voluntarily delisted from the TSXV effective market close on October 6, 2026.",
+    "The release states that shareholders are not required to take any action, exchange share certificates, or do anything else in connection with the change, and that the CUSIP and ISIN numbers are unchanged. Chief executive Charles Funk said: \"A big-board TSX listing rewards shareholders with greater trading liquidity, potential for additional index inclusions and broader capital markets exposure to support the growth of the Company.\"",
+    "Heliostar operates two producing mines in Mexico, La Colorada in Sonora and San Agustin in Durango, and lists three development projects: Ana Paula in Guerrero, Cerro del Gallo in Guanajuato, and Goldstrike in Utah. The company has stated a goal of reaching 500,000 ounces of annual gold production by the end of the decade.",
+    "The release states the company is targeting completion of the Ana Paula feasibility study in the first half of 2027, with commercial production contemplated for 2028. Those are the company's own stated targets; the release discloses no technical or financial detail behind either date.",
+    "The release does not disclose trading volumes, an index weighting, or any financial detail tied to the change — it is a notice of the venue change and the operational and development context the company gives alongside it, nothing more."
    ]
   }
  ]
