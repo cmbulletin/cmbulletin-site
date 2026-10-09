@@ -1,102 +1,62 @@
 {
  "api": "v1",
- "generated_at": "2026-10-08T12:34:44Z",
+ "generated_at": "2026-10-09T12:36:14Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-08",
- "count": 2,
+ "issue_date": "2026-10-09",
+ "count": 1,
  "entries": [
   {
-   "slug": "nord-precious-metals-closes-1-6-million-flow-through-placement",
-   "url": "https://www.cmbulletin.com/posts/nord-precious-metals-closes-1-6-million-flow-through-placement.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/nord-precious-metals-closes-1-6-million-flow-through-placement.json",
-   "date": "2026-10-08T12:23:52Z",
-   "headline": "Nord Precious Metals closes $1.6-million flow-through placement",
-   "dek": "The non-brokered financing will fund exploration at the Castle East project in Ontario, with finder's fees of $112,000 cash and warrants.",
-   "caption": "Nord Precious Metals closes a $1.6-million flow-through financing to fund exploration at its Castle East project in Ontario.",
+   "slug": "intermap-completes-7-7-million-buyout-of-pci-geomatics",
+   "url": "https://www.cmbulletin.com/posts/intermap-completes-7-7-million-buyout-of-pci-geomatics.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/intermap-completes-7-7-million-buyout-of-pci-geomatics.json",
+   "date": "2026-10-09T12:21:24Z",
+   "headline": "Intermap completes $7.7 million buyout of PCI Geomatics",
+   "dek": "The TSX-listed geospatial software company now owns all of CATALYST developer PCI Geomatics, after a court-approved arrangement closed October 7.",
+   "caption": "Server racks and imagery displays fill a quiet geospatial data-processing room, lit by monitor glow after hours.",
    "sections": [
-    "mining"
+    "tech"
    ],
    "tags": [
-    "Financing",
-    "Mining",
-    "Flow-Through"
+    "M&A",
+    "Technology",
+    "Geospatial"
    ],
    "tickers": [
-    "TSXV:NTH",
-    "OTCQB:NPMMF"
+    "TSX:IMP"
    ],
-   "image": "https://www.cmbulletin.com/images/nord-precious-metals-closes-1-6-million-flow-through-placement.png",
-   "source_name": "TheNewswire",
+   "image": "https://www.cmbulletin.com/images/intermap-completes-7-7-million-buyout-of-pci-geomatics.png",
+   "source_name": "GlobeNewswire",
    "sources": [
     {
-     "title": "Nord Precious Metals Closes Non-Brokered Critical Mineral Flow-Through Share Private Placement",
-     "url": "https://thenewswire.com/press-releases/1A8vFjbaz-nord-precious-metals-closes-non-brokered-critical-mineral-flow-through-share-private-placement.html",
-     "publisher": "TheNewswire"
-    }
-   ],
-   "unverified_claims": [],
-   "brief": [
-    "Nord Precious Metals Mining Inc. closed a non-brokered private placement of 8,888,888 flow-through shares at $0.18 each on October 7, 2026, for gross proceeds of $1,600,000. The financing remains subject to final acceptance by the TSX Venture Exchange.",
-    "Finders are to receive $112,000 in cash and 622,222 non-transferable warrants, each exercisable at $0.18 for two years, subject to exchange approval. All securities issued in the placement, including the finder's warrants, are subject to a hold period of four months and one day, expiring February 8, 2027.",
-    "Proceeds will fund exploration at the company's Castle East project, qualifying as Canadian exploration expenses and flow-through critical mineral mining expenditures. The company operates in the Cobalt-Gowganda camp in Ontario, where it also runs the TTL Laboratories processing facility."
-   ],
-   "body": [
-    "Nord Precious Metals Mining Inc. (TSX.V: NTH) closed a non-brokered private placement of 8,888,888 flow-through shares priced at $0.18 each on October 7, 2026, for gross proceeds of $1,600,000. The announcement, issued from the company's Cobalt, Ontario office, states the financing remains subject to final acceptance by the TSX Venture Exchange.",
-    "The release states that proceeds will be used for exploration on the company's Castle East project, and that the spending will qualify as Canadian exploration expenses and as flow-through critical mineral mining expenditures. It gives no further detail on the exploration program itself — no target, no budget breakdown and no timeline beyond the financing's close.",
-    "Finders are to be paid $112,000 in cash — 7% of the gross proceeds — and issued 622,222 non-transferable warrants, also calculated at 7%, each exercisable at $0.18 per share for two years from closing, subject to exchange approval. All securities in the placement, including the finder's warrants, are subject to a hold period of four months and one day, expiring February 8, 2027, and the financing as a whole remains conditional on final TSX Venture Exchange acceptance.",
-    "The release names Frank J. Basa as chief executive officer and Wayne Cheveldayoff as the company's corporate communications contact. Nord Precious Metals, which trades as TSX.V: NTH, OTCQB: NPMMF and FSE: QN3, describes itself as focused on silver recovery and exploration in Ontario's Cobalt-Gowganda mining camp, where it also operates the TTL Laboratories processing facility; Castle East is the target of this round of spending.",
-    "The release does not disclose a drilling program, a budget breakdown within the $1,600,000, or a timeline for exploration results at Castle East. It is a financing disclosure rather than a technical one, and what the money will find at the project is not addressed."
-   ]
-  },
-  {
-   "slug": "heliostar-graduates-from-tsx-venture-exchange-to-tsx",
-   "url": "https://www.cmbulletin.com/posts/heliostar-graduates-from-tsx-venture-exchange-to-tsx.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/heliostar-graduates-from-tsx-venture-exchange-to-tsx.json",
-   "date": "2026-10-08T12:23:52Z",
-   "headline": "Heliostar graduates from TSX Venture Exchange to TSX",
-   "dek": "Common shares began trading on the senior exchange October 7 under the unchanged symbol HSTR, with no action required of shareholders.",
-   "caption": "Heliostar Metals' shares began trading on the Toronto Stock Exchange October 7, after the company's graduation from the TSX Venture Exchange.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "Listing",
-    "Mining",
-    "TSX"
-   ],
-   "tickers": [
-    "TSX:HSTR"
-   ],
-   "image": "https://www.cmbulletin.com/images/heliostar-graduates-from-tsx-venture-exchange-to-tsx.png",
-   "source_name": "Newsfile Corp.",
-   "sources": [
-    {
-     "title": "Heliostar Announces Graduation to TSX",
-     "url": "https://www.newsfilecorp.com/release/317319/Heliostar-Announces-Graduation-to-TSX",
-     "publisher": "Newsfile Corp."
+     "title": "Intermap Completes Acquisition of PCI Geomatics",
+     "url": "https://www.globenewswire.com/news-release/2026/10/07/3376899/0/en/intermap-completes-acquisition-of-pci-geomatics.html",
+     "publisher": "GlobeNewswire"
     },
     {
-     "title": "Can Heliostar (TSX:HSTR) Hold the Gold Stocks Spotlight After Its TSX Graduation?",
-     "url": "https://kalkinemedia.com/ca/stocks/gold/can-heliostar-tsxhstr-hold-the-gold-stocks-spotlight-after-its-tsx-graduation",
+     "title": "What Does the PCI Geomatics Acquisition Mean for Intermap (TSX:IMP)?",
+     "url": "https://kalkinemedia.com/ca/stocks/artificial-intelligence/what-does-the-pci-geomatics-acquisition-mean-for-intermap-tsximp",
      "publisher": "Kalkine Media — Canada"
     }
    ],
    "unverified_claims": [
-    "The company's stated goal of 500,000 ounces of annual gold production by the end of the decade, and its targeted timing for the Ana Paula feasibility study and 2028 production start, rest only on the company's own statements."
+    "The size of Intermap's ownership stake in PCI prior to this transaction, and when it was acquired, is not stated in the release.",
+    "How much of Intermap's 2027 revenue and EBITDA guidance is attributable to PCI specifically, versus Intermap's existing business, is not broken out in the release.",
+    "The guidance figures are the company's own forward projection and have not yet been realized."
    ],
    "brief": [
-    "Heliostar Metals Ltd.'s common shares commenced trading on the Toronto Stock Exchange at market open on October 7, 2026, after the company graduated from the TSX Venture Exchange. The shares retain their existing ticker symbol, HSTR, and were voluntarily delisted from the TSXV effective market close on October 6.",
-    "The company said shareholders are not required to take any action or exchange share certificates in connection with the move, and that the CUSIP and ISIN numbers are unchanged. Chief executive Charles Funk said the TSX listing rewards shareholders with greater trading liquidity, potential for additional index inclusions, and broader capital markets exposure.",
-    "Heliostar operates the La Colorada and San Agustin gold mines in Mexico and is advancing development projects including Ana Paula, Cerro del Gallo and the Goldstrike project in Utah. The company has stated a goal of reaching 500,000 ounces of annual gold production by the end of the decade."
+    "Intermap Technologies Corporation (TSX: IMP) said it completed its acquisition of PCI Geomatics Group Inc. on October 7, paying $7.7 million in cash for the shares of PCI it did not already own. PCI operates as CATALYST, an imagery analytics software platform with more than 30,000 installed licences in over 150 countries.",
+    "The deal proceeded as an arrangement under the Canada Business Corporations Act, following PCI shareholder approval on September 25 and a court order from the Ontario Superior Court of Justice on September 28. Intermap said the acquisition adds PCI's optical image processing and distributed edge-processing capabilities to its existing 3D data and analytics business.",
+    "Intermap issued 2027 guidance alongside the announcement, projecting commercial revenue of $12 million to $15 million and adjusted EBITDA of about $5 million, excluding government procurement revenue the company said is subject to timing uncertainty. The guidance is the company's own forward estimate and has not yet been realized."
    ],
    "body": [
-    "Heliostar Metals Ltd.'s common shares commenced trading on the Toronto Stock Exchange at market open on October 7, 2026, following the company's graduation from the TSX Venture Exchange. The shares continue to trade under the symbol HSTR, with the same CUSIP and ISIN numbers as before. They were voluntarily delisted from the TSXV effective market close on October 6, 2026.",
-    "The release states that shareholders are not required to take any action, exchange share certificates, or do anything else in connection with the change, and that the CUSIP and ISIN numbers are unchanged. Chief executive Charles Funk said: \"A big-board TSX listing rewards shareholders with greater trading liquidity, potential for additional index inclusions and broader capital markets exposure to support the growth of the Company.\"",
-    "Heliostar operates two producing mines in Mexico, La Colorada in Sonora and San Agustin in Durango, and lists three development projects: Ana Paula in Guerrero, Cerro del Gallo in Guanajuato, and Goldstrike in Utah. The company has stated a goal of reaching 500,000 ounces of annual gold production by the end of the decade.",
-    "The release states the company is targeting completion of the Ana Paula feasibility study in the first half of 2027, with commercial production contemplated for 2028. Those are the company's own stated targets; the release discloses no technical or financial detail behind either date.",
-    "The release does not disclose trading volumes, an index weighting, or any financial detail tied to the change — it is a notice of the venue change and the operational and development context the company gives alongside it, nothing more."
+    "Intermap Technologies Corporation (TSX: IMP) said October 7 it had completed its acquisition of PCI Geomatics Group Inc., paying $7.7 million in cash for the shares of PCI it did not already own. The transaction proceeded as an arrangement under the Canada Business Corporations Act. PCI shareholders approved the arrangement on September 25, 2026, and the Ontario Superior Court of Justice, Commercial List, issued the final order on September 28, 2026.",
+    "PCI operates its software under the brand CATALYST, an imagery analytics platform the release describes as having more than 30,000 installed software licences in over 150 countries, used to process and analyze satellite and aerial imagery. Intermap said the acquisition adds PCI's optical image processing and distributed edge-processing capabilities to its own 3D data, processing and analytics offerings.",
+    "The release describes the cash paid as being for the PCI shares Intermap did not already own, indicating Intermap held a stake in PCI prior to this transaction; it does not state the size of that prior holding or when it was acquired.",
+    "Patrick Blott, Intermap's chairman and chief executive, said the deal lets the company push its capabilities 'closer to the edge through the software and agreements already in our customers' hands, without disruption to workflows.' June McAlarey, PCI's president and chief executive and now an Intermap executive vice president, said combining PCI's edge-processing capability with Intermap's 3D data and analytics 'gives us more ways to solve those problems and reduce latencies.'",
+    "Alongside the closing, Intermap issued 2027 guidance projecting commercial revenue of $12 million to $15 million, representing growth of more than 100%, adjusted EBITDA of approximately $5 million and contribution margins above 50%, excluding government procurement revenue, which the company said carries timing uncertainty. The release does not disclose how much of that projected revenue is attributable to PCI specifically rather than Intermap's existing business.",
+    "The release does not state PCI's standalone revenue or earnings prior to the acquisition, so the contribution the deal itself makes to the 2027 guidance figures above cannot be isolated from organic growth in Intermap's existing operations. The guidance is the company's own forward projection and has not yet been realized."
    ]
   }
  ]

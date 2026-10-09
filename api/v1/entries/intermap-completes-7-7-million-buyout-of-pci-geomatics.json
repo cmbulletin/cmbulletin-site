@@ -1,0 +1,57 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-09T12:36:14Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "intermap-completes-7-7-million-buyout-of-pci-geomatics",
+ "url": "https://www.cmbulletin.com/posts/intermap-completes-7-7-million-buyout-of-pci-geomatics.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/intermap-completes-7-7-million-buyout-of-pci-geomatics.json",
+ "date": "2026-10-09T12:21:24Z",
+ "headline": "Intermap completes $7.7 million buyout of PCI Geomatics",
+ "dek": "The TSX-listed geospatial software company now owns all of CATALYST developer PCI Geomatics, after a court-approved arrangement closed October 7.",
+ "caption": "Server racks and imagery displays fill a quiet geospatial data-processing room, lit by monitor glow after hours.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "M&A",
+  "Technology",
+  "Geospatial"
+ ],
+ "tickers": [
+  "TSX:IMP"
+ ],
+ "image": "https://www.cmbulletin.com/images/intermap-completes-7-7-million-buyout-of-pci-geomatics.png",
+ "source_name": "GlobeNewswire",
+ "sources": [
+  {
+   "title": "Intermap Completes Acquisition of PCI Geomatics",
+   "url": "https://www.globenewswire.com/news-release/2026/10/07/3376899/0/en/intermap-completes-acquisition-of-pci-geomatics.html",
+   "publisher": "GlobeNewswire"
+  },
+  {
+   "title": "What Does the PCI Geomatics Acquisition Mean for Intermap (TSX:IMP)?",
+   "url": "https://kalkinemedia.com/ca/stocks/artificial-intelligence/what-does-the-pci-geomatics-acquisition-mean-for-intermap-tsximp",
+   "publisher": "Kalkine Media — Canada"
+  }
+ ],
+ "unverified_claims": [
+  "The size of Intermap's ownership stake in PCI prior to this transaction, and when it was acquired, is not stated in the release.",
+  "How much of Intermap's 2027 revenue and EBITDA guidance is attributable to PCI specifically, versus Intermap's existing business, is not broken out in the release.",
+  "The guidance figures are the company's own forward projection and have not yet been realized."
+ ],
+ "brief": [
+  "Intermap Technologies Corporation (TSX: IMP) said it completed its acquisition of PCI Geomatics Group Inc. on October 7, paying $7.7 million in cash for the shares of PCI it did not already own. PCI operates as CATALYST, an imagery analytics software platform with more than 30,000 installed licences in over 150 countries.",
+  "The deal proceeded as an arrangement under the Canada Business Corporations Act, following PCI shareholder approval on September 25 and a court order from the Ontario Superior Court of Justice on September 28. Intermap said the acquisition adds PCI's optical image processing and distributed edge-processing capabilities to its existing 3D data and analytics business.",
+  "Intermap issued 2027 guidance alongside the announcement, projecting commercial revenue of $12 million to $15 million and adjusted EBITDA of about $5 million, excluding government procurement revenue the company said is subject to timing uncertainty. The guidance is the company's own forward estimate and has not yet been realized."
+ ],
+ "body": [
+  "Intermap Technologies Corporation (TSX: IMP) said October 7 it had completed its acquisition of PCI Geomatics Group Inc., paying $7.7 million in cash for the shares of PCI it did not already own. The transaction proceeded as an arrangement under the Canada Business Corporations Act. PCI shareholders approved the arrangement on September 25, 2026, and the Ontario Superior Court of Justice, Commercial List, issued the final order on September 28, 2026.",
+  "PCI operates its software under the brand CATALYST, an imagery analytics platform the release describes as having more than 30,000 installed software licences in over 150 countries, used to process and analyze satellite and aerial imagery. Intermap said the acquisition adds PCI's optical image processing and distributed edge-processing capabilities to its own 3D data, processing and analytics offerings.",
+  "The release describes the cash paid as being for the PCI shares Intermap did not already own, indicating Intermap held a stake in PCI prior to this transaction; it does not state the size of that prior holding or when it was acquired.",
+  "Patrick Blott, Intermap's chairman and chief executive, said the deal lets the company push its capabilities 'closer to the edge through the software and agreements already in our customers' hands, without disruption to workflows.' June McAlarey, PCI's president and chief executive and now an Intermap executive vice president, said combining PCI's edge-processing capability with Intermap's 3D data and analytics 'gives us more ways to solve those problems and reduce latencies.'",
+  "Alongside the closing, Intermap issued 2027 guidance projecting commercial revenue of $12 million to $15 million, representing growth of more than 100%, adjusted EBITDA of approximately $5 million and contribution margins above 50%, excluding government procurement revenue, which the company said carries timing uncertainty. The release does not disclose how much of that projected revenue is attributable to PCI specifically rather than Intermap's existing business.",
+  "The release does not state PCI's standalone revenue or earnings prior to the acquisition, so the contribution the deal itself makes to the 2027 guidance figures above cannot be isolated from organic growth in Intermap's existing operations. The guidance is the company's own forward projection and has not yet been realized."
+ ]
+}
