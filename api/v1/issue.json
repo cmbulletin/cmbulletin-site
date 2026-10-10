@@ -1,62 +1,231 @@
 {
  "api": "v1",
- "generated_at": "2026-10-09T12:36:14Z",
+ "generated_at": "2026-10-10T12:31:20Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-09",
- "count": 1,
+ "issue_date": "2026-10-10",
+ "count": 5,
  "entries": [
   {
-   "slug": "intermap-completes-7-7-million-buyout-of-pci-geomatics",
-   "url": "https://www.cmbulletin.com/posts/intermap-completes-7-7-million-buyout-of-pci-geomatics.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/intermap-completes-7-7-million-buyout-of-pci-geomatics.json",
-   "date": "2026-10-09T12:21:24Z",
-   "headline": "Intermap completes $7.7 million buyout of PCI Geomatics",
-   "dek": "The TSX-listed geospatial software company now owns all of CATALYST developer PCI Geomatics, after a court-approved arrangement closed October 7.",
-   "caption": "Server racks and imagery displays fill a quiet geospatial data-processing room, lit by monitor glow after hours.",
+   "slug": "spectre-capital-enters-promissory-note-with-northern-rare-earth",
+   "url": "https://www.cmbulletin.com/posts/spectre-capital-enters-promissory-note-with-northern-rare-earth.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/spectre-capital-enters-promissory-note-with-northern-rare-earth.json",
+   "date": "2026-10-10T12:19:45Z",
+   "headline": "Spectre Capital enters promissory note with Northern Rare Earth",
+   "dek": "The non-interest-bearing loan of up to C$100,000 funds Spectre's costs tied to its proposed qualifying transaction with Northern Rare Earth Corp.",
+   "caption": "Spectre Capital's shares remain halted as the TSX Venture Exchange reviews its proposed combination with a rare earth company.",
    "sections": [
-    "tech"
+    "mining"
    ],
    "tags": [
+    "Mining",
     "M&A",
-    "Technology",
-    "Geospatial"
+    "Capital Pool Company"
    ],
    "tickers": [
-    "TSX:IMP"
+    "TSXV:SOO.P"
    ],
-   "image": "https://www.cmbulletin.com/images/intermap-completes-7-7-million-buyout-of-pci-geomatics.png",
-   "source_name": "GlobeNewswire",
+   "image": "https://www.cmbulletin.com/images/spectre-capital-enters-promissory-note-with-northern-rare-earth.png",
+   "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Intermap Completes Acquisition of PCI Geomatics",
-     "url": "https://www.globenewswire.com/news-release/2026/10/07/3376899/0/en/intermap-completes-acquisition-of-pci-geomatics.html",
-     "publisher": "GlobeNewswire"
-    },
-    {
-     "title": "What Does the PCI Geomatics Acquisition Mean for Intermap (TSX:IMP)?",
-     "url": "https://kalkinemedia.com/ca/stocks/artificial-intelligence/what-does-the-pci-geomatics-acquisition-mean-for-intermap-tsximp",
-     "publisher": "Kalkine Media — Canada"
+     "title": "Spectre Announces Promissory Note with Northern Rare Earth Corp.",
+     "url": "https://thenewswire.com/press-releases/1BKRFa4KN-spectre-announces-promissory-note-with-northern-rare-earth-corp.html",
+     "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The size of Intermap's ownership stake in PCI prior to this transaction, and when it was acquired, is not stated in the release.",
-    "How much of Intermap's 2027 revenue and EBITDA guidance is attributable to PCI specifically, versus Intermap's existing business, is not broken out in the release.",
-    "The guidance figures are the company's own forward projection and have not yet been realized."
+    "The characterization of Spectre as a capital pool company and the structure, amount and terms of the loan and the proposed qualifying transaction are as stated solely in Spectre's own release."
    ],
    "brief": [
-    "Intermap Technologies Corporation (TSX: IMP) said it completed its acquisition of PCI Geomatics Group Inc. on October 7, paying $7.7 million in cash for the shares of PCI it did not already own. PCI operates as CATALYST, an imagery analytics software platform with more than 30,000 installed licences in over 150 countries.",
-    "The deal proceeded as an arrangement under the Canada Business Corporations Act, following PCI shareholder approval on September 25 and a court order from the Ontario Superior Court of Justice on September 28. Intermap said the acquisition adds PCI's optical image processing and distributed edge-processing capabilities to its existing 3D data and analytics business.",
-    "Intermap issued 2027 guidance alongside the announcement, projecting commercial revenue of $12 million to $15 million and adjusted EBITDA of about $5 million, excluding government procurement revenue the company said is subject to timing uncertainty. The guidance is the company's own forward estimate and has not yet been realized."
+    "Spectre Capital Corp. has entered into a non-interest-bearing, unsecured grid promissory note with Northern Rare Earth Corp., under which NREC will lend Spectre up to C$100,000. The loan funds Spectre's direct, bona fide, third-party transaction expenses related to its proposed qualifying transaction with NREC, first announced May 28, 2026, and updated August 18, 2026.",
+    "Spectre is a capital pool company listed on the TSX Venture Exchange under the symbol SOO.P. The loan may be drawn in multiple advances, each subject to NREC's prior written approval, and carries no finder's fee, commission or other compensation. The outstanding balance is payable in full once the qualifying transaction closes.",
+    "If the proposed transaction does not close and the definitive amalgamation agreement is terminated under its terms, the outstanding loan balance will be forgiven in full, the company said. Trading in Spectre's shares remains halted under TSX Venture Exchange policy pending the exchange's review of the qualifying transaction and satisfaction of its conditions for resumption."
    ],
    "body": [
-    "Intermap Technologies Corporation (TSX: IMP) said October 7 it had completed its acquisition of PCI Geomatics Group Inc., paying $7.7 million in cash for the shares of PCI it did not already own. The transaction proceeded as an arrangement under the Canada Business Corporations Act. PCI shareholders approved the arrangement on September 25, 2026, and the Ontario Superior Court of Justice, Commercial List, issued the final order on September 28, 2026.",
-    "PCI operates its software under the brand CATALYST, an imagery analytics platform the release describes as having more than 30,000 installed software licences in over 150 countries, used to process and analyze satellite and aerial imagery. Intermap said the acquisition adds PCI's optical image processing and distributed edge-processing capabilities to its own 3D data, processing and analytics offerings.",
-    "The release describes the cash paid as being for the PCI shares Intermap did not already own, indicating Intermap held a stake in PCI prior to this transaction; it does not state the size of that prior holding or when it was acquired.",
-    "Patrick Blott, Intermap's chairman and chief executive, said the deal lets the company push its capabilities 'closer to the edge through the software and agreements already in our customers' hands, without disruption to workflows.' June McAlarey, PCI's president and chief executive and now an Intermap executive vice president, said combining PCI's edge-processing capability with Intermap's 3D data and analytics 'gives us more ways to solve those problems and reduce latencies.'",
-    "Alongside the closing, Intermap issued 2027 guidance projecting commercial revenue of $12 million to $15 million, representing growth of more than 100%, adjusted EBITDA of approximately $5 million and contribution margins above 50%, excluding government procurement revenue, which the company said carries timing uncertainty. The release does not disclose how much of that projected revenue is attributable to PCI specifically rather than Intermap's existing business.",
-    "The release does not state PCI's standalone revenue or earnings prior to the acquisition, so the contribution the deal itself makes to the 2027 guidance figures above cannot be isolated from organic growth in Intermap's existing operations. The guidance is the company's own forward projection and has not yet been realized."
+    "Spectre Capital Corp. (TSX-V: SOO.P) said it has entered into a non-interest-bearing, unsecured grid promissory note with Northern Rare Earth Corp. (\"NREC\"), under which NREC will lend Spectre up to C$100,000. Spectre said the loan will be used exclusively to fund its direct, bona fide, third-party transaction expenses in connection with its proposed qualifying transaction with NREC, as previously announced in its news releases dated May 28, 2026, and August 18, 2026.",
+    "The release describes Spectre as a capital pool company — a listed shell with no operating business, used under TSX Venture Exchange rules to raise a small amount of seed capital and then identify an operating business to combine with in what the exchange calls a qualifying transaction. Under that structure, Spectre is the public vehicle and NREC is the business it has proposed to combine with.",
+    "The loan takes the form of a grid promissory note, meaning it can be drawn down in multiple advances up to the C$100,000 ceiling rather than disbursed as a single sum; each advance requires NREC's prior written approval, the release said. No finder's fee, commission or other compensation is payable in connection with the loan.",
+    "The outstanding principal balance is payable in full once the qualifying transaction completes. Spectre said that if the transaction does not close and the definitive amalgamation agreement is terminated in accordance with its terms, the outstanding balance will instead be forgiven in full.",
+    "Trading in Spectre's shares has been halted in compliance with TSX Venture Exchange policy; the release said trading will remain halted pending the exchange's review of the qualifying transaction and satisfaction of its conditions for resumption."
+   ]
+  },
+  {
+   "slug": "st-georges-files-q1-results-details-steps-to-resume-trading",
+   "url": "https://www.cmbulletin.com/posts/st-georges-files-q1-results-details-steps-to-resume-trading.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/st-georges-files-q1-results-details-steps-to-resume-trading.json",
+   "date": "2026-10-10T12:19:45Z",
+   "headline": "St-Georges files Q1 results, details steps to resume trading",
+   "dek": "The company reported a $681,444 net loss and said it will work with regulators toward lifting the failure-to-file cease trade order issued September 30.",
+   "caption": "St-Georges remains halted on the CSE as it works toward lifting a failure-to-file cease trade order.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Regulatory",
+    "Financial Results",
+    "Going Concern"
+   ],
+   "tickers": [
+    "CSE:SX",
+    "OTCQB:SXOOF",
+    "FSE:85G1"
+   ],
+   "image": "https://www.cmbulletin.com/images/st-georges-files-q1-results-details-steps-to-resume-trading.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "St-Georges Files First-Quarter Financial Results & Provides Update on Steps Toward Resumption of Trading",
+     "url": "https://thenewswire.com/press-releases/1Av7FdlK3-st-georges-files-first-quarter-financial-results-provides-update-on-steps-toward-resumption-of-trading.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The company's account of its going-concern recovery plan, including reliance on EVSX battery-processing activity, access to financing, cost reductions and creditor arrangements, rests on its own statement.",
+    "The company's description of its subsidiaries and intellectual property portfolio is its own characterization."
+   ],
+   "brief": [
+    "St-Georges Eco-Mining Corp. filed its unaudited interim financial statements for the three months ended June 30, 2026, reporting a net loss of $681,444 and a net and comprehensive loss of $683,095. Total assets stood at $25,725,934, shareholders' equity at $18,801,233, and the company reported a working capital deficiency of $5,616,857.",
+    "The filings follow a failure-to-file cease trade order the British Columbia Securities Commission issued on September 30, 2026, which suspended trading in St-Georges shares on the Canadian Securities Exchange. The company said filing the outstanding documents does not, by itself, revoke the cease trade order.",
+    "St-Georges said it will engage with the BCSC and the CSE to advance the steps required to seek revocation, including confirming its continuous disclosure record and responding to regulatory requests. The company said it cannot provide a definitive date for revocation of the order or for resumption of trading."
+   ],
+   "body": [
+    "St-Georges Eco-Mining Corp. (CSE: SX) said it has filed its unaudited condensed consolidated interim financial statements, related management's discussion and analysis, and required officer certifications for the three months ended June 30, 2026. The company reported a net loss of $681,444 and a net and comprehensive loss of $683,095 for the period. It said total assets were $25,725,934 and shareholders' equity was $18,801,233, with a working capital deficiency of $5,616,857.",
+    "The company said its financial statements include disclosure of material uncertainty that may cast significant doubt on its ability to continue as a going concern. It said management's plans depend, among other factors, on increased battery-processing activity at its EVSX subsidiary, access to financing, cost reductions and arrangements with creditors.",
+    "The filings follow a failure-to-file cease trade order the British Columbia Securities Commission issued on September 30, 2026, which suspended trading in St-Georges shares on the Canadian Securities Exchange. St-Georges said that filing the outstanding documents does not, by itself, revoke the cease trade order.",
+    "St-Georges said it will engage with the BCSC and the CSE to advance the steps required to seek revocation, which it described as including confirming the status of its continuous disclosure record, responding to any regulatory comments or requests for additional information, and completing any further requirements identified by the applicable authorities.",
+    "The company said it cannot provide a definitive date for the revocation of the cease trade order or the resumption of trading. St-Georges describes itself in the release as a company that develops new technologies and holds a diversified portfolio of assets and patent-pending intellectual property across several subsidiaries, including EVSX, a battery-processing initiative, along with St-Georges Metallurgy, Iceland Resources, H2SX and exploration projects in Quebec."
+   ]
+  },
+  {
+   "slug": "canadian-employment-fell-68-000-in-september",
+   "url": "https://www.cmbulletin.com/posts/canadian-employment-fell-68-000-in-september.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/canadian-employment-fell-68-000-in-september.json",
+   "date": "2026-10-10T12:19:45Z",
+   "headline": "Canadian employment fell 68,000 in September",
+   "dek": "Statistics Canada said the unemployment rate rose to 6.5% as the employment rate slipped to 60.6%.",
+   "caption": "Statistics Canada's September Labour Force Survey showed broad job losses across education, health care and manufacturing.",
+   "sections": [
+    "markets"
+   ],
+   "tags": [
+    "Macro",
+    "Employment",
+    "Canada"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/canadian-employment-fell-68-000-in-september.png",
+   "source_name": "Statistics Canada — The Daily",
+   "sources": [
+    {
+     "title": "Labour Force Survey, September 2026",
+     "url": "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009a-eng.htm",
+     "publisher": "Statistics Canada — The Daily"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Statistics Canada said employment fell by 68,000, or 0.3%, in September, with the reference period covering September 13 to 19, 2026. The unemployment rate rose 0.1 percentage points to 6.5%, and the employment rate fell 0.2 percentage points to 60.6%, the agency said in its Labour Force Survey.",
+    "The agency said full-time employment declined by 35,000, or 0.2%, while part-time employment fell by 33,000, or 0.9%. Among industries, Statistics Canada reported declines in educational services (-35,000), health care and social assistance (-23,000) and manufacturing (-13,000), and growth in other services such as repair, maintenance and personal services (+17,000).",
+    "Statistics Canada said average hourly wages among employees rose 2.3% year over year, up 86 cents to $37.64. The agency reported declines in employment in Quebec, British Columbia and Manitoba, and increases in Alberta, Newfoundland and Labrador, and Prince Edward Island. Public sector employment fell for a fourth consecutive month, the agency said."
+   ],
+   "body": [
+    "Statistics Canada said employment fell by 68,000, or 0.3%, in September 2026, for the reference period of September 13 to 19. The unemployment rate rose 0.1 percentage points to 6.5%, the employment rate fell 0.2 percentage points to 60.6%, and the labour force participation rate fell 0.2 percentage points to 64.8%. The decline was split between full-time employment, down 35,000, or 0.2%, and part-time employment, down 33,000, or 0.9%, the agency said in its monthly Labour Force Survey.",
+    "By industry, Statistics Canada reported declines in educational services (-35,000, or -2.2%), health care and social assistance (-23,000, or -0.8%), and manufacturing (-13,000, or -0.7%). It reported growth in other services, a category covering repair, maintenance and personal services, which rose 17,000, or 2.1%.",
+    "Statistics Canada said employment among youth aged 15 to 24 fell by 48,000, or 1.8%, and among core-aged women aged 25 to 54 fell by 28,000, or 0.4%, with the unemployment rate for that group rising to 5.3%.",
+    "By region, the agency reported employment declines in Quebec (-49,000, or -1.1%), British Columbia (-20,000, or -0.7%) and Manitoba (-4,400, or -0.6%), and increases in Alberta (+23,000, or +0.9%), Newfoundland and Labrador (+1,800, or +0.7%) and Prince Edward Island (+1,000, or 1.0%).",
+    "Statistics Canada said average hourly wages among employees rose 2.3% year over year, up 86 cents, to $37.64. It also reported that public sector employment fell by 70,000, or 1.5%, for a fourth consecutive month, self-employment fell by 23,000, or 0.8%, the job-finding rate declined to 30.6% from 32.8% a year earlier, and the layoff rate was 0.7%, compared with 0.6% a year earlier."
+   ]
+  },
+  {
+   "slug": "evernorth-completes-business-combination-lists-on-nasdaq",
+   "url": "https://www.cmbulletin.com/posts/evernorth-completes-business-combination-lists-on-nasdaq.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/evernorth-completes-business-combination-lists-on-nasdaq.json",
+   "date": "2026-10-10T12:19:45Z",
+   "headline": "Evernorth completes business combination, lists on Nasdaq",
+   "dek": "The combined company holds about 473 million XRP and roughly $300 million in gross cash proceeds, with trading set to begin October 12.",
+   "caption": "Evernorth's shares begin trading on Nasdaq this week, the latest token-holding vehicle to reach the exchange.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "M&A",
+    "Listing",
+    "Digital Assets"
+   ],
+   "tickers": [
+    "NASDAQ:XRPN"
+   ],
+   "image": "https://www.cmbulletin.com/images/evernorth-completes-business-combination-lists-on-nasdaq.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "Evernorth Completes Business Combination with Armada Acquisition Corp. II",
+     "url": "https://www.prnewswire.com/news-releases/evernorth-completes-business-combination-with-armada-acquisition-corp-ii-302903875.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [
+    "Evernorth's reported holdings of approximately 473 million XRP and approximately $300 million in gross cash proceeds at closing are as stated in the company's own release and have not been independently verified.",
+    "The company's characterization of itself as 'a digital asset treasury company' and its stated strategy are the company's own description."
+   ],
+   "brief": [
+    "Evernorth Holdings, Inc. completed its business combination with Armada Acquisition Corp. II on October 9, 2026. The company describes itself as \"a digital asset treasury company building institutional access to the XRP economy at scale.\" Its shares are set to begin trading on Nasdaq under the ticker XRPN on October 12, 2026.",
+    "At closing, the company held approximately 473 million XRP and had raised approximately $300 million in gross cash proceeds before transaction expenses, according to the release. Citigroup Global Markets Inc. acted as sole private placement agent and capital markets advisor to Evernorth. Davis Polk & Wardwell LLP advised Evernorth, and Wilson Sonsini Goodrich & Rosati advised Armada.",
+    "Evernorth said it expects to ring the Nasdaq closing bell on October 14, 2026, an event it said will bring together company leadership, investors and members of the XRP ecosystem. Chief executive Asheesh Birla said the company intends to deploy capital across the XRP economy to support infrastructure and use cases that expand XRP's utility."
+   ],
+   "body": [
+    "Evernorth Holdings, Inc. (Nasdaq: XRPN) said it completed its business combination with Armada Acquisition Corp. II on October 9, 2026. The company describes itself as \"a digital asset treasury company building institutional access to the XRP economy at scale.\" Evernorth said that at closing it held approximately 473 million XRP and had raised approximately $300 million in gross cash proceeds, before transaction expenses. Trading in Evernorth's shares on Nasdaq under the ticker XRPN is set to begin October 12, 2026.",
+    "Armada Acquisition Corp. II was a special purpose acquisition company — a listed vehicle that raises capital and then seeks to combine with an operating business. In a completed business combination of this kind, the public shell and any additional investment raised alongside the closing become the capital of the surviving company, which in this case is Evernorth.",
+    "Citigroup Global Markets Inc. acted as sole private placement agent and capital markets advisor to Evernorth, with Davis Polk & Wardwell LLP serving as the company's legal counsel. Wilson Sonsini Goodrich & Rosati, P.C. served as legal counsel to Armada; Cohen and Company Capital Markets and Northland Securities Inc. advised Armada, and Skadden, Arps, Slate, Meagher & Flom LLP advised Citigroup, according to the release.",
+    "The company said its strategy is \"strategies designed to grow XRP per share over time through institutional and DeFi yield strategies, ecosystem participation, and capital markets activities.\" Chief executive Asheesh Birla said: \"We'll be deploying capital across the XRP economy, supporting the infrastructure and use cases that expand XRP's utility.\"",
+    "The release names Arrington Capital, SBI Group, Ripple, Pantera Capital, Kraken and GSR as investors in the transaction, and identifies Arrington XRP Capital Fund, LP as sponsor of the Armada vehicle.",
+    "Evernorth said it expects to ring the Nasdaq closing bell on October 14, 2026, an event it said will bring together company leadership, investors and members of the XRP ecosystem. Trading under the ticker XRPN begins two days earlier, on October 12, 2026."
+   ]
+  },
+  {
+   "slug": "it-tech-packaging-wins-nyse-american-extension-to-april-2027",
+   "url": "https://www.cmbulletin.com/posts/it-tech-packaging-wins-nyse-american-extension-to-april-2027.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/it-tech-packaging-wins-nyse-american-extension-to-april-2027.json",
+   "date": "2026-10-10T12:19:45Z",
+   "headline": "IT Tech Packaging wins NYSE American extension to April 2027",
+   "dek": "NYSE Regulation granted the extension after the company missed three SEC filings, including its 2025 annual report.",
+   "caption": "IT Tech Packaging's shares keep trading under a late-filer flag while it works to catch up on overdue SEC reports.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Regulatory",
+    "Compliance",
+    "Listing"
+   ],
+   "tickers": [
+    "NYSEAMERICAN:ITP"
+   ],
+   "image": "https://www.cmbulletin.com/images/it-tech-packaging-wins-nyse-american-extension-to-april-2027.png",
+   "source_name": "PR Newswire",
+   "sources": [
+    {
+     "title": "IT Tech Packaging, Inc. Announces NYSE Regulation Acceptance of Extension Request; Listing Continued Pursuant to Extension Through April 15, 2027",
+     "url": "https://www.prnewswire.com/news-releases/it-tech-packaging-inc-announces-nyse-regulation-acceptance-of-extension-request-listing-continued-pursuant-to-extension-through-april-15-2027-302903204.html",
+     "publisher": "PR Newswire"
+    }
+   ],
+   "unverified_claims": [
+    "The company's description of its paper-products business and history is drawn from its own release."
+   ],
+   "brief": [
+    "IT Tech Packaging, Inc. said NYSE Regulation accepted its request for an extension to remain listed on NYSE American, continuing its listing through a plan period with a target completion date of April 15, 2027. The company submitted the extension request on October 1, 2026, and NYSE Regulation accepted it on October 7, 2026.",
+    "The extension follows the company's failure to timely file its annual report on Form 10-K for the year ended December 31, 2025, and its quarterly reports on Form 10-Q for the quarters ended March 31, 2026, and June 30, 2026, which it said violated Sections 134 and 1101 of the NYSE American Company Guide. Its shares now carry a \".LF\" late filer indicator and continue trading.",
+    "The company said its common stock will keep trading on NYSE American during the plan period, subject to its compliance with the plan and other listing requirements. If it does not make progress consistent with the plan or fails to complete the delayed filings by April 15, 2027, the company said exchange staff will initiate delisting proceedings."
+   ],
+   "body": [
+    "IT Tech Packaging, Inc. (NYSE American: ITP) said NYSE Regulation has accepted its request for an extension of time to regain compliance with the exchange's continued listing standards. The company said it submitted its extension request on October 1, 2026, and that NYSE Regulation accepted it on October 7, 2026, granting a plan period running to what the company called a \"New Cure Deadline\" of April 15, 2027.",
+    "The company describes itself in the release as a manufacturer and distributor of diversified paper products in North China, founded in 1996 and based in Baoding, producing corrugating medium paper, offset printing paper and tissue products using recycled paper as its primary raw material, with the exception of its tissue products.",
+    "IT Tech Packaging said it failed to timely file its Form 10-K for the year ended December 31, 2025, and its Form 10-Q reports for the quarters ended March 31, 2026, and June 30, 2026, putting it in violation of Sections 134 and 1101 of the NYSE American Company Guide, which require timely filing of periodic reports with the SEC.",
+    "The company said its common stock will continue to be listed and trade on NYSE American during the plan period, now carrying a \".LF\" indicator marking it as a late filer, subject to its compliance with the plan and other applicable continued listing requirements.",
+    "IT Tech Packaging said that if it does not make progress consistent with the plan, or fails to complete the delayed filings by the April 15, 2027 deadline, NYSE Regulation staff will initiate delisting proceedings as appropriate; it said it may appeal such a determination under Section 1010 and Part 12 of the NYSE American Company Guide. The release does not state why the three filings were delayed."
    ]
   }
  ]

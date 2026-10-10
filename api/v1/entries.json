@@ -1,11 +1,196 @@
 {
  "api": "v1",
- "generated_at": "2026-10-09T12:36:14Z",
+ "generated_at": "2026-10-10T12:31:20Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 41,
+ "count": 46,
  "entries": [
+  {
+   "slug": "spectre-capital-enters-promissory-note-with-northern-rare-earth",
+   "url": "https://www.cmbulletin.com/posts/spectre-capital-enters-promissory-note-with-northern-rare-earth.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/spectre-capital-enters-promissory-note-with-northern-rare-earth.json",
+   "date": "2026-10-10T12:19:45Z",
+   "headline": "Spectre Capital enters promissory note with Northern Rare Earth",
+   "dek": "The non-interest-bearing loan of up to C$100,000 funds Spectre's costs tied to its proposed qualifying transaction with Northern Rare Earth Corp.",
+   "caption": "Spectre Capital's shares remain halted as the TSX Venture Exchange reviews its proposed combination with a rare earth company.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "M&A",
+    "Capital Pool Company"
+   ],
+   "tickers": [
+    "TSXV:SOO.P"
+   ],
+   "image": "https://www.cmbulletin.com/images/spectre-capital-enters-promissory-note-with-northern-rare-earth.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Spectre Announces Promissory Note with Northern Rare Earth Corp.",
+     "url": "https://thenewswire.com/press-releases/1BKRFa4KN-spectre-announces-promissory-note-with-northern-rare-earth-corp.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization of Spectre as a capital pool company and the structure, amount and terms of the loan and the proposed qualifying transaction are as stated solely in Spectre's own release."
+   ],
+   "brief": [
+    "Spectre Capital Corp. has entered into a non-interest-bearing, unsecured grid promissory note with Northern Rare Earth Corp., under which NREC will lend Spectre up to C$100,000. The loan funds Spectre's direct, bona fide, third-party transaction expenses related to its proposed qualifying transaction with NREC, first announced May 28, 2026, and updated August 18, 2026.",
+    "Spectre is a capital pool company listed on the TSX Venture Exchange under the symbol SOO.P. The loan may be drawn in multiple advances, each subject to NREC's prior written approval, and carries no finder's fee, commission or other compensation. The outstanding balance is payable in full once the qualifying transaction closes.",
+    "If the proposed transaction does not close and the definitive amalgamation agreement is terminated under its terms, the outstanding loan balance will be forgiven in full, the company said. Trading in Spectre's shares remains halted under TSX Venture Exchange policy pending the exchange's review of the qualifying transaction and satisfaction of its conditions for resumption."
+   ]
+  },
+  {
+   "slug": "st-georges-files-q1-results-details-steps-to-resume-trading",
+   "url": "https://www.cmbulletin.com/posts/st-georges-files-q1-results-details-steps-to-resume-trading.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/st-georges-files-q1-results-details-steps-to-resume-trading.json",
+   "date": "2026-10-10T12:19:45Z",
+   "headline": "St-Georges files Q1 results, details steps to resume trading",
+   "dek": "The company reported a $681,444 net loss and said it will work with regulators toward lifting the failure-to-file cease trade order issued September 30.",
+   "caption": "St-Georges remains halted on the CSE as it works toward lifting a failure-to-file cease trade order.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Regulatory",
+    "Financial Results",
+    "Going Concern"
+   ],
+   "tickers": [
+    "CSE:SX",
+    "OTCQB:SXOOF",
+    "FSE:85G1"
+   ],
+   "image": "https://www.cmbulletin.com/images/st-georges-files-q1-results-details-steps-to-resume-trading.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "St-Georges Files First-Quarter Financial Results & Provides Update on Steps Toward Resumption of Trading",
+     "url": "https://thenewswire.com/press-releases/1Av7FdlK3-st-georges-files-first-quarter-financial-results-provides-update-on-steps-toward-resumption-of-trading.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The company's account of its going-concern recovery plan, including reliance on EVSX battery-processing activity, access to financing, cost reductions and creditor arrangements, rests on its own statement.",
+    "The company's description of its subsidiaries and intellectual property portfolio is its own characterization."
+   ],
+   "brief": [
+    "St-Georges Eco-Mining Corp. filed its unaudited interim financial statements for the three months ended June 30, 2026, reporting a net loss of $681,444 and a net and comprehensive loss of $683,095. Total assets stood at $25,725,934, shareholders' equity at $18,801,233, and the company reported a working capital deficiency of $5,616,857.",
+    "The filings follow a failure-to-file cease trade order the British Columbia Securities Commission issued on September 30, 2026, which suspended trading in St-Georges shares on the Canadian Securities Exchange. The company said filing the outstanding documents does not, by itself, revoke the cease trade order.",
+    "St-Georges said it will engage with the BCSC and the CSE to advance the steps required to seek revocation, including confirming its continuous disclosure record and responding to regulatory requests. The company said it cannot provide a definitive date for revocation of the order or for resumption of trading."
+   ]
+  },
+  {
+   "slug": "canadian-employment-fell-68-000-in-september",
+   "url": "https://www.cmbulletin.com/posts/canadian-employment-fell-68-000-in-september.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/canadian-employment-fell-68-000-in-september.json",
+   "date": "2026-10-10T12:19:45Z",
+   "headline": "Canadian employment fell 68,000 in September",
+   "dek": "Statistics Canada said the unemployment rate rose to 6.5% as the employment rate slipped to 60.6%.",
+   "caption": "Statistics Canada's September Labour Force Survey showed broad job losses across education, health care and manufacturing.",
+   "sections": [
+    "markets"
+   ],
+   "tags": [
+    "Macro",
+    "Employment",
+    "Canada"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/canadian-employment-fell-68-000-in-september.png",
+   "source_name": "Statistics Canada — The Daily",
+   "sources": [
+    {
+     "title": "Labour Force Survey, September 2026",
+     "url": "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009a-eng.htm",
+     "publisher": "Statistics Canada — The Daily"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Statistics Canada said employment fell by 68,000, or 0.3%, in September, with the reference period covering September 13 to 19, 2026. The unemployment rate rose 0.1 percentage points to 6.5%, and the employment rate fell 0.2 percentage points to 60.6%, the agency said in its Labour Force Survey.",
+    "The agency said full-time employment declined by 35,000, or 0.2%, while part-time employment fell by 33,000, or 0.9%. Among industries, Statistics Canada reported declines in educational services (-35,000), health care and social assistance (-23,000) and manufacturing (-13,000), and growth in other services such as repair, maintenance and personal services (+17,000).",
+    "Statistics Canada said average hourly wages among employees rose 2.3% year over year, up 86 cents to $37.64. The agency reported declines in employment in Quebec, British Columbia and Manitoba, and increases in Alberta, Newfoundland and Labrador, and Prince Edward Island. Public sector employment fell for a fourth consecutive month, the agency said."
+   ]
+  },
+  {
+   "slug": "evernorth-completes-business-combination-lists-on-nasdaq",
+   "url": "https://www.cmbulletin.com/posts/evernorth-completes-business-combination-lists-on-nasdaq.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/evernorth-completes-business-combination-lists-on-nasdaq.json",
+   "date": "2026-10-10T12:19:45Z",
+   "headline": "Evernorth completes business combination, lists on Nasdaq",
+   "dek": "The combined company holds about 473 million XRP and roughly $300 million in gross cash proceeds, with trading set to begin October 12.",
+   "caption": "Evernorth's shares begin trading on Nasdaq this week, the latest token-holding vehicle to reach the exchange.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "M&A",
+    "Listing",
+    "Digital Assets"
+   ],
+   "tickers": [
+    "NASDAQ:XRPN"
+   ],
+   "image": "https://www.cmbulletin.com/images/evernorth-completes-business-combination-lists-on-nasdaq.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "Evernorth Completes Business Combination with Armada Acquisition Corp. II",
+     "url": "https://www.prnewswire.com/news-releases/evernorth-completes-business-combination-with-armada-acquisition-corp-ii-302903875.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [
+    "Evernorth's reported holdings of approximately 473 million XRP and approximately $300 million in gross cash proceeds at closing are as stated in the company's own release and have not been independently verified.",
+    "The company's characterization of itself as 'a digital asset treasury company' and its stated strategy are the company's own description."
+   ],
+   "brief": [
+    "Evernorth Holdings, Inc. completed its business combination with Armada Acquisition Corp. II on October 9, 2026. The company describes itself as \"a digital asset treasury company building institutional access to the XRP economy at scale.\" Its shares are set to begin trading on Nasdaq under the ticker XRPN on October 12, 2026.",
+    "At closing, the company held approximately 473 million XRP and had raised approximately $300 million in gross cash proceeds before transaction expenses, according to the release. Citigroup Global Markets Inc. acted as sole private placement agent and capital markets advisor to Evernorth. Davis Polk & Wardwell LLP advised Evernorth, and Wilson Sonsini Goodrich & Rosati advised Armada.",
+    "Evernorth said it expects to ring the Nasdaq closing bell on October 14, 2026, an event it said will bring together company leadership, investors and members of the XRP ecosystem. Chief executive Asheesh Birla said the company intends to deploy capital across the XRP economy to support infrastructure and use cases that expand XRP's utility."
+   ]
+  },
+  {
+   "slug": "it-tech-packaging-wins-nyse-american-extension-to-april-2027",
+   "url": "https://www.cmbulletin.com/posts/it-tech-packaging-wins-nyse-american-extension-to-april-2027.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/it-tech-packaging-wins-nyse-american-extension-to-april-2027.json",
+   "date": "2026-10-10T12:19:45Z",
+   "headline": "IT Tech Packaging wins NYSE American extension to April 2027",
+   "dek": "NYSE Regulation granted the extension after the company missed three SEC filings, including its 2025 annual report.",
+   "caption": "IT Tech Packaging's shares keep trading under a late-filer flag while it works to catch up on overdue SEC reports.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Regulatory",
+    "Compliance",
+    "Listing"
+   ],
+   "tickers": [
+    "NYSEAMERICAN:ITP"
+   ],
+   "image": "https://www.cmbulletin.com/images/it-tech-packaging-wins-nyse-american-extension-to-april-2027.png",
+   "source_name": "PR Newswire",
+   "sources": [
+    {
+     "title": "IT Tech Packaging, Inc. Announces NYSE Regulation Acceptance of Extension Request; Listing Continued Pursuant to Extension Through April 15, 2027",
+     "url": "https://www.prnewswire.com/news-releases/it-tech-packaging-inc-announces-nyse-regulation-acceptance-of-extension-request-listing-continued-pursuant-to-extension-through-april-15-2027-302903204.html",
+     "publisher": "PR Newswire"
+    }
+   ],
+   "unverified_claims": [
+    "The company's description of its paper-products business and history is drawn from its own release."
+   ],
+   "brief": [
+    "IT Tech Packaging, Inc. said NYSE Regulation accepted its request for an extension to remain listed on NYSE American, continuing its listing through a plan period with a target completion date of April 15, 2027. The company submitted the extension request on October 1, 2026, and NYSE Regulation accepted it on October 7, 2026.",
+    "The extension follows the company's failure to timely file its annual report on Form 10-K for the year ended December 31, 2025, and its quarterly reports on Form 10-Q for the quarters ended March 31, 2026, and June 30, 2026, which it said violated Sections 134 and 1101 of the NYSE American Company Guide. Its shares now carry a \".LF\" late filer indicator and continue trading.",
+    "The company said its common stock will keep trading on NYSE American during the plan period, subject to its compliance with the plan and other listing requirements. If it does not make progress consistent with the plan or fails to complete the delayed filings by April 15, 2027, the company said exchange staff will initiate delisting proceedings."
+   ]
+  },
   {
    "slug": "intermap-completes-7-7-million-buyout-of-pci-geomatics",
    "url": "https://www.cmbulletin.com/posts/intermap-completes-7-7-million-buyout-of-pci-geomatics.html",

@@ -1,0 +1,45 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-10T12:31:20Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "canadian-employment-fell-68-000-in-september",
+ "url": "https://www.cmbulletin.com/posts/canadian-employment-fell-68-000-in-september.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/canadian-employment-fell-68-000-in-september.json",
+ "date": "2026-10-10T12:19:45Z",
+ "headline": "Canadian employment fell 68,000 in September",
+ "dek": "Statistics Canada said the unemployment rate rose to 6.5% as the employment rate slipped to 60.6%.",
+ "caption": "Statistics Canada's September Labour Force Survey showed broad job losses across education, health care and manufacturing.",
+ "sections": [
+  "markets"
+ ],
+ "tags": [
+  "Macro",
+  "Employment",
+  "Canada"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/canadian-employment-fell-68-000-in-september.png",
+ "source_name": "Statistics Canada — The Daily",
+ "sources": [
+  {
+   "title": "Labour Force Survey, September 2026",
+   "url": "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009a-eng.htm",
+   "publisher": "Statistics Canada — The Daily"
+  }
+ ],
+ "unverified_claims": [],
+ "brief": [
+  "Statistics Canada said employment fell by 68,000, or 0.3%, in September, with the reference period covering September 13 to 19, 2026. The unemployment rate rose 0.1 percentage points to 6.5%, and the employment rate fell 0.2 percentage points to 60.6%, the agency said in its Labour Force Survey.",
+  "The agency said full-time employment declined by 35,000, or 0.2%, while part-time employment fell by 33,000, or 0.9%. Among industries, Statistics Canada reported declines in educational services (-35,000), health care and social assistance (-23,000) and manufacturing (-13,000), and growth in other services such as repair, maintenance and personal services (+17,000).",
+  "Statistics Canada said average hourly wages among employees rose 2.3% year over year, up 86 cents to $37.64. The agency reported declines in employment in Quebec, British Columbia and Manitoba, and increases in Alberta, Newfoundland and Labrador, and Prince Edward Island. Public sector employment fell for a fourth consecutive month, the agency said."
+ ],
+ "body": [
+  "Statistics Canada said employment fell by 68,000, or 0.3%, in September 2026, for the reference period of September 13 to 19. The unemployment rate rose 0.1 percentage points to 6.5%, the employment rate fell 0.2 percentage points to 60.6%, and the labour force participation rate fell 0.2 percentage points to 64.8%. The decline was split between full-time employment, down 35,000, or 0.2%, and part-time employment, down 33,000, or 0.9%, the agency said in its monthly Labour Force Survey.",
+  "By industry, Statistics Canada reported declines in educational services (-35,000, or -2.2%), health care and social assistance (-23,000, or -0.8%), and manufacturing (-13,000, or -0.7%). It reported growth in other services, a category covering repair, maintenance and personal services, which rose 17,000, or 2.1%.",
+  "Statistics Canada said employment among youth aged 15 to 24 fell by 48,000, or 1.8%, and among core-aged women aged 25 to 54 fell by 28,000, or 0.4%, with the unemployment rate for that group rising to 5.3%.",
+  "By region, the agency reported employment declines in Quebec (-49,000, or -1.1%), British Columbia (-20,000, or -0.7%) and Manitoba (-4,400, or -0.6%), and increases in Alberta (+23,000, or +0.9%), Newfoundland and Labrador (+1,800, or +0.7%) and Prince Edward Island (+1,000, or 1.0%).",
+  "Statistics Canada said average hourly wages among employees rose 2.3% year over year, up 86 cents, to $37.64. It also reported that public sector employment fell by 70,000, or 1.5%, for a fourth consecutive month, self-employment fell by 23,000, or 0.8%, the job-finding rate declined to 30.6% from 32.8% a year earlier, and the layoff rate was 0.7%, compared with 0.6% a year earlier."
+ ]
+}

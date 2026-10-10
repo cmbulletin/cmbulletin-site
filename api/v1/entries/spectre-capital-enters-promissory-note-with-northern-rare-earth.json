@@ -1,0 +1,49 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-10T12:31:20Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "spectre-capital-enters-promissory-note-with-northern-rare-earth",
+ "url": "https://www.cmbulletin.com/posts/spectre-capital-enters-promissory-note-with-northern-rare-earth.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/spectre-capital-enters-promissory-note-with-northern-rare-earth.json",
+ "date": "2026-10-10T12:19:45Z",
+ "headline": "Spectre Capital enters promissory note with Northern Rare Earth",
+ "dek": "The non-interest-bearing loan of up to C$100,000 funds Spectre's costs tied to its proposed qualifying transaction with Northern Rare Earth Corp.",
+ "caption": "Spectre Capital's shares remain halted as the TSX Venture Exchange reviews its proposed combination with a rare earth company.",
+ "sections": [
+  "mining"
+ ],
+ "tags": [
+  "Mining",
+  "M&A",
+  "Capital Pool Company"
+ ],
+ "tickers": [
+  "TSXV:SOO.P"
+ ],
+ "image": "https://www.cmbulletin.com/images/spectre-capital-enters-promissory-note-with-northern-rare-earth.png",
+ "source_name": "TheNewswire.ca",
+ "sources": [
+  {
+   "title": "Spectre Announces Promissory Note with Northern Rare Earth Corp.",
+   "url": "https://thenewswire.com/press-releases/1BKRFa4KN-spectre-announces-promissory-note-with-northern-rare-earth-corp.html",
+   "publisher": "TheNewswire.ca"
+  }
+ ],
+ "unverified_claims": [
+  "The characterization of Spectre as a capital pool company and the structure, amount and terms of the loan and the proposed qualifying transaction are as stated solely in Spectre's own release."
+ ],
+ "brief": [
+  "Spectre Capital Corp. has entered into a non-interest-bearing, unsecured grid promissory note with Northern Rare Earth Corp., under which NREC will lend Spectre up to C$100,000. The loan funds Spectre's direct, bona fide, third-party transaction expenses related to its proposed qualifying transaction with NREC, first announced May 28, 2026, and updated August 18, 2026.",
+  "Spectre is a capital pool company listed on the TSX Venture Exchange under the symbol SOO.P. The loan may be drawn in multiple advances, each subject to NREC's prior written approval, and carries no finder's fee, commission or other compensation. The outstanding balance is payable in full once the qualifying transaction closes.",
+  "If the proposed transaction does not close and the definitive amalgamation agreement is terminated under its terms, the outstanding loan balance will be forgiven in full, the company said. Trading in Spectre's shares remains halted under TSX Venture Exchange policy pending the exchange's review of the qualifying transaction and satisfaction of its conditions for resumption."
+ ],
+ "body": [
+  "Spectre Capital Corp. (TSX-V: SOO.P) said it has entered into a non-interest-bearing, unsecured grid promissory note with Northern Rare Earth Corp. (\"NREC\"), under which NREC will lend Spectre up to C$100,000. Spectre said the loan will be used exclusively to fund its direct, bona fide, third-party transaction expenses in connection with its proposed qualifying transaction with NREC, as previously announced in its news releases dated May 28, 2026, and August 18, 2026.",
+  "The release describes Spectre as a capital pool company — a listed shell with no operating business, used under TSX Venture Exchange rules to raise a small amount of seed capital and then identify an operating business to combine with in what the exchange calls a qualifying transaction. Under that structure, Spectre is the public vehicle and NREC is the business it has proposed to combine with.",
+  "The loan takes the form of a grid promissory note, meaning it can be drawn down in multiple advances up to the C$100,000 ceiling rather than disbursed as a single sum; each advance requires NREC's prior written approval, the release said. No finder's fee, commission or other compensation is payable in connection with the loan.",
+  "The outstanding principal balance is payable in full once the qualifying transaction completes. Spectre said that if the transaction does not close and the definitive amalgamation agreement is terminated in accordance with its terms, the outstanding balance will instead be forgiven in full.",
+  "Trading in Spectre's shares has been halted in compliance with TSX Venture Exchange policy; the release said trading will remain halted pending the exchange's review of the qualifying transaction and satisfaction of its conditions for resumption."
+ ]
+}

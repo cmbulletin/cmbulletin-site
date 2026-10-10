@@ -1,0 +1,52 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-10T12:31:20Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "st-georges-files-q1-results-details-steps-to-resume-trading",
+ "url": "https://www.cmbulletin.com/posts/st-georges-files-q1-results-details-steps-to-resume-trading.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/st-georges-files-q1-results-details-steps-to-resume-trading.json",
+ "date": "2026-10-10T12:19:45Z",
+ "headline": "St-Georges files Q1 results, details steps to resume trading",
+ "dek": "The company reported a $681,444 net loss and said it will work with regulators toward lifting the failure-to-file cease trade order issued September 30.",
+ "caption": "St-Georges remains halted on the CSE as it works toward lifting a failure-to-file cease trade order.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "Regulatory",
+  "Financial Results",
+  "Going Concern"
+ ],
+ "tickers": [
+  "CSE:SX",
+  "OTCQB:SXOOF",
+  "FSE:85G1"
+ ],
+ "image": "https://www.cmbulletin.com/images/st-georges-files-q1-results-details-steps-to-resume-trading.png",
+ "source_name": "TheNewswire.ca",
+ "sources": [
+  {
+   "title": "St-Georges Files First-Quarter Financial Results & Provides Update on Steps Toward Resumption of Trading",
+   "url": "https://thenewswire.com/press-releases/1Av7FdlK3-st-georges-files-first-quarter-financial-results-provides-update-on-steps-toward-resumption-of-trading.html",
+   "publisher": "TheNewswire.ca"
+  }
+ ],
+ "unverified_claims": [
+  "The company's account of its going-concern recovery plan, including reliance on EVSX battery-processing activity, access to financing, cost reductions and creditor arrangements, rests on its own statement.",
+  "The company's description of its subsidiaries and intellectual property portfolio is its own characterization."
+ ],
+ "brief": [
+  "St-Georges Eco-Mining Corp. filed its unaudited interim financial statements for the three months ended June 30, 2026, reporting a net loss of $681,444 and a net and comprehensive loss of $683,095. Total assets stood at $25,725,934, shareholders' equity at $18,801,233, and the company reported a working capital deficiency of $5,616,857.",
+  "The filings follow a failure-to-file cease trade order the British Columbia Securities Commission issued on September 30, 2026, which suspended trading in St-Georges shares on the Canadian Securities Exchange. The company said filing the outstanding documents does not, by itself, revoke the cease trade order.",
+  "St-Georges said it will engage with the BCSC and the CSE to advance the steps required to seek revocation, including confirming its continuous disclosure record and responding to regulatory requests. The company said it cannot provide a definitive date for revocation of the order or for resumption of trading."
+ ],
+ "body": [
+  "St-Georges Eco-Mining Corp. (CSE: SX) said it has filed its unaudited condensed consolidated interim financial statements, related management's discussion and analysis, and required officer certifications for the three months ended June 30, 2026. The company reported a net loss of $681,444 and a net and comprehensive loss of $683,095 for the period. It said total assets were $25,725,934 and shareholders' equity was $18,801,233, with a working capital deficiency of $5,616,857.",
+  "The company said its financial statements include disclosure of material uncertainty that may cast significant doubt on its ability to continue as a going concern. It said management's plans depend, among other factors, on increased battery-processing activity at its EVSX subsidiary, access to financing, cost reductions and arrangements with creditors.",
+  "The filings follow a failure-to-file cease trade order the British Columbia Securities Commission issued on September 30, 2026, which suspended trading in St-Georges shares on the Canadian Securities Exchange. St-Georges said that filing the outstanding documents does not, by itself, revoke the cease trade order.",
+  "St-Georges said it will engage with the BCSC and the CSE to advance the steps required to seek revocation, which it described as including confirming the status of its continuous disclosure record, responding to any regulatory comments or requests for additional information, and completing any further requirements identified by the applicable authorities.",
+  "The company said it cannot provide a definitive date for the revocation of the cease trade order or the resumption of trading. St-Georges describes itself in the release as a company that develops new technologies and holds a diversified portfolio of assets and patent-pending intellectual property across several subsidiaries, including EVSX, a battery-processing initiative, along with St-Georges Metallurgy, Iceland Resources, H2SX and exploration projects in Quebec."
+ ]
+}
