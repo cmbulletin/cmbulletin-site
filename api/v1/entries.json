@@ -1,11 +1,134 @@
 {
  "api": "v1",
- "generated_at": "2026-10-10T12:31:20Z",
+ "generated_at": "2026-10-11T12:26:31Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 46,
+ "count": 49,
  "entries": [
+  {
+   "slug": "scottie-resources-closes-c-21-4-million-private-placement",
+   "url": "https://www.cmbulletin.com/posts/scottie-resources-closes-c-21-4-million-private-placement.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/scottie-resources-closes-c-21-4-million-private-placement.json",
+   "date": "2026-10-11T12:17:50Z",
+   "headline": "Scottie Resources closes C$21.4-million private placement",
+   "dek": "The brokered and non-brokered tranches issued 7.36 million shares, with a second non-brokered tranche of about C$2.6 million expected around October 14.",
+   "caption": "Investors have backed a British Columbia gold developer's latest capital raise, closed in two tranches on October 9.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Gold",
+    "Flow-Through"
+   ],
+   "tickers": [
+    "TSXV:SCOT",
+    "OTCQB:SCTSF"
+   ],
+   "image": "https://www.cmbulletin.com/images/scottie-resources-closes-c-21-4-million-private-placement.png",
+   "source_name": "Newsfile Corp. (via Rohstoff-Welt)",
+   "sources": [
+    {
+     "title": "Scottie Resources Announces Closing of Brokered Private Placement and Initial Tranche of Non-Brokered Private Placement",
+     "url": "https://www.rohstoff-welt.de/news/749417--Scottie-Resources-Announces-Closing-of-Brokered-Private-Placement-and-Initial-Tranche-of-Non-Brokered-Private-Placement.html",
+     "publisher": "Newsfile Corp. (via Rohstoff-Welt)"
+    },
+    {
+     "title": "Scottie Resources Secures C$21.4 Million in Private Placement to Propel Scottie Gold Mine Development",
+     "url": "https://kalkinemedia.com/ca/news/announcements/scottie-resources-secures-c214-million-in-private-placement-to-propel-scottie-gold-mine-development",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "The anticipated second non-brokered tranche of about C$2.6 million closing around October 14, 2026, is the company's own forward-looking statement and remains subject to TSX Venture Exchange approval.",
+    "The characterization of related-party participation as representing less than 25% of market capitalization is as stated by the company."
+   ],
+   "brief": [
+    "Scottie Resources Corp. (TSXV: SCOT) closed a brokered private placement and the initial tranche of a non-brokered private placement on October 9, 2026, issuing 7,359,870 shares, including 194,212 flow-through shares, for aggregate gross proceeds of C$21,382,465.40. Common shares were priced at C$2.90 and flow-through shares at C$3.10.",
+    "The brokered tranche was conducted under an agency agreement dated October 9, 2026 with Velocity Capital Partners as sole bookrunner, alongside Agentis Capital Markets and Beacon Securities Limited. The agents received a cash fee of C$442,457.99 and 152,572 compensation warrants exercisable at C$2.90 until October 9, 2028; non-brokered finders received C$330,306.64 in cash and 113,899 warrants on the same terms.",
+    "Related parties purchased 1,379,310 common shares and 24,565 flow-through shares, representing less than 25% of market capitalization. The securities carry a statutory hold period expiring February 10, 2027. Net proceeds will fund corporate purposes and work at the Scottie Gold Mine Project; the company expects a further non-brokered tranche of about C$2.6 million around October 14."
+   ]
+  },
+  {
+   "slug": "algo8-ai-secures-final-approval-to-list-on-cse",
+   "url": "https://www.cmbulletin.com/posts/algo8-ai-secures-final-approval-to-list-on-cse.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/algo8-ai-secures-final-approval-to-list-on-cse.json",
+   "date": "2026-10-11T12:17:50Z",
+   "headline": "Algo8 AI secures final approval to list on CSE",
+   "dek": "Trading in the industrial AI company's shares, under the symbol AIOS, is expected to begin on or about October 13, following an October 6 plan of arrangement.",
+   "caption": "An industrial AI company bringing its plant-floor software to public markets this week, under a new CSE listing.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Technology",
+    "Listing",
+    "Industrial AI",
+    "CSE"
+   ],
+   "tickers": [
+    "CSE:AIOS"
+   ],
+   "image": "https://www.cmbulletin.com/images/algo8-ai-secures-final-approval-to-list-on-cse.png",
+   "source_name": "Newsfile Corp. (via TradingView)",
+   "sources": [
+    {
+     "title": "Algo8 AI Inc. Announces Final Approval from Canadian Securities Exchange for Listing Under the Symbol \"AIOS\", Bringing an Industrial AI Operating System with More than 80 Deployments Worldwide to the Public Markets",
+     "url": "https://www.tradingview.com/news/tmx_newsfile:351df7c9c094b:0-algo8-ai-inc-announces-final-approval-from-canadian-securities-exchange-for-listing-under-the-symbol-aios-bringing-an-industrial-ai-operating-system-with-more-than-80-deployments-worldwide-to-the-public-markets/",
+     "publisher": "Newsfile Corp. (via TradingView)"
+    },
+    {
+     "title": "Algo8 AI Inc. Secures Final Approval from CSE to List PlantBrain™ AI Platform with Over 80 Global Installations",
+     "url": "https://kalkinemedia.com/ca/news/announcements/algo8-ai-inc-secures-final-approval-from-cse-to-list-plantbrain-ai-platform-with-over-80-global-installations",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "The count of more than 80 PlantBrain deployments and their sector and geographic breakdown rest on the company's own disclosure.",
+    "The approximately $4.0 million initial contract value with the unnamed global tire manufacturer is as stated by the company; the release itself flags potential recurring support revenue as uncertain.",
+    "The $2.79 million Chemelex LLC strategic investment figure is as stated in the release, which does not say when the investment occurred relative to the arrangement or listing."
+   ],
+   "brief": [
+    "Algo8 AI Inc. received final approval from the Canadian Securities Exchange to list its common shares under the symbol AIOS, with trading expected to begin on or about October 13, 2026. The listing follows the October 6, 2026 closing of a plan of arrangement under which Algo8 AI acquired the Algo8 business.",
+    "Shares issued to former Algo8 Industrial AI Inc. shareholders and finders under the arrangement, representing about 66.06% of shares outstanding, carry transfer restrictions. Founders, management and advisors are restricted from trading for 12 months after listing, released in stages through the 36-month anniversary; shares held by Chemelex LLC and finders release 50% at six months and the remainder at 12 months.",
+    "The company's PlantBrain platform has more than 80 deployments across the steel, tire, automotive and energy sectors, according to the release, including a Phase 1 multi-plant deployment with a global tire manufacturer under an initial contract of about $4.0 million. Chemelex LLC made a $2.79 million strategic investment; the release says potential recurring support revenue under the tire-manufacturer contract may not be realized."
+   ]
+  },
+  {
+   "slug": "statcan-releases-first-sector-based-producer-price-indexes",
+   "url": "https://www.cmbulletin.com/posts/statcan-releases-first-sector-based-producer-price-indexes.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/statcan-releases-first-sector-based-producer-price-indexes.json",
+   "date": "2026-10-11T12:17:50Z",
+   "headline": "StatCan releases first sector-based producer price indexes",
+   "dek": "The new quarterly measure, developed with the Bank of Canada, tracks price changes across energy, non-energy, goods and services sectors, covering the second quarter of 2026.",
+   "caption": "Statistics Canada introduces a new quarterly gauge of producer price pressures across the Canadian economy.",
+   "sections": [
+    "markets"
+   ],
+   "tags": [
+    "Macro",
+    "Economic Data",
+    "Inflation"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/statcan-releases-first-sector-based-producer-price-indexes.png",
+   "source_name": "Statistics Canada — The Daily",
+   "sources": [
+    {
+     "title": "Sector-based Producer Price Indexes, second quarter 2026",
+     "url": "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009f-eng.htm",
+     "publisher": "Statistics Canada — The Daily"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Statistics Canada published the Sector-based Producer Price Indexes for the first time on October 9, 2026, for the second quarter of 2026. The agency said the indexes measure price changes across four broad producer sectors: energy, non-energy, goods and services.",
+    "The methodology was developed by the Bank of Canada. Statistics Canada said the indexes are intended to support research into firms' price-setting behaviour and inflation dynamics, including economic modelling. The indexes are published quarterly, are not seasonally adjusted, and are available only at the national level.",
+    "Statistics Canada said the previous two quarters of data are revised with every release, and that the full series is revised back to the start of the weight reference year whenever the index weights are updated. The agency gave contact details for inquiries about the indexes' concepts, methods and data quality."
+   ]
+  },
   {
    "slug": "spectre-capital-enters-promissory-note-with-northern-rare-earth",
    "url": "https://www.cmbulletin.com/posts/spectre-capital-enters-promissory-note-with-northern-rare-earth.html",

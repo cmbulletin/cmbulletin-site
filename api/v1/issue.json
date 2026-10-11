@@ -1,231 +1,155 @@
 {
  "api": "v1",
- "generated_at": "2026-10-10T12:31:20Z",
+ "generated_at": "2026-10-11T12:26:31Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-10",
- "count": 5,
+ "issue_date": "2026-10-11",
+ "count": 3,
  "entries": [
   {
-   "slug": "spectre-capital-enters-promissory-note-with-northern-rare-earth",
-   "url": "https://www.cmbulletin.com/posts/spectre-capital-enters-promissory-note-with-northern-rare-earth.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/spectre-capital-enters-promissory-note-with-northern-rare-earth.json",
-   "date": "2026-10-10T12:19:45Z",
-   "headline": "Spectre Capital enters promissory note with Northern Rare Earth",
-   "dek": "The non-interest-bearing loan of up to C$100,000 funds Spectre's costs tied to its proposed qualifying transaction with Northern Rare Earth Corp.",
-   "caption": "Spectre Capital's shares remain halted as the TSX Venture Exchange reviews its proposed combination with a rare earth company.",
+   "slug": "scottie-resources-closes-c-21-4-million-private-placement",
+   "url": "https://www.cmbulletin.com/posts/scottie-resources-closes-c-21-4-million-private-placement.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/scottie-resources-closes-c-21-4-million-private-placement.json",
+   "date": "2026-10-11T12:17:50Z",
+   "headline": "Scottie Resources closes C$21.4-million private placement",
+   "dek": "The brokered and non-brokered tranches issued 7.36 million shares, with a second non-brokered tranche of about C$2.6 million expected around October 14.",
+   "caption": "Investors have backed a British Columbia gold developer's latest capital raise, closed in two tranches on October 9.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
-    "M&A",
-    "Capital Pool Company"
+    "Financing",
+    "Gold",
+    "Flow-Through"
    ],
    "tickers": [
-    "TSXV:SOO.P"
+    "TSXV:SCOT",
+    "OTCQB:SCTSF"
    ],
-   "image": "https://www.cmbulletin.com/images/spectre-capital-enters-promissory-note-with-northern-rare-earth.png",
-   "source_name": "TheNewswire.ca",
+   "image": "https://www.cmbulletin.com/images/scottie-resources-closes-c-21-4-million-private-placement.png",
+   "source_name": "Newsfile Corp. (via Rohstoff-Welt)",
    "sources": [
     {
-     "title": "Spectre Announces Promissory Note with Northern Rare Earth Corp.",
-     "url": "https://thenewswire.com/press-releases/1BKRFa4KN-spectre-announces-promissory-note-with-northern-rare-earth-corp.html",
-     "publisher": "TheNewswire.ca"
+     "title": "Scottie Resources Announces Closing of Brokered Private Placement and Initial Tranche of Non-Brokered Private Placement",
+     "url": "https://www.rohstoff-welt.de/news/749417--Scottie-Resources-Announces-Closing-of-Brokered-Private-Placement-and-Initial-Tranche-of-Non-Brokered-Private-Placement.html",
+     "publisher": "Newsfile Corp. (via Rohstoff-Welt)"
+    },
+    {
+     "title": "Scottie Resources Secures C$21.4 Million in Private Placement to Propel Scottie Gold Mine Development",
+     "url": "https://kalkinemedia.com/ca/news/announcements/scottie-resources-secures-c214-million-in-private-placement-to-propel-scottie-gold-mine-development",
+     "publisher": "Kalkine Media — Canada"
     }
    ],
    "unverified_claims": [
-    "The characterization of Spectre as a capital pool company and the structure, amount and terms of the loan and the proposed qualifying transaction are as stated solely in Spectre's own release."
+    "The anticipated second non-brokered tranche of about C$2.6 million closing around October 14, 2026, is the company's own forward-looking statement and remains subject to TSX Venture Exchange approval.",
+    "The characterization of related-party participation as representing less than 25% of market capitalization is as stated by the company."
    ],
    "brief": [
-    "Spectre Capital Corp. has entered into a non-interest-bearing, unsecured grid promissory note with Northern Rare Earth Corp., under which NREC will lend Spectre up to C$100,000. The loan funds Spectre's direct, bona fide, third-party transaction expenses related to its proposed qualifying transaction with NREC, first announced May 28, 2026, and updated August 18, 2026.",
-    "Spectre is a capital pool company listed on the TSX Venture Exchange under the symbol SOO.P. The loan may be drawn in multiple advances, each subject to NREC's prior written approval, and carries no finder's fee, commission or other compensation. The outstanding balance is payable in full once the qualifying transaction closes.",
-    "If the proposed transaction does not close and the definitive amalgamation agreement is terminated under its terms, the outstanding loan balance will be forgiven in full, the company said. Trading in Spectre's shares remains halted under TSX Venture Exchange policy pending the exchange's review of the qualifying transaction and satisfaction of its conditions for resumption."
+    "Scottie Resources Corp. (TSXV: SCOT) closed a brokered private placement and the initial tranche of a non-brokered private placement on October 9, 2026, issuing 7,359,870 shares, including 194,212 flow-through shares, for aggregate gross proceeds of C$21,382,465.40. Common shares were priced at C$2.90 and flow-through shares at C$3.10.",
+    "The brokered tranche was conducted under an agency agreement dated October 9, 2026 with Velocity Capital Partners as sole bookrunner, alongside Agentis Capital Markets and Beacon Securities Limited. The agents received a cash fee of C$442,457.99 and 152,572 compensation warrants exercisable at C$2.90 until October 9, 2028; non-brokered finders received C$330,306.64 in cash and 113,899 warrants on the same terms.",
+    "Related parties purchased 1,379,310 common shares and 24,565 flow-through shares, representing less than 25% of market capitalization. The securities carry a statutory hold period expiring February 10, 2027. Net proceeds will fund corporate purposes and work at the Scottie Gold Mine Project; the company expects a further non-brokered tranche of about C$2.6 million around October 14."
    ],
    "body": [
-    "Spectre Capital Corp. (TSX-V: SOO.P) said it has entered into a non-interest-bearing, unsecured grid promissory note with Northern Rare Earth Corp. (\"NREC\"), under which NREC will lend Spectre up to C$100,000. Spectre said the loan will be used exclusively to fund its direct, bona fide, third-party transaction expenses in connection with its proposed qualifying transaction with NREC, as previously announced in its news releases dated May 28, 2026, and August 18, 2026.",
-    "The release describes Spectre as a capital pool company — a listed shell with no operating business, used under TSX Venture Exchange rules to raise a small amount of seed capital and then identify an operating business to combine with in what the exchange calls a qualifying transaction. Under that structure, Spectre is the public vehicle and NREC is the business it has proposed to combine with.",
-    "The loan takes the form of a grid promissory note, meaning it can be drawn down in multiple advances up to the C$100,000 ceiling rather than disbursed as a single sum; each advance requires NREC's prior written approval, the release said. No finder's fee, commission or other compensation is payable in connection with the loan.",
-    "The outstanding principal balance is payable in full once the qualifying transaction completes. Spectre said that if the transaction does not close and the definitive amalgamation agreement is terminated in accordance with its terms, the outstanding balance will instead be forgiven in full.",
-    "Trading in Spectre's shares has been halted in compliance with TSX Venture Exchange policy; the release said trading will remain halted pending the exchange's review of the qualifying transaction and satisfaction of its conditions for resumption."
+    "Scottie Resources Corp. (TSXV: SCOT) (OTCQB: SCTSF) (FSE: SR80) closed a brokered private placement and the initial tranche of a non-brokered private placement on October 9, 2026. The combined offering issued 7,359,870 shares, including 194,212 flow-through shares, at C$2.90 per common share and C$3.10 per flow-through share, for aggregate gross proceeds of C$21,382,465.40.",
+    "The brokered tranche was conducted under an agency agreement dated October 9, 2026, with Velocity Capital Partners acting as sole bookrunner, alongside Agentis Capital Markets and Beacon Securities Limited as agents. In connection with the brokered offering, the company paid the agents a cash fee of C$442,457.99 and issued 152,572 compensation warrants, each exercisable at C$2.90 per share until October 9, 2028.",
+    "For the initial tranche of the non-brokered offering, the company paid cash finder's fees of C$330,306.64 and issued 113,899 finder's warrants on the same terms as the compensation warrants. The release described the non-brokered offering as proceeding in tranches, with the first tranche closing alongside the brokered placement.",
+    "Related parties purchased 1,379,310 of the non-brokered common shares and 24,565 of the flow-through shares in the offering, which the company said represented less than 25% of its market capitalization. All securities issued in the offering are subject to a statutory hold period expiring February 10, 2027.",
+    "The company said net proceeds from the offering will be used for general corporate purposes, including technical studies and permitting work at the Scottie Gold Mine Project in British Columbia's Golden Triangle. Proceeds from the flow-through shares are earmarked for Canadian exploration expenses, which the company intends to renounce to subscribers effective December 31, 2026.",
+    "Scottie Resources said it anticipates closing a further non-brokered tranche of approximately C$2.6 million on or about October 14, 2026, subject to the approval of the TSX Venture Exchange and other customary conditions. The company's flagship project is the Scottie Gold Mine, located in British Columbia's Golden Triangle region."
    ]
   },
   {
-   "slug": "st-georges-files-q1-results-details-steps-to-resume-trading",
-   "url": "https://www.cmbulletin.com/posts/st-georges-files-q1-results-details-steps-to-resume-trading.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/st-georges-files-q1-results-details-steps-to-resume-trading.json",
-   "date": "2026-10-10T12:19:45Z",
-   "headline": "St-Georges files Q1 results, details steps to resume trading",
-   "dek": "The company reported a $681,444 net loss and said it will work with regulators toward lifting the failure-to-file cease trade order issued September 30.",
-   "caption": "St-Georges remains halted on the CSE as it works toward lifting a failure-to-file cease trade order.",
+   "slug": "algo8-ai-secures-final-approval-to-list-on-cse",
+   "url": "https://www.cmbulletin.com/posts/algo8-ai-secures-final-approval-to-list-on-cse.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/algo8-ai-secures-final-approval-to-list-on-cse.json",
+   "date": "2026-10-11T12:17:50Z",
+   "headline": "Algo8 AI secures final approval to list on CSE",
+   "dek": "Trading in the industrial AI company's shares, under the symbol AIOS, is expected to begin on or about October 13, following an October 6 plan of arrangement.",
+   "caption": "An industrial AI company bringing its plant-floor software to public markets this week, under a new CSE listing.",
    "sections": [
-    "news"
+    "tech"
    ],
    "tags": [
-    "Regulatory",
-    "Financial Results",
-    "Going Concern"
+    "Technology",
+    "Listing",
+    "Industrial AI",
+    "CSE"
    ],
    "tickers": [
-    "CSE:SX",
-    "OTCQB:SXOOF",
-    "FSE:85G1"
+    "CSE:AIOS"
    ],
-   "image": "https://www.cmbulletin.com/images/st-georges-files-q1-results-details-steps-to-resume-trading.png",
-   "source_name": "TheNewswire.ca",
+   "image": "https://www.cmbulletin.com/images/algo8-ai-secures-final-approval-to-list-on-cse.png",
+   "source_name": "Newsfile Corp. (via TradingView)",
    "sources": [
     {
-     "title": "St-Georges Files First-Quarter Financial Results & Provides Update on Steps Toward Resumption of Trading",
-     "url": "https://thenewswire.com/press-releases/1Av7FdlK3-st-georges-files-first-quarter-financial-results-provides-update-on-steps-toward-resumption-of-trading.html",
-     "publisher": "TheNewswire.ca"
+     "title": "Algo8 AI Inc. Announces Final Approval from Canadian Securities Exchange for Listing Under the Symbol \"AIOS\", Bringing an Industrial AI Operating System with More than 80 Deployments Worldwide to the Public Markets",
+     "url": "https://www.tradingview.com/news/tmx_newsfile:351df7c9c094b:0-algo8-ai-inc-announces-final-approval-from-canadian-securities-exchange-for-listing-under-the-symbol-aios-bringing-an-industrial-ai-operating-system-with-more-than-80-deployments-worldwide-to-the-public-markets/",
+     "publisher": "Newsfile Corp. (via TradingView)"
+    },
+    {
+     "title": "Algo8 AI Inc. Secures Final Approval from CSE to List PlantBrain™ AI Platform with Over 80 Global Installations",
+     "url": "https://kalkinemedia.com/ca/news/announcements/algo8-ai-inc-secures-final-approval-from-cse-to-list-plantbrain-ai-platform-with-over-80-global-installations",
+     "publisher": "Kalkine Media — Canada"
     }
    ],
    "unverified_claims": [
-    "The company's account of its going-concern recovery plan, including reliance on EVSX battery-processing activity, access to financing, cost reductions and creditor arrangements, rests on its own statement.",
-    "The company's description of its subsidiaries and intellectual property portfolio is its own characterization."
+    "The count of more than 80 PlantBrain deployments and their sector and geographic breakdown rest on the company's own disclosure.",
+    "The approximately $4.0 million initial contract value with the unnamed global tire manufacturer is as stated by the company; the release itself flags potential recurring support revenue as uncertain.",
+    "The $2.79 million Chemelex LLC strategic investment figure is as stated in the release, which does not say when the investment occurred relative to the arrangement or listing."
    ],
    "brief": [
-    "St-Georges Eco-Mining Corp. filed its unaudited interim financial statements for the three months ended June 30, 2026, reporting a net loss of $681,444 and a net and comprehensive loss of $683,095. Total assets stood at $25,725,934, shareholders' equity at $18,801,233, and the company reported a working capital deficiency of $5,616,857.",
-    "The filings follow a failure-to-file cease trade order the British Columbia Securities Commission issued on September 30, 2026, which suspended trading in St-Georges shares on the Canadian Securities Exchange. The company said filing the outstanding documents does not, by itself, revoke the cease trade order.",
-    "St-Georges said it will engage with the BCSC and the CSE to advance the steps required to seek revocation, including confirming its continuous disclosure record and responding to regulatory requests. The company said it cannot provide a definitive date for revocation of the order or for resumption of trading."
+    "Algo8 AI Inc. received final approval from the Canadian Securities Exchange to list its common shares under the symbol AIOS, with trading expected to begin on or about October 13, 2026. The listing follows the October 6, 2026 closing of a plan of arrangement under which Algo8 AI acquired the Algo8 business.",
+    "Shares issued to former Algo8 Industrial AI Inc. shareholders and finders under the arrangement, representing about 66.06% of shares outstanding, carry transfer restrictions. Founders, management and advisors are restricted from trading for 12 months after listing, released in stages through the 36-month anniversary; shares held by Chemelex LLC and finders release 50% at six months and the remainder at 12 months.",
+    "The company's PlantBrain platform has more than 80 deployments across the steel, tire, automotive and energy sectors, according to the release, including a Phase 1 multi-plant deployment with a global tire manufacturer under an initial contract of about $4.0 million. Chemelex LLC made a $2.79 million strategic investment; the release says potential recurring support revenue under the tire-manufacturer contract may not be realized."
    ],
    "body": [
-    "St-Georges Eco-Mining Corp. (CSE: SX) said it has filed its unaudited condensed consolidated interim financial statements, related management's discussion and analysis, and required officer certifications for the three months ended June 30, 2026. The company reported a net loss of $681,444 and a net and comprehensive loss of $683,095 for the period. It said total assets were $25,725,934 and shareholders' equity was $18,801,233, with a working capital deficiency of $5,616,857.",
-    "The company said its financial statements include disclosure of material uncertainty that may cast significant doubt on its ability to continue as a going concern. It said management's plans depend, among other factors, on increased battery-processing activity at its EVSX subsidiary, access to financing, cost reductions and arrangements with creditors.",
-    "The filings follow a failure-to-file cease trade order the British Columbia Securities Commission issued on September 30, 2026, which suspended trading in St-Georges shares on the Canadian Securities Exchange. St-Georges said that filing the outstanding documents does not, by itself, revoke the cease trade order.",
-    "St-Georges said it will engage with the BCSC and the CSE to advance the steps required to seek revocation, which it described as including confirming the status of its continuous disclosure record, responding to any regulatory comments or requests for additional information, and completing any further requirements identified by the applicable authorities.",
-    "The company said it cannot provide a definitive date for the revocation of the cease trade order or the resumption of trading. St-Georges describes itself in the release as a company that develops new technologies and holds a diversified portfolio of assets and patent-pending intellectual property across several subsidiaries, including EVSX, a battery-processing initiative, along with St-Georges Metallurgy, Iceland Resources, H2SX and exploration projects in Quebec."
+    "Algo8 AI Inc. received final approval from the Canadian Securities Exchange to list its common shares under the symbol \"AIOS\" (CUSIP 016917106, ISIN CA0169171067), with trading expected to begin on or about October 13, 2026. The listing follows the October 6, 2026 closing of a previously announced plan of arrangement under which the company acquired the Algo8 business.",
+    "Shares issued to former Algo8 Industrial AI Inc. shareholders and finders in connection with the arrangement, representing approximately 66.06% of the issued and outstanding shares, are subject to restrictions on transfer. Founders, management and advisors are restricted from trading for the first 12 months after listing, with shares released in stages through the 36-month anniversary of the trading date. Shares issued to Chemelex LLC and finders carry a shorter lock-up, releasing 50% six months after the trading date and the remaining 50% at 12 months.",
+    "The company's PlantBrain industrial AI operating system has more than 80 deployments across the steel, tire, automotive and energy sectors, according to the release, with operations across North America, Europe, the Middle East, Africa and Asia. The release said customer engagements have expanded from single-site installations to multi-site programs.",
+    "Among those engagements, the company cited a Phase 1 multi-plant deployment with a global tire manufacturer, under an initial contract valued at approximately $4.0 million, plus the potential for recurring support revenue. The release's forward-looking statements caution that this potential recurring revenue may not be realized.",
+    "The release also cited a $2.79 million strategic investment in the company from Chemelex LLC, without stating when that investment was made relative to the arrangement or the listing. The company's leadership includes Co-Founder and CEO Nandan Mishra, a graduate of IIT Kanpur and a former Google Maps engineer; Co-Founder and Chief Technology Officer Himanshu Singh, also an IIT Kanpur graduate; and President and Director Brandon Kou, formerly chief executive of the publicly traded Leef Brands.",
+    "Trading in Algo8 AI's shares is expected to begin on or about October 13, 2026, on the Canadian Securities Exchange under the symbol AIOS, with the listing completing the company's transition to a standalone, independent publicly traded entity following the arrangement."
    ]
   },
   {
-   "slug": "canadian-employment-fell-68-000-in-september",
-   "url": "https://www.cmbulletin.com/posts/canadian-employment-fell-68-000-in-september.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/canadian-employment-fell-68-000-in-september.json",
-   "date": "2026-10-10T12:19:45Z",
-   "headline": "Canadian employment fell 68,000 in September",
-   "dek": "Statistics Canada said the unemployment rate rose to 6.5% as the employment rate slipped to 60.6%.",
-   "caption": "Statistics Canada's September Labour Force Survey showed broad job losses across education, health care and manufacturing.",
+   "slug": "statcan-releases-first-sector-based-producer-price-indexes",
+   "url": "https://www.cmbulletin.com/posts/statcan-releases-first-sector-based-producer-price-indexes.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/statcan-releases-first-sector-based-producer-price-indexes.json",
+   "date": "2026-10-11T12:17:50Z",
+   "headline": "StatCan releases first sector-based producer price indexes",
+   "dek": "The new quarterly measure, developed with the Bank of Canada, tracks price changes across energy, non-energy, goods and services sectors, covering the second quarter of 2026.",
+   "caption": "Statistics Canada introduces a new quarterly gauge of producer price pressures across the Canadian economy.",
    "sections": [
     "markets"
    ],
    "tags": [
     "Macro",
-    "Employment",
-    "Canada"
+    "Economic Data",
+    "Inflation"
    ],
    "tickers": [],
-   "image": "https://www.cmbulletin.com/images/canadian-employment-fell-68-000-in-september.png",
+   "image": "https://www.cmbulletin.com/images/statcan-releases-first-sector-based-producer-price-indexes.png",
    "source_name": "Statistics Canada — The Daily",
    "sources": [
     {
-     "title": "Labour Force Survey, September 2026",
-     "url": "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009a-eng.htm",
+     "title": "Sector-based Producer Price Indexes, second quarter 2026",
+     "url": "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009f-eng.htm",
      "publisher": "Statistics Canada — The Daily"
     }
    ],
    "unverified_claims": [],
    "brief": [
-    "Statistics Canada said employment fell by 68,000, or 0.3%, in September, with the reference period covering September 13 to 19, 2026. The unemployment rate rose 0.1 percentage points to 6.5%, and the employment rate fell 0.2 percentage points to 60.6%, the agency said in its Labour Force Survey.",
-    "The agency said full-time employment declined by 35,000, or 0.2%, while part-time employment fell by 33,000, or 0.9%. Among industries, Statistics Canada reported declines in educational services (-35,000), health care and social assistance (-23,000) and manufacturing (-13,000), and growth in other services such as repair, maintenance and personal services (+17,000).",
-    "Statistics Canada said average hourly wages among employees rose 2.3% year over year, up 86 cents to $37.64. The agency reported declines in employment in Quebec, British Columbia and Manitoba, and increases in Alberta, Newfoundland and Labrador, and Prince Edward Island. Public sector employment fell for a fourth consecutive month, the agency said."
+    "Statistics Canada published the Sector-based Producer Price Indexes for the first time on October 9, 2026, for the second quarter of 2026. The agency said the indexes measure price changes across four broad producer sectors: energy, non-energy, goods and services.",
+    "The methodology was developed by the Bank of Canada. Statistics Canada said the indexes are intended to support research into firms' price-setting behaviour and inflation dynamics, including economic modelling. The indexes are published quarterly, are not seasonally adjusted, and are available only at the national level.",
+    "Statistics Canada said the previous two quarters of data are revised with every release, and that the full series is revised back to the start of the weight reference year whenever the index weights are updated. The agency gave contact details for inquiries about the indexes' concepts, methods and data quality."
    ],
    "body": [
-    "Statistics Canada said employment fell by 68,000, or 0.3%, in September 2026, for the reference period of September 13 to 19. The unemployment rate rose 0.1 percentage points to 6.5%, the employment rate fell 0.2 percentage points to 60.6%, and the labour force participation rate fell 0.2 percentage points to 64.8%. The decline was split between full-time employment, down 35,000, or 0.2%, and part-time employment, down 33,000, or 0.9%, the agency said in its monthly Labour Force Survey.",
-    "By industry, Statistics Canada reported declines in educational services (-35,000, or -2.2%), health care and social assistance (-23,000, or -0.8%), and manufacturing (-13,000, or -0.7%). It reported growth in other services, a category covering repair, maintenance and personal services, which rose 17,000, or 2.1%.",
-    "Statistics Canada said employment among youth aged 15 to 24 fell by 48,000, or 1.8%, and among core-aged women aged 25 to 54 fell by 28,000, or 0.4%, with the unemployment rate for that group rising to 5.3%.",
-    "By region, the agency reported employment declines in Quebec (-49,000, or -1.1%), British Columbia (-20,000, or -0.7%) and Manitoba (-4,400, or -0.6%), and increases in Alberta (+23,000, or +0.9%), Newfoundland and Labrador (+1,800, or +0.7%) and Prince Edward Island (+1,000, or 1.0%).",
-    "Statistics Canada said average hourly wages among employees rose 2.3% year over year, up 86 cents, to $37.64. It also reported that public sector employment fell by 70,000, or 1.5%, for a fourth consecutive month, self-employment fell by 23,000, or 0.8%, the job-finding rate declined to 30.6% from 32.8% a year earlier, and the layoff rate was 0.7%, compared with 0.6% a year earlier."
-   ]
-  },
-  {
-   "slug": "evernorth-completes-business-combination-lists-on-nasdaq",
-   "url": "https://www.cmbulletin.com/posts/evernorth-completes-business-combination-lists-on-nasdaq.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/evernorth-completes-business-combination-lists-on-nasdaq.json",
-   "date": "2026-10-10T12:19:45Z",
-   "headline": "Evernorth completes business combination, lists on Nasdaq",
-   "dek": "The combined company holds about 473 million XRP and roughly $300 million in gross cash proceeds, with trading set to begin October 12.",
-   "caption": "Evernorth's shares begin trading on Nasdaq this week, the latest token-holding vehicle to reach the exchange.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "M&A",
-    "Listing",
-    "Digital Assets"
-   ],
-   "tickers": [
-    "NASDAQ:XRPN"
-   ],
-   "image": "https://www.cmbulletin.com/images/evernorth-completes-business-combination-lists-on-nasdaq.png",
-   "source_name": "PR Newswire — financial services",
-   "sources": [
-    {
-     "title": "Evernorth Completes Business Combination with Armada Acquisition Corp. II",
-     "url": "https://www.prnewswire.com/news-releases/evernorth-completes-business-combination-with-armada-acquisition-corp-ii-302903875.html",
-     "publisher": "PR Newswire — financial services"
-    }
-   ],
-   "unverified_claims": [
-    "Evernorth's reported holdings of approximately 473 million XRP and approximately $300 million in gross cash proceeds at closing are as stated in the company's own release and have not been independently verified.",
-    "The company's characterization of itself as 'a digital asset treasury company' and its stated strategy are the company's own description."
-   ],
-   "brief": [
-    "Evernorth Holdings, Inc. completed its business combination with Armada Acquisition Corp. II on October 9, 2026. The company describes itself as \"a digital asset treasury company building institutional access to the XRP economy at scale.\" Its shares are set to begin trading on Nasdaq under the ticker XRPN on October 12, 2026.",
-    "At closing, the company held approximately 473 million XRP and had raised approximately $300 million in gross cash proceeds before transaction expenses, according to the release. Citigroup Global Markets Inc. acted as sole private placement agent and capital markets advisor to Evernorth. Davis Polk & Wardwell LLP advised Evernorth, and Wilson Sonsini Goodrich & Rosati advised Armada.",
-    "Evernorth said it expects to ring the Nasdaq closing bell on October 14, 2026, an event it said will bring together company leadership, investors and members of the XRP ecosystem. Chief executive Asheesh Birla said the company intends to deploy capital across the XRP economy to support infrastructure and use cases that expand XRP's utility."
-   ],
-   "body": [
-    "Evernorth Holdings, Inc. (Nasdaq: XRPN) said it completed its business combination with Armada Acquisition Corp. II on October 9, 2026. The company describes itself as \"a digital asset treasury company building institutional access to the XRP economy at scale.\" Evernorth said that at closing it held approximately 473 million XRP and had raised approximately $300 million in gross cash proceeds, before transaction expenses. Trading in Evernorth's shares on Nasdaq under the ticker XRPN is set to begin October 12, 2026.",
-    "Armada Acquisition Corp. II was a special purpose acquisition company — a listed vehicle that raises capital and then seeks to combine with an operating business. In a completed business combination of this kind, the public shell and any additional investment raised alongside the closing become the capital of the surviving company, which in this case is Evernorth.",
-    "Citigroup Global Markets Inc. acted as sole private placement agent and capital markets advisor to Evernorth, with Davis Polk & Wardwell LLP serving as the company's legal counsel. Wilson Sonsini Goodrich & Rosati, P.C. served as legal counsel to Armada; Cohen and Company Capital Markets and Northland Securities Inc. advised Armada, and Skadden, Arps, Slate, Meagher & Flom LLP advised Citigroup, according to the release.",
-    "The company said its strategy is \"strategies designed to grow XRP per share over time through institutional and DeFi yield strategies, ecosystem participation, and capital markets activities.\" Chief executive Asheesh Birla said: \"We'll be deploying capital across the XRP economy, supporting the infrastructure and use cases that expand XRP's utility.\"",
-    "The release names Arrington Capital, SBI Group, Ripple, Pantera Capital, Kraken and GSR as investors in the transaction, and identifies Arrington XRP Capital Fund, LP as sponsor of the Armada vehicle.",
-    "Evernorth said it expects to ring the Nasdaq closing bell on October 14, 2026, an event it said will bring together company leadership, investors and members of the XRP ecosystem. Trading under the ticker XRPN begins two days earlier, on October 12, 2026."
-   ]
-  },
-  {
-   "slug": "it-tech-packaging-wins-nyse-american-extension-to-april-2027",
-   "url": "https://www.cmbulletin.com/posts/it-tech-packaging-wins-nyse-american-extension-to-april-2027.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/it-tech-packaging-wins-nyse-american-extension-to-april-2027.json",
-   "date": "2026-10-10T12:19:45Z",
-   "headline": "IT Tech Packaging wins NYSE American extension to April 2027",
-   "dek": "NYSE Regulation granted the extension after the company missed three SEC filings, including its 2025 annual report.",
-   "caption": "IT Tech Packaging's shares keep trading under a late-filer flag while it works to catch up on overdue SEC reports.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "Regulatory",
-    "Compliance",
-    "Listing"
-   ],
-   "tickers": [
-    "NYSEAMERICAN:ITP"
-   ],
-   "image": "https://www.cmbulletin.com/images/it-tech-packaging-wins-nyse-american-extension-to-april-2027.png",
-   "source_name": "PR Newswire",
-   "sources": [
-    {
-     "title": "IT Tech Packaging, Inc. Announces NYSE Regulation Acceptance of Extension Request; Listing Continued Pursuant to Extension Through April 15, 2027",
-     "url": "https://www.prnewswire.com/news-releases/it-tech-packaging-inc-announces-nyse-regulation-acceptance-of-extension-request-listing-continued-pursuant-to-extension-through-april-15-2027-302903204.html",
-     "publisher": "PR Newswire"
-    }
-   ],
-   "unverified_claims": [
-    "The company's description of its paper-products business and history is drawn from its own release."
-   ],
-   "brief": [
-    "IT Tech Packaging, Inc. said NYSE Regulation accepted its request for an extension to remain listed on NYSE American, continuing its listing through a plan period with a target completion date of April 15, 2027. The company submitted the extension request on October 1, 2026, and NYSE Regulation accepted it on October 7, 2026.",
-    "The extension follows the company's failure to timely file its annual report on Form 10-K for the year ended December 31, 2025, and its quarterly reports on Form 10-Q for the quarters ended March 31, 2026, and June 30, 2026, which it said violated Sections 134 and 1101 of the NYSE American Company Guide. Its shares now carry a \".LF\" late filer indicator and continue trading.",
-    "The company said its common stock will keep trading on NYSE American during the plan period, subject to its compliance with the plan and other listing requirements. If it does not make progress consistent with the plan or fails to complete the delayed filings by April 15, 2027, the company said exchange staff will initiate delisting proceedings."
-   ],
-   "body": [
-    "IT Tech Packaging, Inc. (NYSE American: ITP) said NYSE Regulation has accepted its request for an extension of time to regain compliance with the exchange's continued listing standards. The company said it submitted its extension request on October 1, 2026, and that NYSE Regulation accepted it on October 7, 2026, granting a plan period running to what the company called a \"New Cure Deadline\" of April 15, 2027.",
-    "The company describes itself in the release as a manufacturer and distributor of diversified paper products in North China, founded in 1996 and based in Baoding, producing corrugating medium paper, offset printing paper and tissue products using recycled paper as its primary raw material, with the exception of its tissue products.",
-    "IT Tech Packaging said it failed to timely file its Form 10-K for the year ended December 31, 2025, and its Form 10-Q reports for the quarters ended March 31, 2026, and June 30, 2026, putting it in violation of Sections 134 and 1101 of the NYSE American Company Guide, which require timely filing of periodic reports with the SEC.",
-    "The company said its common stock will continue to be listed and trade on NYSE American during the plan period, now carrying a \".LF\" indicator marking it as a late filer, subject to its compliance with the plan and other applicable continued listing requirements.",
-    "IT Tech Packaging said that if it does not make progress consistent with the plan, or fails to complete the delayed filings by the April 15, 2027 deadline, NYSE Regulation staff will initiate delisting proceedings as appropriate; it said it may appeal such a determination under Section 1010 and Part 12 of the NYSE American Company Guide. The release does not state why the three filings were delayed."
+    "Statistics Canada released the Sector-based Producer Price Indexes for the first time on October 9, 2026, covering the second quarter of 2026. The agency said the indexes measure price changes across four broad producer sectors it names as energy, non-energy, goods and services.",
+    "The methodology behind the series was developed by the Bank of Canada. Statistics Canada said the indexes are intended to support research and analysis of firms' price-setting behaviour and inflation dynamics, including the development of economic models.",
+    "The agency said the indexes are published quarterly and are not seasonally adjusted, and are available only at the national level. It said the previous two quarters of data are revised with every release, and the full series is revised back to the start of the weight reference year whenever the index weights are updated.",
+    "The Daily notice itself reports no specific index values or period-over-period changes for the quarter; it introduces the new series' scope and methodology. Statistics Canada listed separate telephone numbers and email addresses for inquiries about the indexes' concepts, methods and data quality, and for media inquiries."
    ]
   }
  ]

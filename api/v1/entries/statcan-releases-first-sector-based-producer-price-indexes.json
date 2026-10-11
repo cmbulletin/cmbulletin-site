@@ -1,0 +1,44 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-11T12:26:31Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "statcan-releases-first-sector-based-producer-price-indexes",
+ "url": "https://www.cmbulletin.com/posts/statcan-releases-first-sector-based-producer-price-indexes.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/statcan-releases-first-sector-based-producer-price-indexes.json",
+ "date": "2026-10-11T12:17:50Z",
+ "headline": "StatCan releases first sector-based producer price indexes",
+ "dek": "The new quarterly measure, developed with the Bank of Canada, tracks price changes across energy, non-energy, goods and services sectors, covering the second quarter of 2026.",
+ "caption": "Statistics Canada introduces a new quarterly gauge of producer price pressures across the Canadian economy.",
+ "sections": [
+  "markets"
+ ],
+ "tags": [
+  "Macro",
+  "Economic Data",
+  "Inflation"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/statcan-releases-first-sector-based-producer-price-indexes.png",
+ "source_name": "Statistics Canada — The Daily",
+ "sources": [
+  {
+   "title": "Sector-based Producer Price Indexes, second quarter 2026",
+   "url": "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009f-eng.htm",
+   "publisher": "Statistics Canada — The Daily"
+  }
+ ],
+ "unverified_claims": [],
+ "brief": [
+  "Statistics Canada published the Sector-based Producer Price Indexes for the first time on October 9, 2026, for the second quarter of 2026. The agency said the indexes measure price changes across four broad producer sectors: energy, non-energy, goods and services.",
+  "The methodology was developed by the Bank of Canada. Statistics Canada said the indexes are intended to support research into firms' price-setting behaviour and inflation dynamics, including economic modelling. The indexes are published quarterly, are not seasonally adjusted, and are available only at the national level.",
+  "Statistics Canada said the previous two quarters of data are revised with every release, and that the full series is revised back to the start of the weight reference year whenever the index weights are updated. The agency gave contact details for inquiries about the indexes' concepts, methods and data quality."
+ ],
+ "body": [
+  "Statistics Canada released the Sector-based Producer Price Indexes for the first time on October 9, 2026, covering the second quarter of 2026. The agency said the indexes measure price changes across four broad producer sectors it names as energy, non-energy, goods and services.",
+  "The methodology behind the series was developed by the Bank of Canada. Statistics Canada said the indexes are intended to support research and analysis of firms' price-setting behaviour and inflation dynamics, including the development of economic models.",
+  "The agency said the indexes are published quarterly and are not seasonally adjusted, and are available only at the national level. It said the previous two quarters of data are revised with every release, and the full series is revised back to the start of the weight reference year whenever the index weights are updated.",
+  "The Daily notice itself reports no specific index values or period-over-period changes for the quarter; it introduces the new series' scope and methodology. Statistics Canada listed separate telephone numbers and email addresses for inquiries about the indexes' concepts, methods and data quality, and for media inquiries."
+ ]
+}

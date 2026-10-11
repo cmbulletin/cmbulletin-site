@@ -1,12 +1,30 @@
 {
  "api": "v1",
- "generated_at": "2026-10-10T12:31:20Z",
+ "generated_at": "2026-10-11T12:26:31Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 41,
+ "count": 42,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
+  {
+   "company": "Scottie Resources Corp.",
+   "ticker": "TSXV:SCOT",
+   "type": "Brokered and non-brokered private placement",
+   "currency": "C$",
+   "closed": "2026-10-09",
+   "agent": "Velocity Capital Partners (sole bookrunner), Agentis Capital Markets and Beacon Securities Limited",
+   "hold_period": true,
+   "note": "Combines C$2.90 per common share and C$3.10 per flow-through share; agents/finders also received cash fees and compensation or finder warrants; a further non-brokered tranche of about C$2.6 million is expected to close separately around October 14, 2026.",
+   "gross": 21382465.4,
+   "units": 7359870.0,
+   "price": null,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": "2027-02-07",
+   "entry_url": "https://www.cmbulletin.com/posts/scottie-resources-closes-c-21-4-million-private-placement.html"
+  },
   {
    "company": "Nord Precious Metals Mining Inc.",
    "ticker": "TSXV:NTH",
