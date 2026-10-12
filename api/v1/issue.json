@@ -1,155 +1,56 @@
 {
  "api": "v1",
- "generated_at": "2026-10-11T12:26:31Z",
+ "generated_at": "2026-10-12T12:25:09Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-11",
- "count": 3,
+ "issue_date": "2026-10-12",
+ "count": 1,
  "entries": [
   {
-   "slug": "scottie-resources-closes-c-21-4-million-private-placement",
-   "url": "https://www.cmbulletin.com/posts/scottie-resources-closes-c-21-4-million-private-placement.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/scottie-resources-closes-c-21-4-million-private-placement.json",
-   "date": "2026-10-11T12:17:50Z",
-   "headline": "Scottie Resources closes C$21.4-million private placement",
-   "dek": "The brokered and non-brokered tranches issued 7.36 million shares, with a second non-brokered tranche of about C$2.6 million expected around October 14.",
-   "caption": "Investors have backed a British Columbia gold developer's latest capital raise, closed in two tranches on October 9.",
-   "sections": [
-    "mining"
-   ],
-   "tags": [
-    "Mining",
-    "Financing",
-    "Gold",
-    "Flow-Through"
-   ],
-   "tickers": [
-    "TSXV:SCOT",
-    "OTCQB:SCTSF"
-   ],
-   "image": "https://www.cmbulletin.com/images/scottie-resources-closes-c-21-4-million-private-placement.png",
-   "source_name": "Newsfile Corp. (via Rohstoff-Welt)",
-   "sources": [
-    {
-     "title": "Scottie Resources Announces Closing of Brokered Private Placement and Initial Tranche of Non-Brokered Private Placement",
-     "url": "https://www.rohstoff-welt.de/news/749417--Scottie-Resources-Announces-Closing-of-Brokered-Private-Placement-and-Initial-Tranche-of-Non-Brokered-Private-Placement.html",
-     "publisher": "Newsfile Corp. (via Rohstoff-Welt)"
-    },
-    {
-     "title": "Scottie Resources Secures C$21.4 Million in Private Placement to Propel Scottie Gold Mine Development",
-     "url": "https://kalkinemedia.com/ca/news/announcements/scottie-resources-secures-c214-million-in-private-placement-to-propel-scottie-gold-mine-development",
-     "publisher": "Kalkine Media — Canada"
-    }
-   ],
-   "unverified_claims": [
-    "The anticipated second non-brokered tranche of about C$2.6 million closing around October 14, 2026, is the company's own forward-looking statement and remains subject to TSX Venture Exchange approval.",
-    "The characterization of related-party participation as representing less than 25% of market capitalization is as stated by the company."
-   ],
-   "brief": [
-    "Scottie Resources Corp. (TSXV: SCOT) closed a brokered private placement and the initial tranche of a non-brokered private placement on October 9, 2026, issuing 7,359,870 shares, including 194,212 flow-through shares, for aggregate gross proceeds of C$21,382,465.40. Common shares were priced at C$2.90 and flow-through shares at C$3.10.",
-    "The brokered tranche was conducted under an agency agreement dated October 9, 2026 with Velocity Capital Partners as sole bookrunner, alongside Agentis Capital Markets and Beacon Securities Limited. The agents received a cash fee of C$442,457.99 and 152,572 compensation warrants exercisable at C$2.90 until October 9, 2028; non-brokered finders received C$330,306.64 in cash and 113,899 warrants on the same terms.",
-    "Related parties purchased 1,379,310 common shares and 24,565 flow-through shares, representing less than 25% of market capitalization. The securities carry a statutory hold period expiring February 10, 2027. Net proceeds will fund corporate purposes and work at the Scottie Gold Mine Project; the company expects a further non-brokered tranche of about C$2.6 million around October 14."
-   ],
-   "body": [
-    "Scottie Resources Corp. (TSXV: SCOT) (OTCQB: SCTSF) (FSE: SR80) closed a brokered private placement and the initial tranche of a non-brokered private placement on October 9, 2026. The combined offering issued 7,359,870 shares, including 194,212 flow-through shares, at C$2.90 per common share and C$3.10 per flow-through share, for aggregate gross proceeds of C$21,382,465.40.",
-    "The brokered tranche was conducted under an agency agreement dated October 9, 2026, with Velocity Capital Partners acting as sole bookrunner, alongside Agentis Capital Markets and Beacon Securities Limited as agents. In connection with the brokered offering, the company paid the agents a cash fee of C$442,457.99 and issued 152,572 compensation warrants, each exercisable at C$2.90 per share until October 9, 2028.",
-    "For the initial tranche of the non-brokered offering, the company paid cash finder's fees of C$330,306.64 and issued 113,899 finder's warrants on the same terms as the compensation warrants. The release described the non-brokered offering as proceeding in tranches, with the first tranche closing alongside the brokered placement.",
-    "Related parties purchased 1,379,310 of the non-brokered common shares and 24,565 of the flow-through shares in the offering, which the company said represented less than 25% of its market capitalization. All securities issued in the offering are subject to a statutory hold period expiring February 10, 2027.",
-    "The company said net proceeds from the offering will be used for general corporate purposes, including technical studies and permitting work at the Scottie Gold Mine Project in British Columbia's Golden Triangle. Proceeds from the flow-through shares are earmarked for Canadian exploration expenses, which the company intends to renounce to subscribers effective December 31, 2026.",
-    "Scottie Resources said it anticipates closing a further non-brokered tranche of approximately C$2.6 million on or about October 14, 2026, subject to the approval of the TSX Venture Exchange and other customary conditions. The company's flagship project is the Scottie Gold Mine, located in British Columbia's Golden Triangle region."
-   ]
-  },
-  {
-   "slug": "algo8-ai-secures-final-approval-to-list-on-cse",
-   "url": "https://www.cmbulletin.com/posts/algo8-ai-secures-final-approval-to-list-on-cse.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/algo8-ai-secures-final-approval-to-list-on-cse.json",
-   "date": "2026-10-11T12:17:50Z",
-   "headline": "Algo8 AI secures final approval to list on CSE",
-   "dek": "Trading in the industrial AI company's shares, under the symbol AIOS, is expected to begin on or about October 13, following an October 6 plan of arrangement.",
-   "caption": "An industrial AI company bringing its plant-floor software to public markets this week, under a new CSE listing.",
+   "slug": "euro-tech-forms-norway-joint-venture-for-ballast-water-treatment",
+   "url": "https://www.cmbulletin.com/posts/euro-tech-forms-norway-joint-venture-for-ballast-water-treatment.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/euro-tech-forms-norway-joint-venture-for-ballast-water-treatment.json",
+   "date": "2026-10-12T12:20:50Z",
+   "headline": "Euro Tech forms Norway joint venture for ballast water treatment",
+   "dek": "Euro Tech Global and Sea Clean AS will jointly operate CleanPACT Environmental and Marine Engineering AS, a customer experience center for the company's PortoBallast system in Torvastad, Norway.",
+   "caption": "A ballast water treatment unit arrives at a Norwegian port, where Euro Tech Holdings and Sea Clean AS will jointly operate a customer center.",
    "sections": [
     "tech"
    ],
    "tags": [
     "Technology",
-    "Listing",
-    "Industrial AI",
-    "CSE"
+    "Joint Venture",
+    "International Expansion"
    ],
    "tickers": [
-    "CSE:AIOS"
+    "NASDAQ:CLWT"
    ],
-   "image": "https://www.cmbulletin.com/images/algo8-ai-secures-final-approval-to-list-on-cse.png",
-   "source_name": "Newsfile Corp. (via TradingView)",
+   "image": "https://www.cmbulletin.com/images/euro-tech-forms-norway-joint-venture-for-ballast-water-treatment.png",
+   "source_name": "PR Newswire — financial services",
    "sources": [
     {
-     "title": "Algo8 AI Inc. Announces Final Approval from Canadian Securities Exchange for Listing Under the Symbol \"AIOS\", Bringing an Industrial AI Operating System with More than 80 Deployments Worldwide to the Public Markets",
-     "url": "https://www.tradingview.com/news/tmx_newsfile:351df7c9c094b:0-algo8-ai-inc-announces-final-approval-from-canadian-securities-exchange-for-listing-under-the-symbol-aios-bringing-an-industrial-ai-operating-system-with-more-than-80-deployments-worldwide-to-the-public-markets/",
-     "publisher": "Newsfile Corp. (via TradingView)"
-    },
-    {
-     "title": "Algo8 AI Inc. Secures Final Approval from CSE to List PlantBrain™ AI Platform with Over 80 Global Installations",
-     "url": "https://kalkinemedia.com/ca/news/announcements/algo8-ai-inc-secures-final-approval-from-cse-to-list-plantbrain-ai-platform-with-over-80-global-installations",
-     "publisher": "Kalkine Media — Canada"
+     "title": "Euro Tech Holdings Company Limited Announces The Company has signed a 50/50 Joint Venture Agreement With Sea Clean AS In Norway",
+     "url": "https://www.prnewswire.com/news-releases/euro-tech-holdings-company-limited-announces-the-company-has-signed-a-5050-joint-venture-agreement-with-sea-clean-as-in-norway-302905554.html",
+     "publisher": "PR Newswire — financial services"
     }
    ],
    "unverified_claims": [
-    "The count of more than 80 PlantBrain deployments and their sector and geographic breakdown rest on the company's own disclosure.",
-    "The approximately $4.0 million initial contract value with the unnamed global tire manufacturer is as stated by the company; the release itself flags potential recurring support revenue as uncertain.",
-    "The $2.79 million Chemelex LLC strategic investment figure is as stated in the release, which does not say when the investment occurred relative to the arrangement or listing."
+    "Sea Clean AS's statement that it has served more than 2,300 vessels is sourced to the release's own company description and not independently verified.",
+    "Euro Tech's expectation that promoting PortoBallast across Scandinavia will serve as a stepping stone to the European market and give it a new global sales platform is the company's own stated belief, not a confirmed outcome."
    ],
    "brief": [
-    "Algo8 AI Inc. received final approval from the Canadian Securities Exchange to list its common shares under the symbol AIOS, with trading expected to begin on or about October 13, 2026. The listing follows the October 6, 2026 closing of a plan of arrangement under which Algo8 AI acquired the Algo8 business.",
-    "Shares issued to former Algo8 Industrial AI Inc. shareholders and finders under the arrangement, representing about 66.06% of shares outstanding, carry transfer restrictions. Founders, management and advisors are restricted from trading for 12 months after listing, released in stages through the 36-month anniversary; shares held by Chemelex LLC and finders release 50% at six months and the remainder at 12 months.",
-    "The company's PlantBrain platform has more than 80 deployments across the steel, tire, automotive and energy sectors, according to the release, including a Phase 1 multi-plant deployment with a global tire manufacturer under an initial contract of about $4.0 million. Chemelex LLC made a $2.79 million strategic investment; the release says potential recurring support revenue under the tire-manufacturer contract may not be realized."
+    "Euro Tech Holdings Company Limited (Nasdaq: CLWT) said its wholly owned subsidiary, Euro Tech Global Pte Ltd, has signed a 50/50 joint venture agreement with Sea Clean AS of Norway. The joint venture, CleanPACT Environmental and Marine Engineering AS, will operate as a customer experience center for the company's PortoBallast ballast water treatment system.",
+    "CleanPACT will offer hands-on demonstrations, servicing, simulations and training using PortoBallast, a mobile hybrid system designed to treat ballast water from vessels whose UV or electrolysis treatment systems fail discharge compliance requirements. The release describes the venture as combining Euro Tech's technology with Sea Clean's local knowledge, port experience and client reach.",
+    "Sea Clean is setting up and commissioning the PortoBallast unit, which has arrived at its port site in Torvastad, Norway, according to the release. Euro Tech said the joint venture will also promote PortoBallast across Scandinavia as a step toward entering the European market. The release discloses no financial terms of the agreement."
    ],
    "body": [
-    "Algo8 AI Inc. received final approval from the Canadian Securities Exchange to list its common shares under the symbol \"AIOS\" (CUSIP 016917106, ISIN CA0169171067), with trading expected to begin on or about October 13, 2026. The listing follows the October 6, 2026 closing of a previously announced plan of arrangement under which the company acquired the Algo8 business.",
-    "Shares issued to former Algo8 Industrial AI Inc. shareholders and finders in connection with the arrangement, representing approximately 66.06% of the issued and outstanding shares, are subject to restrictions on transfer. Founders, management and advisors are restricted from trading for the first 12 months after listing, with shares released in stages through the 36-month anniversary of the trading date. Shares issued to Chemelex LLC and finders carry a shorter lock-up, releasing 50% six months after the trading date and the remaining 50% at 12 months.",
-    "The company's PlantBrain industrial AI operating system has more than 80 deployments across the steel, tire, automotive and energy sectors, according to the release, with operations across North America, Europe, the Middle East, Africa and Asia. The release said customer engagements have expanded from single-site installations to multi-site programs.",
-    "Among those engagements, the company cited a Phase 1 multi-plant deployment with a global tire manufacturer, under an initial contract valued at approximately $4.0 million, plus the potential for recurring support revenue. The release's forward-looking statements caution that this potential recurring revenue may not be realized.",
-    "The release also cited a $2.79 million strategic investment in the company from Chemelex LLC, without stating when that investment was made relative to the arrangement or the listing. The company's leadership includes Co-Founder and CEO Nandan Mishra, a graduate of IIT Kanpur and a former Google Maps engineer; Co-Founder and Chief Technology Officer Himanshu Singh, also an IIT Kanpur graduate; and President and Director Brandon Kou, formerly chief executive of the publicly traded Leef Brands.",
-    "Trading in Algo8 AI's shares is expected to begin on or about October 13, 2026, on the Canadian Securities Exchange under the symbol AIOS, with the listing completing the company's transition to a standalone, independent publicly traded entity following the arrangement."
-   ]
-  },
-  {
-   "slug": "statcan-releases-first-sector-based-producer-price-indexes",
-   "url": "https://www.cmbulletin.com/posts/statcan-releases-first-sector-based-producer-price-indexes.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/statcan-releases-first-sector-based-producer-price-indexes.json",
-   "date": "2026-10-11T12:17:50Z",
-   "headline": "StatCan releases first sector-based producer price indexes",
-   "dek": "The new quarterly measure, developed with the Bank of Canada, tracks price changes across energy, non-energy, goods and services sectors, covering the second quarter of 2026.",
-   "caption": "Statistics Canada introduces a new quarterly gauge of producer price pressures across the Canadian economy.",
-   "sections": [
-    "markets"
-   ],
-   "tags": [
-    "Macro",
-    "Economic Data",
-    "Inflation"
-   ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/statcan-releases-first-sector-based-producer-price-indexes.png",
-   "source_name": "Statistics Canada — The Daily",
-   "sources": [
-    {
-     "title": "Sector-based Producer Price Indexes, second quarter 2026",
-     "url": "https://www.statcan.gc.ca/daily-quotidien/261009/dq261009f-eng.htm",
-     "publisher": "Statistics Canada — The Daily"
-    }
-   ],
-   "unverified_claims": [],
-   "brief": [
-    "Statistics Canada published the Sector-based Producer Price Indexes for the first time on October 9, 2026, for the second quarter of 2026. The agency said the indexes measure price changes across four broad producer sectors: energy, non-energy, goods and services.",
-    "The methodology was developed by the Bank of Canada. Statistics Canada said the indexes are intended to support research into firms' price-setting behaviour and inflation dynamics, including economic modelling. The indexes are published quarterly, are not seasonally adjusted, and are available only at the national level.",
-    "Statistics Canada said the previous two quarters of data are revised with every release, and that the full series is revised back to the start of the weight reference year whenever the index weights are updated. The agency gave contact details for inquiries about the indexes' concepts, methods and data quality."
-   ],
-   "body": [
-    "Statistics Canada released the Sector-based Producer Price Indexes for the first time on October 9, 2026, covering the second quarter of 2026. The agency said the indexes measure price changes across four broad producer sectors it names as energy, non-energy, goods and services.",
-    "The methodology behind the series was developed by the Bank of Canada. Statistics Canada said the indexes are intended to support research and analysis of firms' price-setting behaviour and inflation dynamics, including the development of economic models.",
-    "The agency said the indexes are published quarterly and are not seasonally adjusted, and are available only at the national level. It said the previous two quarters of data are revised with every release, and the full series is revised back to the start of the weight reference year whenever the index weights are updated.",
-    "The Daily notice itself reports no specific index values or period-over-period changes for the quarter; it introduces the new series' scope and methodology. Statistics Canada listed separate telephone numbers and email addresses for inquiries about the indexes' concepts, methods and data quality, and for media inquiries."
+    "Euro Tech Holdings Company Limited (Nasdaq: CLWT) said on Oct. 12, 2026 that its wholly owned subsidiary, Euro Tech Global Pte Ltd, has signed a 50/50 joint venture agreement with Sea Clean AS, a Norwegian provider of ballast water treatment solutions for the maritime industry. The joint venture is named CleanPACT Environmental and Marine Engineering AS. The release does not disclose financial terms of the agreement.",
+    "CleanPACT will function as what the release calls a customer experience center for port ballast water treatment, offering hands-on demonstrations, expert servicing, realistic simulations and tailored training. It is built around Euro Tech's PortoBallast system, described in the release as a next-generation mobile hybrid unit designed to treat ballast water from vessels whose existing UV or electrolysis-type treatment systems do not meet discharge compliance requirements. The release describes the venture as combining Euro Tech's technology, expertise and capabilities with Sea Clean's local knowledge, port experience and market reach.",
+    "Sea Clean AS is described in the release as a Norwegian provider of ballast water treatment solutions and an authorized agent for an electrolysis-type ballast water treatment system, handling distribution, service and maintenance of such systems. The release states the company has served more than 2,300 vessels and that its technicians provide service from system installation through annual compliance checks. Euro Tech Global Pte Ltd, the Euro Tech subsidiary that is party to the joint venture, is described only as a wholly owned subsidiary of the parent company.",
+    "According to the release, Sea Clean is setting up and commissioning the PortoBallast unit, which has recently arrived at Sea Clean's port site in Torvastad, Norway. The release does not state when commissioning will be complete or when the center will begin operating. Euro Tech said the new joint venture will also promote PortoBallast across Scandinavia, which the release describes as a stepping stone to entering the European market, and that the company believes this will give it a new sales platform for global promotion.",
+    "The release discloses no financial terms for the joint venture — it gives no investment figures, no revenue-sharing arrangement and no governance details beyond the stated 50/50 ownership split between Euro Tech Global and Sea Clean. It also does not state a date for CleanPACT to begin full operations, nor does it mention any regulatory or corporate approvals required before the arrangement is considered complete. The release is dated Oct. 12, 2026 and carries no closing or effective date for the joint venture agreement itself beyond its having been signed.",
+    "The release includes a standard forward-looking-statements disclaimer under the U.S. Private Securities Litigation Reform Act of 1995, saying the company can give no assurance regarding actual outcomes and naming risk factors that include its Hong Kong and China operations, competition, dependence on vendors, product development, market entry, business downturns, personnel availability and the negotiation of agreements."
    ]
   }
  ]
