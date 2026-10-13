@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-10-12T12:25:09Z",
+ "generated_at": "2026-10-13T12:47:34Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 42,
+ "count": 43,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -905,6 +905,24 @@
    "warrant_expiry": null,
    "hold_expiry": null,
    "entry_url": "https://www.cmbulletin.com/posts/athos-metals-closes-first-tranche-as-meed-growth-deal-deadline.html"
+  },
+  {
+   "company": "Golden Shield Resources Inc.",
+   "ticker": "CSE:GSRI",
+   "type": "Strategic investment via subscription receipts",
+   "currency": "C$",
+   "closed": "",
+   "agent": "",
+   "hold_period": true,
+   "note": "Includes acquisition of a permanent worldwide SimplyFI technology licence for 13,000,000 shares; represents a change of control (~51% post-closing); up to 5% finder's fees may apply.",
+   "gross": 6000000.0,
+   "units": null,
+   "price": 0.3,
+   "warrant_strike": 0.39,
+   "warrant_months": 24.0,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/golden-shield-signs-binding-loi-for-c-6-million-recapitalization.html"
   }
  ]
 }

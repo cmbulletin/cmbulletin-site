@@ -1,11 +1,168 @@
 {
  "api": "v1",
- "generated_at": "2026-10-12T12:25:09Z",
+ "generated_at": "2026-10-13T12:47:34Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 50,
+ "count": 54,
  "entries": [
+  {
+   "slug": "getty-copper-expands-fall-drill-program-past-20-000-metres",
+   "url": "https://www.cmbulletin.com/posts/getty-copper-expands-fall-drill-program-past-20-000-metres.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/getty-copper-expands-fall-drill-program-past-20-000-metres.json",
+   "date": "2026-10-13T12:23:41Z",
+   "headline": "Getty Copper expands fall drill program past 20,000 metres",
+   "dek": "The expanded program follows spring results of 46 metres at 1.47% copper within a wider 150-metre interval at the Getty South target.",
+   "caption": "Drill rigs operating in British Columbia's Highland Valley Copper District, where Getty Copper has expanded its fall program past 20,000 metres.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Copper",
+    "Exploration"
+   ],
+   "tickers": [
+    "TSXV:GTC",
+    "OTCQX:GTCDF"
+   ],
+   "image": "https://www.cmbulletin.com/images/getty-copper-expands-fall-drill-program-past-20-000-metres.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Getty Copper Expands Drill Program to Over 20,000 Metres Following Strong Getty South Results",
+     "url": "https://investingnews.com/getty-copper-expands-drill-program-to-over-20000-metres-following-strong-getty-south-results/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The description of the Highland Valley Copper District as 'Canada's largest copper-producing district' is the company's own characterization.",
+    "The characterization of the cash position and financing as intended to accelerate exploration reflects the company's stated purpose and has not been independently verified."
+   ],
+   "brief": [
+    "Getty Copper Inc. (TSXV: GTC, OTCQX: GTCDF) said it has expanded its fall drilling program at the Getty Project in British Columbia's Highland Valley Copper District to more than 20,000 metres, up from a previously planned 4,000 to 6,000 metres. Two drill rigs are currently operating at the Getty South target.",
+    "The expansion follows spring 2026 results at Getty South that included 46 metres grading 1.47% copper within a broader 150-metre interval grading 0.71% copper, according to the company. Getty Copper holds an 82% interest in the Getty Property, adjacent to Teck's Highland Valley Copper mine, and a 100% interest in the neighbouring DOT Property.",
+    "The company said the goal is to advance toward a mineral resource estimate in 2027 while testing its pipeline of other exploration targets. Getty said a recently closed $15 million flow-through financing, which brought its cash position to approximately $20 million, is intended to accelerate exploration."
+   ]
+  },
+  {
+   "slug": "golden-shield-signs-binding-loi-for-c-6-million-recapitalization",
+   "url": "https://www.cmbulletin.com/posts/golden-shield-signs-binding-loi-for-c-6-million-recapitalization.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/golden-shield-signs-binding-loi-for-c-6-million-recapitalization.json",
+   "date": "2026-10-13T12:23:41Z",
+   "headline": "Golden Shield signs binding LOI for C$6-million recapitalization",
+   "dek": "Walsh Karra Holdings would take an approximately 51% stake in the Guyana-focused gold company through subscription receipts priced at C$0.30.",
+   "caption": "Guyana's Rupununi Mining District, where Golden Shield's Marudi Mountain project sits at the centre of a proposed C$6-million recapitalization.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "M&A",
+    "Guyana"
+   ],
+   "tickers": [
+    "CSE:GSRI"
+   ],
+   "image": "https://www.cmbulletin.com/images/golden-shield-signs-binding-loi-for-c-6-million-recapitalization.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Golden Shield Announces Signing of Binding Letter of Intent for C$6 Million Strategic Investment and Recapitalization with Walsh Karra Holdings",
+     "url": "https://investingnews.com/golden-shield-announces-signing-of-binding-letter-of-intent-for-c-6-million-strategic-investment-and-recapitalization-with-walsh-karra-holdings/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "Walsh Karra Holdings' description of itself as holding a portfolio spanning AI, data-centre infrastructure, climate ventures, mining and natural resources is the company's own characterization.",
+    "The 2017 historical resource estimate at Mazoa Hill is sourced to the company and is explicitly flagged by the release as not compliant with current resource/reserve classification standards.",
+    "The characterization of Marudi Mountain as 'a standout asset' is a quoted opinion from Walsh Karra's co-founder, not an independent assessment."
+   ],
+   "brief": [
+    "Golden Shield Resources Inc. (CSE: GSRI) said it has signed a binding letter of intent with Walsh Karra Holdings for a strategic investment and recapitalization of up to C$6,000,000. Walsh Karra, through Aurevo Resources Inc., would invest C$5,000,000, with up to a further C$1,000,000 available to existing shareholders and management, at C$0.30 per subscription receipt.",
+    "Each subscription receipt converts into one common share and one warrant exercisable at C$0.39 for 24 months. Proceeds will be held in escrow pending renewal of Prospecting Licence PL 1/2021 at Marudi Mountain in Guyana, plus board, shareholder and exchange approvals. Walsh Karra would hold approximately 51% of Golden Shield on a fully diluted basis.",
+    "Golden Shield said the deal is expected to close on or before January 6, 2027, with a 90-day exclusivity period to negotiate a definitive agreement; funds will be returned with interest if the conditions are not met by that date. Separately, the company will acquire a worldwide licence to the SimplyFI technology stack in exchange for 13,000,000 common shares."
+   ]
+  },
+  {
+   "slug": "jaguar-uranium-reports-maiden-resource-at-laguna-salada",
+   "url": "https://www.cmbulletin.com/posts/jaguar-uranium-reports-maiden-resource-at-laguna-salada.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/jaguar-uranium-reports-maiden-resource-at-laguna-salada.json",
+   "date": "2026-10-13T12:23:41Z",
+   "headline": "Jaguar Uranium reports maiden resource at Laguna Salada",
+   "dek": "The estimate covers uranium and vanadium across about 4.3% of the land package at the company's project in Chubut Province, Argentina.",
+   "caption": "Argentina's Chubut Province, where Jaguar Uranium reported a maiden resource estimate for uranium and vanadium at its Laguna Salada project.",
+   "sections": [
+    "energy"
+   ],
+   "tags": [
+    "Uranium",
+    "Resource Estimate",
+    "Energy"
+   ],
+   "tickers": [
+    "NYSE AMERICAN:JAGU"
+   ],
+   "image": "https://www.cmbulletin.com/images/jaguar-uranium-reports-maiden-resource-at-laguna-salada.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "JAGUAR URANIUM ANNOUNCES MAIDEN MINERAL RESOURCE ESTIMATE AT LAGUNA SALADA IN ARGENTINA",
+     "url": "https://investingnews.com/jaguar-uranium-announces-maiden-mineral-resource-estimate-at-laguna-salada-in-argentina/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization of the resource as showing 'significant potential for resource expansion' is the company's own description, from its release headline.",
+    "CEO Steven Gold's description of the estimate as a 'landmark milestone' is a company characterization.",
+    "The reported cash position of 'nearly US$18 million and no debt' rests solely on the company's own statement."
+   ],
+   "brief": [
+    "Jaguar Uranium Corp. (NYSE American: JAGU) said an independent Mineral Resource Estimate, compliant with SEC Regulation S-K 1300, has been completed for its Laguna Salada Uranium-Vanadium Project in Chubut Province, Argentina, effective October 5. The estimate reports 4.2 million pounds of Indicated and 10.1 million pounds of Inferred U3O8.",
+    "The resource also includes 31.1 million pounds of Indicated and 57.3 million pounds of Inferred vanadium pentoxide (V2O5). Jaguar said the mineralized footprint covers about 4.3% of its 210,284-hectare project area, with 21.1 million tonnes Indicated at 119 ppm U3O8 equivalent and 34.0 million tonnes Inferred at 170 ppm U3O8 equivalent.",
+    "Jaguar said the estimate represents about 4% of its total project area and that the company plans approximately 250 new surface pits and trenches at the Pampa de Arroqui and Laguna Salada targets, plus 1,500 metres of sonic drilling at Buried Lake. The company reported cash of nearly US$18 million and no debt as of the announcement."
+   ]
+  },
+  {
+   "slug": "icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi",
+   "url": "https://www.cmbulletin.com/posts/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.json",
+   "date": "2026-10-13T12:23:41Z",
+   "headline": "IceCure presents 12-month breast cancer cryoablation data at EUSOBI",
+   "dek": "IceCure Medical reported 12-month data showing 97.5% objective response with cryoablation plus endocrine therapy and 91.7% with cryoablation alone, presented at a European breast imaging meeting.",
+   "caption": "A breast imaging conference in the Netherlands where IceCure presented new cryoablation outcome data for small, low-risk tumors.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Life Sciences",
+    "Clinical Data",
+    "Medical Device"
+   ],
+   "tickers": [
+    "NASDAQ:ICCM"
+   ],
+   "image": "https://www.cmbulletin.com/images/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.png",
+   "source_name": "PR Newswire — all news releases",
+   "sources": [
+    {
+     "title": "IceCure Highlights Clinical Data and Strong Physician Engagement for ProSense® Breast Cancer Cryoablation at EUSOBI 2026",
+     "url": "https://www.prnewswire.com/news-releases/icecure-highlights-clinical-data-and-strong-physician-engagement-for-prosense-breast-cancer-cryoablation-at-eusobi-2026-302906818.html",
+     "publisher": "PR Newswire — all news releases"
+    }
+   ],
+   "unverified_claims": [
+    "IceCure's characterization of ProSense as the only device with this specific U.S. clearance for breast cancer treatment rests solely on the company's statement.",
+    "The scope of ProSense's U.S. regulatory clearance (patients 70+, tumors ≤1.5cm, receiving endocrine therapy) is as described by the company and not independently confirmed in this entry.",
+    "The participant counts for the two clinical workshops (~70 each) are as stated by IceCure."
+   ],
+   "brief": [
+    "IceCure Medical (Nasdaq: ICCM) said it presented 12-month data on its ProSense cryoablation device for breast cancer at the EUSOBI 2026 meeting in Maastricht, Netherlands. It reported a 97.5% objective response rate among 40 patients treated with cryoablation plus endocrine therapy, and 91.7% among 24 treated with cryoablation alone.",
+    "Two clinical workshops, led by Dr. Graña-López and Dr. Federica Di Naro of Italy, each drew about 70 participants, the company said.",
+    "IceCure did not disclose additional trial details beyond the presented data, nor any regulatory submission tied to the European results. In the U.S., the company said ProSense is cleared for a defined group of breast cancer patients aged 70 and older with small, biologically low-risk tumors who are receiving adjuvant endocrine therapy, including those ineligible for surgery."
+   ]
+  },
   {
    "slug": "euro-tech-forms-norway-joint-venture-for-ballast-water-treatment",
    "url": "https://www.cmbulletin.com/posts/euro-tech-forms-norway-joint-venture-for-ballast-water-treatment.html",

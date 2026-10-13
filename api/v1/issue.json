@@ -1,56 +1,202 @@
 {
  "api": "v1",
- "generated_at": "2026-10-12T12:25:09Z",
+ "generated_at": "2026-10-13T12:47:34Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-12",
- "count": 1,
+ "issue_date": "2026-10-13",
+ "count": 4,
  "entries": [
   {
-   "slug": "euro-tech-forms-norway-joint-venture-for-ballast-water-treatment",
-   "url": "https://www.cmbulletin.com/posts/euro-tech-forms-norway-joint-venture-for-ballast-water-treatment.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/euro-tech-forms-norway-joint-venture-for-ballast-water-treatment.json",
-   "date": "2026-10-12T12:20:50Z",
-   "headline": "Euro Tech forms Norway joint venture for ballast water treatment",
-   "dek": "Euro Tech Global and Sea Clean AS will jointly operate CleanPACT Environmental and Marine Engineering AS, a customer experience center for the company's PortoBallast system in Torvastad, Norway.",
-   "caption": "A ballast water treatment unit arrives at a Norwegian port, where Euro Tech Holdings and Sea Clean AS will jointly operate a customer center.",
+   "slug": "getty-copper-expands-fall-drill-program-past-20-000-metres",
+   "url": "https://www.cmbulletin.com/posts/getty-copper-expands-fall-drill-program-past-20-000-metres.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/getty-copper-expands-fall-drill-program-past-20-000-metres.json",
+   "date": "2026-10-13T12:23:41Z",
+   "headline": "Getty Copper expands fall drill program past 20,000 metres",
+   "dek": "The expanded program follows spring results of 46 metres at 1.47% copper within a wider 150-metre interval at the Getty South target.",
+   "caption": "Drill rigs operating in British Columbia's Highland Valley Copper District, where Getty Copper has expanded its fall program past 20,000 metres.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Copper",
+    "Exploration"
+   ],
+   "tickers": [
+    "TSXV:GTC",
+    "OTCQX:GTCDF"
+   ],
+   "image": "https://www.cmbulletin.com/images/getty-copper-expands-fall-drill-program-past-20-000-metres.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Getty Copper Expands Drill Program to Over 20,000 Metres Following Strong Getty South Results",
+     "url": "https://investingnews.com/getty-copper-expands-drill-program-to-over-20000-metres-following-strong-getty-south-results/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The description of the Highland Valley Copper District as 'Canada's largest copper-producing district' is the company's own characterization.",
+    "The characterization of the cash position and financing as intended to accelerate exploration reflects the company's stated purpose and has not been independently verified."
+   ],
+   "brief": [
+    "Getty Copper Inc. (TSXV: GTC, OTCQX: GTCDF) said it has expanded its fall drilling program at the Getty Project in British Columbia's Highland Valley Copper District to more than 20,000 metres, up from a previously planned 4,000 to 6,000 metres. Two drill rigs are currently operating at the Getty South target.",
+    "The expansion follows spring 2026 results at Getty South that included 46 metres grading 1.47% copper within a broader 150-metre interval grading 0.71% copper, according to the company. Getty Copper holds an 82% interest in the Getty Property, adjacent to Teck's Highland Valley Copper mine, and a 100% interest in the neighbouring DOT Property.",
+    "The company said the goal is to advance toward a mineral resource estimate in 2027 while testing its pipeline of other exploration targets. Getty said a recently closed $15 million flow-through financing, which brought its cash position to approximately $20 million, is intended to accelerate exploration."
+   ],
+   "body": [
+    "Getty Copper Inc. (TSXV: GTC, OTCQX: GTCDF) said on October 12 that it has expanded its fall drilling program at the Getty Project in British Columbia's Highland Valley Copper District to more than 20,000 metres, up from a previously planned 4,000 to 6,000 metres. Two drill rigs are currently operating at the Getty South target, the company said, with the expanded program also set to test other priority targets within the broader Getty Project area.",
+    "The expansion follows results from the company's spring 2026 drilling campaign at Getty South, which returned 46 metres grading 1.47% copper within a broader 150-metre interval grading 0.71% copper. The release did not disclose the specific drill hole identifiers, assay methodology, or the full set of results from the spring program beyond this interval.",
+    "Getty Copper holds an 82% interest in the Getty Property, located in British Columbia's Highland Valley Copper District and adjacent to Teck Resources' Highland Valley Copper mine, as well as a 100% interest in the neighbouring DOT Property. The company described the district as Canada's largest copper-producing area, though the release did not state current production figures for the district or for Teck's adjacent operation.",
+    "Chief Executive Officer Ryan O'Regan was quoted: 'We look forward to finding more high grade copper mineralization at Getty South with this expanded program. Scaling up also gives us the bandwidth to begin to test our strong pipeline of newly defined exploration targets.' The release did not specify how many additional targets make up that pipeline or where they are located relative to Getty South.",
+    "The company said the expanded program is intended to advance the Getty Project toward a mineral resource estimate in 2027. The release gave no further detail on the scope or timing of the studies that would be required to produce that estimate, nor on which zones beyond Getty South the resource would cover.",
+    "Getty said the drilling is supported by a recently closed $15 million flow-through financing, which it said brought the company's cash position to approximately $20 million to accelerate exploration. The release did not state the financing's closing date, the number of units or shares issued, the subscription price, or the identity of any agent involved, nor whether the raise included warrants.",
+    "Roy Greig, Ph.D., P.Geo., the company's Vice President of Exploration, reviewed and approved the scientific and technical information in the release as a qualified person under National Instrument 43-101. The release did not disclose a total budget for the expanded program or a timeline for reporting assay results from the new drilling."
+   ]
+  },
+  {
+   "slug": "golden-shield-signs-binding-loi-for-c-6-million-recapitalization",
+   "url": "https://www.cmbulletin.com/posts/golden-shield-signs-binding-loi-for-c-6-million-recapitalization.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/golden-shield-signs-binding-loi-for-c-6-million-recapitalization.json",
+   "date": "2026-10-13T12:23:41Z",
+   "headline": "Golden Shield signs binding LOI for C$6-million recapitalization",
+   "dek": "Walsh Karra Holdings would take an approximately 51% stake in the Guyana-focused gold company through subscription receipts priced at C$0.30.",
+   "caption": "Guyana's Rupununi Mining District, where Golden Shield's Marudi Mountain project sits at the centre of a proposed C$6-million recapitalization.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "M&A",
+    "Guyana"
+   ],
+   "tickers": [
+    "CSE:GSRI"
+   ],
+   "image": "https://www.cmbulletin.com/images/golden-shield-signs-binding-loi-for-c-6-million-recapitalization.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Golden Shield Announces Signing of Binding Letter of Intent for C$6 Million Strategic Investment and Recapitalization with Walsh Karra Holdings",
+     "url": "https://investingnews.com/golden-shield-announces-signing-of-binding-letter-of-intent-for-c-6-million-strategic-investment-and-recapitalization-with-walsh-karra-holdings/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "Walsh Karra Holdings' description of itself as holding a portfolio spanning AI, data-centre infrastructure, climate ventures, mining and natural resources is the company's own characterization.",
+    "The 2017 historical resource estimate at Mazoa Hill is sourced to the company and is explicitly flagged by the release as not compliant with current resource/reserve classification standards.",
+    "The characterization of Marudi Mountain as 'a standout asset' is a quoted opinion from Walsh Karra's co-founder, not an independent assessment."
+   ],
+   "brief": [
+    "Golden Shield Resources Inc. (CSE: GSRI) said it has signed a binding letter of intent with Walsh Karra Holdings for a strategic investment and recapitalization of up to C$6,000,000. Walsh Karra, through Aurevo Resources Inc., would invest C$5,000,000, with up to a further C$1,000,000 available to existing shareholders and management, at C$0.30 per subscription receipt.",
+    "Each subscription receipt converts into one common share and one warrant exercisable at C$0.39 for 24 months. Proceeds will be held in escrow pending renewal of Prospecting Licence PL 1/2021 at Marudi Mountain in Guyana, plus board, shareholder and exchange approvals. Walsh Karra would hold approximately 51% of Golden Shield on a fully diluted basis.",
+    "Golden Shield said the deal is expected to close on or before January 6, 2027, with a 90-day exclusivity period to negotiate a definitive agreement; funds will be returned with interest if the conditions are not met by that date. Separately, the company will acquire a worldwide licence to the SimplyFI technology stack in exchange for 13,000,000 common shares."
+   ],
+   "body": [
+    "Golden Shield Resources Inc. (CSE: GSRI) said it has signed a binding letter of intent with Walsh Karra Holdings for a strategic investment and recapitalization of up to C$6,000,000. Walsh Karra, through Aurevo Resources Inc., would invest C$5,000,000 directly, with up to a further C$1,000,000 available to existing shareholders and management, with both tranches priced at C$0.30 per subscription receipt.",
+    "Each subscription receipt is structured to convert into one common share and one common share purchase warrant, with each warrant exercisable at C$0.39 for 24 months.",
+    "Proceeds are to be held in escrow pending a list of conditions: renewal and issuance of Prospecting Licence PL 1/2021 at Golden Shield's 100%-owned, 5,457-hectare Marudi Mountain Project in Guyana's Rupununi Mining District, along with board approval, shareholder approval, and acceptance by the Canadian Securities Exchange. If those conditions are not satisfied, the release said escrowed funds will be returned with interest.",
+    "On closing, Walsh Karra would hold approximately 51% of Golden Shield on a fully diluted basis, which the release identified as a change of control. Leo Hathaway is stepping down from his combined Chairman and CEO role, with a new CEO to be appointed at closing; Hathaway and a person identified as Kalyan will be retained as Special Advisors for 12 months, and the board will be reconstituted to include investor nominees and an independent director.",
+    "Marudi Mountain's Mazoa Hill deposit carries a 2017 historical estimate of 4.43 million tonnes grading 1.82 g/t gold (259,100 ounces) Indicated and 1.65 million tonnes grading 1.62 g/t gold (86,200 ounces) Inferred. The release stated that a qualified person has not done sufficient work to classify this historical estimate as current mineral resources or reserves, and that Golden Shield is not treating it as such.",
+    "The company separately said it will acquire, in exchange for 13,000,000 common shares, a permanent worldwide licence to use, deploy, commercialize, sublicense and embed what it called the SimplyFI AI, traceable minerals and blockchain technology stack in connection with Marudi Mountain and its broader Guyana platform. The release gave no further description of the technology or its intended function beyond this licence grant.",
+    "Golden Shield said there is a 90-day exclusivity period to negotiate a definitive agreement, and that the transaction is expected to close on or before January 6, 2027. The company said it may pay finder's fees of up to 5% of gross proceeds to eligible finders, and that all securities issued are subject to statutory hold periods and escrow requirements. The release did not name any agent or finder.",
+    "Gregory R. Walsh, Walsh Karra's co-founder, was quoted describing Guyana as 'one of the most compelling mining jurisdictions in the hemisphere,' calling Marudi 'a standout asset.' Walsh Karra described itself in the release as a U.S.-based investment firm with a portfolio spanning artificial intelligence, data-centre infrastructure, climate ventures, and mining and natural resources."
+   ]
+  },
+  {
+   "slug": "jaguar-uranium-reports-maiden-resource-at-laguna-salada",
+   "url": "https://www.cmbulletin.com/posts/jaguar-uranium-reports-maiden-resource-at-laguna-salada.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/jaguar-uranium-reports-maiden-resource-at-laguna-salada.json",
+   "date": "2026-10-13T12:23:41Z",
+   "headline": "Jaguar Uranium reports maiden resource at Laguna Salada",
+   "dek": "The estimate covers uranium and vanadium across about 4.3% of the land package at the company's project in Chubut Province, Argentina.",
+   "caption": "Argentina's Chubut Province, where Jaguar Uranium reported a maiden resource estimate for uranium and vanadium at its Laguna Salada project.",
+   "sections": [
+    "energy"
+   ],
+   "tags": [
+    "Uranium",
+    "Resource Estimate",
+    "Energy"
+   ],
+   "tickers": [
+    "NYSE AMERICAN:JAGU"
+   ],
+   "image": "https://www.cmbulletin.com/images/jaguar-uranium-reports-maiden-resource-at-laguna-salada.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "JAGUAR URANIUM ANNOUNCES MAIDEN MINERAL RESOURCE ESTIMATE AT LAGUNA SALADA IN ARGENTINA",
+     "url": "https://investingnews.com/jaguar-uranium-announces-maiden-mineral-resource-estimate-at-laguna-salada-in-argentina/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization of the resource as showing 'significant potential for resource expansion' is the company's own description, from its release headline.",
+    "CEO Steven Gold's description of the estimate as a 'landmark milestone' is a company characterization.",
+    "The reported cash position of 'nearly US$18 million and no debt' rests solely on the company's own statement."
+   ],
+   "brief": [
+    "Jaguar Uranium Corp. (NYSE American: JAGU) said an independent Mineral Resource Estimate, compliant with SEC Regulation S-K 1300, has been completed for its Laguna Salada Uranium-Vanadium Project in Chubut Province, Argentina, effective October 5. The estimate reports 4.2 million pounds of Indicated and 10.1 million pounds of Inferred U3O8.",
+    "The resource also includes 31.1 million pounds of Indicated and 57.3 million pounds of Inferred vanadium pentoxide (V2O5). Jaguar said the mineralized footprint covers about 4.3% of its 210,284-hectare project area, with 21.1 million tonnes Indicated at 119 ppm U3O8 equivalent and 34.0 million tonnes Inferred at 170 ppm U3O8 equivalent.",
+    "Jaguar said the estimate represents about 4% of its total project area and that the company plans approximately 250 new surface pits and trenches at the Pampa de Arroqui and Laguna Salada targets, plus 1,500 metres of sonic drilling at Buried Lake. The company reported cash of nearly US$18 million and no debt as of the announcement."
+   ],
+   "body": [
+    "Jaguar Uranium Corp. (NYSE American: JAGU) said on October 13 that an independent Mineral Resource Estimate, compliant with SEC Regulation S-K 1300, has been completed for its Laguna Salada Uranium-Vanadium Project in Chubut Province, Argentina. The estimate, effective October 5, 2026, reports 4.2 million pounds of Indicated and 10.1 million pounds of Inferred U3O8 (uranium oxide), along with 31.1 million pounds of Indicated and 57.3 million pounds of Inferred V2O5 (vanadium pentoxide).",
+    "In tonnage terms, the company reported 21.1 million tonnes in the Indicated category, grading 119 parts per million U3O8 equivalent, and 34.0 million tonnes Inferred, grading 170 ppm U3O8 equivalent. Jaguar said the mineralized footprint identified in the estimate covers approximately 4.3% of the 210,284-hectare Laguna Salada project area.",
+    "The estimate was prepared by independent consulting firms Caracle Creek Chile SpA and Atticus Geoscience Consulting Ltd., who served as Qualified Persons on the disclosure.",
+    "Chief Executive Officer Steven Gold was quoted saying the estimate 'marks a landmark milestone for Jaguar Uranium as we quantify the significant scale of Laguna Salada,' adding that it represents only about 4% of the total project area. The release's own headline characterized the estimate as highlighting 'significant potential for resource expansion' on that basis.",
+    "Jaguar said its planned work program following the estimate includes approximately 250 new surface pits and trenches at the Pampa de Arroqui and Laguna Salada targets, 1,500 metres of sonic drilling at Buried Lake, and further metallurgical and field studies. The company reported a cash position of nearly US$18 million and no debt as of the announcement.",
+    "The release did not disclose a timeline for the planned pitting, trenching or drilling program, nor any updated project economics, preliminary economic assessment, or capital cost estimate tied to the new resource. It also did not state what portion, if any, of the reported cash position is earmarked specifically for the program described."
+   ]
+  },
+  {
+   "slug": "icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi",
+   "url": "https://www.cmbulletin.com/posts/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.json",
+   "date": "2026-10-13T12:23:41Z",
+   "headline": "IceCure presents 12-month breast cancer cryoablation data at EUSOBI",
+   "dek": "IceCure Medical reported 12-month data showing 97.5% objective response with cryoablation plus endocrine therapy and 91.7% with cryoablation alone, presented at a European breast imaging meeting.",
+   "caption": "A breast imaging conference in the Netherlands where IceCure presented new cryoablation outcome data for small, low-risk tumors.",
    "sections": [
     "tech"
    ],
    "tags": [
-    "Technology",
-    "Joint Venture",
-    "International Expansion"
+    "Life Sciences",
+    "Clinical Data",
+    "Medical Device"
    ],
    "tickers": [
-    "NASDAQ:CLWT"
+    "NASDAQ:ICCM"
    ],
-   "image": "https://www.cmbulletin.com/images/euro-tech-forms-norway-joint-venture-for-ballast-water-treatment.png",
-   "source_name": "PR Newswire — financial services",
+   "image": "https://www.cmbulletin.com/images/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.png",
+   "source_name": "PR Newswire — all news releases",
    "sources": [
     {
-     "title": "Euro Tech Holdings Company Limited Announces The Company has signed a 50/50 Joint Venture Agreement With Sea Clean AS In Norway",
-     "url": "https://www.prnewswire.com/news-releases/euro-tech-holdings-company-limited-announces-the-company-has-signed-a-5050-joint-venture-agreement-with-sea-clean-as-in-norway-302905554.html",
-     "publisher": "PR Newswire — financial services"
+     "title": "IceCure Highlights Clinical Data and Strong Physician Engagement for ProSense® Breast Cancer Cryoablation at EUSOBI 2026",
+     "url": "https://www.prnewswire.com/news-releases/icecure-highlights-clinical-data-and-strong-physician-engagement-for-prosense-breast-cancer-cryoablation-at-eusobi-2026-302906818.html",
+     "publisher": "PR Newswire — all news releases"
     }
    ],
    "unverified_claims": [
-    "Sea Clean AS's statement that it has served more than 2,300 vessels is sourced to the release's own company description and not independently verified.",
-    "Euro Tech's expectation that promoting PortoBallast across Scandinavia will serve as a stepping stone to the European market and give it a new global sales platform is the company's own stated belief, not a confirmed outcome."
+    "IceCure's characterization of ProSense as the only device with this specific U.S. clearance for breast cancer treatment rests solely on the company's statement.",
+    "The scope of ProSense's U.S. regulatory clearance (patients 70+, tumors ≤1.5cm, receiving endocrine therapy) is as described by the company and not independently confirmed in this entry.",
+    "The participant counts for the two clinical workshops (~70 each) are as stated by IceCure."
    ],
    "brief": [
-    "Euro Tech Holdings Company Limited (Nasdaq: CLWT) said its wholly owned subsidiary, Euro Tech Global Pte Ltd, has signed a 50/50 joint venture agreement with Sea Clean AS of Norway. The joint venture, CleanPACT Environmental and Marine Engineering AS, will operate as a customer experience center for the company's PortoBallast ballast water treatment system.",
-    "CleanPACT will offer hands-on demonstrations, servicing, simulations and training using PortoBallast, a mobile hybrid system designed to treat ballast water from vessels whose UV or electrolysis treatment systems fail discharge compliance requirements. The release describes the venture as combining Euro Tech's technology with Sea Clean's local knowledge, port experience and client reach.",
-    "Sea Clean is setting up and commissioning the PortoBallast unit, which has arrived at its port site in Torvastad, Norway, according to the release. Euro Tech said the joint venture will also promote PortoBallast across Scandinavia as a step toward entering the European market. The release discloses no financial terms of the agreement."
+    "IceCure Medical (Nasdaq: ICCM) said it presented 12-month data on its ProSense cryoablation device for breast cancer at the EUSOBI 2026 meeting in Maastricht, Netherlands. It reported a 97.5% objective response rate among 40 patients treated with cryoablation plus endocrine therapy, and 91.7% among 24 treated with cryoablation alone.",
+    "Two clinical workshops, led by Dr. Graña-López and Dr. Federica Di Naro of Italy, each drew about 70 participants, the company said.",
+    "IceCure did not disclose additional trial details beyond the presented data, nor any regulatory submission tied to the European results. In the U.S., the company said ProSense is cleared for a defined group of breast cancer patients aged 70 and older with small, biologically low-risk tumors who are receiving adjuvant endocrine therapy, including those ineligible for surgery."
    ],
    "body": [
-    "Euro Tech Holdings Company Limited (Nasdaq: CLWT) said on Oct. 12, 2026 that its wholly owned subsidiary, Euro Tech Global Pte Ltd, has signed a 50/50 joint venture agreement with Sea Clean AS, a Norwegian provider of ballast water treatment solutions for the maritime industry. The joint venture is named CleanPACT Environmental and Marine Engineering AS. The release does not disclose financial terms of the agreement.",
-    "CleanPACT will function as what the release calls a customer experience center for port ballast water treatment, offering hands-on demonstrations, expert servicing, realistic simulations and tailored training. It is built around Euro Tech's PortoBallast system, described in the release as a next-generation mobile hybrid unit designed to treat ballast water from vessels whose existing UV or electrolysis-type treatment systems do not meet discharge compliance requirements. The release describes the venture as combining Euro Tech's technology, expertise and capabilities with Sea Clean's local knowledge, port experience and market reach.",
-    "Sea Clean AS is described in the release as a Norwegian provider of ballast water treatment solutions and an authorized agent for an electrolysis-type ballast water treatment system, handling distribution, service and maintenance of such systems. The release states the company has served more than 2,300 vessels and that its technicians provide service from system installation through annual compliance checks. Euro Tech Global Pte Ltd, the Euro Tech subsidiary that is party to the joint venture, is described only as a wholly owned subsidiary of the parent company.",
-    "According to the release, Sea Clean is setting up and commissioning the PortoBallast unit, which has recently arrived at Sea Clean's port site in Torvastad, Norway. The release does not state when commissioning will be complete or when the center will begin operating. Euro Tech said the new joint venture will also promote PortoBallast across Scandinavia, which the release describes as a stepping stone to entering the European market, and that the company believes this will give it a new sales platform for global promotion.",
-    "The release discloses no financial terms for the joint venture — it gives no investment figures, no revenue-sharing arrangement and no governance details beyond the stated 50/50 ownership split between Euro Tech Global and Sea Clean. It also does not state a date for CleanPACT to begin full operations, nor does it mention any regulatory or corporate approvals required before the arrangement is considered complete. The release is dated Oct. 12, 2026 and carries no closing or effective date for the joint venture agreement itself beyond its having been signed.",
-    "The release includes a standard forward-looking-statements disclaimer under the U.S. Private Securities Litigation Reform Act of 1995, saying the company can give no assurance regarding actual outcomes and naming risk factors that include its Hong Kong and China operations, competition, dependence on vendors, product development, market entry, business downturns, personnel availability and the negotiation of agreements."
+    "IceCure Medical Ltd. (Nasdaq: ICCM), an Israel-based medical device company, said it presented 12-month clinical data on its ProSense cryoablation system for breast cancer treatment at the European Society of Breast Imaging's EUSOBI 2026 Annual Scientific Meeting in Maastricht, Netherlands. The company reported a 97.5% objective response rate among 40 patients treated with cryoablation in combination with endocrine therapy, and a 91.7% objective response rate among 24 patients treated with cryoablation alone.",
+    "ProSense uses cryoablation, a technique that destroys tissue by freezing it, as an alternative to surgical removal of a tumor. The data IceCure presented covers a twelve-month follow-up period and compares outcomes between patients who received the device alongside endocrine therapy, a hormone-based treatment, and those treated with the device alone. The release did not describe the trial's design, enrollment criteria or statistical methodology beyond the two response-rate figures and patient counts.",
+    "Dr. Lucía Graña-López of Spain gave a presentation titled 'Beyond Biopsy: Image-Guided Therapy in Practice,' and Dr. Francesca Pugliese of Italy presented findings specific to elderly breast cancer patients who are not candidates for surgery, according to the release. The conclusions of either presentation were not detailed in the company's statement.",
+    "Two clinical workshops at the meeting, led by Dr. Graña-López and by Dr. Federica Di Naro of Italy, each attracted approximately 70 participants, IceCure said. The company separately noted research posters from Dr. Georgiana-Cristiana Camen of Romania, covering a single-center efficacy and safety study, and from Dr. Pugliese, covering contrast-enhanced mammography findings tied to the cryoablation procedure.",
+    "IceCure said ProSense holds U.S. clearance for a defined patient group: women aged 70 and older with biologically low-risk tumors of 1.5 centimetres or smaller who are receiving adjuvant endocrine therapy, including patients who are not surgical candidates. The company described this as the only such clearance currently held for local breast cancer treatment in that population; that characterization rests on the company's own statement.",
+    "The release gave no figures on revenue, device sales or reimbursement status tied to the EUSOBI presentations, and did not state whether any additional clinical or regulatory filings are planned as a result of the data shown. IceCure Medical is listed on Nasdaq under the ticker ICCM and is based in Caesarea, Israel."
    ]
   }
  ]

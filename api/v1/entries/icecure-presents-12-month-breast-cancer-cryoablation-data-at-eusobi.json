@@ -1,0 +1,52 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-13T12:47:34Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi",
+ "url": "https://www.cmbulletin.com/posts/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.json",
+ "date": "2026-10-13T12:23:41Z",
+ "headline": "IceCure presents 12-month breast cancer cryoablation data at EUSOBI",
+ "dek": "IceCure Medical reported 12-month data showing 97.5% objective response with cryoablation plus endocrine therapy and 91.7% with cryoablation alone, presented at a European breast imaging meeting.",
+ "caption": "A breast imaging conference in the Netherlands where IceCure presented new cryoablation outcome data for small, low-risk tumors.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Life Sciences",
+  "Clinical Data",
+  "Medical Device"
+ ],
+ "tickers": [
+  "NASDAQ:ICCM"
+ ],
+ "image": "https://www.cmbulletin.com/images/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.png",
+ "source_name": "PR Newswire — all news releases",
+ "sources": [
+  {
+   "title": "IceCure Highlights Clinical Data and Strong Physician Engagement for ProSense® Breast Cancer Cryoablation at EUSOBI 2026",
+   "url": "https://www.prnewswire.com/news-releases/icecure-highlights-clinical-data-and-strong-physician-engagement-for-prosense-breast-cancer-cryoablation-at-eusobi-2026-302906818.html",
+   "publisher": "PR Newswire — all news releases"
+  }
+ ],
+ "unverified_claims": [
+  "IceCure's characterization of ProSense as the only device with this specific U.S. clearance for breast cancer treatment rests solely on the company's statement.",
+  "The scope of ProSense's U.S. regulatory clearance (patients 70+, tumors ≤1.5cm, receiving endocrine therapy) is as described by the company and not independently confirmed in this entry.",
+  "The participant counts for the two clinical workshops (~70 each) are as stated by IceCure."
+ ],
+ "brief": [
+  "IceCure Medical (Nasdaq: ICCM) said it presented 12-month data on its ProSense cryoablation device for breast cancer at the EUSOBI 2026 meeting in Maastricht, Netherlands. It reported a 97.5% objective response rate among 40 patients treated with cryoablation plus endocrine therapy, and 91.7% among 24 treated with cryoablation alone.",
+  "Two clinical workshops, led by Dr. Graña-López and Dr. Federica Di Naro of Italy, each drew about 70 participants, the company said.",
+  "IceCure did not disclose additional trial details beyond the presented data, nor any regulatory submission tied to the European results. In the U.S., the company said ProSense is cleared for a defined group of breast cancer patients aged 70 and older with small, biologically low-risk tumors who are receiving adjuvant endocrine therapy, including those ineligible for surgery."
+ ],
+ "body": [
+  "IceCure Medical Ltd. (Nasdaq: ICCM), an Israel-based medical device company, said it presented 12-month clinical data on its ProSense cryoablation system for breast cancer treatment at the European Society of Breast Imaging's EUSOBI 2026 Annual Scientific Meeting in Maastricht, Netherlands. The company reported a 97.5% objective response rate among 40 patients treated with cryoablation in combination with endocrine therapy, and a 91.7% objective response rate among 24 patients treated with cryoablation alone.",
+  "ProSense uses cryoablation, a technique that destroys tissue by freezing it, as an alternative to surgical removal of a tumor. The data IceCure presented covers a twelve-month follow-up period and compares outcomes between patients who received the device alongside endocrine therapy, a hormone-based treatment, and those treated with the device alone. The release did not describe the trial's design, enrollment criteria or statistical methodology beyond the two response-rate figures and patient counts.",
+  "Dr. Lucía Graña-López of Spain gave a presentation titled 'Beyond Biopsy: Image-Guided Therapy in Practice,' and Dr. Francesca Pugliese of Italy presented findings specific to elderly breast cancer patients who are not candidates for surgery, according to the release. The conclusions of either presentation were not detailed in the company's statement.",
+  "Two clinical workshops at the meeting, led by Dr. Graña-López and by Dr. Federica Di Naro of Italy, each attracted approximately 70 participants, IceCure said. The company separately noted research posters from Dr. Georgiana-Cristiana Camen of Romania, covering a single-center efficacy and safety study, and from Dr. Pugliese, covering contrast-enhanced mammography findings tied to the cryoablation procedure.",
+  "IceCure said ProSense holds U.S. clearance for a defined patient group: women aged 70 and older with biologically low-risk tumors of 1.5 centimetres or smaller who are receiving adjuvant endocrine therapy, including patients who are not surgical candidates. The company described this as the only such clearance currently held for local breast cancer treatment in that population; that characterization rests on the company's own statement.",
+  "The release gave no figures on revenue, device sales or reimbursement status tied to the EUSOBI presentations, and did not state whether any additional clinical or regulatory filings are planned as a result of the data shown. IceCure Medical is listed on Nasdaq under the ticker ICCM and is based in Caesarea, Israel."
+ ]
+}
