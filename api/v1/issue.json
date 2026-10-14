@@ -1,202 +1,195 @@
 {
  "api": "v1",
- "generated_at": "2026-10-13T12:47:34Z",
+ "generated_at": "2026-10-14T12:48:20Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-13",
+ "issue_date": "2026-10-14",
  "count": 4,
  "entries": [
   {
-   "slug": "getty-copper-expands-fall-drill-program-past-20-000-metres",
-   "url": "https://www.cmbulletin.com/posts/getty-copper-expands-fall-drill-program-past-20-000-metres.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/getty-copper-expands-fall-drill-program-past-20-000-metres.json",
-   "date": "2026-10-13T12:23:41Z",
-   "headline": "Getty Copper expands fall drill program past 20,000 metres",
-   "dek": "The expanded program follows spring results of 46 metres at 1.47% copper within a wider 150-metre interval at the Getty South target.",
-   "caption": "Drill rigs operating in British Columbia's Highland Valley Copper District, where Getty Copper has expanded its fall program past 20,000 metres.",
+   "slug": "condor-energies-sets-october-15-closing-for-c-70-million-financing",
+   "url": "https://www.cmbulletin.com/posts/condor-energies-sets-october-15-closing-for-c-70-million-financing.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/condor-energies-sets-october-15-closing-for-c-70-million-financing.json",
+   "date": "2026-10-14T12:36:46Z",
+   "headline": "Condor Energies sets October 15 closing for C$70-million financing",
+   "dek": "The combined public offering and private placement of 12% convertible debentures is expected to close with Research Capital and Canaccord Genuity as agents.",
+   "caption": "A row of pipelines and storage tanks under an overcast prairie sky, the quiet infrastructure of an energy company's financing season.",
    "sections": [
-    "mining"
+    "energy"
    ],
    "tags": [
-    "Mining",
-    "Copper",
-    "Exploration"
+    "Energy",
+    "Financing",
+    "Debentures"
    ],
    "tickers": [
-    "TSXV:GTC",
-    "OTCQX:GTCDF"
+    "TSX:CDR",
+    "OTC:CNPRF"
    ],
-   "image": "https://www.cmbulletin.com/images/getty-copper-expands-fall-drill-program-past-20-000-metres.png",
+   "image": "https://www.cmbulletin.com/images/condor-energies-sets-october-15-closing-for-c-70-million-financing.png",
    "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
-     "title": "Getty Copper Expands Drill Program to Over 20,000 Metres Following Strong Getty South Results",
-     "url": "https://investingnews.com/getty-copper-expands-drill-program-to-over-20000-metres-following-strong-getty-south-results/",
+     "title": "Condor Announces October 15, 2026 as Expected Closing Date for C$70 Million Financing",
+     "url": "https://investingnews.com/condor-announces-october-15-2026-as-expected-closing-date-for-c-70-million-financing/",
      "publisher": "Investing News Network — Resource Investing"
     }
    ],
    "unverified_claims": [
-    "The description of the Highland Valley Copper District as 'Canada's largest copper-producing district' is the company's own characterization.",
-    "The characterization of the cash position and financing as intended to accelerate exploration reflects the company's stated purpose and has not been independently verified."
+    "The expected October 15, 2026 closing date is subject to change by agreement between the company and its agents, as the release itself notes."
    ],
    "brief": [
-    "Getty Copper Inc. (TSXV: GTC, OTCQX: GTCDF) said it has expanded its fall drilling program at the Getty Project in British Columbia's Highland Valley Copper District to more than 20,000 metres, up from a previously planned 4,000 to 6,000 metres. Two drill rigs are currently operating at the Getty South target.",
-    "The expansion follows spring 2026 results at Getty South that included 46 metres grading 1.47% copper within a broader 150-metre interval grading 0.71% copper, according to the company. Getty Copper holds an 82% interest in the Getty Property, adjacent to Teck's Highland Valley Copper mine, and a 100% interest in the neighbouring DOT Property.",
-    "The company said the goal is to advance toward a mineral resource estimate in 2027 while testing its pipeline of other exploration targets. Getty said a recently closed $15 million flow-through financing, which brought its cash position to approximately $20 million, is intended to accelerate exploration."
+    "Condor Energies Inc. (TSX: CDR) said it expects to close its previously announced financing on October 15, 2026, or such other date as the company and its agents agree, for combined gross proceeds of up to C$70,000,000.",
+    "The financing combines a public offering of up to C$25,000,000 and a concurrent non-brokered private placement of up to C$45,000,000, both in 12% unsecured convertible debentures priced at C$1,000 each. Research Capital Corporation is co-lead agent and sole bookrunner on the public offering, with Canaccord Genuity Corp. as co-lead agent.",
+    "The debentures are not being offered or sold in the United States or to U.S. persons. The release does not state how many debentures will be issued, a use of proceeds, or any closing conditions beyond the expected date."
    ],
    "body": [
-    "Getty Copper Inc. (TSXV: GTC, OTCQX: GTCDF) said on October 12 that it has expanded its fall drilling program at the Getty Project in British Columbia's Highland Valley Copper District to more than 20,000 metres, up from a previously planned 4,000 to 6,000 metres. Two drill rigs are currently operating at the Getty South target, the company said, with the expanded program also set to test other priority targets within the broader Getty Project area.",
-    "The expansion follows results from the company's spring 2026 drilling campaign at Getty South, which returned 46 metres grading 1.47% copper within a broader 150-metre interval grading 0.71% copper. The release did not disclose the specific drill hole identifiers, assay methodology, or the full set of results from the spring program beyond this interval.",
-    "Getty Copper holds an 82% interest in the Getty Property, located in British Columbia's Highland Valley Copper District and adjacent to Teck Resources' Highland Valley Copper mine, as well as a 100% interest in the neighbouring DOT Property. The company described the district as Canada's largest copper-producing area, though the release did not state current production figures for the district or for Teck's adjacent operation.",
-    "Chief Executive Officer Ryan O'Regan was quoted: 'We look forward to finding more high grade copper mineralization at Getty South with this expanded program. Scaling up also gives us the bandwidth to begin to test our strong pipeline of newly defined exploration targets.' The release did not specify how many additional targets make up that pipeline or where they are located relative to Getty South.",
-    "The company said the expanded program is intended to advance the Getty Project toward a mineral resource estimate in 2027. The release gave no further detail on the scope or timing of the studies that would be required to produce that estimate, nor on which zones beyond Getty South the resource would cover.",
-    "Getty said the drilling is supported by a recently closed $15 million flow-through financing, which it said brought the company's cash position to approximately $20 million to accelerate exploration. The release did not state the financing's closing date, the number of units or shares issued, the subscription price, or the identity of any agent involved, nor whether the raise included warrants.",
-    "Roy Greig, Ph.D., P.Geo., the company's Vice President of Exploration, reviewed and approved the scientific and technical information in the release as a qualified person under National Instrument 43-101. The release did not disclose a total budget for the expanded program or a timeline for reporting assay results from the new drilling."
+    "Condor Energies Inc. (TSX: CDR) (OTC: CNPRF) said it expects the closing of its previously announced financing to occur on October 15, 2026, or such other date as the company and its agents agree. The financing is intended to raise combined gross proceeds of up to C$70,000,000.",
+    "It combines a public offering of up to C$25,000,000 and a concurrent non-brokered private placement of up to C$45,000,000, in each case consisting of 12% unsecured convertible debentures of the company priced at C$1,000 per debenture. Research Capital Corporation is acting as co-lead agent and sole bookrunner for the public offering, with Canaccord Genuity Corp. acting as co-lead agent.",
+    "The public offering is being made under Condor's existing base shelf prospectus and a shelf prospectus supplement, both filed with securities regulators and accessible on SEDAR+. The release said the debentures are not being offered or sold in the United States or to U.S. persons and have not been registered under the U.S. Securities Act of 1933.",
+    "The release does not state how many debentures will be issued under either component of the financing, nor does it disclose a use of proceeds, a resale hold period, or any closing conditions beyond the expected date and the parties' ability to agree on a different one.",
+    "Today's release updates the timing of a financing Condor had previously announced; it restates the price, size and parties involved but does not restate the full terms of that earlier announcement."
    ]
   },
   {
-   "slug": "golden-shield-signs-binding-loi-for-c-6-million-recapitalization",
-   "url": "https://www.cmbulletin.com/posts/golden-shield-signs-binding-loi-for-c-6-million-recapitalization.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/golden-shield-signs-binding-loi-for-c-6-million-recapitalization.json",
-   "date": "2026-10-13T12:23:41Z",
-   "headline": "Golden Shield signs binding LOI for C$6-million recapitalization",
-   "dek": "Walsh Karra Holdings would take an approximately 51% stake in the Guyana-focused gold company through subscription receipts priced at C$0.30.",
-   "caption": "Guyana's Rupununi Mining District, where Golden Shield's Marudi Mountain project sits at the centre of a proposed C$6-million recapitalization.",
+   "slug": "prospect-ridge-closes-first-tranche-of-flow-through-placement",
+   "url": "https://www.cmbulletin.com/posts/prospect-ridge-closes-first-tranche-of-flow-through-placement.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/prospect-ridge-closes-first-tranche-of-flow-through-placement.json",
+   "date": "2026-10-14T12:36:46Z",
+   "headline": "Prospect Ridge closes first tranche of flow-through placement",
+   "dek": "The CSE-listed explorer raised $1.35 million in its first tranche, with insiders buying in and proceeds earmarked for British Columbia exploration.",
+   "caption": "A river valley cutting through forested, mineral-rich terrain in north-central British Columbia, where drill programs are being prepared ahead of next spring.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
     "Financing",
-    "M&A",
-    "Guyana"
+    "Flow-Through",
+    "Critical Minerals"
    ],
    "tickers": [
-    "CSE:GSRI"
+    "CSE:PRR",
+    "OTC:PRRSF",
+    "FRA:0ED"
    ],
-   "image": "https://www.cmbulletin.com/images/golden-shield-signs-binding-loi-for-c-6-million-recapitalization.png",
+   "image": "https://www.cmbulletin.com/images/prospect-ridge-closes-first-tranche-of-flow-through-placement.png",
    "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
-     "title": "Golden Shield Announces Signing of Binding Letter of Intent for C$6 Million Strategic Investment and Recapitalization with Walsh Karra Holdings",
-     "url": "https://investingnews.com/golden-shield-announces-signing-of-binding-letter-of-intent-for-c-6-million-strategic-investment-and-recapitalization-with-walsh-karra-holdings/",
+     "title": "Prospect Ridge Announces First Tranche Closing of Critical Metals Flow-Through Unit Private Placement",
+     "url": "https://investingnews.com/prospect-ridge-announces-first-tranche-closing-of-critical-metals-flow-through-unit-private-placement/",
      "publisher": "Investing News Network — Resource Investing"
     }
    ],
    "unverified_claims": [
-    "Walsh Karra Holdings' description of itself as holding a portfolio spanning AI, data-centre infrastructure, climate ventures, mining and natural resources is the company's own characterization.",
-    "The 2017 historical resource estimate at Mazoa Hill is sourced to the company and is explicitly flagged by the release as not compliant with current resource/reserve classification standards.",
-    "The characterization of Marudi Mountain as 'a standout asset' is a quoted opinion from Walsh Karra's co-founder, not an independent assessment."
+    "Prospect Ridge's description of its management team's 'over 100 years of combined mineral exploration experience' and its characterization of its land position as among Canada's most under-explored mineral belts rest solely on the company's own statement.",
+    "The specific 'certain events' that would accelerate the finder warrants' expiry are not detailed in the release."
    ],
    "brief": [
-    "Golden Shield Resources Inc. (CSE: GSRI) said it has signed a binding letter of intent with Walsh Karra Holdings for a strategic investment and recapitalization of up to C$6,000,000. Walsh Karra, through Aurevo Resources Inc., would invest C$5,000,000, with up to a further C$1,000,000 available to existing shareholders and management, at C$0.30 per subscription receipt.",
-    "Each subscription receipt converts into one common share and one warrant exercisable at C$0.39 for 24 months. Proceeds will be held in escrow pending renewal of Prospecting Licence PL 1/2021 at Marudi Mountain in Guyana, plus board, shareholder and exchange approvals. Walsh Karra would hold approximately 51% of Golden Shield on a fully diluted basis.",
-    "Golden Shield said the deal is expected to close on or before January 6, 2027, with a 90-day exclusivity period to negotiate a definitive agreement; funds will be returned with interest if the conditions are not met by that date. Separately, the company will acquire a worldwide licence to the SimplyFI technology stack in exchange for 13,000,000 common shares."
+    "Prospect Ridge Resources Corp. (CSE: PRR) said it has closed the first tranche of its non-brokered private placement of critical mineral flow-through units, first announced October 2, 2026, issuing 17,935,002 units at $0.075 each for gross proceeds of $1,345,125.15.",
+    "The company paid aggregate finder fees of $88,200.01 in cash and issued 1,176,000 finder warrants, each exercisable at $0.10 for two years. Insiders purchased 335,000 of the units in this tranche. All securities issued are subject to a statutory hold period expiring February 14, 2027.",
+    "Prospect Ridge said the proceeds will fund eligible Canadian exploration expenses on its British Columbia projects, with a focus on a 2,500-metre drill program at the Camelot project and preparations for spring drilling at the Excalibur project, north of Smithers. The release did not state a target size for the overall placement."
    ],
    "body": [
-    "Golden Shield Resources Inc. (CSE: GSRI) said it has signed a binding letter of intent with Walsh Karra Holdings for a strategic investment and recapitalization of up to C$6,000,000. Walsh Karra, through Aurevo Resources Inc., would invest C$5,000,000 directly, with up to a further C$1,000,000 available to existing shareholders and management, with both tranches priced at C$0.30 per subscription receipt.",
-    "Each subscription receipt is structured to convert into one common share and one common share purchase warrant, with each warrant exercisable at C$0.39 for 24 months.",
-    "Proceeds are to be held in escrow pending a list of conditions: renewal and issuance of Prospecting Licence PL 1/2021 at Golden Shield's 100%-owned, 5,457-hectare Marudi Mountain Project in Guyana's Rupununi Mining District, along with board approval, shareholder approval, and acceptance by the Canadian Securities Exchange. If those conditions are not satisfied, the release said escrowed funds will be returned with interest.",
-    "On closing, Walsh Karra would hold approximately 51% of Golden Shield on a fully diluted basis, which the release identified as a change of control. Leo Hathaway is stepping down from his combined Chairman and CEO role, with a new CEO to be appointed at closing; Hathaway and a person identified as Kalyan will be retained as Special Advisors for 12 months, and the board will be reconstituted to include investor nominees and an independent director.",
-    "Marudi Mountain's Mazoa Hill deposit carries a 2017 historical estimate of 4.43 million tonnes grading 1.82 g/t gold (259,100 ounces) Indicated and 1.65 million tonnes grading 1.62 g/t gold (86,200 ounces) Inferred. The release stated that a qualified person has not done sufficient work to classify this historical estimate as current mineral resources or reserves, and that Golden Shield is not treating it as such.",
-    "The company separately said it will acquire, in exchange for 13,000,000 common shares, a permanent worldwide licence to use, deploy, commercialize, sublicense and embed what it called the SimplyFI AI, traceable minerals and blockchain technology stack in connection with Marudi Mountain and its broader Guyana platform. The release gave no further description of the technology or its intended function beyond this licence grant.",
-    "Golden Shield said there is a 90-day exclusivity period to negotiate a definitive agreement, and that the transaction is expected to close on or before January 6, 2027. The company said it may pay finder's fees of up to 5% of gross proceeds to eligible finders, and that all securities issued are subject to statutory hold periods and escrow requirements. The release did not name any agent or finder.",
-    "Gregory R. Walsh, Walsh Karra's co-founder, was quoted describing Guyana as 'one of the most compelling mining jurisdictions in the hemisphere,' calling Marudi 'a standout asset.' Walsh Karra described itself in the release as a U.S.-based investment firm with a portfolio spanning artificial intelligence, data-centre infrastructure, climate ventures, and mining and natural resources."
+    "Prospect Ridge Resources Corp. (CSE: PRR) (OTC: PRRSF) (FRA: 0ED) said it has closed the first tranche of a non-brokered private placement of critical mineral flow-through units, first announced October 2, 2026. The first tranche issued an aggregate of 17,935,002 units priced at $0.075 each, for gross proceeds of $1,345,125.15.",
+    "In connection with the first tranche, the company paid aggregate finder fees of $88,200.01 in cash and issued an aggregate of 1,176,000 finder warrants, each exercisable at $0.10 for two years, subject to acceleration on the occurrence of certain events the release did not specify. All securities issued in the first tranche, including the flow-through units, are subject to a statutory hold period expiring February 14, 2027.",
+    "Insiders of the company purchased an aggregate of 335,000 of the units issued in the first tranche. The release describes this as the first tranche of the offering but does not state a target size for the placement overall, or when a further tranche might close.",
+    "The company said the proceeds will go toward eligible Canadian exploration expenses on its British Columbia mineral projects, naming a focus on a 2,500-metre drill program at the Camelot project and preparations for spring drilling at the Excalibur project, north of Smithers.",
+    "Prospect Ridge describes itself as a British Columbia-based exploration and development company focused on critical metals and gold, led by a management team it says has more than 100 years of combined mineral exploration experience, advancing projects in what it calls one of Canada's most under-explored mineral belts."
    ]
   },
   {
-   "slug": "jaguar-uranium-reports-maiden-resource-at-laguna-salada",
-   "url": "https://www.cmbulletin.com/posts/jaguar-uranium-reports-maiden-resource-at-laguna-salada.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/jaguar-uranium-reports-maiden-resource-at-laguna-salada.json",
-   "date": "2026-10-13T12:23:41Z",
-   "headline": "Jaguar Uranium reports maiden resource at Laguna Salada",
-   "dek": "The estimate covers uranium and vanadium across about 4.3% of the land package at the company's project in Chubut Province, Argentina.",
-   "caption": "Argentina's Chubut Province, where Jaguar Uranium reported a maiden resource estimate for uranium and vanadium at its Laguna Salada project.",
+   "slug": "scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge",
+   "url": "https://www.cmbulletin.com/posts/scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge.json",
+   "date": "2026-10-14T12:36:46Z",
+   "headline": "Scorpio Gold drills 36-metre gold intercept at Goldwedge",
+   "dek": "The Nevada driller's Phase Two program also returned high-grade hits at West Pit, Black Mammoth and the Zanzibar Trend, with a sonic program to follow.",
+   "caption": "Drill rigs worked through the night at a remote Nevada gold project this autumn, part of an ongoing exploration campaign.",
    "sections": [
-    "energy"
+    "mining"
    ],
    "tags": [
-    "Uranium",
-    "Resource Estimate",
-    "Energy"
+    "Mining",
+    "Exploration",
+    "Drilling"
    ],
    "tickers": [
-    "NYSE AMERICAN:JAGU"
+    "NASDAQ:SGLD",
+    "TSXV:SGLD",
+    "OTCQB:SRCRF"
    ],
-   "image": "https://www.cmbulletin.com/images/jaguar-uranium-reports-maiden-resource-at-laguna-salada.png",
+   "image": "https://www.cmbulletin.com/images/scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge.png",
    "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
-     "title": "JAGUAR URANIUM ANNOUNCES MAIDEN MINERAL RESOURCE ESTIMATE AT LAGUNA SALADA IN ARGENTINA",
-     "url": "https://investingnews.com/jaguar-uranium-announces-maiden-mineral-resource-estimate-at-laguna-salada-in-argentina/",
+     "title": "Scorpio Gold Drills 2.94 g/t Gold over 36.42 Metres from 169.62 Metres at the Goldwedge Target at Manhattan",
+     "url": "https://investingnews.com/scorpio-gold-drills-2-94-g-t-gold-over-36-42-metres-from-169-62-metres-at-the-goldwedge-target-at-manhattan/",
      "publisher": "Investing News Network — Resource Investing"
     }
    ],
    "unverified_claims": [
-    "The characterization of the resource as showing 'significant potential for resource expansion' is the company's own description, from its release headline.",
-    "CEO Steven Gold's description of the estimate as a 'landmark milestone' is a company characterization.",
-    "The reported cash position of 'nearly US$18 million and no debt' rests solely on the company's own statement."
+    "The quality-control verification process described (laboratory certificates, field logs, blank/standard/duplicate sample review, chain-of-custody) is as stated by the company and has not been independently audited by this publication.",
+    "The inferred resource estimate of 740,000 ounces of gold at Manhattan is drawn from the company's own technical report dated October 23, 2025 (effective June 4, 2025).",
+    "The sonic drilling program and the evaluation of underground mining potential at Goldwedge are the company's own stated plans."
    ],
    "brief": [
-    "Jaguar Uranium Corp. (NYSE American: JAGU) said an independent Mineral Resource Estimate, compliant with SEC Regulation S-K 1300, has been completed for its Laguna Salada Uranium-Vanadium Project in Chubut Province, Argentina, effective October 5. The estimate reports 4.2 million pounds of Indicated and 10.1 million pounds of Inferred U3O8.",
-    "The resource also includes 31.1 million pounds of Indicated and 57.3 million pounds of Inferred vanadium pentoxide (V2O5). Jaguar said the mineralized footprint covers about 4.3% of its 210,284-hectare project area, with 21.1 million tonnes Indicated at 119 ppm U3O8 equivalent and 34.0 million tonnes Inferred at 170 ppm U3O8 equivalent.",
-    "Jaguar said the estimate represents about 4% of its total project area and that the company plans approximately 250 new surface pits and trenches at the Pampa de Arroqui and Laguna Salada targets, plus 1,500 metres of sonic drilling at Buried Lake. The company reported cash of nearly US$18 million and no debt as of the announcement."
+    "Scorpio Gold Corp. (NASDAQ: SGLD) (TSXV: SGLD) reported assay results from eight holes of its Phase Two drill program at the Manhattan District in Nevada. The lead intercept, hole 26MN-124 at the Goldwedge target, returned 2.94 g/t gold over 36.42 metres from 169.62 metres, including 19.33 g/t gold over 4.27 metres from 188.36 metres.",
+    "Other holes also returned gold: 24.85 g/t over 1.22 metres at West Pit, 1.37 g/t over 17.07 metres at Black Mammoth (including a higher-grade 17.04 g/t over 1.07 metres), and 1.18 g/t over 17.10 metres along the Zanzibar Trend. The company said the results lie within faulted Zanzibar and Gold Hill formation rock.",
+    "The company said it has scheduled a sonic drilling program, due to begin before the end of October, to test the grade and tonnage of Manhattan's historic heap leach pad, tailings pond and low-grade stockpile. Manhattan carries a maiden inferred resource of 740,000 ounces of gold."
    ],
    "body": [
-    "Jaguar Uranium Corp. (NYSE American: JAGU) said on October 13 that an independent Mineral Resource Estimate, compliant with SEC Regulation S-K 1300, has been completed for its Laguna Salada Uranium-Vanadium Project in Chubut Province, Argentina. The estimate, effective October 5, 2026, reports 4.2 million pounds of Indicated and 10.1 million pounds of Inferred U3O8 (uranium oxide), along with 31.1 million pounds of Indicated and 57.3 million pounds of Inferred V2O5 (vanadium pentoxide).",
-    "In tonnage terms, the company reported 21.1 million tonnes in the Indicated category, grading 119 parts per million U3O8 equivalent, and 34.0 million tonnes Inferred, grading 170 ppm U3O8 equivalent. Jaguar said the mineralized footprint identified in the estimate covers approximately 4.3% of the 210,284-hectare Laguna Salada project area.",
-    "The estimate was prepared by independent consulting firms Caracle Creek Chile SpA and Atticus Geoscience Consulting Ltd., who served as Qualified Persons on the disclosure.",
-    "Chief Executive Officer Steven Gold was quoted saying the estimate 'marks a landmark milestone for Jaguar Uranium as we quantify the significant scale of Laguna Salada,' adding that it represents only about 4% of the total project area. The release's own headline characterized the estimate as highlighting 'significant potential for resource expansion' on that basis.",
-    "Jaguar said its planned work program following the estimate includes approximately 250 new surface pits and trenches at the Pampa de Arroqui and Laguna Salada targets, 1,500 metres of sonic drilling at Buried Lake, and further metallurgical and field studies. The company reported a cash position of nearly US$18 million and no debt as of the announcement.",
-    "The release did not disclose a timeline for the planned pitting, trenching or drilling program, nor any updated project economics, preliminary economic assessment, or capital cost estimate tied to the new resource. It also did not state what portion, if any, of the reported cash position is earmarked specifically for the program described."
+    "Scorpio Gold Corp. (NASDAQ: SGLD) (TSXV: SGLD) (OTCQB: SRCRF) (FSE: RY9) on October 14, 2026 reported assay results from eight holes drilled as part of the Phase Two program at its wholly owned Manhattan District project in the Walker Lane Trend of Nevada. The lead result, hole 26MN-124 at the Goldwedge target, returned 2.94 g/t gold over 36.42 metres from a depth of 169.62 metres, including a higher-grade interval of 19.33 g/t gold over 4.27 metres from 188.36 metres, within faulted Zanzibar and Gold Hill formation rock.",
+    "Hole 26MN-125 at West Pit returned 24.85 g/t gold over 1.22 metres from 150.88 metres within the Gold Hill Formation. Hole 26MN-121 at Black Mammoth returned 1.37 g/t gold over 17.07 metres from 275.54 metres within Zanzibar Formation mudstone, including a higher-grade 17.04 g/t gold over 1.07 metres at the brecciated contact between the Zanzibar mudstone and limestone units. Hole 26MN-122, along the Zanzibar Trend, returned 1.18 g/t gold over 17.10 metres from 47.21 metres, including 5.58 g/t gold over 2.59 metres, within brecciated metasediments of the Gold Hill Formation.",
+    "The company said the results were verified by Leo Hathaway, P.Geo., its executive technical director, through review of laboratory certificates and field logs, inspection of blank, standard and duplicate sample performance, and chain-of-custody records. The release said assays have now been reported for 115 of the 122 holes drilled in the Phase Two program, totalling 33,379 of 35,844 metres, with results pending on the remaining seven holes.",
+    "Manhattan carries a maiden inferred mineral resource estimate of 740,000 ounces of gold, from 18,343,000 tonnes grading 1.26 g/t gold, with an effective date of June 4, 2025 and a technical report dated October 23, 2025. The project includes the Goldwedge mine and four past-producing pits across a 4,780-hectare property in which Scorpio Gold holds a 100% interest.",
+    "The company said it has scheduled a sonic drilling program, due to begin before the end of October 2026, to provide an initial test of the grade and tonnage of Manhattan's historic heap leach pad, tailings pond and low-grade stockpile. It also said it continues to evaluate underground mining potential at Goldwedge."
    ]
   },
   {
-   "slug": "icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi",
-   "url": "https://www.cmbulletin.com/posts/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.json",
-   "date": "2026-10-13T12:23:41Z",
-   "headline": "IceCure presents 12-month breast cancer cryoablation data at EUSOBI",
-   "dek": "IceCure Medical reported 12-month data showing 97.5% objective response with cryoablation plus endocrine therapy and 91.7% with cryoablation alone, presented at a European breast imaging meeting.",
-   "caption": "A breast imaging conference in the Netherlands where IceCure presented new cryoablation outcome data for small, low-risk tumors.",
+   "slug": "eason-technology-regains-nyse-american-listing-compliance",
+   "url": "https://www.cmbulletin.com/posts/eason-technology-regains-nyse-american-listing-compliance.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/eason-technology-regains-nyse-american-listing-compliance.json",
+   "date": "2026-10-14T12:36:46Z",
+   "headline": "Eason Technology regains NYSE American listing compliance",
+   "dek": "A letter from NYSE Regulation resolves a listing-standards deficiency first flagged in October 2025, with another lapse now risking immediate delisting.",
+   "caption": "A quiet corporate office tower at dusk, in the understated rhythm of exchange compliance season for listed companies.",
    "sections": [
-    "tech"
+    "news"
    ],
    "tags": [
-    "Life Sciences",
-    "Clinical Data",
-    "Medical Device"
+    "Listings",
+    "Regulatory"
    ],
    "tickers": [
-    "NASDAQ:ICCM"
+    "NYSEAMERICAN:DXF"
    ],
-   "image": "https://www.cmbulletin.com/images/icecure-presents-12-month-breast-cancer-cryoablation-data-at-eusobi.png",
-   "source_name": "PR Newswire — all news releases",
+   "image": "https://www.cmbulletin.com/images/eason-technology-regains-nyse-american-listing-compliance.png",
+   "source_name": "PR Newswire",
    "sources": [
     {
-     "title": "IceCure Highlights Clinical Data and Strong Physician Engagement for ProSense® Breast Cancer Cryoablation at EUSOBI 2026",
-     "url": "https://www.prnewswire.com/news-releases/icecure-highlights-clinical-data-and-strong-physician-engagement-for-prosense-breast-cancer-cryoablation-at-eusobi-2026-302906818.html",
-     "publisher": "PR Newswire — all news releases"
+     "title": "Eason Technology Receives NYSE American Compliance Letter Confirming Regained Compliance With Continued Listing Standards",
+     "url": "https://www.prnewswire.com/news-releases/eason-technology-receives-nyse-american-compliance-letter-confirming-regained-compliance-with-continued-listing-standards-302903670.html",
+     "publisher": "PR Newswire"
     }
    ],
    "unverified_claims": [
-    "IceCure's characterization of ProSense as the only device with this specific U.S. clearance for breast cancer treatment rests solely on the company's statement.",
-    "The scope of ProSense's U.S. regulatory clearance (patients 70+, tumors ≤1.5cm, receiving endocrine therapy) is as described by the company and not independently confirmed in this entry.",
-    "The participant counts for the two clinical workshops (~70 each) are as stated by IceCure."
+    "The company's characterization of its governance and financial position as 'at their strongest level since listing' rests solely on chief executive Stanley He's statement in the release.",
+    "The description of Eason Technology's business as spanning real estate management, investment operations and digital technology security is as stated by the company and has not been independently verified."
    ],
    "brief": [
-    "IceCure Medical (Nasdaq: ICCM) said it presented 12-month data on its ProSense cryoablation device for breast cancer at the EUSOBI 2026 meeting in Maastricht, Netherlands. It reported a 97.5% objective response rate among 40 patients treated with cryoablation plus endocrine therapy, and 91.7% among 24 treated with cryoablation alone.",
-    "Two clinical workshops, led by Dr. Graña-López and Dr. Federica Di Naro of Italy, each drew about 70 participants, the company said.",
-    "IceCure did not disclose additional trial details beyond the presented data, nor any regulatory submission tied to the European results. In the U.S., the company said ProSense is cleared for a defined group of breast cancer patients aged 70 and older with small, biologically low-risk tumors who are receiving adjuvant endocrine therapy, including those ineligible for surgery."
+    "Eason Technology Limited (NYSE American: DXF) said it has received a letter from NYSE Regulation confirming it has regained compliance with the exchange's continued listing standards. The letter, dated October 8, 2026, resolves a deficiency under Section 1003(a)(ii) of the NYSE American Company Guide, first flagged in letters dated October 14, 2025 and December 30, 2025.",
+    "The company said it demonstrated compliance with the applicable standards for two consecutive quarters, which it said satisfies the requirement under Section 1009(f) of the Company Guide for the exchange to confirm a deficiency has been cured. Eason Technology describes its business as spanning real estate management, investment operations and digital technology security, based principally in Hong Kong and China.",
+    "The company said that under Section 1009(h) of the Company Guide, a further non-compliance finding within twelve months of the October 8 letter would lead NYSE Regulation to examine the relationship between the two incidents, and that the exchange may truncate normal compliance procedures or begin delisting proceedings immediately rather than granting another cure period."
    ],
    "body": [
-    "IceCure Medical Ltd. (Nasdaq: ICCM), an Israel-based medical device company, said it presented 12-month clinical data on its ProSense cryoablation system for breast cancer treatment at the European Society of Breast Imaging's EUSOBI 2026 Annual Scientific Meeting in Maastricht, Netherlands. The company reported a 97.5% objective response rate among 40 patients treated with cryoablation in combination with endocrine therapy, and a 91.7% objective response rate among 24 patients treated with cryoablation alone.",
-    "ProSense uses cryoablation, a technique that destroys tissue by freezing it, as an alternative to surgical removal of a tumor. The data IceCure presented covers a twelve-month follow-up period and compares outcomes between patients who received the device alongside endocrine therapy, a hormone-based treatment, and those treated with the device alone. The release did not describe the trial's design, enrollment criteria or statistical methodology beyond the two response-rate figures and patient counts.",
-    "Dr. Lucía Graña-López of Spain gave a presentation titled 'Beyond Biopsy: Image-Guided Therapy in Practice,' and Dr. Francesca Pugliese of Italy presented findings specific to elderly breast cancer patients who are not candidates for surgery, according to the release. The conclusions of either presentation were not detailed in the company's statement.",
-    "Two clinical workshops at the meeting, led by Dr. Graña-López and by Dr. Federica Di Naro of Italy, each attracted approximately 70 participants, IceCure said. The company separately noted research posters from Dr. Georgiana-Cristiana Camen of Romania, covering a single-center efficacy and safety study, and from Dr. Pugliese, covering contrast-enhanced mammography findings tied to the cryoablation procedure.",
-    "IceCure said ProSense holds U.S. clearance for a defined patient group: women aged 70 and older with biologically low-risk tumors of 1.5 centimetres or smaller who are receiving adjuvant endocrine therapy, including patients who are not surgical candidates. The company described this as the only such clearance currently held for local breast cancer treatment in that population; that characterization rests on the company's own statement.",
-    "The release gave no figures on revenue, device sales or reimbursement status tied to the EUSOBI presentations, and did not state whether any additional clinical or regulatory filings are planned as a result of the data shown. IceCure Medical is listed on Nasdaq under the ticker ICCM and is based in Caesarea, Israel."
+    "Eason Technology Limited (NYSE American: DXF) said it has received a letter from NYSE Regulation, dated October 8, 2026, confirming it has regained compliance with the exchange's continued listing standards. The letter resolves a deficiency under Section 1003(a)(ii) of the NYSE American Company Guide, which the exchange had first identified in letters to the company dated October 14, 2025 and December 30, 2025.",
+    "The company said it demonstrated compliance with the applicable continued listing standards for two consecutive quarters, which it said satisfies the requirement under Section 1009(f) of the Company Guide for NYSE Regulation to confirm that a listed company has cured a deficiency. The release does not state which specific financial metric triggered the original deficiency notices, or describe the steps the company took over the past year to come back into compliance.",
+    "Eason Technology describes its business as spanning real estate management, investment operations and digital technology security, with primary operations based in Hong Kong and China.",
+    "The company said that under Section 1009(h) of the Company Guide, a further non-compliance finding within twelve months of the October 8 letter would lead NYSE Regulation to examine the relationship between the two incidents, and that depending on the circumstances the exchange may truncate its normal compliance procedures or begin delisting proceedings immediately rather than granting another cure period.",
+    "Chief executive Stanley He said the company has achieved rapid growth across all of its business lines and that its corporate governance structure and financial position are at their strongest level since listing, adding that management places a high priority on compliant operations."
    ]
   }
  ]

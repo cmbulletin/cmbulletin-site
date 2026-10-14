@@ -1,11 +1,168 @@
 {
  "api": "v1",
- "generated_at": "2026-10-13T12:47:34Z",
+ "generated_at": "2026-10-14T12:48:20Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 54,
+ "count": 58,
  "entries": [
+  {
+   "slug": "condor-energies-sets-october-15-closing-for-c-70-million-financing",
+   "url": "https://www.cmbulletin.com/posts/condor-energies-sets-october-15-closing-for-c-70-million-financing.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/condor-energies-sets-october-15-closing-for-c-70-million-financing.json",
+   "date": "2026-10-14T12:36:46Z",
+   "headline": "Condor Energies sets October 15 closing for C$70-million financing",
+   "dek": "The combined public offering and private placement of 12% convertible debentures is expected to close with Research Capital and Canaccord Genuity as agents.",
+   "caption": "A row of pipelines and storage tanks under an overcast prairie sky, the quiet infrastructure of an energy company's financing season.",
+   "sections": [
+    "energy"
+   ],
+   "tags": [
+    "Energy",
+    "Financing",
+    "Debentures"
+   ],
+   "tickers": [
+    "TSX:CDR",
+    "OTC:CNPRF"
+   ],
+   "image": "https://www.cmbulletin.com/images/condor-energies-sets-october-15-closing-for-c-70-million-financing.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Condor Announces October 15, 2026 as Expected Closing Date for C$70 Million Financing",
+     "url": "https://investingnews.com/condor-announces-october-15-2026-as-expected-closing-date-for-c-70-million-financing/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The expected October 15, 2026 closing date is subject to change by agreement between the company and its agents, as the release itself notes."
+   ],
+   "brief": [
+    "Condor Energies Inc. (TSX: CDR) said it expects to close its previously announced financing on October 15, 2026, or such other date as the company and its agents agree, for combined gross proceeds of up to C$70,000,000.",
+    "The financing combines a public offering of up to C$25,000,000 and a concurrent non-brokered private placement of up to C$45,000,000, both in 12% unsecured convertible debentures priced at C$1,000 each. Research Capital Corporation is co-lead agent and sole bookrunner on the public offering, with Canaccord Genuity Corp. as co-lead agent.",
+    "The debentures are not being offered or sold in the United States or to U.S. persons. The release does not state how many debentures will be issued, a use of proceeds, or any closing conditions beyond the expected date."
+   ]
+  },
+  {
+   "slug": "prospect-ridge-closes-first-tranche-of-flow-through-placement",
+   "url": "https://www.cmbulletin.com/posts/prospect-ridge-closes-first-tranche-of-flow-through-placement.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/prospect-ridge-closes-first-tranche-of-flow-through-placement.json",
+   "date": "2026-10-14T12:36:46Z",
+   "headline": "Prospect Ridge closes first tranche of flow-through placement",
+   "dek": "The CSE-listed explorer raised $1.35 million in its first tranche, with insiders buying in and proceeds earmarked for British Columbia exploration.",
+   "caption": "A river valley cutting through forested, mineral-rich terrain in north-central British Columbia, where drill programs are being prepared ahead of next spring.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Flow-Through",
+    "Critical Minerals"
+   ],
+   "tickers": [
+    "CSE:PRR",
+    "OTC:PRRSF",
+    "FRA:0ED"
+   ],
+   "image": "https://www.cmbulletin.com/images/prospect-ridge-closes-first-tranche-of-flow-through-placement.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Prospect Ridge Announces First Tranche Closing of Critical Metals Flow-Through Unit Private Placement",
+     "url": "https://investingnews.com/prospect-ridge-announces-first-tranche-closing-of-critical-metals-flow-through-unit-private-placement/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "Prospect Ridge's description of its management team's 'over 100 years of combined mineral exploration experience' and its characterization of its land position as among Canada's most under-explored mineral belts rest solely on the company's own statement.",
+    "The specific 'certain events' that would accelerate the finder warrants' expiry are not detailed in the release."
+   ],
+   "brief": [
+    "Prospect Ridge Resources Corp. (CSE: PRR) said it has closed the first tranche of its non-brokered private placement of critical mineral flow-through units, first announced October 2, 2026, issuing 17,935,002 units at $0.075 each for gross proceeds of $1,345,125.15.",
+    "The company paid aggregate finder fees of $88,200.01 in cash and issued 1,176,000 finder warrants, each exercisable at $0.10 for two years. Insiders purchased 335,000 of the units in this tranche. All securities issued are subject to a statutory hold period expiring February 14, 2027.",
+    "Prospect Ridge said the proceeds will fund eligible Canadian exploration expenses on its British Columbia projects, with a focus on a 2,500-metre drill program at the Camelot project and preparations for spring drilling at the Excalibur project, north of Smithers. The release did not state a target size for the overall placement."
+   ]
+  },
+  {
+   "slug": "scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge",
+   "url": "https://www.cmbulletin.com/posts/scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge.json",
+   "date": "2026-10-14T12:36:46Z",
+   "headline": "Scorpio Gold drills 36-metre gold intercept at Goldwedge",
+   "dek": "The Nevada driller's Phase Two program also returned high-grade hits at West Pit, Black Mammoth and the Zanzibar Trend, with a sonic program to follow.",
+   "caption": "Drill rigs worked through the night at a remote Nevada gold project this autumn, part of an ongoing exploration campaign.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Exploration",
+    "Drilling"
+   ],
+   "tickers": [
+    "NASDAQ:SGLD",
+    "TSXV:SGLD",
+    "OTCQB:SRCRF"
+   ],
+   "image": "https://www.cmbulletin.com/images/scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Scorpio Gold Drills 2.94 g/t Gold over 36.42 Metres from 169.62 Metres at the Goldwedge Target at Manhattan",
+     "url": "https://investingnews.com/scorpio-gold-drills-2-94-g-t-gold-over-36-42-metres-from-169-62-metres-at-the-goldwedge-target-at-manhattan/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The quality-control verification process described (laboratory certificates, field logs, blank/standard/duplicate sample review, chain-of-custody) is as stated by the company and has not been independently audited by this publication.",
+    "The inferred resource estimate of 740,000 ounces of gold at Manhattan is drawn from the company's own technical report dated October 23, 2025 (effective June 4, 2025).",
+    "The sonic drilling program and the evaluation of underground mining potential at Goldwedge are the company's own stated plans."
+   ],
+   "brief": [
+    "Scorpio Gold Corp. (NASDAQ: SGLD) (TSXV: SGLD) reported assay results from eight holes of its Phase Two drill program at the Manhattan District in Nevada. The lead intercept, hole 26MN-124 at the Goldwedge target, returned 2.94 g/t gold over 36.42 metres from 169.62 metres, including 19.33 g/t gold over 4.27 metres from 188.36 metres.",
+    "Other holes also returned gold: 24.85 g/t over 1.22 metres at West Pit, 1.37 g/t over 17.07 metres at Black Mammoth (including a higher-grade 17.04 g/t over 1.07 metres), and 1.18 g/t over 17.10 metres along the Zanzibar Trend. The company said the results lie within faulted Zanzibar and Gold Hill formation rock.",
+    "The company said it has scheduled a sonic drilling program, due to begin before the end of October, to test the grade and tonnage of Manhattan's historic heap leach pad, tailings pond and low-grade stockpile. Manhattan carries a maiden inferred resource of 740,000 ounces of gold."
+   ]
+  },
+  {
+   "slug": "eason-technology-regains-nyse-american-listing-compliance",
+   "url": "https://www.cmbulletin.com/posts/eason-technology-regains-nyse-american-listing-compliance.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/eason-technology-regains-nyse-american-listing-compliance.json",
+   "date": "2026-10-14T12:36:46Z",
+   "headline": "Eason Technology regains NYSE American listing compliance",
+   "dek": "A letter from NYSE Regulation resolves a listing-standards deficiency first flagged in October 2025, with another lapse now risking immediate delisting.",
+   "caption": "A quiet corporate office tower at dusk, in the understated rhythm of exchange compliance season for listed companies.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Listings",
+    "Regulatory"
+   ],
+   "tickers": [
+    "NYSEAMERICAN:DXF"
+   ],
+   "image": "https://www.cmbulletin.com/images/eason-technology-regains-nyse-american-listing-compliance.png",
+   "source_name": "PR Newswire",
+   "sources": [
+    {
+     "title": "Eason Technology Receives NYSE American Compliance Letter Confirming Regained Compliance With Continued Listing Standards",
+     "url": "https://www.prnewswire.com/news-releases/eason-technology-receives-nyse-american-compliance-letter-confirming-regained-compliance-with-continued-listing-standards-302903670.html",
+     "publisher": "PR Newswire"
+    }
+   ],
+   "unverified_claims": [
+    "The company's characterization of its governance and financial position as 'at their strongest level since listing' rests solely on chief executive Stanley He's statement in the release.",
+    "The description of Eason Technology's business as spanning real estate management, investment operations and digital technology security is as stated by the company and has not been independently verified."
+   ],
+   "brief": [
+    "Eason Technology Limited (NYSE American: DXF) said it has received a letter from NYSE Regulation confirming it has regained compliance with the exchange's continued listing standards. The letter, dated October 8, 2026, resolves a deficiency under Section 1003(a)(ii) of the NYSE American Company Guide, first flagged in letters dated October 14, 2025 and December 30, 2025.",
+    "The company said it demonstrated compliance with the applicable standards for two consecutive quarters, which it said satisfies the requirement under Section 1009(f) of the Company Guide for the exchange to confirm a deficiency has been cured. Eason Technology describes its business as spanning real estate management, investment operations and digital technology security, based principally in Hong Kong and China.",
+    "The company said that under Section 1009(h) of the Company Guide, a further non-compliance finding within twelve months of the October 8 letter would lead NYSE Regulation to examine the relationship between the two incidents, and that the exchange may truncate normal compliance procedures or begin delisting proceedings immediately rather than granting another cure period."
+   ]
+  },
   {
    "slug": "getty-copper-expands-fall-drill-program-past-20-000-metres",
    "url": "https://www.cmbulletin.com/posts/getty-copper-expands-fall-drill-program-past-20-000-metres.html",

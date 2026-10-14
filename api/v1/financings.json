@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-10-13T12:47:34Z",
+ "generated_at": "2026-10-14T12:48:20Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 43,
+ "count": 45,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -923,6 +923,42 @@
    "warrant_expiry": null,
    "hold_expiry": null,
    "entry_url": "https://www.cmbulletin.com/posts/golden-shield-signs-binding-loi-for-c-6-million-recapitalization.html"
+  },
+  {
+   "company": "Condor Energies Inc.",
+   "ticker": "TSX:CDR",
+   "type": "12% unsecured convertible debentures",
+   "currency": "C$",
+   "closed": "",
+   "agent": "Research Capital Corporation (co-lead agent and sole bookrunner) and Canaccord Genuity Corp. (co-lead agent)",
+   "hold_period": false,
+   "note": "Combines a C$25 million public offering and a C$45 million non-brokered private placement of the same debentures; expected to close October 15, 2026 or such other date as agreed.",
+   "gross": 70000000.0,
+   "units": null,
+   "price": 1000.0,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/condor-energies-sets-october-15-closing-for-c-70-million-financing.html"
+  },
+  {
+   "company": "Prospect Ridge Resources Corp.",
+   "ticker": "CSE:PRR",
+   "type": "critical mineral flow-through units",
+   "currency": "$",
+   "closed": "",
+   "agent": "",
+   "hold_period": true,
+   "note": "First tranche of a non-brokered placement; insiders purchased 335,000 of the units; finder fees of $88,200.01 cash plus 1,176,000 finder warrants were paid on this tranche; hold expires February 14, 2027.",
+   "gross": 1345125.15,
+   "units": 17935002.0,
+   "price": 0.075,
+   "warrant_strike": 0.1,
+   "warrant_months": 24.0,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/prospect-ridge-closes-first-tranche-of-flow-through-placement.html"
   }
  ]
 }
