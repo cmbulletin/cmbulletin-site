@@ -1,11 +1,121 @@
 {
  "api": "v1",
- "generated_at": "2026-10-14T12:48:20Z",
+ "generated_at": "2026-10-15T12:51:47Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 58,
+ "count": 61,
  "entries": [
+  {
+   "slug": "goldgroup-completes-c-101-million-strategic-investment-in-luca-mining",
+   "url": "https://www.cmbulletin.com/posts/goldgroup-completes-c-101-million-strategic-investment-in-luca-mining.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/goldgroup-completes-c-101-million-strategic-investment-in-luca-mining.json",
+   "date": "2026-10-15T12:32:03Z",
+   "headline": "Goldgroup completes C$101 million strategic investment in Luca Mining",
+   "dek": "Goldgroup Mining acquired subscription receipts expected to convert into roughly 19.9% of Luca Mining once its Cozamin Mine acquisition closes.",
+   "caption": "Goldgroup Mining's new stake in Luca Mining is tied to Luca's pending acquisition of the Cozamin Mine.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "M&A",
+    "Strategic Investment"
+   ],
+   "tickers": [
+    "TSXV:GORO",
+    "NYSEAMERICAN:GORO"
+   ],
+   "image": "https://www.cmbulletin.com/images/goldgroup-completes-c-101-million-strategic-investment-in-luca-mining.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Goldgroup Completes Strategic Investment in Luca Mining",
+     "url": "https://investingnews.com/goldgroup-completes-strategic-investment-in-luca-mining/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "Goldgroup's expected resulting stake of approximately 19.9% of Luca is the company's own stated figure, pending completion of the Cozamin Mine acquisition and conversion of the subscription receipts.",
+    "The characterization of the transaction as a 'strategic investment' is Goldgroup's own description."
+   ],
+   "brief": [
+    "Goldgroup Mining Inc. (TSXV: GORO) (NYSE American: GORO) said it completed a C$101,123,662 strategic investment in Luca Mining Corp., acquiring 101,123,662 subscription receipts at C$1.00 each. The receipts were part of a bought-deal private placement Luca is conducting in connection with its proposed acquisition of the Cozamin Mine, which closed October 14, 2026.",
+    "The subscription receipts convert into common shares of Luca once release conditions are satisfied, including completion of the Cozamin Mine acquisition. Goldgroup said it may elect early conversion, provided its resulting stake does not exceed 19.9% without further approvals. Following conversion, Goldgroup is expected to hold about 19.9% of Luca on a non-diluted basis.",
+    "Goldgroup secured an investor rights agreement entitling it, while holding at least 10% of Luca's shares, to participate in future equity financings, top up its holdings against dilutive issuances, and nominate two directors to Luca's board. The release does not disclose the total size of Luca's offering, Luca's ticker symbol, or the terms of the Cozamin Mine acquisition itself."
+   ]
+  },
+  {
+   "slug": "us-consumer-prices-rose-0-6-in-september",
+   "url": "https://www.cmbulletin.com/posts/us-consumer-prices-rose-0-6-in-september.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/us-consumer-prices-rose-0-6-in-september.json",
+   "date": "2026-10-15T12:32:03Z",
+   "headline": "US consumer prices rose 0.6% in September",
+   "dek": "The Bureau of Labor Statistics said core prices, excluding food and energy, rose 0.3% on the month and 2.6% over the year.",
+   "caption": "The Consumer Price Index rose 0.6% in September, driven largely by a 9.1% monthly increase in gasoline prices, the Bureau of Labor Statistics said.",
+   "sections": [
+    "markets"
+   ],
+   "tags": [
+    "Macro",
+    "Inflation",
+    "US Economy"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/us-consumer-prices-rose-0-6-in-september.png",
+   "source_name": "BLS — Consumer Price Index",
+   "sources": [
+    {
+     "title": "CPI for all items increases 0.6% in September; gasoline rises",
+     "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+     "publisher": "BLS — Consumer Price Index"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "The U.S. Bureau of Labor Statistics said the Consumer Price Index for All Urban Consumers rose 0.6% in September on a seasonally adjusted basis, and 3.7% over the 12 months ending in September, not seasonally adjusted. The index for items excluding food and energy rose 0.3% in September and 2.6% over the year.",
+    "The bureau said the gasoline index rose 9.1% in September, \"accounting for over half of the monthly all items increase.\" Over the year, it said the energy index rose 20.4%, \"due in large part to the index for gasoline rising 34.2 percent.\"",
+    "The shelter index rose 0.4% in September after rising 0.3% in August, and is up 3.2% over the year, the bureau said. The food index was unchanged in September on a seasonally adjusted basis but rose 2.5% over the year."
+   ]
+  },
+  {
+   "slug": "hawkeye-360-secures-36-million-in-new-international-contracts",
+   "url": "https://www.cmbulletin.com/posts/hawkeye-360-secures-36-million-in-new-international-contracts.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/hawkeye-360-secures-36-million-in-new-international-contracts.json",
+   "date": "2026-10-15T12:32:03Z",
+   "headline": "HawkEye 360 secures $36 million in new international contracts",
+   "dek": "The Q3 awards span more than 10 allied and partner nations across the Indo-Pacific, Middle East, Europe and the Americas, the company said.",
+   "caption": "HawkEye 360, a signals-intelligence company listed on the NYSE, reports new defense contracts spanning allied nations across four world regions.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Defense",
+    "Technology",
+    "Government Contracts"
+   ],
+   "tickers": [
+    "NYSE:HAWK"
+   ],
+   "image": "https://www.cmbulletin.com/images/hawkeye-360-secures-36-million-in-new-international-contracts.png",
+   "source_name": "PR Newswire — all news releases",
+   "sources": [
+    {
+     "title": "HawkEye 360 Secures $36 million in New International Contracts Driven by Increasing Demand for Signals Intelligence",
+     "url": "https://www.prnewswire.com/news-releases/hawkeye-360-secures-36-million-in-new-international-contracts-driven-by-increasing-demand-for-signals-intelligence-302909323.html",
+     "publisher": "PR Newswire — all news releases"
+    }
+   ],
+   "unverified_claims": [
+    "HawkEye 360's description of itself as 'the global leader in signals intelligence data and analytics' rests only on the company's own characterization.",
+    "The characterization of customers' security environments as 'increasingly complex' is the company's own description."
+   ],
+   "brief": [
+    "HawkEye 360, Inc. (NYSE: HAWK) said it secured $36 million in new international contracts during the third quarter ended September 30, 2026. The company described itself as \"the global leader in signals intelligence data and analytics,\" and said the awards span more than 10 allied and partner nations.",
+    "The release groups the new multi-year awards by region: customers in the Indo-Pacific, Middle East, Europe and the Americas. HawkEye 360 said these customers are turning to its radio-frequency data and analytics for situational awareness, threat identification and operational decision-making. No individual contracts, countries or customers are named, and the $36 million figure is not broken down.",
+    "Chief executive John Serafini said the awards \"reflect the growing recognition among allied nations that signals intelligence is essential to modern defense operations.\" The release gives no revenue or backlog figures beyond the $36 million in new awards, and does not state when the contracted work will be delivered or recognized as revenue."
+   ]
+  },
   {
    "slug": "condor-energies-sets-october-15-closing-for-c-70-million-financing",
    "url": "https://www.cmbulletin.com/posts/condor-energies-sets-october-15-closing-for-c-70-million-financing.html",

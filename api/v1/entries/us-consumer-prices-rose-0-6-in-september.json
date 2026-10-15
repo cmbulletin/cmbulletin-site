@@ -1,0 +1,46 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-15T12:51:47Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "us-consumer-prices-rose-0-6-in-september",
+ "url": "https://www.cmbulletin.com/posts/us-consumer-prices-rose-0-6-in-september.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/us-consumer-prices-rose-0-6-in-september.json",
+ "date": "2026-10-15T12:32:03Z",
+ "headline": "US consumer prices rose 0.6% in September",
+ "dek": "The Bureau of Labor Statistics said core prices, excluding food and energy, rose 0.3% on the month and 2.6% over the year.",
+ "caption": "The Consumer Price Index rose 0.6% in September, driven largely by a 9.1% monthly increase in gasoline prices, the Bureau of Labor Statistics said.",
+ "sections": [
+  "markets"
+ ],
+ "tags": [
+  "Macro",
+  "Inflation",
+  "US Economy"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/us-consumer-prices-rose-0-6-in-september.png",
+ "source_name": "BLS — Consumer Price Index",
+ "sources": [
+  {
+   "title": "CPI for all items increases 0.6% in September; gasoline rises",
+   "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+   "publisher": "BLS — Consumer Price Index"
+  }
+ ],
+ "unverified_claims": [],
+ "brief": [
+  "The U.S. Bureau of Labor Statistics said the Consumer Price Index for All Urban Consumers rose 0.6% in September on a seasonally adjusted basis, and 3.7% over the 12 months ending in September, not seasonally adjusted. The index for items excluding food and energy rose 0.3% in September and 2.6% over the year.",
+  "The bureau said the gasoline index rose 9.1% in September, \"accounting for over half of the monthly all items increase.\" Over the year, it said the energy index rose 20.4%, \"due in large part to the index for gasoline rising 34.2 percent.\"",
+  "The shelter index rose 0.4% in September after rising 0.3% in August, and is up 3.2% over the year, the bureau said. The food index was unchanged in September on a seasonally adjusted basis but rose 2.5% over the year."
+ ],
+ "body": [
+  "The U.S. Bureau of Labor Statistics reported that the Consumer Price Index for All Urban Consumers rose 0.6 percent in September 2026 on a seasonally adjusted basis. Over the 12 months ending in September, the index rose 3.7 percent on a not-seasonally-adjusted basis, the bureau said.",
+  "The index for all items less food and energy — commonly referred to as core CPI — rose 0.3 percent in September on a seasonally adjusted basis, and was up 2.6 percent over the year, not seasonally adjusted, according to the release.",
+  "The bureau attributed much of the monthly increase to energy prices, stating that \"the index for gasoline rose 9.1 percent in September, accounting for over half of the monthly all items increase.\" Over the 12-month period, it said \"the energy index increased 20.4 percent... due in large part to the index for gasoline rising 34.2 percent.\"",
+  "Shelter costs continued to rise: the bureau said \"the shelter index rose 0.4 percent in September after rising 0.3 percent in August,\" with the shelter index up 3.2 percent over the year.",
+  "The food index was unchanged in September on a seasonally adjusted basis, the bureau said, though it rose 2.5 percent over the preceding 12 months.",
+  "The release reports the measured price changes for the month and the year; it includes no assessment of future price trends or monetary policy."
+ ]
+}

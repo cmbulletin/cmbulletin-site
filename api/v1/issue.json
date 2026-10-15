@@ -1,195 +1,145 @@
 {
  "api": "v1",
- "generated_at": "2026-10-14T12:48:20Z",
+ "generated_at": "2026-10-15T12:51:47Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-14",
- "count": 4,
+ "issue_date": "2026-10-15",
+ "count": 3,
  "entries": [
   {
-   "slug": "condor-energies-sets-october-15-closing-for-c-70-million-financing",
-   "url": "https://www.cmbulletin.com/posts/condor-energies-sets-october-15-closing-for-c-70-million-financing.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/condor-energies-sets-october-15-closing-for-c-70-million-financing.json",
-   "date": "2026-10-14T12:36:46Z",
-   "headline": "Condor Energies sets October 15 closing for C$70-million financing",
-   "dek": "The combined public offering and private placement of 12% convertible debentures is expected to close with Research Capital and Canaccord Genuity as agents.",
-   "caption": "A row of pipelines and storage tanks under an overcast prairie sky, the quiet infrastructure of an energy company's financing season.",
-   "sections": [
-    "energy"
-   ],
-   "tags": [
-    "Energy",
-    "Financing",
-    "Debentures"
-   ],
-   "tickers": [
-    "TSX:CDR",
-    "OTC:CNPRF"
-   ],
-   "image": "https://www.cmbulletin.com/images/condor-energies-sets-october-15-closing-for-c-70-million-financing.png",
-   "source_name": "Investing News Network — Resource Investing",
-   "sources": [
-    {
-     "title": "Condor Announces October 15, 2026 as Expected Closing Date for C$70 Million Financing",
-     "url": "https://investingnews.com/condor-announces-october-15-2026-as-expected-closing-date-for-c-70-million-financing/",
-     "publisher": "Investing News Network — Resource Investing"
-    }
-   ],
-   "unverified_claims": [
-    "The expected October 15, 2026 closing date is subject to change by agreement between the company and its agents, as the release itself notes."
-   ],
-   "brief": [
-    "Condor Energies Inc. (TSX: CDR) said it expects to close its previously announced financing on October 15, 2026, or such other date as the company and its agents agree, for combined gross proceeds of up to C$70,000,000.",
-    "The financing combines a public offering of up to C$25,000,000 and a concurrent non-brokered private placement of up to C$45,000,000, both in 12% unsecured convertible debentures priced at C$1,000 each. Research Capital Corporation is co-lead agent and sole bookrunner on the public offering, with Canaccord Genuity Corp. as co-lead agent.",
-    "The debentures are not being offered or sold in the United States or to U.S. persons. The release does not state how many debentures will be issued, a use of proceeds, or any closing conditions beyond the expected date."
-   ],
-   "body": [
-    "Condor Energies Inc. (TSX: CDR) (OTC: CNPRF) said it expects the closing of its previously announced financing to occur on October 15, 2026, or such other date as the company and its agents agree. The financing is intended to raise combined gross proceeds of up to C$70,000,000.",
-    "It combines a public offering of up to C$25,000,000 and a concurrent non-brokered private placement of up to C$45,000,000, in each case consisting of 12% unsecured convertible debentures of the company priced at C$1,000 per debenture. Research Capital Corporation is acting as co-lead agent and sole bookrunner for the public offering, with Canaccord Genuity Corp. acting as co-lead agent.",
-    "The public offering is being made under Condor's existing base shelf prospectus and a shelf prospectus supplement, both filed with securities regulators and accessible on SEDAR+. The release said the debentures are not being offered or sold in the United States or to U.S. persons and have not been registered under the U.S. Securities Act of 1933.",
-    "The release does not state how many debentures will be issued under either component of the financing, nor does it disclose a use of proceeds, a resale hold period, or any closing conditions beyond the expected date and the parties' ability to agree on a different one.",
-    "Today's release updates the timing of a financing Condor had previously announced; it restates the price, size and parties involved but does not restate the full terms of that earlier announcement."
-   ]
-  },
-  {
-   "slug": "prospect-ridge-closes-first-tranche-of-flow-through-placement",
-   "url": "https://www.cmbulletin.com/posts/prospect-ridge-closes-first-tranche-of-flow-through-placement.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/prospect-ridge-closes-first-tranche-of-flow-through-placement.json",
-   "date": "2026-10-14T12:36:46Z",
-   "headline": "Prospect Ridge closes first tranche of flow-through placement",
-   "dek": "The CSE-listed explorer raised $1.35 million in its first tranche, with insiders buying in and proceeds earmarked for British Columbia exploration.",
-   "caption": "A river valley cutting through forested, mineral-rich terrain in north-central British Columbia, where drill programs are being prepared ahead of next spring.",
+   "slug": "goldgroup-completes-c-101-million-strategic-investment-in-luca-mining",
+   "url": "https://www.cmbulletin.com/posts/goldgroup-completes-c-101-million-strategic-investment-in-luca-mining.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/goldgroup-completes-c-101-million-strategic-investment-in-luca-mining.json",
+   "date": "2026-10-15T12:32:03Z",
+   "headline": "Goldgroup completes C$101 million strategic investment in Luca Mining",
+   "dek": "Goldgroup Mining acquired subscription receipts expected to convert into roughly 19.9% of Luca Mining once its Cozamin Mine acquisition closes.",
+   "caption": "Goldgroup Mining's new stake in Luca Mining is tied to Luca's pending acquisition of the Cozamin Mine.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
-    "Financing",
-    "Flow-Through",
-    "Critical Minerals"
+    "M&A",
+    "Strategic Investment"
    ],
    "tickers": [
-    "CSE:PRR",
-    "OTC:PRRSF",
-    "FRA:0ED"
+    "TSXV:GORO",
+    "NYSEAMERICAN:GORO"
    ],
-   "image": "https://www.cmbulletin.com/images/prospect-ridge-closes-first-tranche-of-flow-through-placement.png",
+   "image": "https://www.cmbulletin.com/images/goldgroup-completes-c-101-million-strategic-investment-in-luca-mining.png",
    "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
-     "title": "Prospect Ridge Announces First Tranche Closing of Critical Metals Flow-Through Unit Private Placement",
-     "url": "https://investingnews.com/prospect-ridge-announces-first-tranche-closing-of-critical-metals-flow-through-unit-private-placement/",
+     "title": "Goldgroup Completes Strategic Investment in Luca Mining",
+     "url": "https://investingnews.com/goldgroup-completes-strategic-investment-in-luca-mining/",
      "publisher": "Investing News Network — Resource Investing"
     }
    ],
    "unverified_claims": [
-    "Prospect Ridge's description of its management team's 'over 100 years of combined mineral exploration experience' and its characterization of its land position as among Canada's most under-explored mineral belts rest solely on the company's own statement.",
-    "The specific 'certain events' that would accelerate the finder warrants' expiry are not detailed in the release."
+    "Goldgroup's expected resulting stake of approximately 19.9% of Luca is the company's own stated figure, pending completion of the Cozamin Mine acquisition and conversion of the subscription receipts.",
+    "The characterization of the transaction as a 'strategic investment' is Goldgroup's own description."
    ],
    "brief": [
-    "Prospect Ridge Resources Corp. (CSE: PRR) said it has closed the first tranche of its non-brokered private placement of critical mineral flow-through units, first announced October 2, 2026, issuing 17,935,002 units at $0.075 each for gross proceeds of $1,345,125.15.",
-    "The company paid aggregate finder fees of $88,200.01 in cash and issued 1,176,000 finder warrants, each exercisable at $0.10 for two years. Insiders purchased 335,000 of the units in this tranche. All securities issued are subject to a statutory hold period expiring February 14, 2027.",
-    "Prospect Ridge said the proceeds will fund eligible Canadian exploration expenses on its British Columbia projects, with a focus on a 2,500-metre drill program at the Camelot project and preparations for spring drilling at the Excalibur project, north of Smithers. The release did not state a target size for the overall placement."
+    "Goldgroup Mining Inc. (TSXV: GORO) (NYSE American: GORO) said it completed a C$101,123,662 strategic investment in Luca Mining Corp., acquiring 101,123,662 subscription receipts at C$1.00 each. The receipts were part of a bought-deal private placement Luca is conducting in connection with its proposed acquisition of the Cozamin Mine, which closed October 14, 2026.",
+    "The subscription receipts convert into common shares of Luca once release conditions are satisfied, including completion of the Cozamin Mine acquisition. Goldgroup said it may elect early conversion, provided its resulting stake does not exceed 19.9% without further approvals. Following conversion, Goldgroup is expected to hold about 19.9% of Luca on a non-diluted basis.",
+    "Goldgroup secured an investor rights agreement entitling it, while holding at least 10% of Luca's shares, to participate in future equity financings, top up its holdings against dilutive issuances, and nominate two directors to Luca's board. The release does not disclose the total size of Luca's offering, Luca's ticker symbol, or the terms of the Cozamin Mine acquisition itself."
    ],
    "body": [
-    "Prospect Ridge Resources Corp. (CSE: PRR) (OTC: PRRSF) (FRA: 0ED) said it has closed the first tranche of a non-brokered private placement of critical mineral flow-through units, first announced October 2, 2026. The first tranche issued an aggregate of 17,935,002 units priced at $0.075 each, for gross proceeds of $1,345,125.15.",
-    "In connection with the first tranche, the company paid aggregate finder fees of $88,200.01 in cash and issued an aggregate of 1,176,000 finder warrants, each exercisable at $0.10 for two years, subject to acceleration on the occurrence of certain events the release did not specify. All securities issued in the first tranche, including the flow-through units, are subject to a statutory hold period expiring February 14, 2027.",
-    "Insiders of the company purchased an aggregate of 335,000 of the units issued in the first tranche. The release describes this as the first tranche of the offering but does not state a target size for the placement overall, or when a further tranche might close.",
-    "The company said the proceeds will go toward eligible Canadian exploration expenses on its British Columbia mineral projects, naming a focus on a 2,500-metre drill program at the Camelot project and preparations for spring drilling at the Excalibur project, north of Smithers.",
-    "Prospect Ridge describes itself as a British Columbia-based exploration and development company focused on critical metals and gold, led by a management team it says has more than 100 years of combined mineral exploration experience, advancing projects in what it calls one of Canada's most under-explored mineral belts."
+    "Goldgroup Mining Inc. (TSXV: GORO) (NYSE American: GORO) said it completed a C$101,123,662 strategic investment in Luca Mining Corp. on October 14, 2026, acquiring 101,123,662 subscription receipts at a price of C$1.00 per receipt. The receipts were issued as part of a bought-deal private placement that Luca is conducting in connection with its proposed acquisition of the Cozamin Mine, which the release refers to as the \"Cozamin Acquisition\" without further describing its terms.",
+    "A subscription receipt is a security that converts into a common share once specified conditions are met, rather than granting share ownership immediately. Here, the receipts convert into Luca common shares once release conditions are satisfied, which the release says include completion of the Cozamin Acquisition. Goldgroup said it may elect to convert its receipts early, provided doing so would not take its holding above 19.9% of Luca's outstanding shares without further approval.",
+    "Following conversion, Goldgroup said it will hold 101,123,662 Luca common shares, representing approximately 19.9% of Luca's outstanding shares on a non-diluted basis. The release does not state Luca's total share count on a diluted basis, nor does it give the total size of the bought-deal offering of which Goldgroup's receipts were a part.",
+    "Goldgroup also secured an investor rights agreement with Luca. While Goldgroup holds at least 10% of Luca's shares, the agreement gives it the right to participate in future equity financings and top up its holding in relation to dilutive issuances, and the right to nominate two persons to Luca's board of directors.",
+    "The release states that Goldgroup \"intends to assess opportunities relating to its investment in Luca\" and that, depending on its strategic priorities, market conditions and its evaluation of Luca's business, it may acquire additional securities, exercise its board nomination rights, or dispose of some or all of its position.",
+    "The release does not name Luca's stock ticker or exchange, does not name any underwriter or agent for Luca's offering, and does not describe the terms of the Cozamin Mine acquisition — the price, the seller, or Luca's other obligations — beyond referring to it as a pending acquisition that conversion of the receipts is conditioned on.",
+    "Goldgroup's contacts for the release are listed as Javier Reyes, chief executive officer, and Sophia Shane, in corporate development."
    ]
   },
   {
-   "slug": "scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge",
-   "url": "https://www.cmbulletin.com/posts/scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge.json",
-   "date": "2026-10-14T12:36:46Z",
-   "headline": "Scorpio Gold drills 36-metre gold intercept at Goldwedge",
-   "dek": "The Nevada driller's Phase Two program also returned high-grade hits at West Pit, Black Mammoth and the Zanzibar Trend, with a sonic program to follow.",
-   "caption": "Drill rigs worked through the night at a remote Nevada gold project this autumn, part of an ongoing exploration campaign.",
+   "slug": "us-consumer-prices-rose-0-6-in-september",
+   "url": "https://www.cmbulletin.com/posts/us-consumer-prices-rose-0-6-in-september.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/us-consumer-prices-rose-0-6-in-september.json",
+   "date": "2026-10-15T12:32:03Z",
+   "headline": "US consumer prices rose 0.6% in September",
+   "dek": "The Bureau of Labor Statistics said core prices, excluding food and energy, rose 0.3% on the month and 2.6% over the year.",
+   "caption": "The Consumer Price Index rose 0.6% in September, driven largely by a 9.1% monthly increase in gasoline prices, the Bureau of Labor Statistics said.",
    "sections": [
-    "mining"
+    "markets"
    ],
    "tags": [
-    "Mining",
-    "Exploration",
-    "Drilling"
+    "Macro",
+    "Inflation",
+    "US Economy"
    ],
-   "tickers": [
-    "NASDAQ:SGLD",
-    "TSXV:SGLD",
-    "OTCQB:SRCRF"
-   ],
-   "image": "https://www.cmbulletin.com/images/scorpio-gold-drills-36-metre-gold-intercept-at-goldwedge.png",
-   "source_name": "Investing News Network — Resource Investing",
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/us-consumer-prices-rose-0-6-in-september.png",
+   "source_name": "BLS — Consumer Price Index",
    "sources": [
     {
-     "title": "Scorpio Gold Drills 2.94 g/t Gold over 36.42 Metres from 169.62 Metres at the Goldwedge Target at Manhattan",
-     "url": "https://investingnews.com/scorpio-gold-drills-2-94-g-t-gold-over-36-42-metres-from-169-62-metres-at-the-goldwedge-target-at-manhattan/",
-     "publisher": "Investing News Network — Resource Investing"
+     "title": "CPI for all items increases 0.6% in September; gasoline rises",
+     "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+     "publisher": "BLS — Consumer Price Index"
     }
    ],
-   "unverified_claims": [
-    "The quality-control verification process described (laboratory certificates, field logs, blank/standard/duplicate sample review, chain-of-custody) is as stated by the company and has not been independently audited by this publication.",
-    "The inferred resource estimate of 740,000 ounces of gold at Manhattan is drawn from the company's own technical report dated October 23, 2025 (effective June 4, 2025).",
-    "The sonic drilling program and the evaluation of underground mining potential at Goldwedge are the company's own stated plans."
-   ],
+   "unverified_claims": [],
    "brief": [
-    "Scorpio Gold Corp. (NASDAQ: SGLD) (TSXV: SGLD) reported assay results from eight holes of its Phase Two drill program at the Manhattan District in Nevada. The lead intercept, hole 26MN-124 at the Goldwedge target, returned 2.94 g/t gold over 36.42 metres from 169.62 metres, including 19.33 g/t gold over 4.27 metres from 188.36 metres.",
-    "Other holes also returned gold: 24.85 g/t over 1.22 metres at West Pit, 1.37 g/t over 17.07 metres at Black Mammoth (including a higher-grade 17.04 g/t over 1.07 metres), and 1.18 g/t over 17.10 metres along the Zanzibar Trend. The company said the results lie within faulted Zanzibar and Gold Hill formation rock.",
-    "The company said it has scheduled a sonic drilling program, due to begin before the end of October, to test the grade and tonnage of Manhattan's historic heap leach pad, tailings pond and low-grade stockpile. Manhattan carries a maiden inferred resource of 740,000 ounces of gold."
+    "The U.S. Bureau of Labor Statistics said the Consumer Price Index for All Urban Consumers rose 0.6% in September on a seasonally adjusted basis, and 3.7% over the 12 months ending in September, not seasonally adjusted. The index for items excluding food and energy rose 0.3% in September and 2.6% over the year.",
+    "The bureau said the gasoline index rose 9.1% in September, \"accounting for over half of the monthly all items increase.\" Over the year, it said the energy index rose 20.4%, \"due in large part to the index for gasoline rising 34.2 percent.\"",
+    "The shelter index rose 0.4% in September after rising 0.3% in August, and is up 3.2% over the year, the bureau said. The food index was unchanged in September on a seasonally adjusted basis but rose 2.5% over the year."
    ],
    "body": [
-    "Scorpio Gold Corp. (NASDAQ: SGLD) (TSXV: SGLD) (OTCQB: SRCRF) (FSE: RY9) on October 14, 2026 reported assay results from eight holes drilled as part of the Phase Two program at its wholly owned Manhattan District project in the Walker Lane Trend of Nevada. The lead result, hole 26MN-124 at the Goldwedge target, returned 2.94 g/t gold over 36.42 metres from a depth of 169.62 metres, including a higher-grade interval of 19.33 g/t gold over 4.27 metres from 188.36 metres, within faulted Zanzibar and Gold Hill formation rock.",
-    "Hole 26MN-125 at West Pit returned 24.85 g/t gold over 1.22 metres from 150.88 metres within the Gold Hill Formation. Hole 26MN-121 at Black Mammoth returned 1.37 g/t gold over 17.07 metres from 275.54 metres within Zanzibar Formation mudstone, including a higher-grade 17.04 g/t gold over 1.07 metres at the brecciated contact between the Zanzibar mudstone and limestone units. Hole 26MN-122, along the Zanzibar Trend, returned 1.18 g/t gold over 17.10 metres from 47.21 metres, including 5.58 g/t gold over 2.59 metres, within brecciated metasediments of the Gold Hill Formation.",
-    "The company said the results were verified by Leo Hathaway, P.Geo., its executive technical director, through review of laboratory certificates and field logs, inspection of blank, standard and duplicate sample performance, and chain-of-custody records. The release said assays have now been reported for 115 of the 122 holes drilled in the Phase Two program, totalling 33,379 of 35,844 metres, with results pending on the remaining seven holes.",
-    "Manhattan carries a maiden inferred mineral resource estimate of 740,000 ounces of gold, from 18,343,000 tonnes grading 1.26 g/t gold, with an effective date of June 4, 2025 and a technical report dated October 23, 2025. The project includes the Goldwedge mine and four past-producing pits across a 4,780-hectare property in which Scorpio Gold holds a 100% interest.",
-    "The company said it has scheduled a sonic drilling program, due to begin before the end of October 2026, to provide an initial test of the grade and tonnage of Manhattan's historic heap leach pad, tailings pond and low-grade stockpile. It also said it continues to evaluate underground mining potential at Goldwedge."
+    "The U.S. Bureau of Labor Statistics reported that the Consumer Price Index for All Urban Consumers rose 0.6 percent in September 2026 on a seasonally adjusted basis. Over the 12 months ending in September, the index rose 3.7 percent on a not-seasonally-adjusted basis, the bureau said.",
+    "The index for all items less food and energy — commonly referred to as core CPI — rose 0.3 percent in September on a seasonally adjusted basis, and was up 2.6 percent over the year, not seasonally adjusted, according to the release.",
+    "The bureau attributed much of the monthly increase to energy prices, stating that \"the index for gasoline rose 9.1 percent in September, accounting for over half of the monthly all items increase.\" Over the 12-month period, it said \"the energy index increased 20.4 percent... due in large part to the index for gasoline rising 34.2 percent.\"",
+    "Shelter costs continued to rise: the bureau said \"the shelter index rose 0.4 percent in September after rising 0.3 percent in August,\" with the shelter index up 3.2 percent over the year.",
+    "The food index was unchanged in September on a seasonally adjusted basis, the bureau said, though it rose 2.5 percent over the preceding 12 months.",
+    "The release reports the measured price changes for the month and the year; it includes no assessment of future price trends or monetary policy."
    ]
   },
   {
-   "slug": "eason-technology-regains-nyse-american-listing-compliance",
-   "url": "https://www.cmbulletin.com/posts/eason-technology-regains-nyse-american-listing-compliance.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/eason-technology-regains-nyse-american-listing-compliance.json",
-   "date": "2026-10-14T12:36:46Z",
-   "headline": "Eason Technology regains NYSE American listing compliance",
-   "dek": "A letter from NYSE Regulation resolves a listing-standards deficiency first flagged in October 2025, with another lapse now risking immediate delisting.",
-   "caption": "A quiet corporate office tower at dusk, in the understated rhythm of exchange compliance season for listed companies.",
+   "slug": "hawkeye-360-secures-36-million-in-new-international-contracts",
+   "url": "https://www.cmbulletin.com/posts/hawkeye-360-secures-36-million-in-new-international-contracts.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/hawkeye-360-secures-36-million-in-new-international-contracts.json",
+   "date": "2026-10-15T12:32:03Z",
+   "headline": "HawkEye 360 secures $36 million in new international contracts",
+   "dek": "The Q3 awards span more than 10 allied and partner nations across the Indo-Pacific, Middle East, Europe and the Americas, the company said.",
+   "caption": "HawkEye 360, a signals-intelligence company listed on the NYSE, reports new defense contracts spanning allied nations across four world regions.",
    "sections": [
-    "news"
+    "tech"
    ],
    "tags": [
-    "Listings",
-    "Regulatory"
+    "Defense",
+    "Technology",
+    "Government Contracts"
    ],
    "tickers": [
-    "NYSEAMERICAN:DXF"
+    "NYSE:HAWK"
    ],
-   "image": "https://www.cmbulletin.com/images/eason-technology-regains-nyse-american-listing-compliance.png",
-   "source_name": "PR Newswire",
+   "image": "https://www.cmbulletin.com/images/hawkeye-360-secures-36-million-in-new-international-contracts.png",
+   "source_name": "PR Newswire — all news releases",
    "sources": [
     {
-     "title": "Eason Technology Receives NYSE American Compliance Letter Confirming Regained Compliance With Continued Listing Standards",
-     "url": "https://www.prnewswire.com/news-releases/eason-technology-receives-nyse-american-compliance-letter-confirming-regained-compliance-with-continued-listing-standards-302903670.html",
-     "publisher": "PR Newswire"
+     "title": "HawkEye 360 Secures $36 million in New International Contracts Driven by Increasing Demand for Signals Intelligence",
+     "url": "https://www.prnewswire.com/news-releases/hawkeye-360-secures-36-million-in-new-international-contracts-driven-by-increasing-demand-for-signals-intelligence-302909323.html",
+     "publisher": "PR Newswire — all news releases"
     }
    ],
    "unverified_claims": [
-    "The company's characterization of its governance and financial position as 'at their strongest level since listing' rests solely on chief executive Stanley He's statement in the release.",
-    "The description of Eason Technology's business as spanning real estate management, investment operations and digital technology security is as stated by the company and has not been independently verified."
+    "HawkEye 360's description of itself as 'the global leader in signals intelligence data and analytics' rests only on the company's own characterization.",
+    "The characterization of customers' security environments as 'increasingly complex' is the company's own description."
    ],
    "brief": [
-    "Eason Technology Limited (NYSE American: DXF) said it has received a letter from NYSE Regulation confirming it has regained compliance with the exchange's continued listing standards. The letter, dated October 8, 2026, resolves a deficiency under Section 1003(a)(ii) of the NYSE American Company Guide, first flagged in letters dated October 14, 2025 and December 30, 2025.",
-    "The company said it demonstrated compliance with the applicable standards for two consecutive quarters, which it said satisfies the requirement under Section 1009(f) of the Company Guide for the exchange to confirm a deficiency has been cured. Eason Technology describes its business as spanning real estate management, investment operations and digital technology security, based principally in Hong Kong and China.",
-    "The company said that under Section 1009(h) of the Company Guide, a further non-compliance finding within twelve months of the October 8 letter would lead NYSE Regulation to examine the relationship between the two incidents, and that the exchange may truncate normal compliance procedures or begin delisting proceedings immediately rather than granting another cure period."
+    "HawkEye 360, Inc. (NYSE: HAWK) said it secured $36 million in new international contracts during the third quarter ended September 30, 2026. The company described itself as \"the global leader in signals intelligence data and analytics,\" and said the awards span more than 10 allied and partner nations.",
+    "The release groups the new multi-year awards by region: customers in the Indo-Pacific, Middle East, Europe and the Americas. HawkEye 360 said these customers are turning to its radio-frequency data and analytics for situational awareness, threat identification and operational decision-making. No individual contracts, countries or customers are named, and the $36 million figure is not broken down.",
+    "Chief executive John Serafini said the awards \"reflect the growing recognition among allied nations that signals intelligence is essential to modern defense operations.\" The release gives no revenue or backlog figures beyond the $36 million in new awards, and does not state when the contracted work will be delivered or recognized as revenue."
    ],
    "body": [
-    "Eason Technology Limited (NYSE American: DXF) said it has received a letter from NYSE Regulation, dated October 8, 2026, confirming it has regained compliance with the exchange's continued listing standards. The letter resolves a deficiency under Section 1003(a)(ii) of the NYSE American Company Guide, which the exchange had first identified in letters to the company dated October 14, 2025 and December 30, 2025.",
-    "The company said it demonstrated compliance with the applicable continued listing standards for two consecutive quarters, which it said satisfies the requirement under Section 1009(f) of the Company Guide for NYSE Regulation to confirm that a listed company has cured a deficiency. The release does not state which specific financial metric triggered the original deficiency notices, or describe the steps the company took over the past year to come back into compliance.",
-    "Eason Technology describes its business as spanning real estate management, investment operations and digital technology security, with primary operations based in Hong Kong and China.",
-    "The company said that under Section 1009(h) of the Company Guide, a further non-compliance finding within twelve months of the October 8 letter would lead NYSE Regulation to examine the relationship between the two incidents, and that depending on the circumstances the exchange may truncate its normal compliance procedures or begin delisting proceedings immediately rather than granting another cure period.",
-    "Chief executive Stanley He said the company has achieved rapid growth across all of its business lines and that its corporate governance structure and financial position are at their strongest level since listing, adding that management places a high priority on compliant operations."
+    "HawkEye 360, Inc. (NYSE: HAWK) announced on October 15, 2026 that it secured $36 million in new international contracts during the third quarter ended September 30, 2026. The release describes HawkEye 360 as \"the global leader in signals intelligence data and analytics\" and says the new awards reflect demand for its capabilities across more than 10 allied and partner nations.",
+    "The release structures the new business as multi-year awards rather than one-time contracts, though it does not state the length of the multi-year terms or break the $36 million figure down by region, country or individual award. It groups the customers by region: the Indo-Pacific, the Middle East, Europe and the Americas.",
+    "HawkEye 360 said these defense and intelligence customers are turning to its data and analytics \"to strengthen situational awareness, identify emerging threats, and support timely operational decision-making\" as they face what the company describes as increasingly complex security environments.",
+    "The company's business, per its own description in the release, is built on detecting, geolocating and characterizing radio-frequency emissions worldwide from space-based collection, which it combines with proprietary signal processing and AI-powered analytics to produce what it calls domain awareness and early-warning indicators for the U.S. government and allied partners.",
+    "Chief executive John Serafini said: \"these awards reflect the growing recognition among allied nations that signals intelligence is essential to modern defense operations.\" He added that the company's focus remains on delivering capabilities that give \"Warfighters and decision-makers\" the information they need to understand the operational environment and act with confidence.",
+    "The release names no specific country, government agency or company as a customer, and identifies no individual contract. It gives no revenue or backlog figures beyond the $36 million in new awards, and does not state a timetable for when the contracted work will be delivered or recognized as revenue."
    ]
   }
  ]
