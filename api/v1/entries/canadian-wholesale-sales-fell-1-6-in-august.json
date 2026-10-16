@@ -1,0 +1,46 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-16T12:51:16Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "canadian-wholesale-sales-fell-1-6-in-august",
+ "url": "https://www.cmbulletin.com/posts/canadian-wholesale-sales-fell-1-6-in-august.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/canadian-wholesale-sales-fell-1-6-in-august.json",
+ "date": "2026-10-16T12:35:23Z",
+ "headline": "Canadian wholesale sales fell 1.6% in August",
+ "dek": "Statistics Canada said sales excluding petroleum and grain products dropped to $91.6 billion, even as sales ran 7.2% above a year earlier.",
+ "caption": "Statistics Canada's monthly wholesale trade survey covers sales across motor vehicles, building materials, machinery and other goods categories.",
+ "sections": [
+  "markets"
+ ],
+ "tags": [
+  "Macro",
+  "Trade Data",
+  "Canada"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/canadian-wholesale-sales-fell-1-6-in-august.png",
+ "source_name": "Statistics Canada — The Daily",
+ "sources": [
+  {
+   "title": "Wholesale trade, August 2026",
+   "url": "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015b-eng.htm",
+   "publisher": "Statistics Canada — The Daily"
+  }
+ ],
+ "unverified_claims": [],
+ "brief": [
+  "Statistics Canada said wholesale sales, excluding petroleum, petroleum products, other hydrocarbons, oilseed and grain, fell 1.6% to $91.6 billion in August 2026. Sales decreased in five of seven subsectors, representing 70.6% of total wholesale sales, led by a 3.8% decline to $15.1 billion in the motor vehicle and motor vehicle parts and accessories subsector.",
+  "The decline was moderated by a 1.4% increase to $14.1 billion in the building material and supplies subsector. Agricultural supplies posted the next-largest decrease, down 12.4% to $3.5 billion. Wholesale sales were 7.2% higher than in August of the prior year, though in volume terms sales fell 1.8% on the month.",
+  "Wholesale inventories, under the same exclusions, were unchanged in August at $141.0 billion, and the inventory-to-sales ratio rose from 1.51 in July to 1.54 in August. Statistics Canada said the release's content was produced with the assistance of a generative AI tool and verified by its own experts."
+ ],
+ "body": [
+  "Statistics Canada reported that wholesale sales, excluding petroleum, petroleum products, other hydrocarbons, and oilseed and grain, fell 1.6% to $91.6 billion in August 2026. The agency said sales decreased in five of the sector's seven subsectors, together accounting for 70.6% of total wholesale sales.",
+  "The largest decline came from the motor vehicle and motor vehicle parts and accessories subsector, which fell 3.8% to $15.1 billion. The agricultural supplies industry group posted the next-largest decrease, down 12.4% to $3.5 billion. The overall decline was moderated by the building material and supplies subsector, which rose 1.4% to $14.1 billion.",
+  "Statistics Canada said wholesale sales were 7.2% higher in August than in the same month a year earlier. In volume terms — which adjust for price changes — wholesale sales, under the same exclusions, fell 1.8% in August.",
+  "Wholesale inventories, excluding the same petroleum and grain-related categories, were unchanged in August at $141.0 billion. The inventory-to-sales ratio rose from 1.51 in July to 1.54 in August, a measure of how many months it would take to clear existing inventory at the current sales pace.",
+  "Ontario posted the largest provincial decline, down 1.6% to $47.8 billion, following six months of consecutive increases, and Saskatchewan posted the second-largest decrease, down 8.2% to $3.8 billion. Statistics Canada also reported gains in several smaller jurisdictions: Prince Edward Island rose 5.1% to $125.1 million, Nova Scotia rose 0.6% to $1,400.1 million, and Alberta rose 0.7% to $10,378.9 million, while Nunavut rose 43.4% to $13.9 million.",
+  "Statistics Canada said this release's content was produced with the assistance of a generative artificial intelligence tool and refined and verified by the agency's own experts."
+ ]
+}

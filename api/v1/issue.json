@@ -1,145 +1,141 @@
 {
  "api": "v1",
- "generated_at": "2026-10-15T12:51:47Z",
+ "generated_at": "2026-10-16T12:51:16Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-15",
+ "issue_date": "2026-10-16",
  "count": 3,
  "entries": [
   {
-   "slug": "goldgroup-completes-c-101-million-strategic-investment-in-luca-mining",
-   "url": "https://www.cmbulletin.com/posts/goldgroup-completes-c-101-million-strategic-investment-in-luca-mining.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/goldgroup-completes-c-101-million-strategic-investment-in-luca-mining.json",
-   "date": "2026-10-15T12:32:03Z",
-   "headline": "Goldgroup completes C$101 million strategic investment in Luca Mining",
-   "dek": "Goldgroup Mining acquired subscription receipts expected to convert into roughly 19.9% of Luca Mining once its Cozamin Mine acquisition closes.",
-   "caption": "Goldgroup Mining's new stake in Luca Mining is tied to Luca's pending acquisition of the Cozamin Mine.",
+   "slug": "emergent-metals-restates-q2-financials-updates-lahontan-deal",
+   "url": "https://www.cmbulletin.com/posts/emergent-metals-restates-q2-financials-updates-lahontan-deal.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/emergent-metals-restates-q2-financials-updates-lahontan-deal.json",
+   "date": "2026-10-16T12:35:23Z",
+   "headline": "Emergent Metals restates Q2 financials, updates Lahontan deal",
+   "dek": "The TSX Venture-listed explorer corrected prior filings and said shareholders will vote on its acquisition by Lahontan Gold on December 4.",
+   "caption": "Emergent Metals' proposed combination with Lahontan Gold awaits a shareholder vote scheduled for December, the company said.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
     "M&A",
-    "Strategic Investment"
+    "Regulatory"
    ],
    "tickers": [
-    "TSXV:GORO",
-    "NYSEAMERICAN:GORO"
+    "TSXV:EMR",
+    "OTCQB:EGMCF",
+    "FRA:EML"
    ],
-   "image": "https://www.cmbulletin.com/images/goldgroup-completes-c-101-million-strategic-investment-in-luca-mining.png",
-   "source_name": "Investing News Network — Resource Investing",
+   "image": "https://www.cmbulletin.com/images/emergent-metals-restates-q2-financials-updates-lahontan-deal.png",
+   "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Goldgroup Completes Strategic Investment in Luca Mining",
-     "url": "https://investingnews.com/goldgroup-completes-strategic-investment-in-luca-mining/",
-     "publisher": "Investing News Network — Resource Investing"
+     "title": "Emergent Metals Files Amended and Restated Q2 2026 Financial Statements and MD&A and Provides Update on Plan of Arrangement with Lahontan Gold",
+     "url": "https://thenewswire.com/press-releases/1LpMFYmZ1-emergent-metals-files-amended-and-restated-q2-2026-financial-statements-and-md-a-and-provides-update-on-plan-of-arrangement-with-lahontan-gold.html",
+     "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "Goldgroup's expected resulting stake of approximately 19.9% of Luca is the company's own stated figure, pending completion of the Cozamin Mine acquisition and conversion of the subscription receipts.",
-    "The characterization of the transaction as a 'strategic investment' is Goldgroup's own description."
+    "The specific nature of the 'accounting and disclosure matters' corrected in the restatement is not described beyond the company's own characterization.",
+    "Whether the Lahontan transaction completes as described depends on shareholder, court and exchange approvals that remain outstanding."
    ],
    "brief": [
-    "Goldgroup Mining Inc. (TSXV: GORO) (NYSE American: GORO) said it completed a C$101,123,662 strategic investment in Luca Mining Corp., acquiring 101,123,662 subscription receipts at C$1.00 each. The receipts were part of a bought-deal private placement Luca is conducting in connection with its proposed acquisition of the Cozamin Mine, which closed October 14, 2026.",
-    "The subscription receipts convert into common shares of Luca once release conditions are satisfied, including completion of the Cozamin Mine acquisition. Goldgroup said it may elect early conversion, provided its resulting stake does not exceed 19.9% without further approvals. Following conversion, Goldgroup is expected to hold about 19.9% of Luca on a non-diluted basis.",
-    "Goldgroup secured an investor rights agreement entitling it, while holding at least 10% of Luca's shares, to participate in future equity financings, top up its holdings against dilutive issuances, and nominate two directors to Luca's board. The release does not disclose the total size of Luca's offering, Luca's ticker symbol, or the terms of the Cozamin Mine acquisition itself."
+    "Emergent Metals Corp. (TSXV: EMR) has filed amended financial statements for the three and six months ended June 30, 2026, replacing its original August 28, 2026 filing. The company said the changes correct accounting and disclosure matters identified afterward, cutting share capital and accumulated other comprehensive loss by US$231,040 and raising comprehensive loss by US$263,894 and US$297,428 for the two periods.",
+    "Emergent said the corrections had no impact on assets, liabilities, net loss, total equity or cash balance. Separately, the company gave an update on its pending acquisition by Lahontan Gold Corp. under a court-approved plan of arrangement dated September 15, 2026, in which Emergent shareholders will receive 0.3115 of a Lahontan share for each Emergent share held.",
+    "The exchange ratio is equivalent to about one Lahontan share for every 3.21 Emergent shares. The TSX Venture Exchange has given conditional acceptance, and Emergent shareholders are scheduled to vote on the arrangement at a meeting on December 4, 2026; completion also requires court and final exchange approval."
    ],
    "body": [
-    "Goldgroup Mining Inc. (TSXV: GORO) (NYSE American: GORO) said it completed a C$101,123,662 strategic investment in Luca Mining Corp. on October 14, 2026, acquiring 101,123,662 subscription receipts at a price of C$1.00 per receipt. The receipts were issued as part of a bought-deal private placement that Luca is conducting in connection with its proposed acquisition of the Cozamin Mine, which the release refers to as the \"Cozamin Acquisition\" without further describing its terms.",
-    "A subscription receipt is a security that converts into a common share once specified conditions are met, rather than granting share ownership immediately. Here, the receipts convert into Luca common shares once release conditions are satisfied, which the release says include completion of the Cozamin Acquisition. Goldgroup said it may elect to convert its receipts early, provided doing so would not take its holding above 19.9% of Luca's outstanding shares without further approval.",
-    "Following conversion, Goldgroup said it will hold 101,123,662 Luca common shares, representing approximately 19.9% of Luca's outstanding shares on a non-diluted basis. The release does not state Luca's total share count on a diluted basis, nor does it give the total size of the bought-deal offering of which Goldgroup's receipts were a part.",
-    "Goldgroup also secured an investor rights agreement with Luca. While Goldgroup holds at least 10% of Luca's shares, the agreement gives it the right to participate in future equity financings and top up its holding in relation to dilutive issuances, and the right to nominate two persons to Luca's board of directors.",
-    "The release states that Goldgroup \"intends to assess opportunities relating to its investment in Luca\" and that, depending on its strategic priorities, market conditions and its evaluation of Luca's business, it may acquire additional securities, exercise its board nomination rights, or dispose of some or all of its position.",
-    "The release does not name Luca's stock ticker or exchange, does not name any underwriter or agent for Luca's offering, and does not describe the terms of the Cozamin Mine acquisition — the price, the seller, or Luca's other obligations — beyond referring to it as a pending acquisition that conversion of the receipts is conditioned on.",
-    "Goldgroup's contacts for the release are listed as Javier Reyes, chief executive officer, and Sophia Shane, in corporate development."
+    "Emergent Metals Corp. (TSXV: EMR, OTCQB: EGMCF, FRA: EML) has filed amended and restated unaudited condensed interim consolidated financial statements for the three and six months ended June 30, 2026, replacing the statements and management's discussion and analysis it originally filed on August 28, 2026. The company said the amended filings \"correct certain accounting and disclosure matters identified following the filing of the Original Filings,\" without specifying what those matters were.",
+    "The restatement reduced share capital and accumulated other comprehensive loss by US$231,040. It increased comprehensive loss by US$263,894 for the three months ended June 30, 2026, and by US$297,428 for the six months ended June 30, 2026. Emergent said the corrections had no effect on the company's assets, liabilities, net loss, total equity or cash balance.",
+    "Separately, Emergent provided an update on its proposed acquisition by Lahontan Gold Corp. under an arrangement agreement dated September 15, 2026. Under a plan of arrangement, a court-supervised process used in Canada to combine companies, Lahontan would acquire all of Emergent's issued and outstanding common shares in exchange for 0.3115 of a Lahontan share for each Emergent share held — equivalent to about one Lahontan share for every 3.21 Emergent shares.",
+    "The TSX Venture Exchange has given conditional acceptance to the transaction. Emergent said its shareholders are scheduled to vote on the arrangement at a meeting set for December 4, 2026, and that completion remains subject to shareholder approval, court approval, final TSXV acceptance and other required approvals. The release pointed to further transaction details in Emergent's September 16, 2026 news release and to the arrangement agreement itself, filed on SEDAR+.",
+    "The company also reminded holders of common share purchase warrants issued in private placements completed on November 14 and 19, 2024 that those warrants are scheduled to expire on November 14 and 19, 2026, respectively, at an exercise price of C$0.10. The release described the warrants as non-transferable and said no extension is currently intended.",
+    "The release does not state a termination fee, identify a special committee, or say whether the transaction was negotiated at arm's length. It noted that the arrangement agreement and plan of arrangement are available under Emergent's and Lahontan's respective profiles on SEDAR+."
    ]
   },
   {
-   "slug": "us-consumer-prices-rose-0-6-in-september",
-   "url": "https://www.cmbulletin.com/posts/us-consumer-prices-rose-0-6-in-september.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/us-consumer-prices-rose-0-6-in-september.json",
-   "date": "2026-10-15T12:32:03Z",
-   "headline": "US consumer prices rose 0.6% in September",
-   "dek": "The Bureau of Labor Statistics said core prices, excluding food and energy, rose 0.3% on the month and 2.6% over the year.",
-   "caption": "The Consumer Price Index rose 0.6% in September, driven largely by a 9.1% monthly increase in gasoline prices, the Bureau of Labor Statistics said.",
+   "slug": "azitra-to-execute-1-for-10-reverse-stock-split",
+   "url": "https://www.cmbulletin.com/posts/azitra-to-execute-1-for-10-reverse-stock-split.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/azitra-to-execute-1-for-10-reverse-stock-split.json",
+   "date": "2026-10-16T12:35:23Z",
+   "headline": "Azitra to execute 1-for-10 reverse stock split",
+   "dek": "The NYSE American-listed dermatology biopharmaceutical company's shares begin trading on a split-adjusted basis October 26, 2026.",
+   "caption": "Azitra develops precision dermatology therapies, including a treatment for a skin condition linked to certain cancer drugs, the company said.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Life Sciences",
+    "Capital Structure",
+    "Biopharma"
+   ],
+   "tickers": [
+    "NYSE AMERICAN:AZTR"
+   ],
+   "image": "https://www.cmbulletin.com/images/azitra-to-execute-1-for-10-reverse-stock-split.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "Azitra, Inc. Announces Reverse Stock Split",
+     "url": "https://www.prnewswire.com/news-releases/azitra-inc-announces-reverse-stock-split-302910544.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Azitra, Inc. (NYSE American: AZTR) said its board approved a 1-for-10 reverse stock split, effective at 12:01 a.m. Eastern time on October 26, 2026, when its common stock will begin trading on a split-adjusted basis under a new CUSIP, 05479L401.",
+    "Stockholders authorized the board at the company's June 15, 2026 annual meeting to set a ratio between 1-for-2 and 1-for-30; the board selected 1-for-10 on October 14, 2026. The split will reduce Azitra's outstanding shares from 60,603,742 to approximately 6,060,374.",
+    "Stockholders entitled to a fractional share as a result of the split will receive cash instead, without interest, calculated from the average closing price of Azitra's common stock over the five trading days immediately preceding the effective date. Continental Stock Transfer & Trust Co. is the company's transfer agent."
+   ],
+   "body": [
+    "Azitra, Inc. (NYSE American: AZTR), a clinical-stage biopharmaceutical company developing therapies for precision dermatology, said its board of directors has approved a 1-for-10 reverse stock split of its common stock. The split takes effect at 12:01 a.m. Eastern time on October 26, 2026, and the company's shares will begin trading on a split-adjusted basis under a new CUSIP number, 05479L401, when the market opens that day.",
+    "A reverse stock split combines multiple existing shares into a single new share, reducing the number outstanding without changing a holder's proportional ownership, apart from the effect of any fractional-share cash-out. Azitra's stockholders authorized the board, at the company's June 15, 2026 annual meeting, to select a ratio between 1-for-2 and 1-for-30; the board approved the final ratio of 1-for-10, together with the October 26 effective date, on October 14, 2026. The change will reduce outstanding shares from 60,603,742 to approximately 6,060,374.",
+    "Azitra said stockholders holding shares through a brokerage account will have their holdings automatically adjusted to reflect the new ratio. Those entitled to a fractional share will instead receive cash, without interest, calculated from the average closing price of Azitra's common stock over the five trading days immediately preceding the effective date. The stock will continue to trade on NYSE American under the symbol AZTR, now under a new CUSIP, 05479L401, with Continental Stock Transfer & Trust Co. as transfer agent.",
+    "Azitra describes itself as a clinical-stage biopharmaceutical company developing therapies for precision dermatology. Its disclosed pipeline includes ATR-COSF, a recombinant protein candidate, and ATR-04, an investigational live biotherapeutic for EGFR inhibitor-associated rash, which the company said has received Fast Track designation from the U.S. Food and Drug Administration.",
+    "The release describes only the mechanics of the reverse split — the ratio, the effective date, the resulting share count and the fractional-share treatment. It does not state a business rationale for the chosen ratio or the timing of the change."
+   ]
+  },
+  {
+   "slug": "canadian-wholesale-sales-fell-1-6-in-august",
+   "url": "https://www.cmbulletin.com/posts/canadian-wholesale-sales-fell-1-6-in-august.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/canadian-wholesale-sales-fell-1-6-in-august.json",
+   "date": "2026-10-16T12:35:23Z",
+   "headline": "Canadian wholesale sales fell 1.6% in August",
+   "dek": "Statistics Canada said sales excluding petroleum and grain products dropped to $91.6 billion, even as sales ran 7.2% above a year earlier.",
+   "caption": "Statistics Canada's monthly wholesale trade survey covers sales across motor vehicles, building materials, machinery and other goods categories.",
    "sections": [
     "markets"
    ],
    "tags": [
     "Macro",
-    "Inflation",
-    "US Economy"
+    "Trade Data",
+    "Canada"
    ],
    "tickers": [],
-   "image": "https://www.cmbulletin.com/images/us-consumer-prices-rose-0-6-in-september.png",
-   "source_name": "BLS — Consumer Price Index",
+   "image": "https://www.cmbulletin.com/images/canadian-wholesale-sales-fell-1-6-in-august.png",
+   "source_name": "Statistics Canada — The Daily",
    "sources": [
     {
-     "title": "CPI for all items increases 0.6% in September; gasoline rises",
-     "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
-     "publisher": "BLS — Consumer Price Index"
+     "title": "Wholesale trade, August 2026",
+     "url": "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015b-eng.htm",
+     "publisher": "Statistics Canada — The Daily"
     }
    ],
    "unverified_claims": [],
    "brief": [
-    "The U.S. Bureau of Labor Statistics said the Consumer Price Index for All Urban Consumers rose 0.6% in September on a seasonally adjusted basis, and 3.7% over the 12 months ending in September, not seasonally adjusted. The index for items excluding food and energy rose 0.3% in September and 2.6% over the year.",
-    "The bureau said the gasoline index rose 9.1% in September, \"accounting for over half of the monthly all items increase.\" Over the year, it said the energy index rose 20.4%, \"due in large part to the index for gasoline rising 34.2 percent.\"",
-    "The shelter index rose 0.4% in September after rising 0.3% in August, and is up 3.2% over the year, the bureau said. The food index was unchanged in September on a seasonally adjusted basis but rose 2.5% over the year."
+    "Statistics Canada said wholesale sales, excluding petroleum, petroleum products, other hydrocarbons, oilseed and grain, fell 1.6% to $91.6 billion in August 2026. Sales decreased in five of seven subsectors, representing 70.6% of total wholesale sales, led by a 3.8% decline to $15.1 billion in the motor vehicle and motor vehicle parts and accessories subsector.",
+    "The decline was moderated by a 1.4% increase to $14.1 billion in the building material and supplies subsector. Agricultural supplies posted the next-largest decrease, down 12.4% to $3.5 billion. Wholesale sales were 7.2% higher than in August of the prior year, though in volume terms sales fell 1.8% on the month.",
+    "Wholesale inventories, under the same exclusions, were unchanged in August at $141.0 billion, and the inventory-to-sales ratio rose from 1.51 in July to 1.54 in August. Statistics Canada said the release's content was produced with the assistance of a generative AI tool and verified by its own experts."
    ],
    "body": [
-    "The U.S. Bureau of Labor Statistics reported that the Consumer Price Index for All Urban Consumers rose 0.6 percent in September 2026 on a seasonally adjusted basis. Over the 12 months ending in September, the index rose 3.7 percent on a not-seasonally-adjusted basis, the bureau said.",
-    "The index for all items less food and energy — commonly referred to as core CPI — rose 0.3 percent in September on a seasonally adjusted basis, and was up 2.6 percent over the year, not seasonally adjusted, according to the release.",
-    "The bureau attributed much of the monthly increase to energy prices, stating that \"the index for gasoline rose 9.1 percent in September, accounting for over half of the monthly all items increase.\" Over the 12-month period, it said \"the energy index increased 20.4 percent... due in large part to the index for gasoline rising 34.2 percent.\"",
-    "Shelter costs continued to rise: the bureau said \"the shelter index rose 0.4 percent in September after rising 0.3 percent in August,\" with the shelter index up 3.2 percent over the year.",
-    "The food index was unchanged in September on a seasonally adjusted basis, the bureau said, though it rose 2.5 percent over the preceding 12 months.",
-    "The release reports the measured price changes for the month and the year; it includes no assessment of future price trends or monetary policy."
-   ]
-  },
-  {
-   "slug": "hawkeye-360-secures-36-million-in-new-international-contracts",
-   "url": "https://www.cmbulletin.com/posts/hawkeye-360-secures-36-million-in-new-international-contracts.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/hawkeye-360-secures-36-million-in-new-international-contracts.json",
-   "date": "2026-10-15T12:32:03Z",
-   "headline": "HawkEye 360 secures $36 million in new international contracts",
-   "dek": "The Q3 awards span more than 10 allied and partner nations across the Indo-Pacific, Middle East, Europe and the Americas, the company said.",
-   "caption": "HawkEye 360, a signals-intelligence company listed on the NYSE, reports new defense contracts spanning allied nations across four world regions.",
-   "sections": [
-    "tech"
-   ],
-   "tags": [
-    "Defense",
-    "Technology",
-    "Government Contracts"
-   ],
-   "tickers": [
-    "NYSE:HAWK"
-   ],
-   "image": "https://www.cmbulletin.com/images/hawkeye-360-secures-36-million-in-new-international-contracts.png",
-   "source_name": "PR Newswire — all news releases",
-   "sources": [
-    {
-     "title": "HawkEye 360 Secures $36 million in New International Contracts Driven by Increasing Demand for Signals Intelligence",
-     "url": "https://www.prnewswire.com/news-releases/hawkeye-360-secures-36-million-in-new-international-contracts-driven-by-increasing-demand-for-signals-intelligence-302909323.html",
-     "publisher": "PR Newswire — all news releases"
-    }
-   ],
-   "unverified_claims": [
-    "HawkEye 360's description of itself as 'the global leader in signals intelligence data and analytics' rests only on the company's own characterization.",
-    "The characterization of customers' security environments as 'increasingly complex' is the company's own description."
-   ],
-   "brief": [
-    "HawkEye 360, Inc. (NYSE: HAWK) said it secured $36 million in new international contracts during the third quarter ended September 30, 2026. The company described itself as \"the global leader in signals intelligence data and analytics,\" and said the awards span more than 10 allied and partner nations.",
-    "The release groups the new multi-year awards by region: customers in the Indo-Pacific, Middle East, Europe and the Americas. HawkEye 360 said these customers are turning to its radio-frequency data and analytics for situational awareness, threat identification and operational decision-making. No individual contracts, countries or customers are named, and the $36 million figure is not broken down.",
-    "Chief executive John Serafini said the awards \"reflect the growing recognition among allied nations that signals intelligence is essential to modern defense operations.\" The release gives no revenue or backlog figures beyond the $36 million in new awards, and does not state when the contracted work will be delivered or recognized as revenue."
-   ],
-   "body": [
-    "HawkEye 360, Inc. (NYSE: HAWK) announced on October 15, 2026 that it secured $36 million in new international contracts during the third quarter ended September 30, 2026. The release describes HawkEye 360 as \"the global leader in signals intelligence data and analytics\" and says the new awards reflect demand for its capabilities across more than 10 allied and partner nations.",
-    "The release structures the new business as multi-year awards rather than one-time contracts, though it does not state the length of the multi-year terms or break the $36 million figure down by region, country or individual award. It groups the customers by region: the Indo-Pacific, the Middle East, Europe and the Americas.",
-    "HawkEye 360 said these defense and intelligence customers are turning to its data and analytics \"to strengthen situational awareness, identify emerging threats, and support timely operational decision-making\" as they face what the company describes as increasingly complex security environments.",
-    "The company's business, per its own description in the release, is built on detecting, geolocating and characterizing radio-frequency emissions worldwide from space-based collection, which it combines with proprietary signal processing and AI-powered analytics to produce what it calls domain awareness and early-warning indicators for the U.S. government and allied partners.",
-    "Chief executive John Serafini said: \"these awards reflect the growing recognition among allied nations that signals intelligence is essential to modern defense operations.\" He added that the company's focus remains on delivering capabilities that give \"Warfighters and decision-makers\" the information they need to understand the operational environment and act with confidence.",
-    "The release names no specific country, government agency or company as a customer, and identifies no individual contract. It gives no revenue or backlog figures beyond the $36 million in new awards, and does not state a timetable for when the contracted work will be delivered or recognized as revenue."
+    "Statistics Canada reported that wholesale sales, excluding petroleum, petroleum products, other hydrocarbons, and oilseed and grain, fell 1.6% to $91.6 billion in August 2026. The agency said sales decreased in five of the sector's seven subsectors, together accounting for 70.6% of total wholesale sales.",
+    "The largest decline came from the motor vehicle and motor vehicle parts and accessories subsector, which fell 3.8% to $15.1 billion. The agricultural supplies industry group posted the next-largest decrease, down 12.4% to $3.5 billion. The overall decline was moderated by the building material and supplies subsector, which rose 1.4% to $14.1 billion.",
+    "Statistics Canada said wholesale sales were 7.2% higher in August than in the same month a year earlier. In volume terms — which adjust for price changes — wholesale sales, under the same exclusions, fell 1.8% in August.",
+    "Wholesale inventories, excluding the same petroleum and grain-related categories, were unchanged in August at $141.0 billion. The inventory-to-sales ratio rose from 1.51 in July to 1.54 in August, a measure of how many months it would take to clear existing inventory at the current sales pace.",
+    "Ontario posted the largest provincial decline, down 1.6% to $47.8 billion, following six months of consecutive increases, and Saskatchewan posted the second-largest decrease, down 8.2% to $3.8 billion. Statistics Canada also reported gains in several smaller jurisdictions: Prince Edward Island rose 5.1% to $125.1 million, Nova Scotia rose 0.6% to $1,400.1 million, and Alberta rose 0.7% to $10,378.9 million, while Nunavut rose 43.4% to $13.9 million.",
+    "Statistics Canada said this release's content was produced with the assistance of a generative artificial intelligence tool and refined and verified by the agency's own experts."
    ]
   }
  ]

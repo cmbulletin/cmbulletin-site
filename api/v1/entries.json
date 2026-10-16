@@ -1,11 +1,119 @@
 {
  "api": "v1",
- "generated_at": "2026-10-15T12:51:47Z",
+ "generated_at": "2026-10-16T12:51:16Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 61,
+ "count": 64,
  "entries": [
+  {
+   "slug": "emergent-metals-restates-q2-financials-updates-lahontan-deal",
+   "url": "https://www.cmbulletin.com/posts/emergent-metals-restates-q2-financials-updates-lahontan-deal.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/emergent-metals-restates-q2-financials-updates-lahontan-deal.json",
+   "date": "2026-10-16T12:35:23Z",
+   "headline": "Emergent Metals restates Q2 financials, updates Lahontan deal",
+   "dek": "The TSX Venture-listed explorer corrected prior filings and said shareholders will vote on its acquisition by Lahontan Gold on December 4.",
+   "caption": "Emergent Metals' proposed combination with Lahontan Gold awaits a shareholder vote scheduled for December, the company said.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "M&A",
+    "Regulatory"
+   ],
+   "tickers": [
+    "TSXV:EMR",
+    "OTCQB:EGMCF",
+    "FRA:EML"
+   ],
+   "image": "https://www.cmbulletin.com/images/emergent-metals-restates-q2-financials-updates-lahontan-deal.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Emergent Metals Files Amended and Restated Q2 2026 Financial Statements and MD&A and Provides Update on Plan of Arrangement with Lahontan Gold",
+     "url": "https://thenewswire.com/press-releases/1LpMFYmZ1-emergent-metals-files-amended-and-restated-q2-2026-financial-statements-and-md-a-and-provides-update-on-plan-of-arrangement-with-lahontan-gold.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The specific nature of the 'accounting and disclosure matters' corrected in the restatement is not described beyond the company's own characterization.",
+    "Whether the Lahontan transaction completes as described depends on shareholder, court and exchange approvals that remain outstanding."
+   ],
+   "brief": [
+    "Emergent Metals Corp. (TSXV: EMR) has filed amended financial statements for the three and six months ended June 30, 2026, replacing its original August 28, 2026 filing. The company said the changes correct accounting and disclosure matters identified afterward, cutting share capital and accumulated other comprehensive loss by US$231,040 and raising comprehensive loss by US$263,894 and US$297,428 for the two periods.",
+    "Emergent said the corrections had no impact on assets, liabilities, net loss, total equity or cash balance. Separately, the company gave an update on its pending acquisition by Lahontan Gold Corp. under a court-approved plan of arrangement dated September 15, 2026, in which Emergent shareholders will receive 0.3115 of a Lahontan share for each Emergent share held.",
+    "The exchange ratio is equivalent to about one Lahontan share for every 3.21 Emergent shares. The TSX Venture Exchange has given conditional acceptance, and Emergent shareholders are scheduled to vote on the arrangement at a meeting on December 4, 2026; completion also requires court and final exchange approval."
+   ]
+  },
+  {
+   "slug": "azitra-to-execute-1-for-10-reverse-stock-split",
+   "url": "https://www.cmbulletin.com/posts/azitra-to-execute-1-for-10-reverse-stock-split.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/azitra-to-execute-1-for-10-reverse-stock-split.json",
+   "date": "2026-10-16T12:35:23Z",
+   "headline": "Azitra to execute 1-for-10 reverse stock split",
+   "dek": "The NYSE American-listed dermatology biopharmaceutical company's shares begin trading on a split-adjusted basis October 26, 2026.",
+   "caption": "Azitra develops precision dermatology therapies, including a treatment for a skin condition linked to certain cancer drugs, the company said.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Life Sciences",
+    "Capital Structure",
+    "Biopharma"
+   ],
+   "tickers": [
+    "NYSE AMERICAN:AZTR"
+   ],
+   "image": "https://www.cmbulletin.com/images/azitra-to-execute-1-for-10-reverse-stock-split.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "Azitra, Inc. Announces Reverse Stock Split",
+     "url": "https://www.prnewswire.com/news-releases/azitra-inc-announces-reverse-stock-split-302910544.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Azitra, Inc. (NYSE American: AZTR) said its board approved a 1-for-10 reverse stock split, effective at 12:01 a.m. Eastern time on October 26, 2026, when its common stock will begin trading on a split-adjusted basis under a new CUSIP, 05479L401.",
+    "Stockholders authorized the board at the company's June 15, 2026 annual meeting to set a ratio between 1-for-2 and 1-for-30; the board selected 1-for-10 on October 14, 2026. The split will reduce Azitra's outstanding shares from 60,603,742 to approximately 6,060,374.",
+    "Stockholders entitled to a fractional share as a result of the split will receive cash instead, without interest, calculated from the average closing price of Azitra's common stock over the five trading days immediately preceding the effective date. Continental Stock Transfer & Trust Co. is the company's transfer agent."
+   ]
+  },
+  {
+   "slug": "canadian-wholesale-sales-fell-1-6-in-august",
+   "url": "https://www.cmbulletin.com/posts/canadian-wholesale-sales-fell-1-6-in-august.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/canadian-wholesale-sales-fell-1-6-in-august.json",
+   "date": "2026-10-16T12:35:23Z",
+   "headline": "Canadian wholesale sales fell 1.6% in August",
+   "dek": "Statistics Canada said sales excluding petroleum and grain products dropped to $91.6 billion, even as sales ran 7.2% above a year earlier.",
+   "caption": "Statistics Canada's monthly wholesale trade survey covers sales across motor vehicles, building materials, machinery and other goods categories.",
+   "sections": [
+    "markets"
+   ],
+   "tags": [
+    "Macro",
+    "Trade Data",
+    "Canada"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/canadian-wholesale-sales-fell-1-6-in-august.png",
+   "source_name": "Statistics Canada — The Daily",
+   "sources": [
+    {
+     "title": "Wholesale trade, August 2026",
+     "url": "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015b-eng.htm",
+     "publisher": "Statistics Canada — The Daily"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Statistics Canada said wholesale sales, excluding petroleum, petroleum products, other hydrocarbons, oilseed and grain, fell 1.6% to $91.6 billion in August 2026. Sales decreased in five of seven subsectors, representing 70.6% of total wholesale sales, led by a 3.8% decline to $15.1 billion in the motor vehicle and motor vehicle parts and accessories subsector.",
+    "The decline was moderated by a 1.4% increase to $14.1 billion in the building material and supplies subsector. Agricultural supplies posted the next-largest decrease, down 12.4% to $3.5 billion. Wholesale sales were 7.2% higher than in August of the prior year, though in volume terms sales fell 1.8% on the month.",
+    "Wholesale inventories, under the same exclusions, were unchanged in August at $141.0 billion, and the inventory-to-sales ratio rose from 1.51 in July to 1.54 in August. Statistics Canada said the release's content was produced with the assistance of a generative AI tool and verified by its own experts."
+   ]
+  },
   {
    "slug": "goldgroup-completes-c-101-million-strategic-investment-in-luca-mining",
    "url": "https://www.cmbulletin.com/posts/goldgroup-completes-c-101-million-strategic-investment-in-luca-mining.html",
