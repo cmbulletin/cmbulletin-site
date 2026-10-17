@@ -1,141 +1,97 @@
 {
  "api": "v1",
- "generated_at": "2026-10-16T12:51:16Z",
+ "generated_at": "2026-10-17T12:45:12Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-16",
- "count": 3,
+ "issue_date": "2026-10-17",
+ "count": 2,
  "entries": [
   {
-   "slug": "emergent-metals-restates-q2-financials-updates-lahontan-deal",
-   "url": "https://www.cmbulletin.com/posts/emergent-metals-restates-q2-financials-updates-lahontan-deal.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/emergent-metals-restates-q2-financials-updates-lahontan-deal.json",
-   "date": "2026-10-16T12:35:23Z",
-   "headline": "Emergent Metals restates Q2 financials, updates Lahontan deal",
-   "dek": "The TSX Venture-listed explorer corrected prior filings and said shareholders will vote on its acquisition by Lahontan Gold on December 4.",
-   "caption": "Emergent Metals' proposed combination with Lahontan Gold awaits a shareholder vote scheduled for December, the company said.",
+   "slug": "robo-ai-shareholders-to-vote-on-1-for-25-reverse-split",
+   "url": "https://www.cmbulletin.com/posts/robo-ai-shareholders-to-vote-on-1-for-25-reverse-split.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/robo-ai-shareholders-to-vote-on-1-for-25-reverse-split.json",
+   "date": "2026-10-17T12:27:09Z",
+   "headline": "Robo.ai shareholders to vote on 1-for-25 reverse split",
+   "dek": "The Nasdaq-listed, Dubai-based company set an October 26 meeting on the share consolidation, record date October 14, effective date November 6 if approved.",
+   "caption": "Robo.ai's board has called an October 26 vote on consolidating its Nasdaq-listed shares twenty-five to one.",
    "sections": [
-    "mining"
+    "news"
    ],
    "tags": [
-    "Mining",
-    "M&A",
-    "Regulatory"
-   ],
-   "tickers": [
-    "TSXV:EMR",
-    "OTCQB:EGMCF",
-    "FRA:EML"
-   ],
-   "image": "https://www.cmbulletin.com/images/emergent-metals-restates-q2-financials-updates-lahontan-deal.png",
-   "source_name": "TheNewswire.ca",
-   "sources": [
-    {
-     "title": "Emergent Metals Files Amended and Restated Q2 2026 Financial Statements and MD&A and Provides Update on Plan of Arrangement with Lahontan Gold",
-     "url": "https://thenewswire.com/press-releases/1LpMFYmZ1-emergent-metals-files-amended-and-restated-q2-2026-financial-statements-and-md-a-and-provides-update-on-plan-of-arrangement-with-lahontan-gold.html",
-     "publisher": "TheNewswire.ca"
-    }
-   ],
-   "unverified_claims": [
-    "The specific nature of the 'accounting and disclosure matters' corrected in the restatement is not described beyond the company's own characterization.",
-    "Whether the Lahontan transaction completes as described depends on shareholder, court and exchange approvals that remain outstanding."
-   ],
-   "brief": [
-    "Emergent Metals Corp. (TSXV: EMR) has filed amended financial statements for the three and six months ended June 30, 2026, replacing its original August 28, 2026 filing. The company said the changes correct accounting and disclosure matters identified afterward, cutting share capital and accumulated other comprehensive loss by US$231,040 and raising comprehensive loss by US$263,894 and US$297,428 for the two periods.",
-    "Emergent said the corrections had no impact on assets, liabilities, net loss, total equity or cash balance. Separately, the company gave an update on its pending acquisition by Lahontan Gold Corp. under a court-approved plan of arrangement dated September 15, 2026, in which Emergent shareholders will receive 0.3115 of a Lahontan share for each Emergent share held.",
-    "The exchange ratio is equivalent to about one Lahontan share for every 3.21 Emergent shares. The TSX Venture Exchange has given conditional acceptance, and Emergent shareholders are scheduled to vote on the arrangement at a meeting on December 4, 2026; completion also requires court and final exchange approval."
-   ],
-   "body": [
-    "Emergent Metals Corp. (TSXV: EMR, OTCQB: EGMCF, FRA: EML) has filed amended and restated unaudited condensed interim consolidated financial statements for the three and six months ended June 30, 2026, replacing the statements and management's discussion and analysis it originally filed on August 28, 2026. The company said the amended filings \"correct certain accounting and disclosure matters identified following the filing of the Original Filings,\" without specifying what those matters were.",
-    "The restatement reduced share capital and accumulated other comprehensive loss by US$231,040. It increased comprehensive loss by US$263,894 for the three months ended June 30, 2026, and by US$297,428 for the six months ended June 30, 2026. Emergent said the corrections had no effect on the company's assets, liabilities, net loss, total equity or cash balance.",
-    "Separately, Emergent provided an update on its proposed acquisition by Lahontan Gold Corp. under an arrangement agreement dated September 15, 2026. Under a plan of arrangement, a court-supervised process used in Canada to combine companies, Lahontan would acquire all of Emergent's issued and outstanding common shares in exchange for 0.3115 of a Lahontan share for each Emergent share held — equivalent to about one Lahontan share for every 3.21 Emergent shares.",
-    "The TSX Venture Exchange has given conditional acceptance to the transaction. Emergent said its shareholders are scheduled to vote on the arrangement at a meeting set for December 4, 2026, and that completion remains subject to shareholder approval, court approval, final TSXV acceptance and other required approvals. The release pointed to further transaction details in Emergent's September 16, 2026 news release and to the arrangement agreement itself, filed on SEDAR+.",
-    "The company also reminded holders of common share purchase warrants issued in private placements completed on November 14 and 19, 2024 that those warrants are scheduled to expire on November 14 and 19, 2026, respectively, at an exercise price of C$0.10. The release described the warrants as non-transferable and said no extension is currently intended.",
-    "The release does not state a termination fee, identify a special committee, or say whether the transaction was negotiated at arm's length. It noted that the arrangement agreement and plan of arrangement are available under Emergent's and Lahontan's respective profiles on SEDAR+."
-   ]
-  },
-  {
-   "slug": "azitra-to-execute-1-for-10-reverse-stock-split",
-   "url": "https://www.cmbulletin.com/posts/azitra-to-execute-1-for-10-reverse-stock-split.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/azitra-to-execute-1-for-10-reverse-stock-split.json",
-   "date": "2026-10-16T12:35:23Z",
-   "headline": "Azitra to execute 1-for-10 reverse stock split",
-   "dek": "The NYSE American-listed dermatology biopharmaceutical company's shares begin trading on a split-adjusted basis October 26, 2026.",
-   "caption": "Azitra develops precision dermatology therapies, including a treatment for a skin condition linked to certain cancer drugs, the company said.",
-   "sections": [
-    "tech"
-   ],
-   "tags": [
-    "Life Sciences",
     "Capital Structure",
-    "Biopharma"
+    "Governance",
+    "Nasdaq"
    ],
    "tickers": [
-    "NYSE AMERICAN:AZTR"
+    "NASDAQ:AIIO"
    ],
-   "image": "https://www.cmbulletin.com/images/azitra-to-execute-1-for-10-reverse-stock-split.png",
+   "image": "https://www.cmbulletin.com/images/robo-ai-shareholders-to-vote-on-1-for-25-reverse-split.png",
    "source_name": "PR Newswire — financial services",
    "sources": [
     {
-     "title": "Azitra, Inc. Announces Reverse Stock Split",
-     "url": "https://www.prnewswire.com/news-releases/azitra-inc-announces-reverse-stock-split-302910544.html",
+     "title": "Robo.ai Inc. Announces Reverse Stock Split and Extraordinary General Meeting on October 26, 2026",
+     "url": "https://www.prnewswire.com/news-releases/roboai-inc-announces-reverse-stock-split-and-extraordinary-general-meeting-on-october-26-2026-302911558.html",
      "publisher": "PR Newswire — financial services"
     }
    ],
-   "unverified_claims": [],
+   "unverified_claims": [
+    "The current share counts, record date, meeting location and effective date are as stated in the company's own notice to shareholders and have not been independently verified."
+   ],
    "brief": [
-    "Azitra, Inc. (NYSE American: AZTR) said its board approved a 1-for-10 reverse stock split, effective at 12:01 a.m. Eastern time on October 26, 2026, when its common stock will begin trading on a split-adjusted basis under a new CUSIP, 05479L401.",
-    "Stockholders authorized the board at the company's June 15, 2026 annual meeting to set a ratio between 1-for-2 and 1-for-30; the board selected 1-for-10 on October 14, 2026. The split will reduce Azitra's outstanding shares from 60,603,742 to approximately 6,060,374.",
-    "Stockholders entitled to a fractional share as a result of the split will receive cash instead, without interest, calculated from the average closing price of Azitra's common stock over the five trading days immediately preceding the effective date. Continental Stock Transfer & Trust Co. is the company's transfer agent."
+    "Robo.ai Inc. (Nasdaq: AIIO), a UAE-based company, said shareholders will vote October 26, 2026 on a 1-for-25 reverse stock split of its Class A and Class B ordinary shares. The record date is October 14, 2026, and the meeting will be held at the Meydan Grandstand in Dubai.",
+    "If approved, the company will consolidate 13,817,501 Class A shares and 222,116,290 Class B shares into 552,701 Class A shares and 8,884,684 Class B shares, effective November 6, 2026 at 9:30 a.m. ET under a new CUSIP, G6693P130. No fractional shares will be issued; holders otherwise due a fraction will instead receive a full share.",
+    "The company said the split is expected to lift the Class B trading price proportionately, though it gave no assurance the price would reach twenty-five times its pre-split level. Shareholders at the meeting will also vote on authorizing up to 25 million new Class A shares and 280 million new Class B shares."
    ],
    "body": [
-    "Azitra, Inc. (NYSE American: AZTR), a clinical-stage biopharmaceutical company developing therapies for precision dermatology, said its board of directors has approved a 1-for-10 reverse stock split of its common stock. The split takes effect at 12:01 a.m. Eastern time on October 26, 2026, and the company's shares will begin trading on a split-adjusted basis under a new CUSIP number, 05479L401, when the market opens that day.",
-    "A reverse stock split combines multiple existing shares into a single new share, reducing the number outstanding without changing a holder's proportional ownership, apart from the effect of any fractional-share cash-out. Azitra's stockholders authorized the board, at the company's June 15, 2026 annual meeting, to select a ratio between 1-for-2 and 1-for-30; the board approved the final ratio of 1-for-10, together with the October 26 effective date, on October 14, 2026. The change will reduce outstanding shares from 60,603,742 to approximately 6,060,374.",
-    "Azitra said stockholders holding shares through a brokerage account will have their holdings automatically adjusted to reflect the new ratio. Those entitled to a fractional share will instead receive cash, without interest, calculated from the average closing price of Azitra's common stock over the five trading days immediately preceding the effective date. The stock will continue to trade on NYSE American under the symbol AZTR, now under a new CUSIP, 05479L401, with Continental Stock Transfer & Trust Co. as transfer agent.",
-    "Azitra describes itself as a clinical-stage biopharmaceutical company developing therapies for precision dermatology. Its disclosed pipeline includes ATR-COSF, a recombinant protein candidate, and ATR-04, an investigational live biotherapeutic for EGFR inhibitor-associated rash, which the company said has received Fast Track designation from the U.S. Food and Drug Administration.",
-    "The release describes only the mechanics of the reverse split — the ratio, the effective date, the resulting share count and the fractional-share treatment. It does not state a business rationale for the chosen ratio or the timing of the change."
+    "Robo.ai Inc. (Nasdaq: AIIO), a UAE-based, U.S.-listed company, has called an extraordinary general meeting of shareholders for October 26, 2026, to approve a 1-for-25 reverse stock split of all classes of its ordinary shares. The meeting is scheduled for 8:30 a.m. ET (4:30 p.m. Dubai time) at the Meydan Grandstand, sixth floor, in Dubai, with a record date of October 14, 2026.",
+    "If shareholders approve it, the split will take effect November 6, 2026, at 9:30 a.m. ET, consolidating every 25 existing shares into one. The company's 13,817,501 Class A ordinary shares would become 552,701 Class A shares, and its 222,116,290 Class B ordinary shares would become 8,884,684 Class B shares. The post-split shares will trade under a new CUSIP, G6693P130, the company said.",
+    "A reverse stock split reduces the number of shares outstanding by combining multiple shares into one, without changing a shareholder's proportional stake in the company other than for fractional adjustments. Robo.ai said no fractional shares will be issued under the proposed 1-for-25 split: a shareholder otherwise entitled to a fraction of a share will instead receive a full share.",
+    "Robo.ai said it expects the Class B trading price to increase proportionately once the split takes effect, though it gave no assurance the post-split price would reach twenty-five times its level beforehand; the post-split shares will trade under a new CUSIP, G6693P130. The October 26 meeting will also consider increasing authorized share capital by up to 25 million new Class A ordinary shares and 280 million new Class B ordinary shares, and adopting a seventh amended and restated memorandum and articles of association.",
+    "Robo.ai is headquartered in Dubai and lists its Class B ordinary shares on Nasdaq under the ticker AIIO. The release sets out the mechanics of the proposed split and the meeting but does not state a reason for the consolidation; completion depends on shareholder approval, and if approved, the company said the split becomes effective November 6, 2026."
    ]
   },
   {
-   "slug": "canadian-wholesale-sales-fell-1-6-in-august",
-   "url": "https://www.cmbulletin.com/posts/canadian-wholesale-sales-fell-1-6-in-august.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/canadian-wholesale-sales-fell-1-6-in-august.json",
-   "date": "2026-10-16T12:35:23Z",
-   "headline": "Canadian wholesale sales fell 1.6% in August",
-   "dek": "Statistics Canada said sales excluding petroleum and grain products dropped to $91.6 billion, even as sales ran 7.2% above a year earlier.",
-   "caption": "Statistics Canada's monthly wholesale trade survey covers sales across motor vehicles, building materials, machinery and other goods categories.",
+   "slug": "nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate",
+   "url": "https://www.cmbulletin.com/posts/nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate.json",
+   "date": "2026-10-17T12:27:09Z",
+   "headline": "NXG Cushing Midstream Energy Fund to rename, broaden mandate",
+   "dek": "The fund's Board of Trustees approved renaming it and broadening its investment policy from midstream energy to energy infrastructure, effective December 18.",
+   "caption": "The fund's Board approved renaming NXG Cushing Midstream Energy Fund and broadening its investment policy, effective December 18.",
    "sections": [
-    "markets"
+    "energy"
    ],
    "tags": [
-    "Macro",
-    "Trade Data",
-    "Canada"
+    "Closed-End Fund",
+    "Energy Infrastructure",
+    "Governance"
    ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/canadian-wholesale-sales-fell-1-6-in-august.png",
-   "source_name": "Statistics Canada — The Daily",
+   "tickers": [
+    "NYSE:SRV"
+   ],
+   "image": "https://www.cmbulletin.com/images/nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate.png",
+   "source_name": "PR Newswire — financial services",
    "sources": [
     {
-     "title": "Wholesale trade, August 2026",
-     "url": "https://www.statcan.gc.ca/daily-quotidien/261015/dq261015b-eng.htm",
-     "publisher": "Statistics Canada — The Daily"
+     "title": "The NXG Cushing® Midstream Energy Fund Announces Fund Name Change",
+     "url": "https://www.prnewswire.com/news-releases/the-nxg-cushing-midstream-energy-fund-announces-fund-name-change-302911618.html",
+     "publisher": "PR Newswire — financial services"
     }
    ],
-   "unverified_claims": [],
+   "unverified_claims": [
+    "The fund's statement that roughly 90% of its net assets already qualify as energy infrastructure investments rests on the fund's own disclosure."
+   ],
    "brief": [
-    "Statistics Canada said wholesale sales, excluding petroleum, petroleum products, other hydrocarbons, oilseed and grain, fell 1.6% to $91.6 billion in August 2026. Sales decreased in five of seven subsectors, representing 70.6% of total wholesale sales, led by a 3.8% decline to $15.1 billion in the motor vehicle and motor vehicle parts and accessories subsector.",
-    "The decline was moderated by a 1.4% increase to $14.1 billion in the building material and supplies subsector. Agricultural supplies posted the next-largest decrease, down 12.4% to $3.5 billion. Wholesale sales were 7.2% higher than in August of the prior year, though in volume terms sales fell 1.8% on the month.",
-    "Wholesale inventories, under the same exclusions, were unchanged in August at $141.0 billion, and the inventory-to-sales ratio rose from 1.51 in July to 1.54 in August. Statistics Canada said the release's content was produced with the assistance of a generative AI tool and verified by its own experts."
+    "The NXG Cushing® Midstream Energy Fund (NYSE: SRV) said its Board of Trustees approved changing the fund's name to The NXG Cushing® Energy Infrastructure Fund, effective December 18, 2026. The fund's ticker, SRV, and CUSIP, 231631300, will not change, the fund said.",
+    "The board also approved changes to the fund's non-fundamental investment policies: the 80% minimum-investment threshold moves from \"midstream energy investments\" to \"energy infrastructure investments.\"",
+    "The fund said that as of October 15, 2026, about 90% of its net assets, plus borrowings for investment purposes, already consisted of energy infrastructure investments, so it does not anticipate any change to its investment approach or rebalancing as a result. No shareholder action is required, the fund said."
    ],
    "body": [
-    "Statistics Canada reported that wholesale sales, excluding petroleum, petroleum products, other hydrocarbons, and oilseed and grain, fell 1.6% to $91.6 billion in August 2026. The agency said sales decreased in five of the sector's seven subsectors, together accounting for 70.6% of total wholesale sales.",
-    "The largest decline came from the motor vehicle and motor vehicle parts and accessories subsector, which fell 3.8% to $15.1 billion. The agricultural supplies industry group posted the next-largest decrease, down 12.4% to $3.5 billion. The overall decline was moderated by the building material and supplies subsector, which rose 1.4% to $14.1 billion.",
-    "Statistics Canada said wholesale sales were 7.2% higher in August than in the same month a year earlier. In volume terms — which adjust for price changes — wholesale sales, under the same exclusions, fell 1.8% in August.",
-    "Wholesale inventories, excluding the same petroleum and grain-related categories, were unchanged in August at $141.0 billion. The inventory-to-sales ratio rose from 1.51 in July to 1.54 in August, a measure of how many months it would take to clear existing inventory at the current sales pace.",
-    "Ontario posted the largest provincial decline, down 1.6% to $47.8 billion, following six months of consecutive increases, and Saskatchewan posted the second-largest decrease, down 8.2% to $3.8 billion. Statistics Canada also reported gains in several smaller jurisdictions: Prince Edward Island rose 5.1% to $125.1 million, Nova Scotia rose 0.6% to $1,400.1 million, and Alberta rose 0.7% to $10,378.9 million, while Nunavut rose 43.4% to $13.9 million.",
-    "Statistics Canada said this release's content was produced with the assistance of a generative artificial intelligence tool and refined and verified by the agency's own experts."
+    "The NXG Cushing® Midstream Energy Fund (NYSE: SRV), a closed-end fund, said its Board of Trustees has approved changing the fund's name to The NXG Cushing® Energy Infrastructure Fund, effective December 18, 2026. The fund's ticker symbol, SRV, and its CUSIP, 231631300, will remain unchanged, according to the announcement, which was released October 16, 2026, from the fund's Dallas offices.",
+    "Alongside the name change, the Board approved amending the fund's non-fundamental investment policies. The fund's rule requiring at least 80% of its assets to be invested in a defined category will shift that category from \"midstream energy investments\" to \"energy infrastructure investments.\"",
+    "The release states that as of October 15, 2026, approximately 90% of the Fund's net assets, plus borrowings for investment purposes, already consisted of energy infrastructure investments, and that the Fund therefore does not anticipate any change to its investment approach or rebalancing of its portfolio as a result of the amendment. No shareholder approval or action is required for either the name change or the policy amendment, the release said.",
+    "No shareholder vote or other approval was required for either change, the release said, and investors need take no action; the fund's New York Stock Exchange listing and CUSIP are unaffected. Beyond the name, the policy amendment and the asset figures above, the release discloses no further detail about the Board's reasoning."
    ]
   }
  ]

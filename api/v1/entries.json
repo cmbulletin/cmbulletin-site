@@ -1,11 +1,85 @@
 {
  "api": "v1",
- "generated_at": "2026-10-16T12:51:16Z",
+ "generated_at": "2026-10-17T12:45:12Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 64,
+ "count": 66,
  "entries": [
+  {
+   "slug": "robo-ai-shareholders-to-vote-on-1-for-25-reverse-split",
+   "url": "https://www.cmbulletin.com/posts/robo-ai-shareholders-to-vote-on-1-for-25-reverse-split.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/robo-ai-shareholders-to-vote-on-1-for-25-reverse-split.json",
+   "date": "2026-10-17T12:27:09Z",
+   "headline": "Robo.ai shareholders to vote on 1-for-25 reverse split",
+   "dek": "The Nasdaq-listed, Dubai-based company set an October 26 meeting on the share consolidation, record date October 14, effective date November 6 if approved.",
+   "caption": "Robo.ai's board has called an October 26 vote on consolidating its Nasdaq-listed shares twenty-five to one.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Capital Structure",
+    "Governance",
+    "Nasdaq"
+   ],
+   "tickers": [
+    "NASDAQ:AIIO"
+   ],
+   "image": "https://www.cmbulletin.com/images/robo-ai-shareholders-to-vote-on-1-for-25-reverse-split.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "Robo.ai Inc. Announces Reverse Stock Split and Extraordinary General Meeting on October 26, 2026",
+     "url": "https://www.prnewswire.com/news-releases/roboai-inc-announces-reverse-stock-split-and-extraordinary-general-meeting-on-october-26-2026-302911558.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [
+    "The current share counts, record date, meeting location and effective date are as stated in the company's own notice to shareholders and have not been independently verified."
+   ],
+   "brief": [
+    "Robo.ai Inc. (Nasdaq: AIIO), a UAE-based company, said shareholders will vote October 26, 2026 on a 1-for-25 reverse stock split of its Class A and Class B ordinary shares. The record date is October 14, 2026, and the meeting will be held at the Meydan Grandstand in Dubai.",
+    "If approved, the company will consolidate 13,817,501 Class A shares and 222,116,290 Class B shares into 552,701 Class A shares and 8,884,684 Class B shares, effective November 6, 2026 at 9:30 a.m. ET under a new CUSIP, G6693P130. No fractional shares will be issued; holders otherwise due a fraction will instead receive a full share.",
+    "The company said the split is expected to lift the Class B trading price proportionately, though it gave no assurance the price would reach twenty-five times its pre-split level. Shareholders at the meeting will also vote on authorizing up to 25 million new Class A shares and 280 million new Class B shares."
+   ]
+  },
+  {
+   "slug": "nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate",
+   "url": "https://www.cmbulletin.com/posts/nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate.json",
+   "date": "2026-10-17T12:27:09Z",
+   "headline": "NXG Cushing Midstream Energy Fund to rename, broaden mandate",
+   "dek": "The fund's Board of Trustees approved renaming it and broadening its investment policy from midstream energy to energy infrastructure, effective December 18.",
+   "caption": "The fund's Board approved renaming NXG Cushing Midstream Energy Fund and broadening its investment policy, effective December 18.",
+   "sections": [
+    "energy"
+   ],
+   "tags": [
+    "Closed-End Fund",
+    "Energy Infrastructure",
+    "Governance"
+   ],
+   "tickers": [
+    "NYSE:SRV"
+   ],
+   "image": "https://www.cmbulletin.com/images/nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "The NXG Cushing® Midstream Energy Fund Announces Fund Name Change",
+     "url": "https://www.prnewswire.com/news-releases/the-nxg-cushing-midstream-energy-fund-announces-fund-name-change-302911618.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [
+    "The fund's statement that roughly 90% of its net assets already qualify as energy infrastructure investments rests on the fund's own disclosure."
+   ],
+   "brief": [
+    "The NXG Cushing® Midstream Energy Fund (NYSE: SRV) said its Board of Trustees approved changing the fund's name to The NXG Cushing® Energy Infrastructure Fund, effective December 18, 2026. The fund's ticker, SRV, and CUSIP, 231631300, will not change, the fund said.",
+    "The board also approved changes to the fund's non-fundamental investment policies: the 80% minimum-investment threshold moves from \"midstream energy investments\" to \"energy infrastructure investments.\"",
+    "The fund said that as of October 15, 2026, about 90% of its net assets, plus borrowings for investment purposes, already consisted of energy infrastructure investments, so it does not anticipate any change to its investment approach or rebalancing as a result. No shareholder action is required, the fund said."
+   ]
+  },
   {
    "slug": "emergent-metals-restates-q2-financials-updates-lahontan-deal",
    "url": "https://www.cmbulletin.com/posts/emergent-metals-restates-q2-financials-updates-lahontan-deal.html",
