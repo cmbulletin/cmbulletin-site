@@ -1,6 +1,6 @@
 {
  "api": "v1",
- "generated_at": "2026-10-17T12:45:12Z",
+ "generated_at": "2026-10-18T12:40:21Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
@@ -45,7 +45,7 @@
    "warrant_fraction": "Full",
    "is_placement": true,
    "first_seen": "2026-10-17T12:45:09+00:00",
-   "last_seen": "2026-10-17T12:45:09+00:00"
+   "last_seen": "2026-10-18T12:40:18+00:00"
   },
   {
    "id": "V2026-3244",
@@ -86,7 +86,7 @@
    "warrant_fraction": "Full",
    "is_placement": true,
    "first_seen": "2026-10-17T12:45:09+00:00",
-   "last_seen": "2026-10-17T12:45:09+00:00"
+   "last_seen": "2026-10-18T12:40:18+00:00"
   },
   {
    "id": "V2026-3242",
@@ -127,7 +127,7 @@
    "warrant_fraction": "Full",
    "is_placement": true,
    "first_seen": "2026-10-17T12:45:09+00:00",
-   "last_seen": "2026-10-17T12:45:09+00:00"
+   "last_seen": "2026-10-18T12:40:18+00:00"
   },
   {
    "id": "V2026-3241",
@@ -168,7 +168,7 @@
    "warrant_fraction": "Half",
    "is_placement": true,
    "first_seen": "2026-10-17T12:45:09+00:00",
-   "last_seen": "2026-10-17T12:45:09+00:00"
+   "last_seen": "2026-10-18T12:40:18+00:00"
   },
   {
    "id": "V2026-3240",
@@ -206,7 +206,7 @@
    "warrant_fraction": "",
    "is_placement": true,
    "first_seen": "2026-10-17T12:45:09+00:00",
-   "last_seen": "2026-10-17T12:45:09+00:00"
+   "last_seen": "2026-10-18T12:40:18+00:00"
   },
   {
    "id": "V2026-3238",
@@ -247,7 +247,7 @@
    "warrant_fraction": "Full",
    "is_placement": true,
    "first_seen": "2026-10-17T12:45:09+00:00",
-   "last_seen": "2026-10-17T12:45:09+00:00"
+   "last_seen": "2026-10-18T12:40:18+00:00"
   },
   {
    "id": "V2026-3236",
@@ -285,7 +285,7 @@
    "warrant_fraction": "",
    "is_placement": true,
    "first_seen": "2026-10-17T12:45:09+00:00",
-   "last_seen": "2026-10-17T12:45:09+00:00"
+   "last_seen": "2026-10-18T12:40:18+00:00"
   },
   {
    "id": "V2026-3230",
@@ -322,7 +322,7 @@
    "warrant_fraction": "",
    "is_placement": true,
    "first_seen": "2026-10-16T12:51:12+00:00",
-   "last_seen": "2026-10-17T12:45:09+00:00"
+   "last_seen": "2026-10-18T12:40:18+00:00"
   },
   {
    "id": "V2026-3229",
@@ -359,7 +359,7 @@
    "warrant_fraction": "",
    "is_placement": true,
    "first_seen": "2026-10-16T12:51:12+00:00",
-   "last_seen": "2026-10-17T12:45:09+00:00"
+   "last_seen": "2026-10-18T12:40:18+00:00"
   },
   {
    "id": "V2026-3222",
@@ -407,7 +407,7 @@
    "warrant_fraction": "",
    "is_placement": true,
    "first_seen": "2026-10-16T12:51:12+00:00",
-   "last_seen": "2026-10-17T12:45:09+00:00"
+   "last_seen": "2026-10-18T12:40:18+00:00"
   },
   {
    "id": "V2026-3221",
@@ -456,7 +456,7 @@
    "warrant_fraction": "",
    "is_placement": true,
    "first_seen": "2026-10-16T12:51:12+00:00",
-   "last_seen": "2026-10-17T12:45:09+00:00"
+   "last_seen": "2026-10-18T12:40:18+00:00"
   }
  ],
  "cse": [

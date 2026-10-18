@@ -1,97 +1,98 @@
 {
  "api": "v1",
- "generated_at": "2026-10-17T12:45:12Z",
+ "generated_at": "2026-10-18T12:40:21Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-17",
+ "issue_date": "2026-10-18",
  "count": 2,
  "entries": [
   {
-   "slug": "robo-ai-shareholders-to-vote-on-1-for-25-reverse-split",
-   "url": "https://www.cmbulletin.com/posts/robo-ai-shareholders-to-vote-on-1-for-25-reverse-split.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/robo-ai-shareholders-to-vote-on-1-for-25-reverse-split.json",
-   "date": "2026-10-17T12:27:09Z",
-   "headline": "Robo.ai shareholders to vote on 1-for-25 reverse split",
-   "dek": "The Nasdaq-listed, Dubai-based company set an October 26 meeting on the share consolidation, record date October 14, effective date November 6 if approved.",
-   "caption": "Robo.ai's board has called an October 26 vote on consolidating its Nasdaq-listed shares twenty-five to one.",
+   "slug": "loyalist-ends-private-placement-closes-shares-for-debt-deal",
+   "url": "https://www.cmbulletin.com/posts/loyalist-ends-private-placement-closes-shares-for-debt-deal.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/loyalist-ends-private-placement-closes-shares-for-debt-deal.json",
+   "date": "2026-10-18T12:28:12Z",
+   "headline": "Loyalist ends private placement, closes shares-for-debt deal",
+   "dek": "The CSE-listed explorer said no further tranches of its placement will close, while it settled $113,285 of debt through a separate share issuance.",
+   "caption": "Loyalist Exploration terminated its private placement and closed a shares-for-debt settlement, continuing technical work on its Tully project.",
    "sections": [
-    "news"
+    "mining"
    ],
    "tags": [
-    "Capital Structure",
-    "Governance",
-    "Nasdaq"
+    "Mining",
+    "Debt Settlement",
+    "Regulatory"
    ],
    "tickers": [
-    "NASDAQ:AIIO"
+    "CSE:PNGC"
    ],
-   "image": "https://www.cmbulletin.com/images/robo-ai-shareholders-to-vote-on-1-for-25-reverse-split.png",
-   "source_name": "PR Newswire — financial services",
+   "image": "https://www.cmbulletin.com/images/loyalist-ends-private-placement-closes-shares-for-debt-deal.png",
+   "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Robo.ai Inc. Announces Reverse Stock Split and Extraordinary General Meeting on October 26, 2026",
-     "url": "https://www.prnewswire.com/news-releases/roboai-inc-announces-reverse-stock-split-and-extraordinary-general-meeting-on-october-26-2026-302911558.html",
-     "publisher": "PR Newswire — financial services"
+     "title": "Loyalist Announces Closing of Shares for Debt Transaction and Termination of Non-Brokered Private Placement",
+     "url": "https://thenewswire.com/press-releases/1k6WFQYO6-loyalist-announces-closing-of-shares-for-debt-transaction-and-termination-of-non-brokered-private-placement.html",
+     "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The current share counts, record date, meeting location and effective date are as stated in the company's own notice to shareholders and have not been independently verified."
+    "The company's reliance on MI 61-101 exemptions and the stated market-capitalization threshold are as represented by the company and have not been independently verified."
    ],
    "brief": [
-    "Robo.ai Inc. (Nasdaq: AIIO), a UAE-based company, said shareholders will vote October 26, 2026 on a 1-for-25 reverse stock split of its Class A and Class B ordinary shares. The record date is October 14, 2026, and the meeting will be held at the Meydan Grandstand in Dubai.",
-    "If approved, the company will consolidate 13,817,501 Class A shares and 222,116,290 Class B shares into 552,701 Class A shares and 8,884,684 Class B shares, effective November 6, 2026 at 9:30 a.m. ET under a new CUSIP, G6693P130. No fractional shares will be issued; holders otherwise due a fraction will instead receive a full share.",
-    "The company said the split is expected to lift the Class B trading price proportionately, though it gave no assurance the price would reach twenty-five times its pre-split level. Shareholders at the meeting will also vote on authorizing up to 25 million new Class A shares and 280 million new Class B shares."
+    "Loyalist Exploration Limited (CSE: PNGC) said it has terminated its non-brokered private placement and will complete no further tranches or closings. The company said the first tranche, which closed August 31, 2026 for 25,000,000 common shares at $0.04 each and gross proceeds of $1,000,000, represents the final closing of the offering.",
+    "Separately, the company closed a shares-for-debt transaction, settling $113,285 of outstanding debt through the issuance of 2,832,125 common shares at $0.04 each. Of that amount, $45,000 owed to president and CEO Errol Farr and VP Exploration Leonard Mackenzie was settled with 1,125,000 shares. Haywood Securities received $37,200 in cash and 930,000 warrants as a finder's fee.",
+    "Loyalist said proceeds from the placement's first tranche fund ongoing NI 43-101 technical work, including a resource estimate and preliminary economic assessment on its Tully project, and continuing production permitting. All shares issued carry a four-month-and-one-day hold period, and the company relied on exemptions from formal valuation and minority approval requirements for the related-party portion of the debt settlement."
    ],
    "body": [
-    "Robo.ai Inc. (Nasdaq: AIIO), a UAE-based, U.S.-listed company, has called an extraordinary general meeting of shareholders for October 26, 2026, to approve a 1-for-25 reverse stock split of all classes of its ordinary shares. The meeting is scheduled for 8:30 a.m. ET (4:30 p.m. Dubai time) at the Meydan Grandstand, sixth floor, in Dubai, with a record date of October 14, 2026.",
-    "If shareholders approve it, the split will take effect November 6, 2026, at 9:30 a.m. ET, consolidating every 25 existing shares into one. The company's 13,817,501 Class A ordinary shares would become 552,701 Class A shares, and its 222,116,290 Class B ordinary shares would become 8,884,684 Class B shares. The post-split shares will trade under a new CUSIP, G6693P130, the company said.",
-    "A reverse stock split reduces the number of shares outstanding by combining multiple shares into one, without changing a shareholder's proportional stake in the company other than for fractional adjustments. Robo.ai said no fractional shares will be issued under the proposed 1-for-25 split: a shareholder otherwise entitled to a fraction of a share will instead receive a full share.",
-    "Robo.ai said it expects the Class B trading price to increase proportionately once the split takes effect, though it gave no assurance the post-split price would reach twenty-five times its level beforehand; the post-split shares will trade under a new CUSIP, G6693P130. The October 26 meeting will also consider increasing authorized share capital by up to 25 million new Class A ordinary shares and 280 million new Class B ordinary shares, and adopting a seventh amended and restated memorandum and articles of association.",
-    "Robo.ai is headquartered in Dubai and lists its Class B ordinary shares on Nasdaq under the ticker AIIO. The release sets out the mechanics of the proposed split and the meeting but does not state a reason for the consolidation; completion depends on shareholder approval, and if approved, the company said the split becomes effective November 6, 2026."
+    "Loyalist Exploration Limited (CSE: PNGC) said it has terminated its previously announced non-brokered private placement, originally announced on August 10, 2026, and that no further tranches or closings will be completed. The company said the first tranche of that offering, consisting of 25,000,000 common shares at $0.04 each for gross proceeds of $1,000,000 and closed on August 31, 2026, represents the offering's final closing. Haywood Securities Inc. acted as finder, receiving $37,200 in cash and 930,000 warrants at $0.075 until August 2028.",
+    "Separately, Loyalist closed a shares-for-debt transaction, settling an aggregate of $113,285 of outstanding indebtedness owed to certain creditors through the issuance of 2,832,125 common shares, also priced at $0.04 each. Of that total, $45,000 owed to president and chief executive Errol Farr and vice-president of exploration Leonard Mackenzie was settled through the issuance of 1,125,000 shares combined. All shares issued in the transaction carry a hold period of four months and one day.",
+    "Loyalist said it is relying on exemptions from the formal valuation and minority approval requirements in sections 5.5(a) and 5.7(1)(a) of MI 61-101 for the related-party portion of the debt settlement, on the basis that neither component of the transaction exceeded 25% of the company's market capitalization. Separately, it said proceeds of the placement's first tranche are funding ongoing National Instrument 43-101 technical work on its Tully project, including a resource estimate and a preliminary economic assessment, as well as continuing production permitting work."
    ]
   },
   {
-   "slug": "nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate",
-   "url": "https://www.cmbulletin.com/posts/nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate.json",
-   "date": "2026-10-17T12:27:09Z",
-   "headline": "NXG Cushing Midstream Energy Fund to rename, broaden mandate",
-   "dek": "The fund's Board of Trustees approved renaming it and broadening its investment policy from midstream energy to energy infrastructure, effective December 18.",
-   "caption": "The fund's Board approved renaming NXG Cushing Midstream Energy Fund and broadening its investment policy, effective December 18.",
+   "slug": "lexaria-reports-animal-study-results-for-cbd-formulation",
+   "url": "https://www.cmbulletin.com/posts/lexaria-reports-animal-study-results-for-cbd-formulation.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/lexaria-reports-animal-study-results-for-cbd-formulation.json",
+   "date": "2026-10-18T12:28:12Z",
+   "headline": "Lexaria reports animal-study results for CBD formulation",
+   "dek": "The company says one new DehydraTECH-CBD formulation produced a 566% improvement in brain absorption in an animal study, and has filed three related patent applications.",
+   "caption": "Lexaria Bioscience reported animal-study results showing improved brain absorption of its DehydraTECH-CBD formulation, alongside new patent filings.",
    "sections": [
-    "energy"
+    "tech"
    ],
    "tags": [
-    "Closed-End Fund",
-    "Energy Infrastructure",
-    "Governance"
+    "Life Sciences",
+    "Drug Delivery",
+    "Patents"
    ],
    "tickers": [
-    "NYSE:SRV"
+    "NASDAQ:LEXX"
    ],
-   "image": "https://www.cmbulletin.com/images/nxg-cushing-midstream-energy-fund-to-rename-broaden-mandate.png",
-   "source_name": "PR Newswire — financial services",
+   "image": "https://www.cmbulletin.com/images/lexaria-reports-animal-study-results-for-cbd-formulation.png",
+   "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "The NXG Cushing® Midstream Energy Fund Announces Fund Name Change",
-     "url": "https://www.prnewswire.com/news-releases/the-nxg-cushing-midstream-energy-fund-announces-fund-name-change-302911618.html",
-     "publisher": "PR Newswire — financial services"
+     "title": "Lexaria Announces Results From Animal Study GLP-1-A26-1",
+     "url": "https://thenewswire.com/press-releases/1AwGFpNW0-lexaria-announces-results-from-animal-study-glp-1-a26-1.html",
+     "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The fund's statement that roughly 90% of its net assets already qualify as energy infrastructure investments rests on the fund's own disclosure."
+    "The 566% brain-absorption figure and the underlying concentration data are as stated by the company in its own release.",
+    "Whether the tested formulations will have any effect in humans is not addressed by this animal-study release."
    ],
    "brief": [
-    "The NXG Cushing® Midstream Energy Fund (NYSE: SRV) said its Board of Trustees approved changing the fund's name to The NXG Cushing® Energy Infrastructure Fund, effective December 18, 2026. The fund's ticker, SRV, and CUSIP, 231631300, will not change, the fund said.",
-    "The board also approved changes to the fund's non-fundamental investment policies: the 80% minimum-investment threshold moves from \"midstream energy investments\" to \"energy infrastructure investments.\"",
-    "The fund said that as of October 15, 2026, about 90% of its net assets, plus borrowings for investment purposes, already consisted of energy infrastructure investments, so it does not anticipate any change to its investment approach or rebalancing as a result. No shareholder action is required, the fund said."
+    "Lexaria Bioscience Corp. (NASDAQ:LEXX) reported results from an animal study, designated GLP-1-A26-1, testing new formulations of its DehydraTECH-CBD and DehydraTECH-semaglutide drug-delivery technology. The company said one CBD formulation, ALT2, produced a mean brain drug concentration of 62.8 ng/g eight hours after dosing — a 566% increase over the 9.42 ng/g measured for its reference formulation.",
+    "The study also evaluated DehydraTECH-semaglutide formulations, exploring performance enhancements for the GLP-1 compound semaglutide alongside the CBD work, according to the release. Lexaria said it has already filed three new patent applications tied to the formulations evaluated in the study, to protect the intellectual property. Chief executive Rich Christopher said the new formulations reached the company's highest-ever relative absorption performance.",
+    "Lexaria said the three patent applications have not yet been published, and that for that reason it is not disclosing full details of the formulations they cover. The release attributes the study's purpose to exploring further performance improvements and securing new intellectual property around the DehydraTECH platform."
    ],
    "body": [
-    "The NXG Cushing® Midstream Energy Fund (NYSE: SRV), a closed-end fund, said its Board of Trustees has approved changing the fund's name to The NXG Cushing® Energy Infrastructure Fund, effective December 18, 2026. The fund's ticker symbol, SRV, and its CUSIP, 231631300, will remain unchanged, according to the announcement, which was released October 16, 2026, from the fund's Dallas offices.",
-    "Alongside the name change, the Board approved amending the fund's non-fundamental investment policies. The fund's rule requiring at least 80% of its assets to be invested in a defined category will shift that category from \"midstream energy investments\" to \"energy infrastructure investments.\"",
-    "The release states that as of October 15, 2026, approximately 90% of the Fund's net assets, plus borrowings for investment purposes, already consisted of energy infrastructure investments, and that the Fund therefore does not anticipate any change to its investment approach or rebalancing of its portfolio as a result of the amendment. No shareholder approval or action is required for either the name change or the policy amendment, the release said.",
-    "No shareholder vote or other approval was required for either change, the release said, and investors need take no action; the fund's New York Stock Exchange listing and CUSIP are unaffected. Beyond the name, the policy amendment and the asset figures above, the release discloses no further detail about the Board's reasoning."
+    "Lexaria Bioscience Corp. (NASDAQ:LEXX), which describes itself as a global innovator in drug-delivery platforms, said on October 15, 2026 that it has results from an animal study designated GLP-1-A26-1. The study evaluated formulation enhancements using both DehydraTECH-CBD compositions and DehydraTECH-semaglutide glucagon-like peptide-1 (GLP-1) compositions, with the stated aims of exploring potential for additional improved performance and staking new intellectual property claims.",
+    "The release's single headlined figure concerns one CBD formulation, designated ALT2: in brain tissue sampled eight hours after dosing, it produced a mean concentration of 62.8 ± 34.3 ng/g, compared with 9.42 ± 1.91 ng/g for the study's reference formulation. The company characterizes that difference as a 566% improvement in mean brain absorption of DehydraTECH-CBD.",
+    "The study was conducted in Sprague-Dawley rats across eleven treatment arms, with pharmacokinetics measured in blood plasma and in brain tissue over a period the release describes as running from eight to twenty-four hours after dosing. Alongside the CBD arms, the study tested DehydraTECH-semaglutide formulations of the GLP-1 compound semaglutide, which the release describes as pursuing the same two goals: additional improved performance and new intellectual property claims.",
+    "Lexaria said it has already filed three new patent applications related to the formulations evaluated in the study, to protect this new intellectual property. The release states plainly that because these patent applications are not yet published, the company will not be providing full details of all the specific formulations evaluated — a limit the company places on its own disclosure, stated in those terms in the release.",
+    "Chief executive Rich Christopher was quoted in the release: 'We are delighted that certain new formulations in this Study achieved our highest-ever DehydraTECH pharmaceutical-grade relative absorption performance.' The quote is general to the study's formulations as a group, and the release does not tie it to any single figure or treatment arm among those described above, including the 566% brain-absorption result.",
+    "The release was issued from Kelowna, British Columbia — Lexaria's home base — under an October 15, 2026 dateline, and distributed through TheNewswire. It closes with Lexaria's standard forward-looking-statement disclaimer, cautioning that factors including regulatory uncertainty and competitive pressure could cause actual results to differ from any expectations suggested by the study, a caution that applies to every figure reported above."
    ]
   }
  ]

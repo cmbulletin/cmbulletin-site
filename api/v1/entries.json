@@ -1,11 +1,86 @@
 {
  "api": "v1",
- "generated_at": "2026-10-17T12:45:12Z",
+ "generated_at": "2026-10-18T12:40:21Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 66,
+ "count": 68,
  "entries": [
+  {
+   "slug": "loyalist-ends-private-placement-closes-shares-for-debt-deal",
+   "url": "https://www.cmbulletin.com/posts/loyalist-ends-private-placement-closes-shares-for-debt-deal.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/loyalist-ends-private-placement-closes-shares-for-debt-deal.json",
+   "date": "2026-10-18T12:28:12Z",
+   "headline": "Loyalist ends private placement, closes shares-for-debt deal",
+   "dek": "The CSE-listed explorer said no further tranches of its placement will close, while it settled $113,285 of debt through a separate share issuance.",
+   "caption": "Loyalist Exploration terminated its private placement and closed a shares-for-debt settlement, continuing technical work on its Tully project.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Debt Settlement",
+    "Regulatory"
+   ],
+   "tickers": [
+    "CSE:PNGC"
+   ],
+   "image": "https://www.cmbulletin.com/images/loyalist-ends-private-placement-closes-shares-for-debt-deal.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Loyalist Announces Closing of Shares for Debt Transaction and Termination of Non-Brokered Private Placement",
+     "url": "https://thenewswire.com/press-releases/1k6WFQYO6-loyalist-announces-closing-of-shares-for-debt-transaction-and-termination-of-non-brokered-private-placement.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The company's reliance on MI 61-101 exemptions and the stated market-capitalization threshold are as represented by the company and have not been independently verified."
+   ],
+   "brief": [
+    "Loyalist Exploration Limited (CSE: PNGC) said it has terminated its non-brokered private placement and will complete no further tranches or closings. The company said the first tranche, which closed August 31, 2026 for 25,000,000 common shares at $0.04 each and gross proceeds of $1,000,000, represents the final closing of the offering.",
+    "Separately, the company closed a shares-for-debt transaction, settling $113,285 of outstanding debt through the issuance of 2,832,125 common shares at $0.04 each. Of that amount, $45,000 owed to president and CEO Errol Farr and VP Exploration Leonard Mackenzie was settled with 1,125,000 shares. Haywood Securities received $37,200 in cash and 930,000 warrants as a finder's fee.",
+    "Loyalist said proceeds from the placement's first tranche fund ongoing NI 43-101 technical work, including a resource estimate and preliminary economic assessment on its Tully project, and continuing production permitting. All shares issued carry a four-month-and-one-day hold period, and the company relied on exemptions from formal valuation and minority approval requirements for the related-party portion of the debt settlement."
+   ]
+  },
+  {
+   "slug": "lexaria-reports-animal-study-results-for-cbd-formulation",
+   "url": "https://www.cmbulletin.com/posts/lexaria-reports-animal-study-results-for-cbd-formulation.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/lexaria-reports-animal-study-results-for-cbd-formulation.json",
+   "date": "2026-10-18T12:28:12Z",
+   "headline": "Lexaria reports animal-study results for CBD formulation",
+   "dek": "The company says one new DehydraTECH-CBD formulation produced a 566% improvement in brain absorption in an animal study, and has filed three related patent applications.",
+   "caption": "Lexaria Bioscience reported animal-study results showing improved brain absorption of its DehydraTECH-CBD formulation, alongside new patent filings.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Life Sciences",
+    "Drug Delivery",
+    "Patents"
+   ],
+   "tickers": [
+    "NASDAQ:LEXX"
+   ],
+   "image": "https://www.cmbulletin.com/images/lexaria-reports-animal-study-results-for-cbd-formulation.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Lexaria Announces Results From Animal Study GLP-1-A26-1",
+     "url": "https://thenewswire.com/press-releases/1AwGFpNW0-lexaria-announces-results-from-animal-study-glp-1-a26-1.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The 566% brain-absorption figure and the underlying concentration data are as stated by the company in its own release.",
+    "Whether the tested formulations will have any effect in humans is not addressed by this animal-study release."
+   ],
+   "brief": [
+    "Lexaria Bioscience Corp. (NASDAQ:LEXX) reported results from an animal study, designated GLP-1-A26-1, testing new formulations of its DehydraTECH-CBD and DehydraTECH-semaglutide drug-delivery technology. The company said one CBD formulation, ALT2, produced a mean brain drug concentration of 62.8 ng/g eight hours after dosing — a 566% increase over the 9.42 ng/g measured for its reference formulation.",
+    "The study also evaluated DehydraTECH-semaglutide formulations, exploring performance enhancements for the GLP-1 compound semaglutide alongside the CBD work, according to the release. Lexaria said it has already filed three new patent applications tied to the formulations evaluated in the study, to protect the intellectual property. Chief executive Rich Christopher said the new formulations reached the company's highest-ever relative absorption performance.",
+    "Lexaria said the three patent applications have not yet been published, and that for that reason it is not disclosing full details of the formulations they cover. The release attributes the study's purpose to exploring further performance improvements and securing new intellectual property around the DehydraTECH platform."
+   ]
+  },
   {
    "slug": "robo-ai-shareholders-to-vote-on-1-for-25-reverse-split",
    "url": "https://www.cmbulletin.com/posts/robo-ai-shareholders-to-vote-on-1-for-25-reverse-split.html",

@@ -1,0 +1,47 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-18T12:40:21Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "loyalist-ends-private-placement-closes-shares-for-debt-deal",
+ "url": "https://www.cmbulletin.com/posts/loyalist-ends-private-placement-closes-shares-for-debt-deal.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/loyalist-ends-private-placement-closes-shares-for-debt-deal.json",
+ "date": "2026-10-18T12:28:12Z",
+ "headline": "Loyalist ends private placement, closes shares-for-debt deal",
+ "dek": "The CSE-listed explorer said no further tranches of its placement will close, while it settled $113,285 of debt through a separate share issuance.",
+ "caption": "Loyalist Exploration terminated its private placement and closed a shares-for-debt settlement, continuing technical work on its Tully project.",
+ "sections": [
+  "mining"
+ ],
+ "tags": [
+  "Mining",
+  "Debt Settlement",
+  "Regulatory"
+ ],
+ "tickers": [
+  "CSE:PNGC"
+ ],
+ "image": "https://www.cmbulletin.com/images/loyalist-ends-private-placement-closes-shares-for-debt-deal.png",
+ "source_name": "TheNewswire.ca",
+ "sources": [
+  {
+   "title": "Loyalist Announces Closing of Shares for Debt Transaction and Termination of Non-Brokered Private Placement",
+   "url": "https://thenewswire.com/press-releases/1k6WFQYO6-loyalist-announces-closing-of-shares-for-debt-transaction-and-termination-of-non-brokered-private-placement.html",
+   "publisher": "TheNewswire.ca"
+  }
+ ],
+ "unverified_claims": [
+  "The company's reliance on MI 61-101 exemptions and the stated market-capitalization threshold are as represented by the company and have not been independently verified."
+ ],
+ "brief": [
+  "Loyalist Exploration Limited (CSE: PNGC) said it has terminated its non-brokered private placement and will complete no further tranches or closings. The company said the first tranche, which closed August 31, 2026 for 25,000,000 common shares at $0.04 each and gross proceeds of $1,000,000, represents the final closing of the offering.",
+  "Separately, the company closed a shares-for-debt transaction, settling $113,285 of outstanding debt through the issuance of 2,832,125 common shares at $0.04 each. Of that amount, $45,000 owed to president and CEO Errol Farr and VP Exploration Leonard Mackenzie was settled with 1,125,000 shares. Haywood Securities received $37,200 in cash and 930,000 warrants as a finder's fee.",
+  "Loyalist said proceeds from the placement's first tranche fund ongoing NI 43-101 technical work, including a resource estimate and preliminary economic assessment on its Tully project, and continuing production permitting. All shares issued carry a four-month-and-one-day hold period, and the company relied on exemptions from formal valuation and minority approval requirements for the related-party portion of the debt settlement."
+ ],
+ "body": [
+  "Loyalist Exploration Limited (CSE: PNGC) said it has terminated its previously announced non-brokered private placement, originally announced on August 10, 2026, and that no further tranches or closings will be completed. The company said the first tranche of that offering, consisting of 25,000,000 common shares at $0.04 each for gross proceeds of $1,000,000 and closed on August 31, 2026, represents the offering's final closing. Haywood Securities Inc. acted as finder, receiving $37,200 in cash and 930,000 warrants at $0.075 until August 2028.",
+  "Separately, Loyalist closed a shares-for-debt transaction, settling an aggregate of $113,285 of outstanding indebtedness owed to certain creditors through the issuance of 2,832,125 common shares, also priced at $0.04 each. Of that total, $45,000 owed to president and chief executive Errol Farr and vice-president of exploration Leonard Mackenzie was settled through the issuance of 1,125,000 shares combined. All shares issued in the transaction carry a hold period of four months and one day.",
+  "Loyalist said it is relying on exemptions from the formal valuation and minority approval requirements in sections 5.5(a) and 5.7(1)(a) of MI 61-101 for the related-party portion of the debt settlement, on the basis that neither component of the transaction exceeded 25% of the company's market capitalization. Separately, it said proceeds of the placement's first tranche are funding ongoing National Instrument 43-101 technical work on its Tully project, including a resource estimate and a preliminary economic assessment, as well as continuing production permitting work."
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-18T12:40:21Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "lexaria-reports-animal-study-results-for-cbd-formulation",
+ "url": "https://www.cmbulletin.com/posts/lexaria-reports-animal-study-results-for-cbd-formulation.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/lexaria-reports-animal-study-results-for-cbd-formulation.json",
+ "date": "2026-10-18T12:28:12Z",
+ "headline": "Lexaria reports animal-study results for CBD formulation",
+ "dek": "The company says one new DehydraTECH-CBD formulation produced a 566% improvement in brain absorption in an animal study, and has filed three related patent applications.",
+ "caption": "Lexaria Bioscience reported animal-study results showing improved brain absorption of its DehydraTECH-CBD formulation, alongside new patent filings.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Life Sciences",
+  "Drug Delivery",
+  "Patents"
+ ],
+ "tickers": [
+  "NASDAQ:LEXX"
+ ],
+ "image": "https://www.cmbulletin.com/images/lexaria-reports-animal-study-results-for-cbd-formulation.png",
+ "source_name": "TheNewswire.ca",
+ "sources": [
+  {
+   "title": "Lexaria Announces Results From Animal Study GLP-1-A26-1",
+   "url": "https://thenewswire.com/press-releases/1AwGFpNW0-lexaria-announces-results-from-animal-study-glp-1-a26-1.html",
+   "publisher": "TheNewswire.ca"
+  }
+ ],
+ "unverified_claims": [
+  "The 566% brain-absorption figure and the underlying concentration data are as stated by the company in its own release.",
+  "Whether the tested formulations will have any effect in humans is not addressed by this animal-study release."
+ ],
+ "brief": [
+  "Lexaria Bioscience Corp. (NASDAQ:LEXX) reported results from an animal study, designated GLP-1-A26-1, testing new formulations of its DehydraTECH-CBD and DehydraTECH-semaglutide drug-delivery technology. The company said one CBD formulation, ALT2, produced a mean brain drug concentration of 62.8 ng/g eight hours after dosing — a 566% increase over the 9.42 ng/g measured for its reference formulation.",
+  "The study also evaluated DehydraTECH-semaglutide formulations, exploring performance enhancements for the GLP-1 compound semaglutide alongside the CBD work, according to the release. Lexaria said it has already filed three new patent applications tied to the formulations evaluated in the study, to protect the intellectual property. Chief executive Rich Christopher said the new formulations reached the company's highest-ever relative absorption performance.",
+  "Lexaria said the three patent applications have not yet been published, and that for that reason it is not disclosing full details of the formulations they cover. The release attributes the study's purpose to exploring further performance improvements and securing new intellectual property around the DehydraTECH platform."
+ ],
+ "body": [
+  "Lexaria Bioscience Corp. (NASDAQ:LEXX), which describes itself as a global innovator in drug-delivery platforms, said on October 15, 2026 that it has results from an animal study designated GLP-1-A26-1. The study evaluated formulation enhancements using both DehydraTECH-CBD compositions and DehydraTECH-semaglutide glucagon-like peptide-1 (GLP-1) compositions, with the stated aims of exploring potential for additional improved performance and staking new intellectual property claims.",
+  "The release's single headlined figure concerns one CBD formulation, designated ALT2: in brain tissue sampled eight hours after dosing, it produced a mean concentration of 62.8 ± 34.3 ng/g, compared with 9.42 ± 1.91 ng/g for the study's reference formulation. The company characterizes that difference as a 566% improvement in mean brain absorption of DehydraTECH-CBD.",
+  "The study was conducted in Sprague-Dawley rats across eleven treatment arms, with pharmacokinetics measured in blood plasma and in brain tissue over a period the release describes as running from eight to twenty-four hours after dosing. Alongside the CBD arms, the study tested DehydraTECH-semaglutide formulations of the GLP-1 compound semaglutide, which the release describes as pursuing the same two goals: additional improved performance and new intellectual property claims.",
+  "Lexaria said it has already filed three new patent applications related to the formulations evaluated in the study, to protect this new intellectual property. The release states plainly that because these patent applications are not yet published, the company will not be providing full details of all the specific formulations evaluated — a limit the company places on its own disclosure, stated in those terms in the release.",
+  "Chief executive Rich Christopher was quoted in the release: 'We are delighted that certain new formulations in this Study achieved our highest-ever DehydraTECH pharmaceutical-grade relative absorption performance.' The quote is general to the study's formulations as a group, and the release does not tie it to any single figure or treatment arm among those described above, including the 566% brain-absorption result.",
+  "The release was issued from Kelowna, British Columbia — Lexaria's home base — under an October 15, 2026 dateline, and distributed through TheNewswire. It closes with Lexaria's standard forward-looking-statement disclaimer, cautioning that factors including regulatory uncertainty and competitive pressure could cause actual results to differ from any expectations suggested by the study, a caution that applies to every figure reported above."
+ ]
+}
