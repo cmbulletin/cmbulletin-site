@@ -1,0 +1,50 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-19T12:46:21Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "loyalist-discloses-grade-tonnage-data-for-tully-gold-estimate",
+ "url": "https://www.cmbulletin.com/posts/loyalist-discloses-grade-tonnage-data-for-tully-gold-estimate.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/loyalist-discloses-grade-tonnage-data-for-tully-gold-estimate.json",
+ "date": "2026-10-19T12:31:36Z",
+ "headline": "Loyalist discloses grade-tonnage data for Tully gold estimate",
+ "dek": "The data, drawn from the June 2026 technical report on the Timmins-area project, shows how resource tonnes and grade shift at different cut-off grades.",
+ "caption": "Loyalist Exploration released new grade-tonnage data for its Tully Gold Project resource estimate in Ontario's Timmins Gold Camp.",
+ "sections": [
+  "mining"
+ ],
+ "tags": [
+  "Mining",
+  "Gold",
+  "Resource Estimate"
+ ],
+ "tickers": [
+  "CSE:PNGC"
+ ],
+ "image": "https://www.cmbulletin.com/images/loyalist-discloses-grade-tonnage-data-for-tully-gold-estimate.png",
+ "source_name": "TheNewswire.ca",
+ "sources": [
+  {
+   "title": "Loyalist Exploration Discloses Grade-Tonnage Sensitivity for Tully Gold Project Mineral Resource Estimate",
+   "url": "https://thenewswire.com/press-releases/1kogFZRPd-loyalist-exploration-discloses-grade-tonnage-sensitivity-for-tully-gold-project-mineral-resource-estimate.html",
+   "publisher": "TheNewswire.ca"
+  }
+ ],
+ "unverified_claims": [
+  "The characterization of a 'higher-grade core' in the resource is the company's/qualified persons' own interpretation of the sensitivity data."
+ ],
+ "brief": [
+  "Loyalist Exploration Limited (CSE: PNGC) released additional grade-tonnage sensitivity data for the 2026 mineral resource estimate on its Tully Gold Project in the Timmins Gold Camp of northeastern Ontario. The base-case estimate, by P&E Mining Consultants Inc. with an effective date of June 15, 2026, reports 1.62 million indicated tonnes at 3.16 g/t gold for 164,000 ounces and 0.95 million inferred tonnes at 2.03 g/t for 62,000 ounces.",
+  "At a 3.00 g/t cut-off, using a 1.25-metre minimum mining width — a constraint not used in the base-case estimate above — the deposit carries 407,000 indicated tonnes at 9.19 g/t gold for 120,000 ounces and 150,000 inferred tonnes at 6.45 g/t for 31,000 ounces. Loyalist said the sensitivity data highlights the presence of a higher-grade core.",
+  "The company said the data will factor into its approach to a Preliminary Economic Assessment. The technical report, filed on SEDAR+ on August 21, 2026, was prepared by qualified persons Curtis Ferron, Eugene Puritch and Charles Spath; the mineral resource estimate was first announced on July 7, 2026."
+ ],
+ "body": [
+  "Loyalist Exploration Limited (CSE: PNGC) released additional grade-tonnage sensitivity data for the 2026 mineral resource estimate on its wholly owned Tully Gold Project in the Timmins Gold Camp of northeastern Ontario. The base-case estimate, using a 1.1 gram-per-tonne gold cut-off, reports indicated resources of 1.62 million tonnes grading 3.16 grams per tonne gold for 164,000 ounces, and inferred resources of 0.95 million tonnes grading 2.03 grams per tonne for 62,000 ounces.",
+  "The sensitivity table applies a 1.25-metre minimum mining width, a constraint not used in the base-case estimate above, and shows how resource tonnes and grade shift at higher cut-off grades. At a 3.00 gram-per-tonne cut-off, Loyalist reported 407,000 indicated tonnes grading 9.19 grams per tonne for 120,000 ounces, and 150,000 inferred tonnes grading 6.45 grams per tonne for 31,000 ounces.",
+  "At a 2.50 gram-per-tonne cut-off, the company reported 500,000 indicated tonnes grading 7.98 grams per tonne for 128,000 ounces and 205,000 inferred tonnes grading 5.43 grams per tonne for 36,000 ounces. At a 2.00 gram-per-tonne cut-off, indicated tonnes rose to 633,000 at 6.78 grams per tonne for 138,000 ounces, with inferred tonnes of 313,000 at 4.34 grams per tonne for 44,000 ounces.",
+  "At a 1.50 gram-per-tonne cut-off, Loyalist reported 824,000 indicated tonnes grading 5.61 grams per tonne for 149,000 ounces and 436,000 inferred tonnes grading 3.60 grams per tonne for 51,000 ounces. At the 1.10 gram-per-tonne cut-off under this same mining-width constraint, the figures were 1,014,000 indicated tonnes at 4.80 grams per tonne for 156,000 ounces and 604,000 inferred tonnes at 2.96 grams per tonne for 57,000 ounces.",
+  "President and chief executive Errol Farr said the sensitivity data \"provides important additional insight\" as the company advances a Preliminary Economic Assessment, and that it demonstrates \"how the resource responds to higher cut-off grades,\" highlighting \"the presence of a higher-grade core.\" The underlying technical report was prepared by qualified persons Curtis Ferron, Eugene Puritch and Charles Spath of P&E Mining Consultants Inc., with an effective date of June 15, 2026, and filed on SEDAR+ on August 21, 2026.",
+  "Loyalist first announced the mineral resource estimate on July 7, 2026, and the filing of the technical report on August 21, 2026. The company said the newly released sensitivity data will factor into its approach to the Preliminary Economic Assessment, without specifying a timeline for that assessment."
+ ]
+}

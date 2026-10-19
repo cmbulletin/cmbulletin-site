@@ -1,98 +1,149 @@
 {
  "api": "v1",
- "generated_at": "2026-10-18T12:40:21Z",
+ "generated_at": "2026-10-19T12:46:21Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-18",
- "count": 2,
+ "issue_date": "2026-10-19",
+ "count": 3,
  "entries": [
   {
-   "slug": "loyalist-ends-private-placement-closes-shares-for-debt-deal",
-   "url": "https://www.cmbulletin.com/posts/loyalist-ends-private-placement-closes-shares-for-debt-deal.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/loyalist-ends-private-placement-closes-shares-for-debt-deal.json",
-   "date": "2026-10-18T12:28:12Z",
-   "headline": "Loyalist ends private placement, closes shares-for-debt deal",
-   "dek": "The CSE-listed explorer said no further tranches of its placement will close, while it settled $113,285 of debt through a separate share issuance.",
-   "caption": "Loyalist Exploration terminated its private placement and closed a shares-for-debt settlement, continuing technical work on its Tully project.",
+   "slug": "wescan-brings-third-provost-well-into-production",
+   "url": "https://www.cmbulletin.com/posts/wescan-brings-third-provost-well-into-production.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/wescan-brings-third-provost-well-into-production.json",
+   "date": "2026-10-19T12:31:36Z",
+   "headline": "WesCan brings third Provost well into production",
+   "dek": "The well was drilled, completed and tied in within budget following a $1.3 million convertible debenture financing, with water cut falling since start-up, the company said.",
+   "caption": "WesCan Energy said its third multilateral well in the Provost area began producing within budget, following a convertible debenture financing.",
+   "sections": [
+    "energy"
+   ],
+   "tags": [
+    "Oil & Gas",
+    "Production",
+    "Alberta"
+   ],
+   "tickers": [
+    "TSXV:WCE"
+   ],
+   "image": "https://www.cmbulletin.com/images/wescan-brings-third-provost-well-into-production.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "WesCan Energy Brings Third Provost Multilateral on Production within Budget",
+     "url": "https://thenewswire.com/press-releases/1AlpFlWVm-wescan-energy-brings-third-provost-multilateral-on-production-within-budget.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The water cut figure (~58%) and its daily decline are as reported by the company.",
+    "Terms of the $1.3 million convertible debenture beyond its size are not disclosed in the release."
+   ],
+   "brief": [
+    "WesCan Energy Corp. (TSXV: WCE) said its third multilateral horizontal well in the Provost area of east-central Alberta, designated 105/15-21-38-3W4, began producing on October 9, 2026. The company said the well was drilled, completed, equipped and tied in within budget, following a $1.3 million convertible debenture financing.",
+    "WesCan said the well is in the early stage of clean-up and flow-back, with water cut falling every day to approximately 58% as load fluid is recovered, and oil rates rising as the water cut declines. The well is being produced at a steady, controlled rate, the company said. Separately, Sohaib Abbas rejoined WesCan's board of directors effective October 19, 2026.",
+    "The release did not disclose the debenture's interest rate, conversion price or closing date, and gave no timeline for when the well is expected to reach a stabilized production rate. Chief executive Leo Berezan said the result shows the drilling program 'is repeatable.'"
+   ],
+   "body": [
+    "WesCan Energy Corp. (TSXV: WCE) said its third multilateral horizontal well in the Provost area of east-central Alberta, designated 105/15-21-38-3W4, began producing on October 9, 2026.",
+    "The company said the well was drilled, completed, equipped and tied in within budget, following a $1.3 million convertible debenture financing. The release did not disclose the debenture's interest rate, conversion price or closing date.",
+    "The company said the well remains in the early stage of its clean-up and flow-back period. Water cut, the share of water in the fluid produced, has fallen every day since start-up to approximately 58%, as load fluid used during completion is recovered, with oil rates rising as the water cut declines. WesCan said the well is being produced at a steady, controlled rate.",
+    "This is the third multilateral well WesCan has brought onto production in the Provost area; a multilateral well drills more than one horizontal leg from a single surface location. Chief executive Leo Berezan said: 'Delivering a third Provost multilateral on budget tells us this program is repeatable. Water cut has come down every single day since start-up and oil rates are climbing with it.'",
+    "Separately, WesCan said Sohaib Abbas has rejoined the company's board of directors, effective October 19, 2026; the release gave no further detail on the appointment. WesCan is headquartered in Calgary, Alberta, and describes itself in the release as focused on oil and gas exploration and production in the Provost area of east-central Alberta.",
+    "Beyond the figures above, the release disclosed no additional production data, such as a flow rate in barrels per day, and gave no forecast for when water cut is expected to stabilize. Disclosure in this update is limited to what is stated here."
+   ]
+  },
+  {
+   "slug": "loyalist-discloses-grade-tonnage-data-for-tully-gold-estimate",
+   "url": "https://www.cmbulletin.com/posts/loyalist-discloses-grade-tonnage-data-for-tully-gold-estimate.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/loyalist-discloses-grade-tonnage-data-for-tully-gold-estimate.json",
+   "date": "2026-10-19T12:31:36Z",
+   "headline": "Loyalist discloses grade-tonnage data for Tully gold estimate",
+   "dek": "The data, drawn from the June 2026 technical report on the Timmins-area project, shows how resource tonnes and grade shift at different cut-off grades.",
+   "caption": "Loyalist Exploration released new grade-tonnage data for its Tully Gold Project resource estimate in Ontario's Timmins Gold Camp.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
-    "Debt Settlement",
-    "Regulatory"
+    "Gold",
+    "Resource Estimate"
    ],
    "tickers": [
     "CSE:PNGC"
    ],
-   "image": "https://www.cmbulletin.com/images/loyalist-ends-private-placement-closes-shares-for-debt-deal.png",
+   "image": "https://www.cmbulletin.com/images/loyalist-discloses-grade-tonnage-data-for-tully-gold-estimate.png",
    "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Loyalist Announces Closing of Shares for Debt Transaction and Termination of Non-Brokered Private Placement",
-     "url": "https://thenewswire.com/press-releases/1k6WFQYO6-loyalist-announces-closing-of-shares-for-debt-transaction-and-termination-of-non-brokered-private-placement.html",
+     "title": "Loyalist Exploration Discloses Grade-Tonnage Sensitivity for Tully Gold Project Mineral Resource Estimate",
+     "url": "https://thenewswire.com/press-releases/1kogFZRPd-loyalist-exploration-discloses-grade-tonnage-sensitivity-for-tully-gold-project-mineral-resource-estimate.html",
      "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The company's reliance on MI 61-101 exemptions and the stated market-capitalization threshold are as represented by the company and have not been independently verified."
+    "The characterization of a 'higher-grade core' in the resource is the company's/qualified persons' own interpretation of the sensitivity data."
    ],
    "brief": [
-    "Loyalist Exploration Limited (CSE: PNGC) said it has terminated its non-brokered private placement and will complete no further tranches or closings. The company said the first tranche, which closed August 31, 2026 for 25,000,000 common shares at $0.04 each and gross proceeds of $1,000,000, represents the final closing of the offering.",
-    "Separately, the company closed a shares-for-debt transaction, settling $113,285 of outstanding debt through the issuance of 2,832,125 common shares at $0.04 each. Of that amount, $45,000 owed to president and CEO Errol Farr and VP Exploration Leonard Mackenzie was settled with 1,125,000 shares. Haywood Securities received $37,200 in cash and 930,000 warrants as a finder's fee.",
-    "Loyalist said proceeds from the placement's first tranche fund ongoing NI 43-101 technical work, including a resource estimate and preliminary economic assessment on its Tully project, and continuing production permitting. All shares issued carry a four-month-and-one-day hold period, and the company relied on exemptions from formal valuation and minority approval requirements for the related-party portion of the debt settlement."
+    "Loyalist Exploration Limited (CSE: PNGC) released additional grade-tonnage sensitivity data for the 2026 mineral resource estimate on its Tully Gold Project in the Timmins Gold Camp of northeastern Ontario. The base-case estimate, by P&E Mining Consultants Inc. with an effective date of June 15, 2026, reports 1.62 million indicated tonnes at 3.16 g/t gold for 164,000 ounces and 0.95 million inferred tonnes at 2.03 g/t for 62,000 ounces.",
+    "At a 3.00 g/t cut-off, using a 1.25-metre minimum mining width — a constraint not used in the base-case estimate above — the deposit carries 407,000 indicated tonnes at 9.19 g/t gold for 120,000 ounces and 150,000 inferred tonnes at 6.45 g/t for 31,000 ounces. Loyalist said the sensitivity data highlights the presence of a higher-grade core.",
+    "The company said the data will factor into its approach to a Preliminary Economic Assessment. The technical report, filed on SEDAR+ on August 21, 2026, was prepared by qualified persons Curtis Ferron, Eugene Puritch and Charles Spath; the mineral resource estimate was first announced on July 7, 2026."
    ],
    "body": [
-    "Loyalist Exploration Limited (CSE: PNGC) said it has terminated its previously announced non-brokered private placement, originally announced on August 10, 2026, and that no further tranches or closings will be completed. The company said the first tranche of that offering, consisting of 25,000,000 common shares at $0.04 each for gross proceeds of $1,000,000 and closed on August 31, 2026, represents the offering's final closing. Haywood Securities Inc. acted as finder, receiving $37,200 in cash and 930,000 warrants at $0.075 until August 2028.",
-    "Separately, Loyalist closed a shares-for-debt transaction, settling an aggregate of $113,285 of outstanding indebtedness owed to certain creditors through the issuance of 2,832,125 common shares, also priced at $0.04 each. Of that total, $45,000 owed to president and chief executive Errol Farr and vice-president of exploration Leonard Mackenzie was settled through the issuance of 1,125,000 shares combined. All shares issued in the transaction carry a hold period of four months and one day.",
-    "Loyalist said it is relying on exemptions from the formal valuation and minority approval requirements in sections 5.5(a) and 5.7(1)(a) of MI 61-101 for the related-party portion of the debt settlement, on the basis that neither component of the transaction exceeded 25% of the company's market capitalization. Separately, it said proceeds of the placement's first tranche are funding ongoing National Instrument 43-101 technical work on its Tully project, including a resource estimate and a preliminary economic assessment, as well as continuing production permitting work."
+    "Loyalist Exploration Limited (CSE: PNGC) released additional grade-tonnage sensitivity data for the 2026 mineral resource estimate on its wholly owned Tully Gold Project in the Timmins Gold Camp of northeastern Ontario. The base-case estimate, using a 1.1 gram-per-tonne gold cut-off, reports indicated resources of 1.62 million tonnes grading 3.16 grams per tonne gold for 164,000 ounces, and inferred resources of 0.95 million tonnes grading 2.03 grams per tonne for 62,000 ounces.",
+    "The sensitivity table applies a 1.25-metre minimum mining width, a constraint not used in the base-case estimate above, and shows how resource tonnes and grade shift at higher cut-off grades. At a 3.00 gram-per-tonne cut-off, Loyalist reported 407,000 indicated tonnes grading 9.19 grams per tonne for 120,000 ounces, and 150,000 inferred tonnes grading 6.45 grams per tonne for 31,000 ounces.",
+    "At a 2.50 gram-per-tonne cut-off, the company reported 500,000 indicated tonnes grading 7.98 grams per tonne for 128,000 ounces and 205,000 inferred tonnes grading 5.43 grams per tonne for 36,000 ounces. At a 2.00 gram-per-tonne cut-off, indicated tonnes rose to 633,000 at 6.78 grams per tonne for 138,000 ounces, with inferred tonnes of 313,000 at 4.34 grams per tonne for 44,000 ounces.",
+    "At a 1.50 gram-per-tonne cut-off, Loyalist reported 824,000 indicated tonnes grading 5.61 grams per tonne for 149,000 ounces and 436,000 inferred tonnes grading 3.60 grams per tonne for 51,000 ounces. At the 1.10 gram-per-tonne cut-off under this same mining-width constraint, the figures were 1,014,000 indicated tonnes at 4.80 grams per tonne for 156,000 ounces and 604,000 inferred tonnes at 2.96 grams per tonne for 57,000 ounces.",
+    "President and chief executive Errol Farr said the sensitivity data \"provides important additional insight\" as the company advances a Preliminary Economic Assessment, and that it demonstrates \"how the resource responds to higher cut-off grades,\" highlighting \"the presence of a higher-grade core.\" The underlying technical report was prepared by qualified persons Curtis Ferron, Eugene Puritch and Charles Spath of P&E Mining Consultants Inc., with an effective date of June 15, 2026, and filed on SEDAR+ on August 21, 2026.",
+    "Loyalist first announced the mineral resource estimate on July 7, 2026, and the filing of the technical report on August 21, 2026. The company said the newly released sensitivity data will factor into its approach to the Preliminary Economic Assessment, without specifying a timeline for that assessment."
    ]
   },
   {
-   "slug": "lexaria-reports-animal-study-results-for-cbd-formulation",
-   "url": "https://www.cmbulletin.com/posts/lexaria-reports-animal-study-results-for-cbd-formulation.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/lexaria-reports-animal-study-results-for-cbd-formulation.json",
-   "date": "2026-10-18T12:28:12Z",
-   "headline": "Lexaria reports animal-study results for CBD formulation",
-   "dek": "The company says one new DehydraTECH-CBD formulation produced a 566% improvement in brain absorption in an animal study, and has filed three related patent applications.",
-   "caption": "Lexaria Bioscience reported animal-study results showing improved brain absorption of its DehydraTECH-CBD formulation, alongside new patent filings.",
+   "slug": "vinfast-posts-85-5-revenue-growth-for-second-quarter",
+   "url": "https://www.cmbulletin.com/posts/vinfast-posts-85-5-revenue-growth-for-second-quarter.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/vinfast-posts-85-5-revenue-growth-for-second-quarter.json",
+   "date": "2026-10-19T12:31:36Z",
+   "headline": "VinFast posts 85.5% revenue growth for second quarter",
+   "dek": "EV deliveries rose 96% year over year to 70,085 units, while revenue reached US$1.2 billion on strength in Vietnam and expanding international markets.",
+   "caption": "VinFast's unaudited second-quarter results showed vehicle deliveries and revenue both climbing from the prior quarter, the company said.",
    "sections": [
     "tech"
    ],
    "tags": [
-    "Life Sciences",
-    "Drug Delivery",
-    "Patents"
+    "Earnings",
+    "Electric Vehicles",
+    "Technology"
    ],
    "tickers": [
-    "NASDAQ:LEXX"
+    "NASDAQ:VFS"
    ],
-   "image": "https://www.cmbulletin.com/images/lexaria-reports-animal-study-results-for-cbd-formulation.png",
-   "source_name": "TheNewswire.ca",
+   "image": "https://www.cmbulletin.com/images/vinfast-posts-85-5-revenue-growth-for-second-quarter.png",
+   "source_name": "PR Newswire — all news releases",
    "sources": [
     {
-     "title": "Lexaria Announces Results From Animal Study GLP-1-A26-1",
-     "url": "https://thenewswire.com/press-releases/1AwGFpNW0-lexaria-announces-results-from-animal-study-glp-1-a26-1.html",
-     "publisher": "TheNewswire.ca"
+     "title": "VinFast Reports Unaudited Second Quarter 2026 Financial Results",
+     "url": "https://www.prnewswire.com/news-releases/vinfast-reports-unaudited-second-quarter-2026-financial-results-302912564.html",
+     "publisher": "PR Newswire — all news releases"
     }
    ],
    "unverified_claims": [
-    "The 566% brain-absorption figure and the underlying concentration data are as stated by the company in its own release.",
-    "Whether the tested formulations will have any effect in humans is not addressed by this animal-study release."
+    "VF 8 and VF 2 reservation figures (12,700+ and 28,700+) are as reported by the company.",
+    "The planned Level 4 robotaxi pilot of 200 vehicles in Can Gio for late 2027 rests on the company's own statement.",
+    "The planned international rollout of the VF Wild for 2027 rests on the company's own statement.",
+    "Vietnam market share (~38%) and the regional BEV sales rankings are as stated by the company."
    ],
    "brief": [
-    "Lexaria Bioscience Corp. (NASDAQ:LEXX) reported results from an animal study, designated GLP-1-A26-1, testing new formulations of its DehydraTECH-CBD and DehydraTECH-semaglutide drug-delivery technology. The company said one CBD formulation, ALT2, produced a mean brain drug concentration of 62.8 ng/g eight hours after dosing — a 566% increase over the 9.42 ng/g measured for its reference formulation.",
-    "The study also evaluated DehydraTECH-semaglutide formulations, exploring performance enhancements for the GLP-1 compound semaglutide alongside the CBD work, according to the release. Lexaria said it has already filed three new patent applications tied to the formulations evaluated in the study, to protect the intellectual property. Chief executive Rich Christopher said the new formulations reached the company's highest-ever relative absorption performance.",
-    "Lexaria said the three patent applications have not yet been published, and that for that reason it is not disclosing full details of the formulations they cover. The release attributes the study's purpose to exploring further performance improvements and securing new intellectual property around the DehydraTECH platform."
+    "VinFast Auto Ltd. (NASDAQ: VFS) reported unaudited second-quarter 2026 results, with total revenue of VND 30,340.9 billion (US$1,203.7 million), up 32.9% from the prior quarter and 85.5% from a year earlier. The company delivered 70,085 electric vehicles, a 20% quarterly increase and a 96% rise year over year.",
+    "Vehicle sales accounted for VND 28,833.1 billion (US$1,143.9 million) of revenue, up 33.4% quarter over quarter and 92.7% year over year. VinFast said it held roughly 38% market share in Vietnam for a 22nd consecutive month and ranked first in the Philippines, fifth in India and eighth in Indonesia in the battery-electric vehicle category during the quarter.",
+    "The company said it has launched the VF Wild range-extended electric vehicle in Vietnam, with an international rollout planned for 2027, and is preparing a Level 4 robotaxi pilot of 200 vehicles in Can Gio for late 2027. VinFast reported more than 12,700 VF 8 and 28,700 VF 2 reservations within days of their respective launches."
    ],
    "body": [
-    "Lexaria Bioscience Corp. (NASDAQ:LEXX), which describes itself as a global innovator in drug-delivery platforms, said on October 15, 2026 that it has results from an animal study designated GLP-1-A26-1. The study evaluated formulation enhancements using both DehydraTECH-CBD compositions and DehydraTECH-semaglutide glucagon-like peptide-1 (GLP-1) compositions, with the stated aims of exploring potential for additional improved performance and staking new intellectual property claims.",
-    "The release's single headlined figure concerns one CBD formulation, designated ALT2: in brain tissue sampled eight hours after dosing, it produced a mean concentration of 62.8 ± 34.3 ng/g, compared with 9.42 ± 1.91 ng/g for the study's reference formulation. The company characterizes that difference as a 566% improvement in mean brain absorption of DehydraTECH-CBD.",
-    "The study was conducted in Sprague-Dawley rats across eleven treatment arms, with pharmacokinetics measured in blood plasma and in brain tissue over a period the release describes as running from eight to twenty-four hours after dosing. Alongside the CBD arms, the study tested DehydraTECH-semaglutide formulations of the GLP-1 compound semaglutide, which the release describes as pursuing the same two goals: additional improved performance and new intellectual property claims.",
-    "Lexaria said it has already filed three new patent applications related to the formulations evaluated in the study, to protect this new intellectual property. The release states plainly that because these patent applications are not yet published, the company will not be providing full details of all the specific formulations evaluated — a limit the company places on its own disclosure, stated in those terms in the release.",
-    "Chief executive Rich Christopher was quoted in the release: 'We are delighted that certain new formulations in this Study achieved our highest-ever DehydraTECH pharmaceutical-grade relative absorption performance.' The quote is general to the study's formulations as a group, and the release does not tie it to any single figure or treatment arm among those described above, including the 566% brain-absorption result.",
-    "The release was issued from Kelowna, British Columbia — Lexaria's home base — under an October 15, 2026 dateline, and distributed through TheNewswire. It closes with Lexaria's standard forward-looking-statement disclaimer, cautioning that factors including regulatory uncertainty and competitive pressure could cause actual results to differ from any expectations suggested by the study, a caution that applies to every figure reported above."
+    "VinFast Auto Ltd. (NASDAQ: VFS) reported unaudited financial results for the second quarter ended June 30, 2026. Total revenue reached VND 30,340.9 billion, or US$1,203.7 million, up 32.9% from the first quarter of 2026 and 85.5% from the second quarter of 2025. The company delivered 70,085 electric vehicles in the quarter, an increase of 20% from the prior quarter and 96% from a year earlier, alongside 286,039 electric scooters and e-bikes, up 100% quarter over quarter and 311% year over year.",
+    "Vehicle sales contributed VND 28,833.1 billion (US$1,143.9 million) of total revenue, up 33.4% quarter over quarter and 92.7% year over year. VinFast said international markets accounted for approximately 11% of total EV deliveries in the quarter, and that it operated 474 showrooms globally. In Vietnam, the company said it held approximately 38% market share, a position it said it has held for 22 consecutive months since September 2024.",
+    "VinFast said it ranked first in the Philippines, fifth in India and eighth in Indonesia in the battery-electric vehicle category during the quarter. The company reported more than 12,700 reservations for its VF 8 model and more than 28,700 reservations for its VF 2 model within days of each vehicle's respective launch.",
+    "The company said it has launched the VF Wild range-extended electric vehicle in Vietnam, with an international rollout planned for 2027. VinFast also said it is preparing a Level 4 autonomous robotaxi pilot using 200 vehicles in Can Gio, planned for late 2027, alongside its existing electric-vehicle and e-scooter lines.",
+    "Pham Nhat Quan Anh, VinFast's chief executive and chairman, said the company \"entered the second half of 2026 with strong momentum across our core markets and continued progress in expanding our global platform.\" Chief Financial Officer Lan Anh Nguyen said results \"reflect continued strong revenue growth in our core electric mobility business as we scale vehicle volumes.\"",
+    "VinFast said it continues to expand across Vietnam, Indonesia, the Philippines, India, the Middle East, North America and Europe, operating a combined 474 showrooms across those markets as of the quarter's end."
    ]
   }
  ]
