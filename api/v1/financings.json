@@ -1,12 +1,30 @@
 {
  "api": "v1",
- "generated_at": "2026-10-19T12:46:21Z",
+ "generated_at": "2026-10-20T12:58:19Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 45,
+ "count": 46,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
+  {
+   "company": "Mijem Newcomm Tech Inc.",
+   "ticker": "CSE:MJEM.X",
+   "type": "non-brokered private placement",
+   "currency": "C$",
+   "closed": "2026-11-30",
+   "agent": "",
+   "hold_period": true,
+   "note": "Requires shareholder approval for the warrants under CSE Policy 4.6(2)(a) because the offering could issue more than 100% of outstanding securities; unapproved warrants would be cancelled. Expected closing date is stated as an estimate and may close in tranches.",
+   "gross": 300000.0,
+   "units": 6000000.0,
+   "price": 0.05,
+   "warrant_strike": 0.05,
+   "warrant_months": 36.0,
+   "warrant_expiry": "2029-11-30",
+   "hold_expiry": "2027-03-31",
+   "entry_url": "https://www.cmbulletin.com/posts/mijem-newcomm-tech-launches-up-to-300-000-placement.html"
+  },
   {
    "company": "Nord Precious Metals Mining Inc.",
    "ticker": "TSXV:NTH",

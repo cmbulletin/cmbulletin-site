@@ -1,0 +1,52 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-20T12:58:19Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "gunnison-copper-s-adrs-set-to-trade-on-nyse-american",
+ "url": "https://www.cmbulletin.com/posts/gunnison-copper-s-adrs-set-to-trade-on-nyse-american.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/gunnison-copper-s-adrs-set-to-trade-on-nyse-american.json",
+ "date": "2026-10-20T12:34:57Z",
+ "headline": "Gunnison Copper's ADRs set to trade on NYSE American",
+ "dek": "The Level II depositary receipt program begins trading October 26 under 'GUNN,' with no new shares issued and no capital raised through the listing.",
+ "caption": "Gunnison Copper's American Depositary Receipts are set to begin trading on the NYSE American under the ticker \"GUNN\" on October 26.",
+ "sections": [
+  "mining"
+ ],
+ "tags": [
+  "Mining",
+  "Copper",
+  "Listing"
+ ],
+ "tickers": [
+  "NYSE AMERICAN:GUNN",
+  "TSX:GCU"
+ ],
+ "image": "https://www.cmbulletin.com/images/gunnison-copper-s-adrs-set-to-trade-on-nyse-american.png",
+ "source_name": "Investing News Network — Resource Investing",
+ "sources": [
+  {
+   "title": "Gunnison Copper to Commence Trading on NYSE American October 26, 2026, Under Ticker Symbol \"GUNN\"",
+   "url": "https://investingnews.com/gunnison-copper-to-commence-trading-on-nyse-american-october-26-2026-under-ticker-symbol-gunn/",
+   "publisher": "Investing News Network — Resource Investing"
+  }
+ ],
+ "unverified_claims": [
+  "The preliminary economic assessment figures (NPV, IRR, payback period) are the company's own citation of a March 2026 technical report and have not been independently verified.",
+  "The stated resource tonnage and grade for the Gunnison Copper Project come from the company's own release and corresponding technical report."
+ ],
+ "brief": [
+  "Gunnison Copper Corp. (TSX: GCU) said its American Depositary Receipts are expected to begin trading on the NYSE American under the ticker \"GUNN\" at the opening on or about Monday, October 26, 2026. Each ADR represents 30 common shares under a Level II ADR program, with The Bank of New York Mellon as depositary.",
+  "Starting October 23, 2026, U.S. shareholders may convert common shares into ADRs through BNY. The company said the program does not constitute a new offering of securities: no additional shares are being issued and no capital is being raised through the listing. Gunnison's shares continue trading on the TSX, OTCQB and Frankfurt Stock Exchange.",
+  "The listing remains subject to the effectiveness of the company's registration statement with the U.S. Securities and Exchange Commission and final exchange approvals, Gunnison said. The release did not give a date by which that registration statement is expected to become effective."
+ ],
+ "body": [
+  "Gunnison Copper Corp. (TSX: GCU, OTC: GCUMF, FSE: 3XS0) said its American Depositary Receipts are expected to commence trading on the NYSE American under the ticker symbol \"GUNN\" at the opening of trading on or about Monday, October 26, 2026. The listing is subject to the effectiveness of the company's registration statement with the U.S. Securities and Exchange Commission and final exchange approvals, the company said.",
+  "Each ADR will represent thirty common shares of Gunnison, under a Level II ADR program with The Bank of New York Mellon acting as depositary bank. A Level II program allows a foreign company's existing shares to trade on a U.S. national exchange through depositary receipts, without the company raising new capital in the process.",
+  "Starting October 23, 2026, United States shareholders may convert their Gunnison common shares into ADRs through BNY. The company said explicitly that the ADR program does not constitute a new offering of securities, and that no additional common shares are being issued and no capital is being raised in connection with the NYSE American listing.",
+  "Gunnison's shares will continue to trade on the Toronto Stock Exchange, the OTCQB market and the Frankfurt Stock Exchange alongside the new U.S. listing. The release described Gunnison as a multi-asset copper developer and producer controlling the Cochise Mining District in Arizona.",
+  "The company's flagship Gunnison Copper Project carries a measured and indicated mineral resource in its main pit of more than 846 million tons at a copper grade of 0.33%, containing 5.19 billion pounds of copper, according to the release. A preliminary economic assessment completed in March 2026 for the project estimated an after-tax net present value, at an 8% discount rate, of $2 billion, an internal rate of return of 23% and a payback period of 3.9 years; full detail is in a technical report titled \"Gunnison Project NI 43-101 Technical Report, Preliminary Economic Assessment, Cochise County, Arizona, USA,\" with an effective date of March 18, 2026, filed on SEDAR+.",
+  "Gunnison's Johnson Camp Mine is currently producing finished copper cathode through an on-site SX/EW facility, which the company said is fully funded by Nuton LLC, a Rio Tinto venture, with capacity of up to 25 million pounds of finished copper cathode annually. The release said Gunnison is supplying copper from that operation to the U.S. defense sector and to Amazon Web Services."
+ ]
+}

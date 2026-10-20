@@ -1,11 +1,126 @@
 {
  "api": "v1",
- "generated_at": "2026-10-19T12:46:21Z",
+ "generated_at": "2026-10-20T12:58:19Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 71,
+ "count": 74,
  "entries": [
+  {
+   "slug": "mijem-newcomm-tech-launches-up-to-300-000-placement",
+   "url": "https://www.cmbulletin.com/posts/mijem-newcomm-tech-launches-up-to-300-000-placement.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/mijem-newcomm-tech-launches-up-to-300-000-placement.json",
+   "date": "2026-10-20T12:34:57Z",
+   "headline": "Mijem Newcomm Tech launches up to $300,000 placement",
+   "dek": "The CSE-listed company's non-brokered offering carries three-year warrants that need shareholder approval before they can be issued.",
+   "caption": "Mijem Newcomm Tech Inc. has launched a non-brokered private placement of up to $300,000, expected to close on or about November 30.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Technology",
+    "Financing",
+    "CSE"
+   ],
+   "tickers": [
+    "CSE:MJEM.X"
+   ],
+   "image": "https://www.cmbulletin.com/images/mijem-newcomm-tech-launches-up-to-300-000-placement.png",
+   "source_name": "Newsfile Corp",
+   "sources": [
+    {
+     "title": "Mijem Announces Non-Brokered Private Placement of up to $300,000",
+     "url": "https://www.newsfilecorp.com/release/319779/Mijem-Announces-NonBrokered-Private-Placement-of-up-to-300000",
+     "publisher": "Newsfile Corp"
+    },
+    {
+     "title": "Mijem Newcomm Tech Initiates Non-Brokered Private Placement to Raise $300,000",
+     "url": "https://kalkinemedia.com/ca/news/announcements/mijem-newcomm-tech-initiates-non-brokered-private-placement-to-raise-300000",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "The expected closing date of on or about November 30, 2026 is the company's own estimate and the offering may close in tranches on a different schedule.",
+    "Whether shareholder approval for the warrants will be obtained has not been determined; the release states only that unapproved warrants will be cancelled."
+   ],
+   "brief": [
+    "Mijem Newcomm Tech Inc. (CSE: MJEM.X) said Oct. 19 it will offer up to 6,000,000 units in a non-brokered private placement at $0.05 per unit, for gross proceeds of up to $300,000. Each unit comprises one common share and one warrant.",
+    "The warrants are exercisable at $0.05 for 36 months following closing. Combined with the shares, the offering could result in the issuance of up to 12,000,000 common shares if the warrants are exercised in full. Closing is expected on or about November 30, 2026, and may occur in one or more tranches, subject to regulatory approvals including acceptance by the CSE.",
+    "Because the offering could result in the issuance of more than 100% of the company's outstanding securities, Mijem said it must obtain shareholder approval for the warrants at its next shareholder meeting; the warrants will be cancelled if that approval is not obtained. The company said net proceeds will be used for working capital."
+   ]
+  },
+  {
+   "slug": "canada-s-cpi-rises-3-1-in-september-on-energy-prices",
+   "url": "https://www.cmbulletin.com/posts/canada-s-cpi-rises-3-1-in-september-on-energy-prices.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/canada-s-cpi-rises-3-1-in-september-on-energy-prices.json",
+   "date": "2026-10-20T12:34:57Z",
+   "headline": "Canada's CPI rises 3.1% in September on energy prices",
+   "dek": "Statistics Canada said energy and gasoline prices drove the acceleration from August's 3.0% annual pace, even as food inflation eased to its slowest pace since mid-2024.",
+   "caption": "Statistics Canada reported the Consumer Price Index rose 3.1% year over year in September 2026, driven mainly by gasoline and energy prices.",
+   "sections": [
+    "markets"
+   ],
+   "tags": [
+    "Macro",
+    "Inflation",
+    "Canada"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/canada-s-cpi-rises-3-1-in-september-on-energy-prices.png",
+   "source_name": "Statistics Canada — The Daily",
+   "sources": [
+    {
+     "title": "Consumer Price Index, September 2026",
+     "url": "https://www.statcan.gc.ca/daily-quotidien/261019/dq261019a-eng.htm",
+     "publisher": "Statistics Canada — The Daily"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Statistics Canada said the Consumer Price Index rose 3.1% year over year in September, up from a 3.0% increase in August. On a monthly basis, the index rose 0.1% unadjusted, or 0.4% on a seasonally adjusted basis.",
+    "The agency said energy prices led the acceleration, with crude oil increasing in September to its highest level since May \"amid ongoing uncertainty about the wars in the Middle East.\" Gasoline prices rose 27.8% year over year, up from 22.8% in August. Excluding gasoline, the CPI rose 2.2%, down from 2.4% the prior month.",
+    "Statistics Canada said food purchased from stores rose 1.7% year over year, the smallest increase since May 2024, while shelter costs rose 1.8%, up from 1.5% in August, which it tied to higher fuel oil costs and homeowners' insurance. The agency said five provinces saw faster price growth, mostly tied to gasoline and fuel oil costs."
+   ]
+  },
+  {
+   "slug": "gunnison-copper-s-adrs-set-to-trade-on-nyse-american",
+   "url": "https://www.cmbulletin.com/posts/gunnison-copper-s-adrs-set-to-trade-on-nyse-american.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/gunnison-copper-s-adrs-set-to-trade-on-nyse-american.json",
+   "date": "2026-10-20T12:34:57Z",
+   "headline": "Gunnison Copper's ADRs set to trade on NYSE American",
+   "dek": "The Level II depositary receipt program begins trading October 26 under 'GUNN,' with no new shares issued and no capital raised through the listing.",
+   "caption": "Gunnison Copper's American Depositary Receipts are set to begin trading on the NYSE American under the ticker \"GUNN\" on October 26.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Copper",
+    "Listing"
+   ],
+   "tickers": [
+    "NYSE AMERICAN:GUNN",
+    "TSX:GCU"
+   ],
+   "image": "https://www.cmbulletin.com/images/gunnison-copper-s-adrs-set-to-trade-on-nyse-american.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Gunnison Copper to Commence Trading on NYSE American October 26, 2026, Under Ticker Symbol \"GUNN\"",
+     "url": "https://investingnews.com/gunnison-copper-to-commence-trading-on-nyse-american-october-26-2026-under-ticker-symbol-gunn/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The preliminary economic assessment figures (NPV, IRR, payback period) are the company's own citation of a March 2026 technical report and have not been independently verified.",
+    "The stated resource tonnage and grade for the Gunnison Copper Project come from the company's own release and corresponding technical report."
+   ],
+   "brief": [
+    "Gunnison Copper Corp. (TSX: GCU) said its American Depositary Receipts are expected to begin trading on the NYSE American under the ticker \"GUNN\" at the opening on or about Monday, October 26, 2026. Each ADR represents 30 common shares under a Level II ADR program, with The Bank of New York Mellon as depositary.",
+    "Starting October 23, 2026, U.S. shareholders may convert common shares into ADRs through BNY. The company said the program does not constitute a new offering of securities: no additional shares are being issued and no capital is being raised through the listing. Gunnison's shares continue trading on the TSX, OTCQB and Frankfurt Stock Exchange.",
+    "The listing remains subject to the effectiveness of the company's registration statement with the U.S. Securities and Exchange Commission and final exchange approvals, Gunnison said. The release did not give a date by which that registration statement is expected to become effective."
+   ]
+  },
   {
    "slug": "wescan-brings-third-provost-well-into-production",
    "url": "https://www.cmbulletin.com/posts/wescan-brings-third-provost-well-into-production.html",
