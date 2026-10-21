@@ -1,149 +1,192 @@
 {
  "api": "v1",
- "generated_at": "2026-10-20T12:58:19Z",
+ "generated_at": "2026-10-21T12:50:46Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-20",
- "count": 3,
+ "issue_date": "2026-10-21",
+ "count": 4,
  "entries": [
   {
-   "slug": "mijem-newcomm-tech-launches-up-to-300-000-placement",
-   "url": "https://www.cmbulletin.com/posts/mijem-newcomm-tech-launches-up-to-300-000-placement.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/mijem-newcomm-tech-launches-up-to-300-000-placement.json",
-   "date": "2026-10-20T12:34:57Z",
-   "headline": "Mijem Newcomm Tech launches up to $300,000 placement",
-   "dek": "The CSE-listed company's non-brokered offering carries three-year warrants that need shareholder approval before they can be issued.",
-   "caption": "Mijem Newcomm Tech Inc. has launched a non-brokered private placement of up to $300,000, expected to close on or about November 30.",
+   "slug": "redwood-ai-special-warrants-trigger-deadline-penalty",
+   "url": "https://www.cmbulletin.com/posts/redwood-ai-special-warrants-trigger-deadline-penalty.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/redwood-ai-special-warrants-trigger-deadline-penalty.json",
+   "date": "2026-10-21T12:31:07Z",
+   "headline": "Redwood AI special warrants trigger deadline penalty",
+   "dek": "Missing a 90-day filing deadline raises the units issuable under the company's $3.5 million special warrant financing by 10 percent.",
+   "caption": "A warrant's fine print proves costly as Redwood AI's missed filing deadline increases the units owed to special warrant holders.",
    "sections": [
-    "tech"
+    "financings"
    ],
    "tags": [
-    "Technology",
     "Financing",
-    "CSE"
+    "CSE",
+    "Warrants"
    ],
    "tickers": [
-    "CSE:MJEM.X"
+    "CSE:AIRX",
+    "OTCQB:RDWCF"
    ],
-   "image": "https://www.cmbulletin.com/images/mijem-newcomm-tech-launches-up-to-300-000-placement.png",
-   "source_name": "Newsfile Corp",
+   "image": "https://www.cmbulletin.com/images/redwood-ai-special-warrants-trigger-deadline-penalty.png",
+   "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Mijem Announces Non-Brokered Private Placement of up to $300,000",
-     "url": "https://www.newsfilecorp.com/release/319779/Mijem-Announces-NonBrokered-Private-Placement-of-up-to-300000",
-     "publisher": "Newsfile Corp"
-    },
-    {
-     "title": "Mijem Newcomm Tech Initiates Non-Brokered Private Placement to Raise $300,000",
-     "url": "https://kalkinemedia.com/ca/news/announcements/mijem-newcomm-tech-initiates-non-brokered-private-placement-to-raise-300000",
-     "publisher": "Kalkine Media — Canada"
+     "title": "Redwood AI Provides Update on Special Warrant Financing",
+     "url": "https://thenewswire.com/press-releases/1LaPFK1E1-redwood-ai-provides-update-on-special-warrant-financing.html",
+     "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The expected closing date of on or about November 30, 2026 is the company's own estimate and the offering may close in tranches on a different schedule.",
-    "Whether shareholder approval for the warrants will be obtained has not been determined; the release states only that unapproved warrants will be cancelled."
+    "The original special warrant financing's closing, gross proceeds, and the reason the prospectus supplement deadline was missed are stated only in the company's own release."
    ],
    "brief": [
-    "Mijem Newcomm Tech Inc. (CSE: MJEM.X) said Oct. 19 it will offer up to 6,000,000 units in a non-brokered private placement at $0.05 per unit, for gross proceeds of up to $300,000. Each unit comprises one common share and one warrant.",
-    "The warrants are exercisable at $0.05 for 36 months following closing. Combined with the shares, the offering could result in the issuance of up to 12,000,000 common shares if the warrants are exercised in full. Closing is expected on or about November 30, 2026, and may occur in one or more tranches, subject to regulatory approvals including acceptance by the CSE.",
-    "Because the offering could result in the issuance of more than 100% of the company's outstanding securities, Mijem said it must obtain shareholder approval for the warrants at its next shareholder meeting; the warrants will be cancelled if that approval is not obtained. The company said net proceeds will be used for working capital."
+    "Redwood AI Corp. (CSE: AIRX) said it did not meet the 90-day deadline to file a prospectus supplement qualifying the distribution of units issuable under its special warrant financing, which closed July 21, 2026. The brokered private placement of 1,663,000 special warrants raised approximately $3.5 million in gross proceeds, with Maxim Group LLC acting as exclusive placement agent.",
+    "Under the terms of the special warrants and the agency agreement dated July 16, 2026, missing that deadline triggers a penalty: the number of units issuable per special warrant rises from 1.00 to 1.10, for no additional consideration, taking the total units issuable to 1,829,300 from 1,663,000. Each unit comprises one common share and one warrant exercisable at $2.48 for 60 months.",
+    "The units will issue on the earlier of the company filing the prospectus supplement or November 22, 2026, the release said. It gives no further timeline for when a prospectus supplement might be filed."
    ],
    "body": [
-    "Mijem Newcomm Tech Inc. (CSE: MJEM.X) said Oct. 19, 2026 that it will offer up to 6,000,000 units in a non-brokered private placement at $0.05 per unit, for gross proceeds of up to $300,000. Each unit comprises one common share and one common share purchase warrant.",
-    "The warrants are exercisable at $0.05 per share for 36 months following the closing date. Taken together with the shares in each unit, the offering could result in the issuance of up to 12,000,000 common shares on a fully diluted basis if all warrants are exercised. The release did not state the company's current number of shares outstanding.",
-    "The company said the offering is expected to close on or about November 30, 2026, and may close in one or more tranches, subject to the receipt of all necessary regulatory approvals, including acceptance by the Canadian Securities Exchange.",
-    "Mijem said that because the offering could result in the issuance of more than 100% of its total outstanding securities, CSE Policy 4.6(2)(a) requires the company to obtain shareholder approval for the issuance of the warrants at its next shareholder meeting. If that approval is not obtained, the warrants will be cancelled.",
-    "All securities issued under the offering will be subject to a statutory hold period expiring four months and one day after issuance, in accordance with Canadian securities law, the company said. It said net proceeds from the offering will be used for working capital.",
-    "The release did not describe Mijem's business, name any participating investors, or state whether any insiders are subscribing. It also gave no agent or finder, consistent with a non-brokered offering."
+    "Redwood AI Corp. (CSE: AIRX) (OTCQB: RDWCF) (Frankfurt: Y0N, WKN: A422EZ) said in an October 20, 2026 release that it did not meet the 90-day deadline to file a prospectus supplement qualifying the distribution of units issuable upon deemed exercise of the special warrants issued in its special warrant financing. The brokered private placement of 1,663,000 special warrants closed July 21, 2026 for aggregate gross proceeds of approximately $3.5 million, with Maxim Group LLC acting as exclusive placement agent.",
+    "The 90-day deadline, which the release calls the Penalty Deadline, was set under the terms of the special warrants and an agency agreement between Redwood and Maxim dated July 16, 2026, entered into in connection with the offering. A special warrant of this kind converts into units of the company once a prospectus qualifying the underlying securities is filed, or on a backstop date if it is not; missing the filing deadline activates a penalty built into the warrant's own terms.",
+    "That penalty increases the number of units issuable on deemed exercise of each special warrant from 1.00 to 1.10, for no additional consideration, the release said. Applied across the 1,663,000 special warrants outstanding, the total units issuable rises to 1,829,300 from 1,663,000, an increase of 166,300 units.",
+    "Each unit comprises one common share of Redwood and one warrant exercisable at $2.48 per share for 60 months, according to the release. The units will be issued on the earlier of Redwood filing the prospectus supplement or November 22, 2026.",
+    "The release does not state a revised date by which Redwood expects to file the prospectus supplement, nor does it give a reason the original deadline was missed.",
+    "No further transaction step beyond the November 22, 2026 backstop date for deemed exercise is described in the release."
    ]
   },
   {
-   "slug": "canada-s-cpi-rises-3-1-in-september-on-energy-prices",
-   "url": "https://www.cmbulletin.com/posts/canada-s-cpi-rises-3-1-in-september-on-energy-prices.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/canada-s-cpi-rises-3-1-in-september-on-energy-prices.json",
-   "date": "2026-10-20T12:34:57Z",
-   "headline": "Canada's CPI rises 3.1% in September on energy prices",
-   "dek": "Statistics Canada said energy and gasoline prices drove the acceleration from August's 3.0% annual pace, even as food inflation eased to its slowest pace since mid-2024.",
-   "caption": "Statistics Canada reported the Consumer Price Index rose 3.1% year over year in September 2026, driven mainly by gasoline and energy prices.",
-   "sections": [
-    "markets"
-   ],
-   "tags": [
-    "Macro",
-    "Inflation",
-    "Canada"
-   ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/canada-s-cpi-rises-3-1-in-september-on-energy-prices.png",
-   "source_name": "Statistics Canada — The Daily",
-   "sources": [
-    {
-     "title": "Consumer Price Index, September 2026",
-     "url": "https://www.statcan.gc.ca/daily-quotidien/261019/dq261019a-eng.htm",
-     "publisher": "Statistics Canada — The Daily"
-    }
-   ],
-   "unverified_claims": [],
-   "brief": [
-    "Statistics Canada said the Consumer Price Index rose 3.1% year over year in September, up from a 3.0% increase in August. On a monthly basis, the index rose 0.1% unadjusted, or 0.4% on a seasonally adjusted basis.",
-    "The agency said energy prices led the acceleration, with crude oil increasing in September to its highest level since May \"amid ongoing uncertainty about the wars in the Middle East.\" Gasoline prices rose 27.8% year over year, up from 22.8% in August. Excluding gasoline, the CPI rose 2.2%, down from 2.4% the prior month.",
-    "Statistics Canada said food purchased from stores rose 1.7% year over year, the smallest increase since May 2024, while shelter costs rose 1.8%, up from 1.5% in August, which it tied to higher fuel oil costs and homeowners' insurance. The agency said five provinces saw faster price growth, mostly tied to gasoline and fuel oil costs."
-   ],
-   "body": [
-    "Statistics Canada said the Consumer Price Index rose 3.1% year over year in September 2026, up from a 3.0% increase in August. On a monthly basis the index rose 0.1% on an unadjusted basis, or 0.4% on a seasonally adjusted basis.",
-    "The agency said energy prices led the September acceleration. It said crude oil prices increased during the month, reaching their highest level since May, \"amid ongoing uncertainty about the wars in the Middle East.\" Gasoline prices rose 27.8% year over year in September, up from a 22.8% increase in August. Energy prices overall rose 19.0% year over year, compared with 15.4% in August.",
-    "Excluding gasoline, the CPI rose 2.2% year over year in September, down from 2.4% in August.",
-    "The agency said transportation costs, which include gasoline, rose 8.4% year over year in September. Prices for food purchased from stores rose 1.7% year over year, after increasing 2.8% in August, which it said was the smallest yearly increase in that category since May 2024.",
-    "Shelter prices rose 1.8% year over year in September, up from 1.5% in August, which the agency attributed to higher fuel oil costs and increases in homeowners' insurance.",
-    "Statistics Canada said five provinces experienced faster price growth in September, primarily due to elevated gasoline and fuel oil costs, and that Atlantic Canada showed notably higher inflation when energy costs were excluded from the regional comparison."
-   ]
-  },
-  {
-   "slug": "gunnison-copper-s-adrs-set-to-trade-on-nyse-american",
-   "url": "https://www.cmbulletin.com/posts/gunnison-copper-s-adrs-set-to-trade-on-nyse-american.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/gunnison-copper-s-adrs-set-to-trade-on-nyse-american.json",
-   "date": "2026-10-20T12:34:57Z",
-   "headline": "Gunnison Copper's ADRs set to trade on NYSE American",
-   "dek": "The Level II depositary receipt program begins trading October 26 under 'GUNN,' with no new shares issued and no capital raised through the listing.",
-   "caption": "Gunnison Copper's American Depositary Receipts are set to begin trading on the NYSE American under the ticker \"GUNN\" on October 26.",
+   "slug": "noble-mineral-closes-lucas-gold-project-purchase",
+   "url": "https://www.cmbulletin.com/posts/noble-mineral-closes-lucas-gold-project-purchase.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/noble-mineral-closes-lucas-gold-project-purchase.json",
+   "date": "2026-10-21T12:31:07Z",
+   "headline": "Noble Mineral closes Lucas Gold Project purchase",
+   "dek": "The TSX Venture-listed explorer closed its acquisition of the project from Canada Nickel Company and separately received exchange final acceptance for the transactions.",
+   "caption": "A remote drill site marks the exploration ground Noble Mineral Exploration now controls after closing its purchase from Canada Nickel.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
-    "Copper",
-    "Listing"
+    "M&A",
+    "Gold"
    ],
    "tickers": [
-    "NYSE AMERICAN:GUNN",
-    "TSX:GCU"
+    "TSXV:NOB",
+    "OTCQB:NLPXF"
    ],
-   "image": "https://www.cmbulletin.com/images/gunnison-copper-s-adrs-set-to-trade-on-nyse-american.png",
-   "source_name": "Investing News Network — Resource Investing",
+   "image": "https://www.cmbulletin.com/images/noble-mineral-closes-lucas-gold-project-purchase.png",
+   "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Gunnison Copper to Commence Trading on NYSE American October 26, 2026, Under Ticker Symbol \"GUNN\"",
-     "url": "https://investingnews.com/gunnison-copper-to-commence-trading-on-nyse-american-october-26-2026-under-ticker-symbol-gunn/",
-     "publisher": "Investing News Network — Resource Investing"
+     "title": "Noble Mineral Exploration Acquires Lucas Gold Project From Canada Nickel Company",
+     "url": "https://thenewswire.com/press-releases/1k3wFNxEP-noble-mineral-exploration-acquires-lucas-gold-project-from-canada-nickel-company.html",
+     "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The preliminary economic assessment figures (NPV, IRR, payback period) are the company's own citation of a March 2026 technical report and have not been independently verified.",
-    "The stated resource tonnage and grade for the Gunnison Copper Project come from the company's own release and corresponding technical report."
+    "The purchase agreement's terms, including any consideration paid for the Lucas Gold Project, are not disclosed in this release and are described only in Noble's September 17, 2026 release."
    ],
    "brief": [
-    "Gunnison Copper Corp. (TSX: GCU) said its American Depositary Receipts are expected to begin trading on the NYSE American under the ticker \"GUNN\" at the opening on or about Monday, October 26, 2026. Each ADR represents 30 common shares under a Level II ADR program, with The Bank of New York Mellon as depositary.",
-    "Starting October 23, 2026, U.S. shareholders may convert common shares into ADRs through BNY. The company said the program does not constitute a new offering of securities: no additional shares are being issued and no capital is being raised through the listing. Gunnison's shares continue trading on the TSX, OTCQB and Frankfurt Stock Exchange.",
-    "The listing remains subject to the effectiveness of the company's registration statement with the U.S. Securities and Exchange Commission and final exchange approvals, Gunnison said. The release did not give a date by which that registration statement is expected to become effective."
+    "Noble Mineral Exploration Inc. (TSX-V: NOB) said it has closed the transactions under its Purchase Agreement with Canada Nickel Company Inc. to acquire the Lucas Gold Project, the company announced October 21, 2026. The transactions were previously announced in Noble's news releases of July 13 and September 17, 2026.",
+    "Noble said it has received final acceptance from the TSX Venture Exchange for the transactions under the agreement. The release does not restate the main terms and conditions of the Purchase Agreement or describe the Lucas Gold Project, directing readers instead to its September 17, 2026 release for those details.",
+    "The October 21 release gives no information on the project's location, size or planned work, nor on any consideration paid or use of proceeds. It confirms only that the acquisition has closed and that exchange approval has been obtained."
    ],
    "body": [
-    "Gunnison Copper Corp. (TSX: GCU, OTC: GCUMF, FSE: 3XS0) said its American Depositary Receipts are expected to commence trading on the NYSE American under the ticker symbol \"GUNN\" at the opening of trading on or about Monday, October 26, 2026. The listing is subject to the effectiveness of the company's registration statement with the U.S. Securities and Exchange Commission and final exchange approvals, the company said.",
-    "Each ADR will represent thirty common shares of Gunnison, under a Level II ADR program with The Bank of New York Mellon acting as depositary bank. A Level II program allows a foreign company's existing shares to trade on a U.S. national exchange through depositary receipts, without the company raising new capital in the process.",
-    "Starting October 23, 2026, United States shareholders may convert their Gunnison common shares into ADRs through BNY. The company said explicitly that the ADR program does not constitute a new offering of securities, and that no additional common shares are being issued and no capital is being raised in connection with the NYSE American listing.",
-    "Gunnison's shares will continue to trade on the Toronto Stock Exchange, the OTCQB market and the Frankfurt Stock Exchange alongside the new U.S. listing. The release described Gunnison as a multi-asset copper developer and producer controlling the Cochise Mining District in Arizona.",
-    "The company's flagship Gunnison Copper Project carries a measured and indicated mineral resource in its main pit of more than 846 million tons at a copper grade of 0.33%, containing 5.19 billion pounds of copper, according to the release. A preliminary economic assessment completed in March 2026 for the project estimated an after-tax net present value, at an 8% discount rate, of $2 billion, an internal rate of return of 23% and a payback period of 3.9 years; full detail is in a technical report titled \"Gunnison Project NI 43-101 Technical Report, Preliminary Economic Assessment, Cochise County, Arizona, USA,\" with an effective date of March 18, 2026, filed on SEDAR+.",
-    "Gunnison's Johnson Camp Mine is currently producing finished copper cathode through an on-site SX/EW facility, which the company said is fully funded by Nuton LLC, a Rio Tinto venture, with capacity of up to 25 million pounds of finished copper cathode annually. The release said Gunnison is supplying copper from that operation to the U.S. defense sector and to Amazon Web Services."
+    "Noble Mineral Exploration Inc. (TSX-V: NOB) (FRANKFURT: NB7) (OTCQB: NLPXF) announced October 21, 2026 that it has closed the transactions under a Purchase Agreement with Canada Nickel Company Inc., under which Noble acquires the Lucas Gold Project. The transactions were previously announced in Noble's news releases dated July 13, 2026 and September 17, 2026.",
+    "The company said Noble has received final acceptance from the TSX Venture Exchange for the transactions under the agreement. No further conditions or approvals are described in this announcement.",
+    "For the main terms and conditions of the Purchase Agreement and a description of the Lucas Gold Project, the release directs readers to the news release Noble issued on September 17, 2026, rather than restating them here.",
+    "This announcement discloses no purchase price, share or cash consideration, royalty, or other transaction term, and gives no description of the project's location, size, geology or exploration history. It states no use of proceeds and no next procedural step beyond the exchange acceptance already obtained.",
+    "Noble describes itself, in the release's standard company description, as a Canadian-based junior exploration company that holds securities in Canada Nickel Company Inc., among other listed holdings. The release lists H. Vance White, President, as the contact for further information.",
+    "Taken together, the two releases Noble points to — October 21 confirming closing and exchange acceptance, and September 17 setting out the terms — mean a reader following only today's announcement sees confirmation that a previously announced acquisition has completed, without the underlying deal terms restated in the same document."
+   ]
+  },
+  {
+   "slug": "m-i-homes-reports-lower-third-quarter-revenue-profit",
+   "url": "https://www.cmbulletin.com/posts/m-i-homes-reports-lower-third-quarter-revenue-profit.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/m-i-homes-reports-lower-third-quarter-revenue-profit.json",
+   "date": "2026-10-21T12:31:07Z",
+   "headline": "M/I Homes reports lower third-quarter revenue, profit",
+   "dek": "The homebuilder's net income fell to $66.6 million on revenue of $1.076 billion as new contracts and deliveries each declined 2% from a year earlier.",
+   "caption": "Framed homes stand under grey skies as M/I Homes reports third-quarter revenue and profit lower than a year earlier.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Earnings",
+    "Homebuilding",
+    "Results"
+   ],
+   "tickers": [
+    "NYSE:MHO"
+   ],
+   "image": "https://www.cmbulletin.com/images/m-i-homes-reports-lower-third-quarter-revenue-profit.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "M/I Homes Reports 2026 Third Quarter Results",
+     "url": "https://www.prnewswire.com/news-releases/mi-homes-reports-2026-third-quarter-results-302914531.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization of market conditions and the company's competitive position is the view of CEO Robert H. Schottenstein as stated in the release, not an independent assessment."
+   ],
+   "brief": [
+    "M/I Homes, Inc. (NYSE: MHO) reported third-quarter 2026 revenue of $1.076 billion, down 5% from $1.132 billion a year earlier, and net income of $66.6 million, or $2.56 per diluted share, compared with $106.5 million, or $3.92 per share, in the third quarter of 2025.",
+    "Pre-tax income was $86.9 million, down 38% from $139.8 million, and included $4.7 million of inventory charges; gross margin was 20.9%, or 21.3% excluding those charges. New contracts fell 2% to 1,861 and homes delivered fell 2% to 2,241, at an average closing price of $460,000. The cancellation rate was 12%.",
+    "Chief executive Robert H. Schottenstein said the quarter's results reflect 'increasingly difficult market conditions, including higher mortgage interest rates, weaker demand and growing economic uncertainty.' He said the company remains 'well positioned to manage through this current cycle' given its balance sheet and low debt levels. It repurchased $50 million of shares in the quarter."
+   ],
+   "body": [
+    "M/I Homes, Inc. (NYSE: MHO), the Columbus, Ohio-based homebuilder marking its 50th anniversary in 2026, reported results for the three and nine months ended September 30, 2026. Third-quarter revenue was $1.076 billion, down 5% from $1.132 billion a year earlier. Net income was $66.6 million, or $2.56 per diluted share, against $106.5 million, or $3.92 per share, in the third quarter of 2025.",
+    "Pre-tax income for the quarter was $86.9 million, down 38% from $139.8 million, a decline the company tied in part to $4.7 million of pre-tax inventory charges taken in the quarter, against $8.9 million for the first nine months. Gross margin was 20.9% as reported and 21.3% excluding the inventory charges.",
+    "New contracts for the quarter fell 2% to 1,861 and homes delivered fell 2% to 2,241, at an average closing price of $460,000, with a cancellation rate of 12%. For the nine months, homes delivered fell 4% to 6,361 while new contracts rose 5% to 6,598, against 6,620 and 6,278, respectively, a year earlier.",
+    "The company's backlog stood at 2,046 homes at September 30, 2026, down 7% from a year earlier, with a sales value of $1.103 billion, down 9%, and an average sales price of $539,000. M/I Homes operated 246 communities at quarter-end, up from 233 a year earlier.",
+    "The company reported shareholders' equity of $3.3 billion and book value of $130 per share, both company records, along with $621 million of cash and equivalents, a homebuilding debt-to-capital ratio of 18%, a net debt-to-capital ratio of 2%, and zero borrowings outstanding on its $900 million credit facility. M/I Homes repurchased $50 million of its shares during the quarter.",
+    "For the nine months ended September 30, 2026, pre-tax income was $280.6 million, against $446.0 million a year earlier, and net income was $213.5 million, or $8.14 per diluted share, against $339.0 million, or $12.32 per share, in the first nine months of 2025.",
+    "Chief executive Robert H. Schottenstein said the quarter's results 'reflect increasingly difficult market conditions, including higher mortgage interest rates, weaker demand and growing economic uncertainty,' adding that the company is 'well positioned to manage through this current cycle given the strength of our balance sheet, low debt levels, diverse product offerings and well-located communities.'",
+    "The company said it will hold a conference call on October 21, 2026 at 10:30 a.m. ET to discuss the results. The release includes no forward guidance for the fourth quarter or full year beyond the comments attributed to Schottenstein."
+   ]
+  },
+  {
+   "slug": "china-sxt-ends-additional-share-purchase-right",
+   "url": "https://www.cmbulletin.com/posts/china-sxt-ends-additional-share-purchase-right.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/china-sxt-ends-additional-share-purchase-right.json",
+   "date": "2026-10-21T12:31:07Z",
+   "headline": "China SXT ends additional share purchase right",
+   "dek": "The Nasdaq company and the purchasers in its October 8 offering agreed to terminate a right to buy up to $12 million more shares or warrants.",
+   "caption": "A corporate filing closes a narrow financing option as China SXT Pharmaceuticals confirms no further share purchases under its October offering.",
+   "sections": [
+    "financings"
+   ],
+   "tags": [
+    "Financing",
+    "Nasdaq",
+    "Regulatory"
+   ],
+   "tickers": [
+    "NASDAQ:SXTC"
+   ],
+   "image": "https://www.cmbulletin.com/images/china-sxt-ends-additional-share-purchase-right.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "China SXT Pharmaceuticals Inc Announces Termination of Additional Purchase Right",
+     "url": "https://www.prnewswire.com/news-releases/china-sxt-pharmaceuticals-inc-announces-termination-of-additional-purchase-right-302915380.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "China SXT Pharmaceuticals Inc. (NASDAQ: SXTC) said it has entered a termination letter agreement with the purchasers in its registered direct offering announced October 8, 2026. The agreement ends the purchasers' additional purchase right under Section 2.4 of the securities purchase agreement governing that offering.",
+    "That right had allowed the purchasers to buy up to $12 million of Class A ordinary shares, pre-funded warrants, or both, within a 30-day window following the offering's closing. Under the termination agreement, the company said the purchasers no longer have any right, claim or entitlement to make an additional purchase under that section.",
+    "The company said every other provision of the securities purchase agreement remains in effect, and the securities already issued in the offering are unaffected. The release does not state why the parties agreed to the termination or give any further timeline."
+   ],
+   "body": [
+    "China SXT Pharmaceuticals Inc. (NASDAQ: SXTC), based in Taizhou, China, announced October 21, 2026 that it has entered into a termination letter agreement with the purchasers in its registered direct offering announced October 8, 2026. The agreement, the company said, terminates the purchasers' additional purchase right contained in Section 2.4 of the securities purchase agreement that governed the offering.",
+    "Under the original securities purchase agreement, that right had entitled the purchasers to buy up to $12 million of the company's Class A ordinary shares, pre-funded warrants, or a combination of the two, exercisable within a 30-day period following the offering's closing. A right of this kind gives investors in a financing a window to increase their position on terms already fixed in the initial agreement.",
+    "With the termination letter agreement now in place, the company said the purchasers 'no longer have any right, claim or entitlement to make an additional purchase' under that section of the agreement. The release states that provision is the one affected by the termination.",
+    "The company said all other provisions of the securities purchase agreement remain in full force and effect, and that the shares and any other securities already issued to purchasers under the October 8 offering are not affected by the termination.",
+    "This announcement does not restate the gross proceeds, share count or pricing of the October 8 offering, nor does it state a reason the purchasers and the company agreed to terminate the additional purchase right.",
+    "There is no stated use of proceeds or further procedural step in this release. It is limited to confirming the termination of the Section 2.4 right and that the securities purchase agreement's other provisions continue to apply."
    ]
   }
  ]

@@ -1,11 +1,159 @@
 {
  "api": "v1",
- "generated_at": "2026-10-20T12:58:19Z",
+ "generated_at": "2026-10-21T12:50:46Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 74,
+ "count": 78,
  "entries": [
+  {
+   "slug": "redwood-ai-special-warrants-trigger-deadline-penalty",
+   "url": "https://www.cmbulletin.com/posts/redwood-ai-special-warrants-trigger-deadline-penalty.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/redwood-ai-special-warrants-trigger-deadline-penalty.json",
+   "date": "2026-10-21T12:31:07Z",
+   "headline": "Redwood AI special warrants trigger deadline penalty",
+   "dek": "Missing a 90-day filing deadline raises the units issuable under the company's $3.5 million special warrant financing by 10 percent.",
+   "caption": "A warrant's fine print proves costly as Redwood AI's missed filing deadline increases the units owed to special warrant holders.",
+   "sections": [
+    "financings"
+   ],
+   "tags": [
+    "Financing",
+    "CSE",
+    "Warrants"
+   ],
+   "tickers": [
+    "CSE:AIRX",
+    "OTCQB:RDWCF"
+   ],
+   "image": "https://www.cmbulletin.com/images/redwood-ai-special-warrants-trigger-deadline-penalty.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Redwood AI Provides Update on Special Warrant Financing",
+     "url": "https://thenewswire.com/press-releases/1LaPFK1E1-redwood-ai-provides-update-on-special-warrant-financing.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The original special warrant financing's closing, gross proceeds, and the reason the prospectus supplement deadline was missed are stated only in the company's own release."
+   ],
+   "brief": [
+    "Redwood AI Corp. (CSE: AIRX) said it did not meet the 90-day deadline to file a prospectus supplement qualifying the distribution of units issuable under its special warrant financing, which closed July 21, 2026. The brokered private placement of 1,663,000 special warrants raised approximately $3.5 million in gross proceeds, with Maxim Group LLC acting as exclusive placement agent.",
+    "Under the terms of the special warrants and the agency agreement dated July 16, 2026, missing that deadline triggers a penalty: the number of units issuable per special warrant rises from 1.00 to 1.10, for no additional consideration, taking the total units issuable to 1,829,300 from 1,663,000. Each unit comprises one common share and one warrant exercisable at $2.48 for 60 months.",
+    "The units will issue on the earlier of the company filing the prospectus supplement or November 22, 2026, the release said. It gives no further timeline for when a prospectus supplement might be filed."
+   ]
+  },
+  {
+   "slug": "noble-mineral-closes-lucas-gold-project-purchase",
+   "url": "https://www.cmbulletin.com/posts/noble-mineral-closes-lucas-gold-project-purchase.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/noble-mineral-closes-lucas-gold-project-purchase.json",
+   "date": "2026-10-21T12:31:07Z",
+   "headline": "Noble Mineral closes Lucas Gold Project purchase",
+   "dek": "The TSX Venture-listed explorer closed its acquisition of the project from Canada Nickel Company and separately received exchange final acceptance for the transactions.",
+   "caption": "A remote drill site marks the exploration ground Noble Mineral Exploration now controls after closing its purchase from Canada Nickel.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "M&A",
+    "Gold"
+   ],
+   "tickers": [
+    "TSXV:NOB",
+    "OTCQB:NLPXF"
+   ],
+   "image": "https://www.cmbulletin.com/images/noble-mineral-closes-lucas-gold-project-purchase.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Noble Mineral Exploration Acquires Lucas Gold Project From Canada Nickel Company",
+     "url": "https://thenewswire.com/press-releases/1k3wFNxEP-noble-mineral-exploration-acquires-lucas-gold-project-from-canada-nickel-company.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The purchase agreement's terms, including any consideration paid for the Lucas Gold Project, are not disclosed in this release and are described only in Noble's September 17, 2026 release."
+   ],
+   "brief": [
+    "Noble Mineral Exploration Inc. (TSX-V: NOB) said it has closed the transactions under its Purchase Agreement with Canada Nickel Company Inc. to acquire the Lucas Gold Project, the company announced October 21, 2026. The transactions were previously announced in Noble's news releases of July 13 and September 17, 2026.",
+    "Noble said it has received final acceptance from the TSX Venture Exchange for the transactions under the agreement. The release does not restate the main terms and conditions of the Purchase Agreement or describe the Lucas Gold Project, directing readers instead to its September 17, 2026 release for those details.",
+    "The October 21 release gives no information on the project's location, size or planned work, nor on any consideration paid or use of proceeds. It confirms only that the acquisition has closed and that exchange approval has been obtained."
+   ]
+  },
+  {
+   "slug": "m-i-homes-reports-lower-third-quarter-revenue-profit",
+   "url": "https://www.cmbulletin.com/posts/m-i-homes-reports-lower-third-quarter-revenue-profit.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/m-i-homes-reports-lower-third-quarter-revenue-profit.json",
+   "date": "2026-10-21T12:31:07Z",
+   "headline": "M/I Homes reports lower third-quarter revenue, profit",
+   "dek": "The homebuilder's net income fell to $66.6 million on revenue of $1.076 billion as new contracts and deliveries each declined 2% from a year earlier.",
+   "caption": "Framed homes stand under grey skies as M/I Homes reports third-quarter revenue and profit lower than a year earlier.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Earnings",
+    "Homebuilding",
+    "Results"
+   ],
+   "tickers": [
+    "NYSE:MHO"
+   ],
+   "image": "https://www.cmbulletin.com/images/m-i-homes-reports-lower-third-quarter-revenue-profit.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "M/I Homes Reports 2026 Third Quarter Results",
+     "url": "https://www.prnewswire.com/news-releases/mi-homes-reports-2026-third-quarter-results-302914531.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization of market conditions and the company's competitive position is the view of CEO Robert H. Schottenstein as stated in the release, not an independent assessment."
+   ],
+   "brief": [
+    "M/I Homes, Inc. (NYSE: MHO) reported third-quarter 2026 revenue of $1.076 billion, down 5% from $1.132 billion a year earlier, and net income of $66.6 million, or $2.56 per diluted share, compared with $106.5 million, or $3.92 per share, in the third quarter of 2025.",
+    "Pre-tax income was $86.9 million, down 38% from $139.8 million, and included $4.7 million of inventory charges; gross margin was 20.9%, or 21.3% excluding those charges. New contracts fell 2% to 1,861 and homes delivered fell 2% to 2,241, at an average closing price of $460,000. The cancellation rate was 12%.",
+    "Chief executive Robert H. Schottenstein said the quarter's results reflect 'increasingly difficult market conditions, including higher mortgage interest rates, weaker demand and growing economic uncertainty.' He said the company remains 'well positioned to manage through this current cycle' given its balance sheet and low debt levels. It repurchased $50 million of shares in the quarter."
+   ]
+  },
+  {
+   "slug": "china-sxt-ends-additional-share-purchase-right",
+   "url": "https://www.cmbulletin.com/posts/china-sxt-ends-additional-share-purchase-right.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/china-sxt-ends-additional-share-purchase-right.json",
+   "date": "2026-10-21T12:31:07Z",
+   "headline": "China SXT ends additional share purchase right",
+   "dek": "The Nasdaq company and the purchasers in its October 8 offering agreed to terminate a right to buy up to $12 million more shares or warrants.",
+   "caption": "A corporate filing closes a narrow financing option as China SXT Pharmaceuticals confirms no further share purchases under its October offering.",
+   "sections": [
+    "financings"
+   ],
+   "tags": [
+    "Financing",
+    "Nasdaq",
+    "Regulatory"
+   ],
+   "tickers": [
+    "NASDAQ:SXTC"
+   ],
+   "image": "https://www.cmbulletin.com/images/china-sxt-ends-additional-share-purchase-right.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "China SXT Pharmaceuticals Inc Announces Termination of Additional Purchase Right",
+     "url": "https://www.prnewswire.com/news-releases/china-sxt-pharmaceuticals-inc-announces-termination-of-additional-purchase-right-302915380.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "China SXT Pharmaceuticals Inc. (NASDAQ: SXTC) said it has entered a termination letter agreement with the purchasers in its registered direct offering announced October 8, 2026. The agreement ends the purchasers' additional purchase right under Section 2.4 of the securities purchase agreement governing that offering.",
+    "That right had allowed the purchasers to buy up to $12 million of Class A ordinary shares, pre-funded warrants, or both, within a 30-day window following the offering's closing. Under the termination agreement, the company said the purchasers no longer have any right, claim or entitlement to make an additional purchase under that section.",
+    "The company said every other provision of the securities purchase agreement remains in effect, and the securities already issued in the offering are unaffected. The release does not state why the parties agreed to the termination or give any further timeline."
+   ]
+  },
   {
    "slug": "mijem-newcomm-tech-launches-up-to-300-000-placement",
    "url": "https://www.cmbulletin.com/posts/mijem-newcomm-tech-launches-up-to-300-000-placement.html",

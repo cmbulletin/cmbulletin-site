@@ -1,0 +1,51 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-21T12:50:46Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "redwood-ai-special-warrants-trigger-deadline-penalty",
+ "url": "https://www.cmbulletin.com/posts/redwood-ai-special-warrants-trigger-deadline-penalty.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/redwood-ai-special-warrants-trigger-deadline-penalty.json",
+ "date": "2026-10-21T12:31:07Z",
+ "headline": "Redwood AI special warrants trigger deadline penalty",
+ "dek": "Missing a 90-day filing deadline raises the units issuable under the company's $3.5 million special warrant financing by 10 percent.",
+ "caption": "A warrant's fine print proves costly as Redwood AI's missed filing deadline increases the units owed to special warrant holders.",
+ "sections": [
+  "financings"
+ ],
+ "tags": [
+  "Financing",
+  "CSE",
+  "Warrants"
+ ],
+ "tickers": [
+  "CSE:AIRX",
+  "OTCQB:RDWCF"
+ ],
+ "image": "https://www.cmbulletin.com/images/redwood-ai-special-warrants-trigger-deadline-penalty.png",
+ "source_name": "TheNewswire.ca",
+ "sources": [
+  {
+   "title": "Redwood AI Provides Update on Special Warrant Financing",
+   "url": "https://thenewswire.com/press-releases/1LaPFK1E1-redwood-ai-provides-update-on-special-warrant-financing.html",
+   "publisher": "TheNewswire.ca"
+  }
+ ],
+ "unverified_claims": [
+  "The original special warrant financing's closing, gross proceeds, and the reason the prospectus supplement deadline was missed are stated only in the company's own release."
+ ],
+ "brief": [
+  "Redwood AI Corp. (CSE: AIRX) said it did not meet the 90-day deadline to file a prospectus supplement qualifying the distribution of units issuable under its special warrant financing, which closed July 21, 2026. The brokered private placement of 1,663,000 special warrants raised approximately $3.5 million in gross proceeds, with Maxim Group LLC acting as exclusive placement agent.",
+  "Under the terms of the special warrants and the agency agreement dated July 16, 2026, missing that deadline triggers a penalty: the number of units issuable per special warrant rises from 1.00 to 1.10, for no additional consideration, taking the total units issuable to 1,829,300 from 1,663,000. Each unit comprises one common share and one warrant exercisable at $2.48 for 60 months.",
+  "The units will issue on the earlier of the company filing the prospectus supplement or November 22, 2026, the release said. It gives no further timeline for when a prospectus supplement might be filed."
+ ],
+ "body": [
+  "Redwood AI Corp. (CSE: AIRX) (OTCQB: RDWCF) (Frankfurt: Y0N, WKN: A422EZ) said in an October 20, 2026 release that it did not meet the 90-day deadline to file a prospectus supplement qualifying the distribution of units issuable upon deemed exercise of the special warrants issued in its special warrant financing. The brokered private placement of 1,663,000 special warrants closed July 21, 2026 for aggregate gross proceeds of approximately $3.5 million, with Maxim Group LLC acting as exclusive placement agent.",
+  "The 90-day deadline, which the release calls the Penalty Deadline, was set under the terms of the special warrants and an agency agreement between Redwood and Maxim dated July 16, 2026, entered into in connection with the offering. A special warrant of this kind converts into units of the company once a prospectus qualifying the underlying securities is filed, or on a backstop date if it is not; missing the filing deadline activates a penalty built into the warrant's own terms.",
+  "That penalty increases the number of units issuable on deemed exercise of each special warrant from 1.00 to 1.10, for no additional consideration, the release said. Applied across the 1,663,000 special warrants outstanding, the total units issuable rises to 1,829,300 from 1,663,000, an increase of 166,300 units.",
+  "Each unit comprises one common share of Redwood and one warrant exercisable at $2.48 per share for 60 months, according to the release. The units will be issued on the earlier of Redwood filing the prospectus supplement or November 22, 2026.",
+  "The release does not state a revised date by which Redwood expects to file the prospectus supplement, nor does it give a reason the original deadline was missed.",
+  "No further transaction step beyond the November 22, 2026 backstop date for deemed exercise is described in the release."
+ ]
+}
