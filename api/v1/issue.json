@@ -1,192 +1,144 @@
 {
  "api": "v1",
- "generated_at": "2026-10-21T12:50:46Z",
+ "generated_at": "2026-10-22T12:50:14Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-21",
- "count": 4,
+ "issue_date": "2026-10-22",
+ "count": 3,
  "entries": [
   {
-   "slug": "redwood-ai-special-warrants-trigger-deadline-penalty",
-   "url": "https://www.cmbulletin.com/posts/redwood-ai-special-warrants-trigger-deadline-penalty.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/redwood-ai-special-warrants-trigger-deadline-penalty.json",
-   "date": "2026-10-21T12:31:07Z",
-   "headline": "Redwood AI special warrants trigger deadline penalty",
-   "dek": "Missing a 90-day filing deadline raises the units issuable under the company's $3.5 million special warrant financing by 10 percent.",
-   "caption": "A warrant's fine print proves costly as Redwood AI's missed filing deadline increases the units owed to special warrant holders.",
-   "sections": [
-    "financings"
-   ],
-   "tags": [
-    "Financing",
-    "CSE",
-    "Warrants"
-   ],
-   "tickers": [
-    "CSE:AIRX",
-    "OTCQB:RDWCF"
-   ],
-   "image": "https://www.cmbulletin.com/images/redwood-ai-special-warrants-trigger-deadline-penalty.png",
-   "source_name": "TheNewswire.ca",
-   "sources": [
-    {
-     "title": "Redwood AI Provides Update on Special Warrant Financing",
-     "url": "https://thenewswire.com/press-releases/1LaPFK1E1-redwood-ai-provides-update-on-special-warrant-financing.html",
-     "publisher": "TheNewswire.ca"
-    }
-   ],
-   "unverified_claims": [
-    "The original special warrant financing's closing, gross proceeds, and the reason the prospectus supplement deadline was missed are stated only in the company's own release."
-   ],
-   "brief": [
-    "Redwood AI Corp. (CSE: AIRX) said it did not meet the 90-day deadline to file a prospectus supplement qualifying the distribution of units issuable under its special warrant financing, which closed July 21, 2026. The brokered private placement of 1,663,000 special warrants raised approximately $3.5 million in gross proceeds, with Maxim Group LLC acting as exclusive placement agent.",
-    "Under the terms of the special warrants and the agency agreement dated July 16, 2026, missing that deadline triggers a penalty: the number of units issuable per special warrant rises from 1.00 to 1.10, for no additional consideration, taking the total units issuable to 1,829,300 from 1,663,000. Each unit comprises one common share and one warrant exercisable at $2.48 for 60 months.",
-    "The units will issue on the earlier of the company filing the prospectus supplement or November 22, 2026, the release said. It gives no further timeline for when a prospectus supplement might be filed."
-   ],
-   "body": [
-    "Redwood AI Corp. (CSE: AIRX) (OTCQB: RDWCF) (Frankfurt: Y0N, WKN: A422EZ) said in an October 20, 2026 release that it did not meet the 90-day deadline to file a prospectus supplement qualifying the distribution of units issuable upon deemed exercise of the special warrants issued in its special warrant financing. The brokered private placement of 1,663,000 special warrants closed July 21, 2026 for aggregate gross proceeds of approximately $3.5 million, with Maxim Group LLC acting as exclusive placement agent.",
-    "The 90-day deadline, which the release calls the Penalty Deadline, was set under the terms of the special warrants and an agency agreement between Redwood and Maxim dated July 16, 2026, entered into in connection with the offering. A special warrant of this kind converts into units of the company once a prospectus qualifying the underlying securities is filed, or on a backstop date if it is not; missing the filing deadline activates a penalty built into the warrant's own terms.",
-    "That penalty increases the number of units issuable on deemed exercise of each special warrant from 1.00 to 1.10, for no additional consideration, the release said. Applied across the 1,663,000 special warrants outstanding, the total units issuable rises to 1,829,300 from 1,663,000, an increase of 166,300 units.",
-    "Each unit comprises one common share of Redwood and one warrant exercisable at $2.48 per share for 60 months, according to the release. The units will be issued on the earlier of Redwood filing the prospectus supplement or November 22, 2026.",
-    "The release does not state a revised date by which Redwood expects to file the prospectus supplement, nor does it give a reason the original deadline was missed.",
-    "No further transaction step beyond the November 22, 2026 backstop date for deemed exercise is described in the release."
-   ]
-  },
-  {
-   "slug": "noble-mineral-closes-lucas-gold-project-purchase",
-   "url": "https://www.cmbulletin.com/posts/noble-mineral-closes-lucas-gold-project-purchase.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/noble-mineral-closes-lucas-gold-project-purchase.json",
-   "date": "2026-10-21T12:31:07Z",
-   "headline": "Noble Mineral closes Lucas Gold Project purchase",
-   "dek": "The TSX Venture-listed explorer closed its acquisition of the project from Canada Nickel Company and separately received exchange final acceptance for the transactions.",
-   "caption": "A remote drill site marks the exploration ground Noble Mineral Exploration now controls after closing its purchase from Canada Nickel.",
+   "slug": "pacific-imperial-ends-brownell-lake-option-agreement",
+   "url": "https://www.cmbulletin.com/posts/pacific-imperial-ends-brownell-lake-option-agreement.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/pacific-imperial-ends-brownell-lake-option-agreement.json",
+   "date": "2026-10-22T12:32:36Z",
+   "headline": "Pacific Imperial ends Brownell Lake option agreement",
+   "dek": "The company cited a lack of funding after its recent private placement was cancelled, as Eagle Plains Resources agreed to terminate the deal.",
+   "caption": "A gravel road winds through boreal forest toward a remote mineral claim.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
-    "M&A",
-    "Gold"
+    "Exploration",
+    "Corporate"
    ],
    "tickers": [
-    "TSXV:NOB",
-    "OTCQB:NLPXF"
+    "TSXV:PPM"
    ],
-   "image": "https://www.cmbulletin.com/images/noble-mineral-closes-lucas-gold-project-purchase.png",
+   "image": "https://www.cmbulletin.com/images/pacific-imperial-ends-brownell-lake-option-agreement.png",
    "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Noble Mineral Exploration Acquires Lucas Gold Project From Canada Nickel Company",
-     "url": "https://thenewswire.com/press-releases/1k3wFNxEP-noble-mineral-exploration-acquires-lucas-gold-project-from-canada-nickel-company.html",
+     "title": "Pacific Imperial Announces Cancellation of the Brownell Option Agreement",
+     "url": "https://thenewswire.com/press-releases/1BKRFa528-pacific-imperial-announces-cancellation-of-the-brownell-option-agreement.html",
      "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The purchase agreement's terms, including any consideration paid for the Lucas Gold Project, are not disclosed in this release and are described only in Noble's September 17, 2026 release."
+    "The stated reason for the termination — lack of funding following the cancellation of a private placement — rests solely on the company's own characterization; the release does not identify the placement or its terms."
    ],
    "brief": [
-    "Noble Mineral Exploration Inc. (TSX-V: NOB) said it has closed the transactions under its Purchase Agreement with Canada Nickel Company Inc. to acquire the Lucas Gold Project, the company announced October 21, 2026. The transactions were previously announced in Noble's news releases of July 13 and September 17, 2026.",
-    "Noble said it has received final acceptance from the TSX Venture Exchange for the transactions under the agreement. The release does not restate the main terms and conditions of the Purchase Agreement or describe the Lucas Gold Project, directing readers instead to its September 17, 2026 release for those details.",
-    "The October 21 release gives no information on the project's location, size or planned work, nor on any consideration paid or use of proceeds. It confirms only that the acquisition has closed and that exchange approval has been obtained."
+    "Pacific Imperial Mines Inc. (TSXV: PPM) said it has reached a mutual agreement with Eagle Plains Resources Ltd. to terminate the Option Agreement covering the Brownell Lake VMS project, effective immediately. The company said the termination followed a lack of funding resulting from the recent cancellation of its private placement.",
+    "The release gives no further detail on the terms of the original Option Agreement or on the private placement that was cancelled. Pacific Imperial is a Vancouver-based mineral exploration company currently focused on its Babine and Fenton properties in British Columbia.",
+    "The company said its board of directors is actively reviewing its strategic options and will re-evaluate how to move forward. No timeline or further disclosure was given."
    ],
    "body": [
-    "Noble Mineral Exploration Inc. (TSX-V: NOB) (FRANKFURT: NB7) (OTCQB: NLPXF) announced October 21, 2026 that it has closed the transactions under a Purchase Agreement with Canada Nickel Company Inc., under which Noble acquires the Lucas Gold Project. The transactions were previously announced in Noble's news releases dated July 13, 2026 and September 17, 2026.",
-    "The company said Noble has received final acceptance from the TSX Venture Exchange for the transactions under the agreement. No further conditions or approvals are described in this announcement.",
-    "For the main terms and conditions of the Purchase Agreement and a description of the Lucas Gold Project, the release directs readers to the news release Noble issued on September 17, 2026, rather than restating them here.",
-    "This announcement discloses no purchase price, share or cash consideration, royalty, or other transaction term, and gives no description of the project's location, size, geology or exploration history. It states no use of proceeds and no next procedural step beyond the exchange acceptance already obtained.",
-    "Noble describes itself, in the release's standard company description, as a Canadian-based junior exploration company that holds securities in Canada Nickel Company Inc., among other listed holdings. The release lists H. Vance White, President, as the contact for further information.",
-    "Taken together, the two releases Noble points to — October 21 confirming closing and exchange acceptance, and September 17 setting out the terms — mean a reader following only today's announcement sees confirmation that a previously announced acquisition has completed, without the underlying deal terms restated in the same document."
+    "Pacific Imperial Mines Inc. (TSXV: PPM) announced on October 20, 2026 that it has reached a mutual agreement with Eagle Plains Resources Ltd. to terminate the Option Agreement on the Brownell Lake VMS project, effective immediately.",
+    "The company said the termination resulted from \"a lack of funding resulting from the recent cancellation of its private placement.\" The release does not identify which placement was cancelled, when, or on what terms, nor does it describe the terms of the original Option Agreement on the Brownell Lake project.",
+    "Pacific Imperial said its board of directors is actively reviewing the company's strategic options and will be re-evaluating how to move forward. No timeline was given for that review.",
+    "The release describes Pacific Imperial as a Vancouver-based mineral exploration company engaged in the acquisition, exploration, evaluation and development of mineral properties, with its current focus on the Babine and Fenton properties in British Columbia. The disclosure in this release is limited to the termination itself and gives no further operational or financial detail."
    ]
   },
   {
-   "slug": "m-i-homes-reports-lower-third-quarter-revenue-profit",
-   "url": "https://www.cmbulletin.com/posts/m-i-homes-reports-lower-third-quarter-revenue-profit.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/m-i-homes-reports-lower-third-quarter-revenue-profit.json",
-   "date": "2026-10-21T12:31:07Z",
-   "headline": "M/I Homes reports lower third-quarter revenue, profit",
-   "dek": "The homebuilder's net income fell to $66.6 million on revenue of $1.076 billion as new contracts and deliveries each declined 2% from a year earlier.",
-   "caption": "Framed homes stand under grey skies as M/I Homes reports third-quarter revenue and profit lower than a year earlier.",
+   "slug": "s-t-bancorp-posts-record-quarterly-earnings-per-share",
+   "url": "https://www.cmbulletin.com/posts/s-t-bancorp-posts-record-quarterly-earnings-per-share.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/s-t-bancorp-posts-record-quarterly-earnings-per-share.json",
+   "date": "2026-10-22T12:32:36Z",
+   "headline": "S&T Bancorp posts record quarterly earnings per share",
+   "dek": "The Pennsylvania bank holding company reported $38.6 million in third-quarter net income and continued its share buyback program.",
+   "caption": "A regional bank branch at dusk, lights on after the trading day has closed.",
    "sections": [
     "news"
    ],
    "tags": [
+    "Banking",
     "Earnings",
-    "Homebuilding",
-    "Results"
+    "Capital Return"
    ],
    "tickers": [
-    "NYSE:MHO"
+    "NASDAQ:STBA"
    ],
-   "image": "https://www.cmbulletin.com/images/m-i-homes-reports-lower-third-quarter-revenue-profit.png",
+   "image": "https://www.cmbulletin.com/images/s-t-bancorp-posts-record-quarterly-earnings-per-share.png",
    "source_name": "PR Newswire — financial services",
    "sources": [
     {
-     "title": "M/I Homes Reports 2026 Third Quarter Results",
-     "url": "https://www.prnewswire.com/news-releases/mi-homes-reports-2026-third-quarter-results-302914531.html",
+     "title": "S&T Bancorp, Inc. Announces Third Quarter 2026 Results",
+     "url": "https://www.prnewswire.com/news-releases/st-bancorp-inc-announces-third-quarter-2026-results-302916262.html",
      "publisher": "PR Newswire — financial services"
     }
    ],
    "unverified_claims": [
-    "The characterization of market conditions and the company's competitive position is the view of CEO Robert H. Schottenstein as stated in the release, not an independent assessment."
+    "The characterization of diluted EPS and revenue as 'record' is the company's own description, stated in its release headline and CEO quote."
    ],
    "brief": [
-    "M/I Homes, Inc. (NYSE: MHO) reported third-quarter 2026 revenue of $1.076 billion, down 5% from $1.132 billion a year earlier, and net income of $66.6 million, or $2.56 per diluted share, compared with $106.5 million, or $3.92 per share, in the third quarter of 2025.",
-    "Pre-tax income was $86.9 million, down 38% from $139.8 million, and included $4.7 million of inventory charges; gross margin was 20.9%, or 21.3% excluding those charges. New contracts fell 2% to 1,861 and homes delivered fell 2% to 2,241, at an average closing price of $460,000. The cancellation rate was 12%.",
-    "Chief executive Robert H. Schottenstein said the quarter's results reflect 'increasingly difficult market conditions, including higher mortgage interest rates, weaker demand and growing economic uncertainty.' He said the company remains 'well positioned to manage through this current cycle' given its balance sheet and low debt levels. It repurchased $50 million of shares in the quarter."
+    "S&T Bancorp, Inc. (NASDAQ: STBA), the holding company for S&T Bank, reported net income of $38.6 million for the third quarter of 2026, compared with $36.6 million in the second quarter and $35.0 million a year earlier. Diluted earnings per share reached $1.09, which the company's release headlined as a record, up 6.9% from the prior quarter.",
+    "Net interest margin on a fully taxable equivalent basis expanded seven basis points to 4.06%. Nonperforming assets fell $3.7 million to $36.5 million, or 0.45% of total loans and other real estate owned. Total assets were flat at $9.9 billion, with total borrowings down $60.0 million to $215.3 million.",
+    "The company said it has repurchased 3,169,294 shares, 8.3% of shares outstanding, since the fourth quarter of 2025 at an average price of $42.09 per share, and declared a dividend of $0.37 per share. CEO Chris McComish said the quarter reflected \"record earnings per share, record revenue and higher core profitability.\""
    ],
    "body": [
-    "M/I Homes, Inc. (NYSE: MHO), the Columbus, Ohio-based homebuilder marking its 50th anniversary in 2026, reported results for the three and nine months ended September 30, 2026. Third-quarter revenue was $1.076 billion, down 5% from $1.132 billion a year earlier. Net income was $66.6 million, or $2.56 per diluted share, against $106.5 million, or $3.92 per share, in the third quarter of 2025.",
-    "Pre-tax income for the quarter was $86.9 million, down 38% from $139.8 million, a decline the company tied in part to $4.7 million of pre-tax inventory charges taken in the quarter, against $8.9 million for the first nine months. Gross margin was 20.9% as reported and 21.3% excluding the inventory charges.",
-    "New contracts for the quarter fell 2% to 1,861 and homes delivered fell 2% to 2,241, at an average closing price of $460,000, with a cancellation rate of 12%. For the nine months, homes delivered fell 4% to 6,361 while new contracts rose 5% to 6,598, against 6,620 and 6,278, respectively, a year earlier.",
-    "The company's backlog stood at 2,046 homes at September 30, 2026, down 7% from a year earlier, with a sales value of $1.103 billion, down 9%, and an average sales price of $539,000. M/I Homes operated 246 communities at quarter-end, up from 233 a year earlier.",
-    "The company reported shareholders' equity of $3.3 billion and book value of $130 per share, both company records, along with $621 million of cash and equivalents, a homebuilding debt-to-capital ratio of 18%, a net debt-to-capital ratio of 2%, and zero borrowings outstanding on its $900 million credit facility. M/I Homes repurchased $50 million of its shares during the quarter.",
-    "For the nine months ended September 30, 2026, pre-tax income was $280.6 million, against $446.0 million a year earlier, and net income was $213.5 million, or $8.14 per diluted share, against $339.0 million, or $12.32 per share, in the first nine months of 2025.",
-    "Chief executive Robert H. Schottenstein said the quarter's results 'reflect increasingly difficult market conditions, including higher mortgage interest rates, weaker demand and growing economic uncertainty,' adding that the company is 'well positioned to manage through this current cycle given the strength of our balance sheet, low debt levels, diverse product offerings and well-located communities.'",
-    "The company said it will hold a conference call on October 21, 2026 at 10:30 a.m. ET to discuss the results. The release includes no forward guidance for the fourth quarter or full year beyond the comments attributed to Schottenstein."
+    "S&T Bancorp, Inc. (NASDAQ: STBA), the Indiana, Pennsylvania-based holding company for S&T Bank, reported third-quarter 2026 net income of $38.6 million, up from $36.6 million in the second quarter of 2026 and $35.0 million in the third quarter of 2025. Diluted earnings per share was $1.09, which the company said represented a 6.9% increase from the prior quarter and a 19.8% increase from a year earlier, and which its own release headlined as a record.",
+    "Profitability measures improved across the board: return on average assets was 1.55%, return on average equity was 10.84%, and return on average tangible shareholders' equity, a non-GAAP measure, was 14.81%. Net interest margin on a fully taxable equivalent basis expanded seven basis points from the prior quarter to 4.06%.",
+    "Asset quality metrics moved favorably. Nonperforming assets decreased $3.7 million to $36.5 million, representing 0.45% of total loans plus other real estate owned. Net charge-offs totaled $2.1 million, or 0.10% of average loans. The allowance for credit losses was unchanged at $93.3 million, or 1.16% of total portfolio loans.",
+    "On the balance sheet, total assets were flat at $9.9 billion. Total deposits decreased $22.2 million and total borrowings decreased $60.0 million to $215.3 million. Total portfolio loans decreased $4.4 million, which the company attributed to lower line utilization.",
+    "S&T Bancorp said it has repurchased 3,169,294 shares, or 8.3% of shares outstanding, since the fourth quarter of 2025, at an average price of $42.09 per share. Approximately 35.3 million shares were outstanding at quarter-end. The company also declared a dividend of $0.37 per share.",
+    "CEO Chris McComish said the results reflected \"record earnings per share, record revenue and higher core profitability.\""
    ]
   },
   {
-   "slug": "china-sxt-ends-additional-share-purchase-right",
-   "url": "https://www.cmbulletin.com/posts/china-sxt-ends-additional-share-purchase-right.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/china-sxt-ends-additional-share-purchase-right.json",
-   "date": "2026-10-21T12:31:07Z",
-   "headline": "China SXT ends additional share purchase right",
-   "dek": "The Nasdaq company and the purchasers in its October 8 offering agreed to terminate a right to buy up to $12 million more shares or warrants.",
-   "caption": "A corporate filing closes a narrow financing option as China SXT Pharmaceuticals confirms no further share purchases under its October offering.",
+   "slug": "norfolk-southern-reports-record-quarterly-revenue",
+   "url": "https://www.cmbulletin.com/posts/norfolk-southern-reports-record-quarterly-revenue.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/norfolk-southern-reports-record-quarterly-revenue.json",
+   "date": "2026-10-22T12:32:36Z",
+   "headline": "Norfolk Southern reports record quarterly revenue",
+   "dek": "The railroad posted $3.5 billion in third-quarter revenue and diluted earnings per share of $3.37, both up from a year earlier.",
+   "caption": "A long freight train moves through open countryside as the morning light breaks.",
    "sections": [
-    "financings"
+    "news"
    ],
    "tags": [
-    "Financing",
-    "Nasdaq",
-    "Regulatory"
+    "Railroads",
+    "Earnings",
+    "Transportation"
    ],
    "tickers": [
-    "NASDAQ:SXTC"
+    "NYSE:NSC"
    ],
-   "image": "https://www.cmbulletin.com/images/china-sxt-ends-additional-share-purchase-right.png",
-   "source_name": "PR Newswire — financial services",
+   "image": "https://www.cmbulletin.com/images/norfolk-southern-reports-record-quarterly-revenue.png",
+   "source_name": "PR Newswire — all news releases",
    "sources": [
     {
-     "title": "China SXT Pharmaceuticals Inc Announces Termination of Additional Purchase Right",
-     "url": "https://www.prnewswire.com/news-releases/china-sxt-pharmaceuticals-inc-announces-termination-of-additional-purchase-right-302915380.html",
-     "publisher": "PR Newswire — financial services"
+     "title": "Norfolk Southern reports third quarter 2026 results",
+     "url": "https://www.prnewswire.com/news-releases/norfolk-southern-reports-third-quarter-2026-results-302916354.html",
+     "publisher": "PR Newswire — all news releases"
     }
    ],
-   "unverified_claims": [],
+   "unverified_claims": [
+    "The characterization of revenue as a 'quarterly record' is the company's own description.",
+    "The operating-ratio comparisons and adjusted figures (excluding merger-related and Eastern Ohio incident costs) are non-GAAP measures as presented by the company."
+   ],
    "brief": [
-    "China SXT Pharmaceuticals Inc. (NASDAQ: SXTC) said it has entered a termination letter agreement with the purchasers in its registered direct offering announced October 8, 2026. The agreement ends the purchasers' additional purchase right under Section 2.4 of the securities purchase agreement governing that offering.",
-    "That right had allowed the purchasers to buy up to $12 million of Class A ordinary shares, pre-funded warrants, or both, within a 30-day window following the offering's closing. Under the termination agreement, the company said the purchasers no longer have any right, claim or entitlement to make an additional purchase under that section.",
-    "The company said every other provision of the securities purchase agreement remains in effect, and the securities already issued in the offering are unaffected. The release does not state why the parties agreed to the termination or give any further timeline."
+    "Norfolk Southern Corporation (NYSE: NSC) reported third-quarter 2026 revenue of $3.5 billion, which the company's release called a quarterly record, up $423 million, or 14%, from a year earlier. Income from railway operations was $1.2 billion, up 5%, and diluted earnings per share was $3.37, up 7%.",
+    "The operating ratio, a measure of operating expenses against revenue, was 67.4%, compared with 64.6% a year earlier. Volume rose 3% year over year. The company said merger-related expenses and costs tied to the Eastern Ohio incident affected the reported figures.",
+    "Excluding those items, Norfolk Southern said adjusted income from railway operations was also $1.2 billion, up 7%, with an adjusted operating ratio of 65.4% and adjusted diluted earnings per share of $3.62, up 10%. CEO Mark George called it a quarter of \"solid execution.\""
    ],
    "body": [
-    "China SXT Pharmaceuticals Inc. (NASDAQ: SXTC), based in Taizhou, China, announced October 21, 2026 that it has entered into a termination letter agreement with the purchasers in its registered direct offering announced October 8, 2026. The agreement, the company said, terminates the purchasers' additional purchase right contained in Section 2.4 of the securities purchase agreement that governed the offering.",
-    "Under the original securities purchase agreement, that right had entitled the purchasers to buy up to $12 million of the company's Class A ordinary shares, pre-funded warrants, or a combination of the two, exercisable within a 30-day period following the offering's closing. A right of this kind gives investors in a financing a window to increase their position on terms already fixed in the initial agreement.",
-    "With the termination letter agreement now in place, the company said the purchasers 'no longer have any right, claim or entitlement to make an additional purchase' under that section of the agreement. The release states that provision is the one affected by the termination.",
-    "The company said all other provisions of the securities purchase agreement remain in full force and effect, and that the shares and any other securities already issued to purchasers under the October 8 offering are not affected by the termination.",
-    "This announcement does not restate the gross proceeds, share count or pricing of the October 8 offering, nor does it state a reason the purchasers and the company agreed to terminate the additional purchase right.",
-    "There is no stated use of proceeds or further procedural step in this release. It is limited to confirming the termination of the Section 2.4 right and that the securities purchase agreement's other provisions continue to apply."
+    "Norfolk Southern Corporation (NYSE: NSC) reported third-quarter 2026 results on October 22, 2026. Revenue was $3.5 billion, which the company's release described as a quarterly record, up $423 million, or 14%, from the third quarter of 2025. Income from railway operations was $1.2 billion, up $52 million, or 5%. Diluted earnings per share was $3.37, up $0.21, or 7%, from a year earlier.",
+    "The operating ratio — the share of revenue consumed by operating expenses, where a lower figure indicates greater efficiency — was 67.4% for the quarter, compared with 64.6% in the third quarter of 2025. The company said volume increased 3% year over year.",
+    "Norfolk Southern also reported adjusted results that it said exclude merger-related expenses and the effects of the Eastern Ohio incident. On that adjusted basis, income from railway operations was $1.2 billion, up 7% from a year earlier, with an adjusted operating ratio of 65.4%.",
+    "Adjusted diluted earnings per share was $3.62, up 10% from the third quarter of 2025.",
+    "CEO Mark George said: \"Norfolk Southern delivered another quarter of solid execution, with record revenues, and strong earnings growth.\"",
+    "The release described Norfolk Southern's network as spanning 22 states and moving approximately 7 million carloads annually, operating what it called the most extensive intermodal network in the eastern United States, and said rail transport helps its customers avoid approximately 15 million tons of carbon emissions each year."
    ]
   }
  ]

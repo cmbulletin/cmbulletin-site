@@ -1,11 +1,123 @@
 {
  "api": "v1",
- "generated_at": "2026-10-21T12:50:46Z",
+ "generated_at": "2026-10-22T12:50:14Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 78,
+ "count": 81,
  "entries": [
+  {
+   "slug": "pacific-imperial-ends-brownell-lake-option-agreement",
+   "url": "https://www.cmbulletin.com/posts/pacific-imperial-ends-brownell-lake-option-agreement.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/pacific-imperial-ends-brownell-lake-option-agreement.json",
+   "date": "2026-10-22T12:32:36Z",
+   "headline": "Pacific Imperial ends Brownell Lake option agreement",
+   "dek": "The company cited a lack of funding after its recent private placement was cancelled, as Eagle Plains Resources agreed to terminate the deal.",
+   "caption": "A gravel road winds through boreal forest toward a remote mineral claim.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Exploration",
+    "Corporate"
+   ],
+   "tickers": [
+    "TSXV:PPM"
+   ],
+   "image": "https://www.cmbulletin.com/images/pacific-imperial-ends-brownell-lake-option-agreement.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Pacific Imperial Announces Cancellation of the Brownell Option Agreement",
+     "url": "https://thenewswire.com/press-releases/1BKRFa528-pacific-imperial-announces-cancellation-of-the-brownell-option-agreement.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The stated reason for the termination — lack of funding following the cancellation of a private placement — rests solely on the company's own characterization; the release does not identify the placement or its terms."
+   ],
+   "brief": [
+    "Pacific Imperial Mines Inc. (TSXV: PPM) said it has reached a mutual agreement with Eagle Plains Resources Ltd. to terminate the Option Agreement covering the Brownell Lake VMS project, effective immediately. The company said the termination followed a lack of funding resulting from the recent cancellation of its private placement.",
+    "The release gives no further detail on the terms of the original Option Agreement or on the private placement that was cancelled. Pacific Imperial is a Vancouver-based mineral exploration company currently focused on its Babine and Fenton properties in British Columbia.",
+    "The company said its board of directors is actively reviewing its strategic options and will re-evaluate how to move forward. No timeline or further disclosure was given."
+   ]
+  },
+  {
+   "slug": "s-t-bancorp-posts-record-quarterly-earnings-per-share",
+   "url": "https://www.cmbulletin.com/posts/s-t-bancorp-posts-record-quarterly-earnings-per-share.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/s-t-bancorp-posts-record-quarterly-earnings-per-share.json",
+   "date": "2026-10-22T12:32:36Z",
+   "headline": "S&T Bancorp posts record quarterly earnings per share",
+   "dek": "The Pennsylvania bank holding company reported $38.6 million in third-quarter net income and continued its share buyback program.",
+   "caption": "A regional bank branch at dusk, lights on after the trading day has closed.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Banking",
+    "Earnings",
+    "Capital Return"
+   ],
+   "tickers": [
+    "NASDAQ:STBA"
+   ],
+   "image": "https://www.cmbulletin.com/images/s-t-bancorp-posts-record-quarterly-earnings-per-share.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "S&T Bancorp, Inc. Announces Third Quarter 2026 Results",
+     "url": "https://www.prnewswire.com/news-releases/st-bancorp-inc-announces-third-quarter-2026-results-302916262.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization of diluted EPS and revenue as 'record' is the company's own description, stated in its release headline and CEO quote."
+   ],
+   "brief": [
+    "S&T Bancorp, Inc. (NASDAQ: STBA), the holding company for S&T Bank, reported net income of $38.6 million for the third quarter of 2026, compared with $36.6 million in the second quarter and $35.0 million a year earlier. Diluted earnings per share reached $1.09, which the company's release headlined as a record, up 6.9% from the prior quarter.",
+    "Net interest margin on a fully taxable equivalent basis expanded seven basis points to 4.06%. Nonperforming assets fell $3.7 million to $36.5 million, or 0.45% of total loans and other real estate owned. Total assets were flat at $9.9 billion, with total borrowings down $60.0 million to $215.3 million.",
+    "The company said it has repurchased 3,169,294 shares, 8.3% of shares outstanding, since the fourth quarter of 2025 at an average price of $42.09 per share, and declared a dividend of $0.37 per share. CEO Chris McComish said the quarter reflected \"record earnings per share, record revenue and higher core profitability.\""
+   ]
+  },
+  {
+   "slug": "norfolk-southern-reports-record-quarterly-revenue",
+   "url": "https://www.cmbulletin.com/posts/norfolk-southern-reports-record-quarterly-revenue.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/norfolk-southern-reports-record-quarterly-revenue.json",
+   "date": "2026-10-22T12:32:36Z",
+   "headline": "Norfolk Southern reports record quarterly revenue",
+   "dek": "The railroad posted $3.5 billion in third-quarter revenue and diluted earnings per share of $3.37, both up from a year earlier.",
+   "caption": "A long freight train moves through open countryside as the morning light breaks.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Railroads",
+    "Earnings",
+    "Transportation"
+   ],
+   "tickers": [
+    "NYSE:NSC"
+   ],
+   "image": "https://www.cmbulletin.com/images/norfolk-southern-reports-record-quarterly-revenue.png",
+   "source_name": "PR Newswire — all news releases",
+   "sources": [
+    {
+     "title": "Norfolk Southern reports third quarter 2026 results",
+     "url": "https://www.prnewswire.com/news-releases/norfolk-southern-reports-third-quarter-2026-results-302916354.html",
+     "publisher": "PR Newswire — all news releases"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization of revenue as a 'quarterly record' is the company's own description.",
+    "The operating-ratio comparisons and adjusted figures (excluding merger-related and Eastern Ohio incident costs) are non-GAAP measures as presented by the company."
+   ],
+   "brief": [
+    "Norfolk Southern Corporation (NYSE: NSC) reported third-quarter 2026 revenue of $3.5 billion, which the company's release called a quarterly record, up $423 million, or 14%, from a year earlier. Income from railway operations was $1.2 billion, up 5%, and diluted earnings per share was $3.37, up 7%.",
+    "The operating ratio, a measure of operating expenses against revenue, was 67.4%, compared with 64.6% a year earlier. Volume rose 3% year over year. The company said merger-related expenses and costs tied to the Eastern Ohio incident affected the reported figures.",
+    "Excluding those items, Norfolk Southern said adjusted income from railway operations was also $1.2 billion, up 7%, with an adjusted operating ratio of 65.4% and adjusted diluted earnings per share of $3.62, up 10%. CEO Mark George called it a quarter of \"solid execution.\""
+   ]
+  },
   {
    "slug": "redwood-ai-special-warrants-trigger-deadline-penalty",
    "url": "https://www.cmbulletin.com/posts/redwood-ai-special-warrants-trigger-deadline-penalty.html",

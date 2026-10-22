@@ -1,0 +1,51 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-22T12:50:14Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "norfolk-southern-reports-record-quarterly-revenue",
+ "url": "https://www.cmbulletin.com/posts/norfolk-southern-reports-record-quarterly-revenue.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/norfolk-southern-reports-record-quarterly-revenue.json",
+ "date": "2026-10-22T12:32:36Z",
+ "headline": "Norfolk Southern reports record quarterly revenue",
+ "dek": "The railroad posted $3.5 billion in third-quarter revenue and diluted earnings per share of $3.37, both up from a year earlier.",
+ "caption": "A long freight train moves through open countryside as the morning light breaks.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "Railroads",
+  "Earnings",
+  "Transportation"
+ ],
+ "tickers": [
+  "NYSE:NSC"
+ ],
+ "image": "https://www.cmbulletin.com/images/norfolk-southern-reports-record-quarterly-revenue.png",
+ "source_name": "PR Newswire — all news releases",
+ "sources": [
+  {
+   "title": "Norfolk Southern reports third quarter 2026 results",
+   "url": "https://www.prnewswire.com/news-releases/norfolk-southern-reports-third-quarter-2026-results-302916354.html",
+   "publisher": "PR Newswire — all news releases"
+  }
+ ],
+ "unverified_claims": [
+  "The characterization of revenue as a 'quarterly record' is the company's own description.",
+  "The operating-ratio comparisons and adjusted figures (excluding merger-related and Eastern Ohio incident costs) are non-GAAP measures as presented by the company."
+ ],
+ "brief": [
+  "Norfolk Southern Corporation (NYSE: NSC) reported third-quarter 2026 revenue of $3.5 billion, which the company's release called a quarterly record, up $423 million, or 14%, from a year earlier. Income from railway operations was $1.2 billion, up 5%, and diluted earnings per share was $3.37, up 7%.",
+  "The operating ratio, a measure of operating expenses against revenue, was 67.4%, compared with 64.6% a year earlier. Volume rose 3% year over year. The company said merger-related expenses and costs tied to the Eastern Ohio incident affected the reported figures.",
+  "Excluding those items, Norfolk Southern said adjusted income from railway operations was also $1.2 billion, up 7%, with an adjusted operating ratio of 65.4% and adjusted diluted earnings per share of $3.62, up 10%. CEO Mark George called it a quarter of \"solid execution.\""
+ ],
+ "body": [
+  "Norfolk Southern Corporation (NYSE: NSC) reported third-quarter 2026 results on October 22, 2026. Revenue was $3.5 billion, which the company's release described as a quarterly record, up $423 million, or 14%, from the third quarter of 2025. Income from railway operations was $1.2 billion, up $52 million, or 5%. Diluted earnings per share was $3.37, up $0.21, or 7%, from a year earlier.",
+  "The operating ratio — the share of revenue consumed by operating expenses, where a lower figure indicates greater efficiency — was 67.4% for the quarter, compared with 64.6% in the third quarter of 2025. The company said volume increased 3% year over year.",
+  "Norfolk Southern also reported adjusted results that it said exclude merger-related expenses and the effects of the Eastern Ohio incident. On that adjusted basis, income from railway operations was $1.2 billion, up 7% from a year earlier, with an adjusted operating ratio of 65.4%.",
+  "Adjusted diluted earnings per share was $3.62, up 10% from the third quarter of 2025.",
+  "CEO Mark George said: \"Norfolk Southern delivered another quarter of solid execution, with record revenues, and strong earnings growth.\"",
+  "The release described Norfolk Southern's network as spanning 22 states and moving approximately 7 million carloads annually, operating what it called the most extensive intermodal network in the eastern United States, and said rail transport helps its customers avoid approximately 15 million tons of carbon emissions each year."
+ ]
+}

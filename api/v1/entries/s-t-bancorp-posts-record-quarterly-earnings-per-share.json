@@ -1,0 +1,50 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-22T12:50:14Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "s-t-bancorp-posts-record-quarterly-earnings-per-share",
+ "url": "https://www.cmbulletin.com/posts/s-t-bancorp-posts-record-quarterly-earnings-per-share.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/s-t-bancorp-posts-record-quarterly-earnings-per-share.json",
+ "date": "2026-10-22T12:32:36Z",
+ "headline": "S&T Bancorp posts record quarterly earnings per share",
+ "dek": "The Pennsylvania bank holding company reported $38.6 million in third-quarter net income and continued its share buyback program.",
+ "caption": "A regional bank branch at dusk, lights on after the trading day has closed.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "Banking",
+  "Earnings",
+  "Capital Return"
+ ],
+ "tickers": [
+  "NASDAQ:STBA"
+ ],
+ "image": "https://www.cmbulletin.com/images/s-t-bancorp-posts-record-quarterly-earnings-per-share.png",
+ "source_name": "PR Newswire — financial services",
+ "sources": [
+  {
+   "title": "S&T Bancorp, Inc. Announces Third Quarter 2026 Results",
+   "url": "https://www.prnewswire.com/news-releases/st-bancorp-inc-announces-third-quarter-2026-results-302916262.html",
+   "publisher": "PR Newswire — financial services"
+  }
+ ],
+ "unverified_claims": [
+  "The characterization of diluted EPS and revenue as 'record' is the company's own description, stated in its release headline and CEO quote."
+ ],
+ "brief": [
+  "S&T Bancorp, Inc. (NASDAQ: STBA), the holding company for S&T Bank, reported net income of $38.6 million for the third quarter of 2026, compared with $36.6 million in the second quarter and $35.0 million a year earlier. Diluted earnings per share reached $1.09, which the company's release headlined as a record, up 6.9% from the prior quarter.",
+  "Net interest margin on a fully taxable equivalent basis expanded seven basis points to 4.06%. Nonperforming assets fell $3.7 million to $36.5 million, or 0.45% of total loans and other real estate owned. Total assets were flat at $9.9 billion, with total borrowings down $60.0 million to $215.3 million.",
+  "The company said it has repurchased 3,169,294 shares, 8.3% of shares outstanding, since the fourth quarter of 2025 at an average price of $42.09 per share, and declared a dividend of $0.37 per share. CEO Chris McComish said the quarter reflected \"record earnings per share, record revenue and higher core profitability.\""
+ ],
+ "body": [
+  "S&T Bancorp, Inc. (NASDAQ: STBA), the Indiana, Pennsylvania-based holding company for S&T Bank, reported third-quarter 2026 net income of $38.6 million, up from $36.6 million in the second quarter of 2026 and $35.0 million in the third quarter of 2025. Diluted earnings per share was $1.09, which the company said represented a 6.9% increase from the prior quarter and a 19.8% increase from a year earlier, and which its own release headlined as a record.",
+  "Profitability measures improved across the board: return on average assets was 1.55%, return on average equity was 10.84%, and return on average tangible shareholders' equity, a non-GAAP measure, was 14.81%. Net interest margin on a fully taxable equivalent basis expanded seven basis points from the prior quarter to 4.06%.",
+  "Asset quality metrics moved favorably. Nonperforming assets decreased $3.7 million to $36.5 million, representing 0.45% of total loans plus other real estate owned. Net charge-offs totaled $2.1 million, or 0.10% of average loans. The allowance for credit losses was unchanged at $93.3 million, or 1.16% of total portfolio loans.",
+  "On the balance sheet, total assets were flat at $9.9 billion. Total deposits decreased $22.2 million and total borrowings decreased $60.0 million to $215.3 million. Total portfolio loans decreased $4.4 million, which the company attributed to lower line utilization.",
+  "S&T Bancorp said it has repurchased 3,169,294 shares, or 8.3% of shares outstanding, since the fourth quarter of 2025, at an average price of $42.09 per share. Approximately 35.3 million shares were outstanding at quarter-end. The company also declared a dividend of $0.37 per share.",
+  "CEO Chris McComish said the results reflected \"record earnings per share, record revenue and higher core profitability.\""
+ ]
+}
