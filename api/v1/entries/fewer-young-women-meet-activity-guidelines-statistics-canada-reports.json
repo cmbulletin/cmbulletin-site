@@ -1,0 +1,46 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-23T12:57:23Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "fewer-young-women-meet-activity-guidelines-statistics-canada-reports",
+ "url": "https://www.cmbulletin.com/posts/fewer-young-women-meet-activity-guidelines-statistics-canada-reports.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/fewer-young-women-meet-activity-guidelines-statistics-canada-reports.json",
+ "date": "2026-10-23T12:29:06Z",
+ "headline": "Fewer young women meet activity guidelines, Statistics Canada reports",
+ "dek": "Statistics Canada's October Health Reports found that 46% of Canadian adults met weekly activity guidelines, with activity trends diverging by age and sex.",
+ "caption": "Statistics Canada's October Health Reports tracked physical-activity trends among Canadian adults from 2007 to 2024, measured by accelerometer.",
+ "sections": [
+  "markets"
+ ],
+ "tags": [
+  "Macro",
+  "Statistics Canada",
+  "Health"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/fewer-young-women-meet-activity-guidelines-statistics-canada-reports.png",
+ "source_name": "Statistics Canada — The Daily",
+ "sources": [
+  {
+   "title": "Health Reports, October 2026",
+   "url": "https://www.statcan.gc.ca/daily-quotidien/261021/dq261021c-eng.htm",
+   "publisher": "Statistics Canada — The Daily"
+  }
+ ],
+ "unverified_claims": [],
+ "brief": [
+  "Statistics Canada reported in its October 2026 Health Reports that 46% of Canadian adults met the recommendation of at least 150 minutes of moderate-to-vigorous physical activity per week, using accelerometer-measured data from the Canadian Health Measures Survey. The agency said the share of men aged 18 to 39 meeting the recommendation held stable at 65% from 2007 to 2024.",
+  "Over the same period, the share of women aged 18 to 39 meeting the recommendation fell from 52% to 43%, Statistics Canada said. Adults aged 60 to 79 moved the other way, with the share meeting the recommendation rising nine percentage points for both sexes between 2007 and 2024.",
+  "The agency also reported that from 2022 to 2024, 34% of women aged 18 to 39 needed only 5 to 10 more daily minutes to meet the recommendation, while 50% of women aged 60 to 79 logged under 10 qualifying minutes a day. About a third of adults recorded at least 7,500 steps daily over the period."
+ ],
+ "body": [
+  "Statistics Canada published Health Reports for October 2026 on October 21, 2026, reporting that 46% of Canadian adults met the public health recommendation of at least 150 minutes of moderate-to-vigorous physical activity per week. The figures are drawn from accelerometer-measured data collected through the Canadian Health Measures Survey, which the agency said allows tracking of population-level activity trends over time, covering the period from 2007 to 2024.",
+  "The agency said the share of men aged 18 to 39 meeting the recommendation held stable at 65% across that period, from 2007 to 2024. Over the same seventeen years, the share of women aged 18 to 39 meeting the recommendation declined, from 52% to 43%, according to the release. Statistics Canada did not state a reason for the divergence between the two groups.",
+  "Adults aged 60 to 79 moved in the opposite direction from the youngest cohort of women: the agency reported a nine-percentage-point increase in the share meeting the recommendation for both men and women in that age group between 2007 and 2024. The release did not provide the specific starting and ending percentages for this age group, only the size of the increase.",
+  "Statistics Canada said that knowing the share of adults who meet the 150-minute threshold does not tell the whole story, because it also matters how close those who fall short are to reaching it. The agency therefore also measured, for 2022 to 2024, the gap between non-compliant adults' actual activity levels and the recommended threshold.",
+  "Over that 2022-to-2024 period, 34% of women aged 18 to 39 needed only 5 to 10 additional minutes of activity a day to meet the recommendation, the agency said. Among women aged 60 to 79, 50% were getting less than 10 qualifying minutes of activity a day over the same period.",
+  "The release also reported that, from 2022 to 2024, approximately one-third of Canadian adults recorded at least 7,500 steps a day, with minimal differences between men and women on that measure over the period. The agency did not report a corresponding steps-based figure for 2007, so no comparable trend over time is available for step counts."
+ ]
+}

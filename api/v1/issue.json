@@ -1,144 +1,95 @@
 {
  "api": "v1",
- "generated_at": "2026-10-22T12:50:14Z",
+ "generated_at": "2026-10-23T12:57:23Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-22",
- "count": 3,
+ "issue_date": "2026-10-23",
+ "count": 2,
  "entries": [
   {
-   "slug": "pacific-imperial-ends-brownell-lake-option-agreement",
-   "url": "https://www.cmbulletin.com/posts/pacific-imperial-ends-brownell-lake-option-agreement.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/pacific-imperial-ends-brownell-lake-option-agreement.json",
-   "date": "2026-10-22T12:32:36Z",
-   "headline": "Pacific Imperial ends Brownell Lake option agreement",
-   "dek": "The company cited a lack of funding after its recent private placement was cancelled, as Eagle Plains Resources agreed to terminate the deal.",
-   "caption": "A gravel road winds through boreal forest toward a remote mineral claim.",
+   "slug": "lighthouse-gold-upsizes-private-placement-to-6-45-million",
+   "url": "https://www.cmbulletin.com/posts/lighthouse-gold-upsizes-private-placement-to-6-45-million.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/lighthouse-gold-upsizes-private-placement-to-6-45-million.json",
+   "date": "2026-10-23T12:29:06Z",
+   "headline": "Lighthouse Gold upsizes private placement to $6.45 million",
+   "dek": "Lighthouse Gold increased a private placement announced the day before, citing strong investor demand, with closing expected in early November.",
+   "caption": "An upsized financing: Lighthouse Gold's private placement now targets up to $6.45 million, the company said, citing investor demand.",
    "sections": [
     "mining"
    ],
    "tags": [
+    "Financing",
     "Mining",
-    "Exploration",
-    "Corporate"
+    "Gold"
    ],
    "tickers": [
-    "TSXV:PPM"
+    "CSE:LGHT"
    ],
-   "image": "https://www.cmbulletin.com/images/pacific-imperial-ends-brownell-lake-option-agreement.png",
+   "image": "https://www.cmbulletin.com/images/lighthouse-gold-upsizes-private-placement-to-6-45-million.png",
    "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Pacific Imperial Announces Cancellation of the Brownell Option Agreement",
-     "url": "https://thenewswire.com/press-releases/1BKRFa528-pacific-imperial-announces-cancellation-of-the-brownell-option-agreement.html",
+     "title": "Lighthouse Gold Upsizes Private Placement to up to $6,450,408 Million",
+     "url": "https://thenewswire.com/press-releases/1Be9F3Yjz-lighthouse-gold-upsizes-private-placement-to-up-to-6-450-408-million.html",
      "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The stated reason for the termination — lack of funding following the cancellation of a private placement — rests solely on the company's own characterization; the release does not identify the placement or its terms."
+    "The company's attribution of the increase to 'strong investor demand' rests on its own characterization."
    ],
    "brief": [
-    "Pacific Imperial Mines Inc. (TSXV: PPM) said it has reached a mutual agreement with Eagle Plains Resources Ltd. to terminate the Option Agreement covering the Brownell Lake VMS project, effective immediately. The company said the termination followed a lack of funding resulting from the recent cancellation of its private placement.",
-    "The release gives no further detail on the terms of the original Option Agreement or on the private placement that was cancelled. Pacific Imperial is a Vancouver-based mineral exploration company currently focused on its Babine and Fenton properties in British Columbia.",
-    "The company said its board of directors is actively reviewing its strategic options and will re-evaluate how to move forward. No timeline or further disclosure was given."
+    "Lighthouse Gold Inc. (CSE: LGHT) said on October 23, 2026 that it has increased the size of its private placement, first announced October 22, 2026, to up to 35,835,600 units at $0.18 per unit for gross proceeds of up to $6,450,408, citing strong investor demand.",
+    "Each unit comprises one common share and one-half of one share purchase warrant. Each whole warrant is exercisable for one additional share at $0.28 for two years from closing. The offering remains subject to regulatory approvals, including that of the Canadian Securities Exchange.",
+    "The company said it intends to use the proceeds for exploration and general working capital purposes. Closing is expected on or about November 4, 2026. The release did not name an agent or finder, or disclose insider participation in the offering."
    ],
    "body": [
-    "Pacific Imperial Mines Inc. (TSXV: PPM) announced on October 20, 2026 that it has reached a mutual agreement with Eagle Plains Resources Ltd. to terminate the Option Agreement on the Brownell Lake VMS project, effective immediately.",
-    "The company said the termination resulted from \"a lack of funding resulting from the recent cancellation of its private placement.\" The release does not identify which placement was cancelled, when, or on what terms, nor does it describe the terms of the original Option Agreement on the Brownell Lake project.",
-    "Pacific Imperial said its board of directors is actively reviewing the company's strategic options and will be re-evaluating how to move forward. No timeline was given for that review.",
-    "The release describes Pacific Imperial as a Vancouver-based mineral exploration company engaged in the acquisition, exploration, evaluation and development of mineral properties, with its current focus on the Babine and Fenton properties in British Columbia. The disclosure in this release is limited to the termination itself and gives no further operational or financial detail."
+    "Lighthouse Gold Inc. (CSE: LGHT) announced on October 23, 2026 that it has increased the size of a private placement first announced October 22, 2026. The company attributed the increase to strong investor demand.",
+    "The offering, originally up to 33,334,000 units at $0.18 per unit for gross proceeds of up to $6,000,120, has been increased to up to 35,835,600 units at the same $0.18 per unit, for gross proceeds of up to $6,450,408.",
+    "Each unit comprises one common share and one-half of one share purchase warrant, so two units together carry one whole warrant. Each whole warrant entitles the holder to purchase one additional share at an exercise price of $0.28 for a period of two years from the closing date.",
+    "The offering remains subject to the receipt of all necessary regulatory approvals, including approval from the Canadian Securities Exchange, the release said, with closing expected on or about November 4, 2026. Securities issued under it will be subject to a four-month-and-one-day hold period from closing. The release did not name an agent, underwriter or finder for the offering, or disclose whether any insiders are participating.",
+    "The company said it intends to use the proceeds for exploration and for general working capital purposes. Beyond that, the disclosure in this release is limited: it does not specify which exploration program or property the funds are earmarked for, or provide a budget breakdown between exploration and working capital."
    ]
   },
   {
-   "slug": "s-t-bancorp-posts-record-quarterly-earnings-per-share",
-   "url": "https://www.cmbulletin.com/posts/s-t-bancorp-posts-record-quarterly-earnings-per-share.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/s-t-bancorp-posts-record-quarterly-earnings-per-share.json",
-   "date": "2026-10-22T12:32:36Z",
-   "headline": "S&T Bancorp posts record quarterly earnings per share",
-   "dek": "The Pennsylvania bank holding company reported $38.6 million in third-quarter net income and continued its share buyback program.",
-   "caption": "A regional bank branch at dusk, lights on after the trading day has closed.",
+   "slug": "fewer-young-women-meet-activity-guidelines-statistics-canada-reports",
+   "url": "https://www.cmbulletin.com/posts/fewer-young-women-meet-activity-guidelines-statistics-canada-reports.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/fewer-young-women-meet-activity-guidelines-statistics-canada-reports.json",
+   "date": "2026-10-23T12:29:06Z",
+   "headline": "Fewer young women meet activity guidelines, Statistics Canada reports",
+   "dek": "Statistics Canada's October Health Reports found that 46% of Canadian adults met weekly activity guidelines, with activity trends diverging by age and sex.",
+   "caption": "Statistics Canada's October Health Reports tracked physical-activity trends among Canadian adults from 2007 to 2024, measured by accelerometer.",
    "sections": [
-    "news"
+    "markets"
    ],
    "tags": [
-    "Banking",
-    "Earnings",
-    "Capital Return"
+    "Macro",
+    "Statistics Canada",
+    "Health"
    ],
-   "tickers": [
-    "NASDAQ:STBA"
-   ],
-   "image": "https://www.cmbulletin.com/images/s-t-bancorp-posts-record-quarterly-earnings-per-share.png",
-   "source_name": "PR Newswire — financial services",
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/fewer-young-women-meet-activity-guidelines-statistics-canada-reports.png",
+   "source_name": "Statistics Canada — The Daily",
    "sources": [
     {
-     "title": "S&T Bancorp, Inc. Announces Third Quarter 2026 Results",
-     "url": "https://www.prnewswire.com/news-releases/st-bancorp-inc-announces-third-quarter-2026-results-302916262.html",
-     "publisher": "PR Newswire — financial services"
+     "title": "Health Reports, October 2026",
+     "url": "https://www.statcan.gc.ca/daily-quotidien/261021/dq261021c-eng.htm",
+     "publisher": "Statistics Canada — The Daily"
     }
    ],
-   "unverified_claims": [
-    "The characterization of diluted EPS and revenue as 'record' is the company's own description, stated in its release headline and CEO quote."
-   ],
+   "unverified_claims": [],
    "brief": [
-    "S&T Bancorp, Inc. (NASDAQ: STBA), the holding company for S&T Bank, reported net income of $38.6 million for the third quarter of 2026, compared with $36.6 million in the second quarter and $35.0 million a year earlier. Diluted earnings per share reached $1.09, which the company's release headlined as a record, up 6.9% from the prior quarter.",
-    "Net interest margin on a fully taxable equivalent basis expanded seven basis points to 4.06%. Nonperforming assets fell $3.7 million to $36.5 million, or 0.45% of total loans and other real estate owned. Total assets were flat at $9.9 billion, with total borrowings down $60.0 million to $215.3 million.",
-    "The company said it has repurchased 3,169,294 shares, 8.3% of shares outstanding, since the fourth quarter of 2025 at an average price of $42.09 per share, and declared a dividend of $0.37 per share. CEO Chris McComish said the quarter reflected \"record earnings per share, record revenue and higher core profitability.\""
+    "Statistics Canada reported in its October 2026 Health Reports that 46% of Canadian adults met the recommendation of at least 150 minutes of moderate-to-vigorous physical activity per week, using accelerometer-measured data from the Canadian Health Measures Survey. The agency said the share of men aged 18 to 39 meeting the recommendation held stable at 65% from 2007 to 2024.",
+    "Over the same period, the share of women aged 18 to 39 meeting the recommendation fell from 52% to 43%, Statistics Canada said. Adults aged 60 to 79 moved the other way, with the share meeting the recommendation rising nine percentage points for both sexes between 2007 and 2024.",
+    "The agency also reported that from 2022 to 2024, 34% of women aged 18 to 39 needed only 5 to 10 more daily minutes to meet the recommendation, while 50% of women aged 60 to 79 logged under 10 qualifying minutes a day. About a third of adults recorded at least 7,500 steps daily over the period."
    ],
    "body": [
-    "S&T Bancorp, Inc. (NASDAQ: STBA), the Indiana, Pennsylvania-based holding company for S&T Bank, reported third-quarter 2026 net income of $38.6 million, up from $36.6 million in the second quarter of 2026 and $35.0 million in the third quarter of 2025. Diluted earnings per share was $1.09, which the company said represented a 6.9% increase from the prior quarter and a 19.8% increase from a year earlier, and which its own release headlined as a record.",
-    "Profitability measures improved across the board: return on average assets was 1.55%, return on average equity was 10.84%, and return on average tangible shareholders' equity, a non-GAAP measure, was 14.81%. Net interest margin on a fully taxable equivalent basis expanded seven basis points from the prior quarter to 4.06%.",
-    "Asset quality metrics moved favorably. Nonperforming assets decreased $3.7 million to $36.5 million, representing 0.45% of total loans plus other real estate owned. Net charge-offs totaled $2.1 million, or 0.10% of average loans. The allowance for credit losses was unchanged at $93.3 million, or 1.16% of total portfolio loans.",
-    "On the balance sheet, total assets were flat at $9.9 billion. Total deposits decreased $22.2 million and total borrowings decreased $60.0 million to $215.3 million. Total portfolio loans decreased $4.4 million, which the company attributed to lower line utilization.",
-    "S&T Bancorp said it has repurchased 3,169,294 shares, or 8.3% of shares outstanding, since the fourth quarter of 2025, at an average price of $42.09 per share. Approximately 35.3 million shares were outstanding at quarter-end. The company also declared a dividend of $0.37 per share.",
-    "CEO Chris McComish said the results reflected \"record earnings per share, record revenue and higher core profitability.\""
-   ]
-  },
-  {
-   "slug": "norfolk-southern-reports-record-quarterly-revenue",
-   "url": "https://www.cmbulletin.com/posts/norfolk-southern-reports-record-quarterly-revenue.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/norfolk-southern-reports-record-quarterly-revenue.json",
-   "date": "2026-10-22T12:32:36Z",
-   "headline": "Norfolk Southern reports record quarterly revenue",
-   "dek": "The railroad posted $3.5 billion in third-quarter revenue and diluted earnings per share of $3.37, both up from a year earlier.",
-   "caption": "A long freight train moves through open countryside as the morning light breaks.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "Railroads",
-    "Earnings",
-    "Transportation"
-   ],
-   "tickers": [
-    "NYSE:NSC"
-   ],
-   "image": "https://www.cmbulletin.com/images/norfolk-southern-reports-record-quarterly-revenue.png",
-   "source_name": "PR Newswire — all news releases",
-   "sources": [
-    {
-     "title": "Norfolk Southern reports third quarter 2026 results",
-     "url": "https://www.prnewswire.com/news-releases/norfolk-southern-reports-third-quarter-2026-results-302916354.html",
-     "publisher": "PR Newswire — all news releases"
-    }
-   ],
-   "unverified_claims": [
-    "The characterization of revenue as a 'quarterly record' is the company's own description.",
-    "The operating-ratio comparisons and adjusted figures (excluding merger-related and Eastern Ohio incident costs) are non-GAAP measures as presented by the company."
-   ],
-   "brief": [
-    "Norfolk Southern Corporation (NYSE: NSC) reported third-quarter 2026 revenue of $3.5 billion, which the company's release called a quarterly record, up $423 million, or 14%, from a year earlier. Income from railway operations was $1.2 billion, up 5%, and diluted earnings per share was $3.37, up 7%.",
-    "The operating ratio, a measure of operating expenses against revenue, was 67.4%, compared with 64.6% a year earlier. Volume rose 3% year over year. The company said merger-related expenses and costs tied to the Eastern Ohio incident affected the reported figures.",
-    "Excluding those items, Norfolk Southern said adjusted income from railway operations was also $1.2 billion, up 7%, with an adjusted operating ratio of 65.4% and adjusted diluted earnings per share of $3.62, up 10%. CEO Mark George called it a quarter of \"solid execution.\""
-   ],
-   "body": [
-    "Norfolk Southern Corporation (NYSE: NSC) reported third-quarter 2026 results on October 22, 2026. Revenue was $3.5 billion, which the company's release described as a quarterly record, up $423 million, or 14%, from the third quarter of 2025. Income from railway operations was $1.2 billion, up $52 million, or 5%. Diluted earnings per share was $3.37, up $0.21, or 7%, from a year earlier.",
-    "The operating ratio — the share of revenue consumed by operating expenses, where a lower figure indicates greater efficiency — was 67.4% for the quarter, compared with 64.6% in the third quarter of 2025. The company said volume increased 3% year over year.",
-    "Norfolk Southern also reported adjusted results that it said exclude merger-related expenses and the effects of the Eastern Ohio incident. On that adjusted basis, income from railway operations was $1.2 billion, up 7% from a year earlier, with an adjusted operating ratio of 65.4%.",
-    "Adjusted diluted earnings per share was $3.62, up 10% from the third quarter of 2025.",
-    "CEO Mark George said: \"Norfolk Southern delivered another quarter of solid execution, with record revenues, and strong earnings growth.\"",
-    "The release described Norfolk Southern's network as spanning 22 states and moving approximately 7 million carloads annually, operating what it called the most extensive intermodal network in the eastern United States, and said rail transport helps its customers avoid approximately 15 million tons of carbon emissions each year."
+    "Statistics Canada published Health Reports for October 2026 on October 21, 2026, reporting that 46% of Canadian adults met the public health recommendation of at least 150 minutes of moderate-to-vigorous physical activity per week. The figures are drawn from accelerometer-measured data collected through the Canadian Health Measures Survey, which the agency said allows tracking of population-level activity trends over time, covering the period from 2007 to 2024.",
+    "The agency said the share of men aged 18 to 39 meeting the recommendation held stable at 65% across that period, from 2007 to 2024. Over the same seventeen years, the share of women aged 18 to 39 meeting the recommendation declined, from 52% to 43%, according to the release. Statistics Canada did not state a reason for the divergence between the two groups.",
+    "Adults aged 60 to 79 moved in the opposite direction from the youngest cohort of women: the agency reported a nine-percentage-point increase in the share meeting the recommendation for both men and women in that age group between 2007 and 2024. The release did not provide the specific starting and ending percentages for this age group, only the size of the increase.",
+    "Statistics Canada said that knowing the share of adults who meet the 150-minute threshold does not tell the whole story, because it also matters how close those who fall short are to reaching it. The agency therefore also measured, for 2022 to 2024, the gap between non-compliant adults' actual activity levels and the recommended threshold.",
+    "Over that 2022-to-2024 period, 34% of women aged 18 to 39 needed only 5 to 10 additional minutes of activity a day to meet the recommendation, the agency said. Among women aged 60 to 79, 50% were getting less than 10 qualifying minutes of activity a day over the same period.",
+    "The release also reported that, from 2022 to 2024, approximately one-third of Canadian adults recorded at least 7,500 steps a day, with minimal differences between men and women on that measure over the period. The agency did not report a corresponding steps-based figure for 2007, so no comparable trend over time is available for step counts."
    ]
   }
  ]
