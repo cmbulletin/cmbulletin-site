@@ -1,0 +1,49 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-24T12:48:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "howard-hughes-holdings-set-to-join-s-p-smallcap-600",
+ "url": "https://www.cmbulletin.com/posts/howard-hughes-holdings-set-to-join-s-p-smallcap-600.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/howard-hughes-holdings-set-to-join-s-p-smallcap-600.json",
+ "date": "2026-10-24T12:29:27Z",
+ "headline": "Howard Hughes Holdings set to join S&P SmallCap 600",
+ "dek": "The change follows CRH plc's acquisition of Arcosa Inc., which closed the same day, and takes effect before trading opens on October 28.",
+ "caption": "Morning light over a city skyline of office towers, as index providers rebalance ahead of the market open.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "Index Change",
+  "M&A",
+  "Real Estate"
+ ],
+ "tickers": [
+  "NYSE:HHH",
+  "NYSE:ACA"
+ ],
+ "image": "https://www.cmbulletin.com/images/howard-hughes-holdings-set-to-join-s-p-smallcap-600.png",
+ "source_name": "PR Newswire — financial services",
+ "sources": [
+  {
+   "title": "Howard Hughes Holdings Set to Join S&P SmallCap 600",
+   "url": "https://www.prnewswire.com/news-releases/howard-hughes-holdings-set-to-join-sp-smallcap-600-302918511.html",
+   "publisher": "PR Newswire — financial services"
+  }
+ ],
+ "unverified_claims": [
+  "S&P Dow Jones Indices' description of itself as 'the largest global resource for index-based concepts, data and research' is the index provider's own characterization."
+ ],
+ "brief": [
+  "Howard Hughes Holdings Inc. (NYSE: HHH) will replace Arcosa Inc. (NYSE: ACA) in the S&P SmallCap 600 effective before the opening of trading on October 28, S&P Dow Jones Indices said. The change follows the acquisition of Arcosa by S&P 500 constituent CRH plc (NYSE: CRH), in a deal that closed October 23.",
+  "S&P Dow Jones Indices, which manages benchmarks including the S&P 500 and the Dow Jones Industrial Average, classifies Howard Hughes under the Real Estate sector and had classified Arcosa under Industrials. The index provider said it operates as a division of S&P Global (NYSE: SPGI).",
+  "The release did not disclose the terms of CRH's acquisition of Arcosa beyond confirming that the deal had closed on October 23. The index addition and deletion take effect automatically on the stated date."
+ ],
+ "body": [
+  "Howard Hughes Holdings Inc. (NYSE: HHH) will replace Arcosa Inc. (NYSE: ACA) in the S&P SmallCap 600, S&P Dow Jones Indices said, effective before the opening of trading on Wednesday, October 28, 2026. The index provider classified Howard Hughes under the Real Estate sector and had classified Arcosa under Industrials.",
+  "The change was triggered by S&P 500 constituent CRH plc's (NYSE: CRH) acquisition of Arcosa, in a deal that closed the same day the index change was announced, October 23.",
+  "S&P Dow Jones Indices describes itself as the largest global resource for index-based concepts, data and research, home to benchmarks including the S&P 500 and the Dow Jones Industrial Average, and said more assets are invested in products based on its indices than any other provider globally. It operates as a division of S&P Global (NYSE: SPGI).",
+  "Beyond confirming that the CRH-Arcosa transaction had closed, the release disclosed no further terms of that acquisition, and gave no reason beyond the acquisition itself for Arcosa's removal from the index."
+ ]
+}

@@ -1,11 +1,159 @@
 {
  "api": "v1",
- "generated_at": "2026-10-23T12:57:23Z",
+ "generated_at": "2026-10-24T12:48:06Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 83,
+ "count": 87,
  "entries": [
+  {
+   "slug": "goat-industries-to-acquire-casino-contract-revenues-from-epoxy-ai",
+   "url": "https://www.cmbulletin.com/posts/goat-industries-to-acquire-casino-contract-revenues-from-epoxy-ai.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/goat-industries-to-acquire-casino-contract-revenues-from-epoxy-ai.json",
+   "date": "2026-10-24T12:29:27Z",
+   "headline": "GOAT Industries to acquire casino contract revenues from Epoxy AI",
+   "dek": "The deal, paid in 11,377,600 GOAT shares at C$0.25 each, covers rights to six U.S. tribal casino and sportsbook contracts.",
+   "caption": "An empty casino floor sits dark before opening, as a gaming operator restructures contract revenue through a share-based deal.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "M&A",
+    "Gaming",
+    "CSE"
+   ],
+   "tickers": [
+    "CSE:GOAT",
+    "OTC:BGTTF"
+   ],
+   "image": "https://www.cmbulletin.com/images/goat-industries-to-acquire-casino-contract-revenues-from-epoxy-ai.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "GOAT Industries Signs Definitive Agreement To Acquire Epoxy AI Customer Contract Revenues",
+     "url": "https://thenewswire.com/press-releases/1BQPF4Vzz-goat-industries-signs-definitive-agreement-to-acquire-epoxy-ai-customer-contract-revenues.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "Hank Frecon's statement that the agreement 'marks an important step forward in delivering on the strategy we outlined to shareholders' is a characterization by company management.",
+    "The description of a broader, previously announced acquisition strategy rests on the company's own characterization of its plans."
+   ],
+   "brief": [
+    "GOAT Industries Ltd. (CSE: GOAT) said its subsidiary, Source Gaming Company, has signed a definitive agreement dated October 20 to acquire customer contract revenues from Epoxy AI, LLC. The consideration is 11,377,600 GOAT common shares at C$0.25 per share.",
+    "The agreement gives Source Gaming rights to revenues, receivables and other amounts owed under six Epoxy customer contracts with U.S. tribal casinos and other casino and sports book operators. Epoxy is to assign the underlying contracts within six months of closing, subject to customer consents; until then, it will hold the revenue in trust for Source Gaming.",
+    "Completion is subject to conditions including the release of security interests and acceptance by the Canadian Securities Exchange, and either party may terminate the agreement if it has not closed by November 30, 2026. The release said a US$100,000 non-interest-bearing promissory note dated January 2026 remains outstanding and will survive completion of the transaction."
+   ]
+  },
+  {
+   "slug": "howard-hughes-holdings-set-to-join-s-p-smallcap-600",
+   "url": "https://www.cmbulletin.com/posts/howard-hughes-holdings-set-to-join-s-p-smallcap-600.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/howard-hughes-holdings-set-to-join-s-p-smallcap-600.json",
+   "date": "2026-10-24T12:29:27Z",
+   "headline": "Howard Hughes Holdings set to join S&P SmallCap 600",
+   "dek": "The change follows CRH plc's acquisition of Arcosa Inc., which closed the same day, and takes effect before trading opens on October 28.",
+   "caption": "Morning light over a city skyline of office towers, as index providers rebalance ahead of the market open.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Index Change",
+    "M&A",
+    "Real Estate"
+   ],
+   "tickers": [
+    "NYSE:HHH",
+    "NYSE:ACA"
+   ],
+   "image": "https://www.cmbulletin.com/images/howard-hughes-holdings-set-to-join-s-p-smallcap-600.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "Howard Hughes Holdings Set to Join S&P SmallCap 600",
+     "url": "https://www.prnewswire.com/news-releases/howard-hughes-holdings-set-to-join-sp-smallcap-600-302918511.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [
+    "S&P Dow Jones Indices' description of itself as 'the largest global resource for index-based concepts, data and research' is the index provider's own characterization."
+   ],
+   "brief": [
+    "Howard Hughes Holdings Inc. (NYSE: HHH) will replace Arcosa Inc. (NYSE: ACA) in the S&P SmallCap 600 effective before the opening of trading on October 28, S&P Dow Jones Indices said. The change follows the acquisition of Arcosa by S&P 500 constituent CRH plc (NYSE: CRH), in a deal that closed October 23.",
+    "S&P Dow Jones Indices, which manages benchmarks including the S&P 500 and the Dow Jones Industrial Average, classifies Howard Hughes under the Real Estate sector and had classified Arcosa under Industrials. The index provider said it operates as a division of S&P Global (NYSE: SPGI).",
+    "The release did not disclose the terms of CRH's acquisition of Arcosa beyond confirming that the deal had closed on October 23. The index addition and deletion take effect automatically on the stated date."
+   ]
+  },
+  {
+   "slug": "hyperliquid-strategies-boosts-buyback-authorization-to-100-million",
+   "url": "https://www.cmbulletin.com/posts/hyperliquid-strategies-boosts-buyback-authorization-to-100-million.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/hyperliquid-strategies-boosts-buyback-authorization-to-100-million.json",
+   "date": "2026-10-24T12:29:27Z",
+   "headline": "Hyperliquid Strategies boosts buyback authorization to $100 million",
+   "dek": "The board extended the program's expiration from December 2026 to October 31, 2027, and said about $72 million remains available for buybacks under the enlarged authorization.",
+   "caption": "A trading floor glows before the open, as capital-return programs expand across digital-asset treasury companies.",
+   "sections": [
+    "financings"
+   ],
+   "tags": [
+    "Capital Structure",
+    "Buyback",
+    "Digital Assets"
+   ],
+   "tickers": [
+    "NASDAQ:PURR"
+   ],
+   "image": "https://www.cmbulletin.com/images/hyperliquid-strategies-boosts-buyback-authorization-to-100-million.png",
+   "source_name": "PR Newswire — financial services",
+   "sources": [
+    {
+     "title": "Hyperliquid Strategies Inc Announces Increase of Stock Repurchase Program to $100 Million",
+     "url": "https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-increase-of-stock-repurchase-program-to-100-million-302918312.html",
+     "publisher": "PR Newswire — financial services"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization that the increase 'reflects the Board's confidence in the Company's long-term capital strategy' is the company's own stated rationale.",
+    "The company's description of itself as a digital asset treasury company focused on HYPE token accumulation for U.S. and institutional investors is the company's own description."
+   ],
+   "brief": [
+    "Hyperliquid Strategies Inc. (Nasdaq: PURR) said its board of directors increased the company's stock repurchase authorization to $100 million from $30 million, with about $72 million remaining available for buybacks. The board also extended the program's termination date to October 31, 2027, from December 5, 2026.",
+    "The company describes itself as a digital asset treasury company focused on accumulating HYPE, the native token of the Hyperliquid blockchain network, for U.S. and institutional investors. The release said repurchases may occur through open market transactions, privately negotiated transactions, or other means permitted under federal securities laws.",
+    "The timing, number and value of any shares repurchased will depend on the stock price, market conditions and legal requirements, and remain at management's discretion, the release said. The board may extend, suspend or discontinue the program at any time without notice."
+   ]
+  },
+  {
+   "slug": "canadian-retail-sales-rose-1-2-in-august",
+   "url": "https://www.cmbulletin.com/posts/canadian-retail-sales-rose-1-2-in-august.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/canadian-retail-sales-rose-1-2-in-august.json",
+   "date": "2026-10-24T12:29:27Z",
+   "headline": "Canadian retail sales rose 1.2% in August",
+   "dek": "Statistics Canada said sales reached $74.6 billion, with gains in all nine retail subsectors and a preliminary estimate pointing to a 0.7% rise in September.",
+   "caption": "Shoppers move through a plaza at dusk, as Statistics Canada reports another month of broad-based retail gains.",
+   "sections": [
+    "markets"
+   ],
+   "tags": [
+    "Macro",
+    "Retail",
+    "Statistics Canada"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/canadian-retail-sales-rose-1-2-in-august.png",
+   "source_name": "Statistics Canada — The Daily",
+   "sources": [
+    {
+     "title": "Retail trade, August 2026",
+     "url": "https://www.statcan.gc.ca/daily-quotidien/261023/dq261023a-eng.htm",
+     "publisher": "Statistics Canada — The Daily"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Statistics Canada said Canadian retail sales rose 1.2% to $74.6 billion in August, with sales increasing across all nine retail subsectors. Motor vehicle and parts dealers led the gain, also up 1.2%, while gasoline stations rose 1.7% and food and beverage retailers increased 1.1%, their first gain in three months.",
+    "Core retail sales, which exclude gasoline stations and motor vehicle and parts dealers, rose 1.1%. In volume terms, which adjust for price changes, sales were also up 1.2%. E-commerce sales totalled $5.6 billion, an increase of 1.1%, representing 7.6% of total retail trade for the month, the agency said.",
+    "Ontario led provincial gains, up 2.2% to $28.5 billion, followed by British Columbia, up 2.1% to $10.0 billion. Sales declined in Newfoundland and Labrador, Prince Edward Island, New Brunswick, Alberta, Yukon and Nunavut, by 0.1% to 0.6%. A preliminary estimate for September points to a 0.7% increase, the agency said."
+   ]
+  },
   {
    "slug": "lighthouse-gold-upsizes-private-placement-to-6-45-million",
    "url": "https://www.cmbulletin.com/posts/lighthouse-gold-upsizes-private-placement-to-6-45-million.html",

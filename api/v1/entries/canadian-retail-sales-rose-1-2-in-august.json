@@ -1,0 +1,44 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-24T12:48:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "canadian-retail-sales-rose-1-2-in-august",
+ "url": "https://www.cmbulletin.com/posts/canadian-retail-sales-rose-1-2-in-august.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/canadian-retail-sales-rose-1-2-in-august.json",
+ "date": "2026-10-24T12:29:27Z",
+ "headline": "Canadian retail sales rose 1.2% in August",
+ "dek": "Statistics Canada said sales reached $74.6 billion, with gains in all nine retail subsectors and a preliminary estimate pointing to a 0.7% rise in September.",
+ "caption": "Shoppers move through a plaza at dusk, as Statistics Canada reports another month of broad-based retail gains.",
+ "sections": [
+  "markets"
+ ],
+ "tags": [
+  "Macro",
+  "Retail",
+  "Statistics Canada"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/canadian-retail-sales-rose-1-2-in-august.png",
+ "source_name": "Statistics Canada — The Daily",
+ "sources": [
+  {
+   "title": "Retail trade, August 2026",
+   "url": "https://www.statcan.gc.ca/daily-quotidien/261023/dq261023a-eng.htm",
+   "publisher": "Statistics Canada — The Daily"
+  }
+ ],
+ "unverified_claims": [],
+ "brief": [
+  "Statistics Canada said Canadian retail sales rose 1.2% to $74.6 billion in August, with sales increasing across all nine retail subsectors. Motor vehicle and parts dealers led the gain, also up 1.2%, while gasoline stations rose 1.7% and food and beverage retailers increased 1.1%, their first gain in three months.",
+  "Core retail sales, which exclude gasoline stations and motor vehicle and parts dealers, rose 1.1%. In volume terms, which adjust for price changes, sales were also up 1.2%. E-commerce sales totalled $5.6 billion, an increase of 1.1%, representing 7.6% of total retail trade for the month, the agency said.",
+  "Ontario led provincial gains, up 2.2% to $28.5 billion, followed by British Columbia, up 2.1% to $10.0 billion. Sales declined in Newfoundland and Labrador, Prince Edward Island, New Brunswick, Alberta, Yukon and Nunavut, by 0.1% to 0.6%. A preliminary estimate for September points to a 0.7% increase, the agency said."
+ ],
+ "body": [
+  "Statistics Canada said retail sales in Canada rose 1.2% to $74.6 billion in August 2026, with increases recorded across all nine retail subsectors tracked in the survey. Motor vehicle and parts dealers posted the largest gain, also up 1.2%; gasoline stations rose 1.7%; and food and beverage retailers increased 1.1%, their first gain in three months, the agency said.",
+  "Core retail sales, a measure that excludes gasoline stations and motor vehicle and parts dealers, rose 1.1% in August. In volume terms, which adjust the dollar figures for price changes, sales were also up 1.2%, indicating the increase reflected a rise in the quantity of goods sold rather than price alone.",
+  "Provincial results varied. Ontario led with a 2.2% increase to $28.5 billion in retail sales, and British Columbia followed with a 2.1% increase to $10.0 billion. Sales declined in six provinces and territories — Newfoundland and Labrador, Prince Edward Island, New Brunswick, Alberta, Yukon and Nunavut — by between 0.1% and 0.6%, the agency said. E-commerce sales totalled $5.6 billion in August, up 1.1% from July and accounting for 7.6% of total retail trade for the month.",
+  "Statistics Canada also published an advance estimate for September 2026, suggesting retail sales rose 0.7% for the month. The agency said the estimate is preliminary, based on a survey response rate of 58.5% compared with a historical average of 86.8%, and is subject to revision. The retail sales data are seasonally adjusted and reported in current dollars, the agency said."
+ ]
+}
