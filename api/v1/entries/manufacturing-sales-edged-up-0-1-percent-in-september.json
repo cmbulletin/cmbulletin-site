@@ -1,0 +1,44 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-25T12:44:40Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "manufacturing-sales-edged-up-0-1-percent-in-september",
+ "url": "https://www.cmbulletin.com/posts/manufacturing-sales-edged-up-0-1-percent-in-september.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/manufacturing-sales-edged-up-0-1-percent-in-september.json",
+ "date": "2026-10-25T12:28:49Z",
+ "headline": "Manufacturing sales edged up 0.1 percent in September",
+ "dek": "Statistics Canada's advance estimate points to gains led by petroleum and coal products and aerospace, with final figures due November 13.",
+ "caption": "Statistics Canada's advance estimate shows manufacturing sales edging up 0.1 percent in September, with final figures due in November.",
+ "sections": [
+  "markets"
+ ],
+ "tags": [
+  "Macro",
+  "Manufacturing",
+  "Statistics Canada"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/manufacturing-sales-edged-up-0-1-percent-in-september.png",
+ "source_name": "Statistics Canada — The Daily",
+ "sources": [
+  {
+   "title": "Monthly Survey of Manufacturing: Advance indicator, September 2026",
+   "url": "https://www.statcan.gc.ca/daily-quotidien/261023/dq261023b-eng.htm",
+   "publisher": "Statistics Canada — The Daily"
+  }
+ ],
+ "unverified_claims": [],
+ "brief": [
+  "Statistics Canada's advance indicator estimates that total manufacturing sales edged up 0.1% in September 2026. The largest increases were in the petroleum and coal product subsector and the aerospace product and parts industry group; the agency gives no specific percentage for either.",
+  "The advance estimate is based on a weighted response rate of 71.3%, compared with an average final response rate of 92.4% over the preceding 12 months, so it carries more revision risk than a final figure.",
+  "Statistics Canada's official manufacturing sales figures for September are scheduled for release on November 13, 2026. The advance release gives no breakdown of other subsectors and no commentary beyond the aggregate figure and the two named industry groups."
+ ],
+ "body": [
+  "Statistics Canada released an advance indicator on October 23, 2026 estimating that total manufacturing sales edged up 0.1% in September 2026. The agency said the largest increases were in the petroleum and coal product subsector and the aerospace product and parts industry group.",
+  "The release gives no specific percentage change for either of those two groups, and no figures for any other subsector.",
+  "Statistics Canada said the advance estimate is based on a weighted response rate of 71.3%, compared with an average final response rate of 92.4% over the preceding 12 months — a lower response rate that the agency says carries more risk of revision than a final estimate.",
+  "The agency's official manufacturing sales figures for September 2026 are scheduled for release on November 13, 2026. The disclosure in this advance release is limited to the single aggregate figure, the two named industry groups, and the response-rate caveat; no further detail or commentary is given."
+ ]
+}
