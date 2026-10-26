@@ -1,140 +1,60 @@
 {
  "api": "v1",
- "generated_at": "2026-10-25T12:44:40Z",
+ "generated_at": "2026-10-26T14:50:11Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-25",
- "count": 3,
+ "issue_date": "2026-10-26",
+ "count": 1,
  "entries": [
   {
-   "slug": "metrocity-bankshares-reports-24-3-million-third-quarter-net-income",
-   "url": "https://www.cmbulletin.com/posts/metrocity-bankshares-reports-24-3-million-third-quarter-net-income.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/metrocity-bankshares-reports-24-3-million-third-quarter-net-income.json",
-   "date": "2026-10-25T12:28:49Z",
-   "headline": "MetroCity Bankshares reports $24.3 million third-quarter net income",
-   "dek": "Diluted earnings per share rose to $0.84 for the quarter, with nine-month net income reaching $68.7 million, both ahead of the prior year.",
-   "caption": "Metro City Bank's holding company reported higher third-quarter profit, deposits and loan balances as of September 30, 2026.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "Banking",
-    "Earnings"
-   ],
-   "tickers": [
-    "NASDAQ:MCBS"
-   ],
-   "image": "https://www.cmbulletin.com/images/metrocity-bankshares-reports-24-3-million-third-quarter-net-income.png",
-   "source_name": "PR Newswire — financial services",
-   "sources": [
-    {
-     "title": "METROCITY BANKSHARES, INC. REPORTS EARNINGS FOR THIRD QUARTER 2026",
-     "url": "https://www.prnewswire.com/news-releases/metrocity-bankshares-inc-reports-earnings-for-third-quarter-2026-302918089.html",
-     "publisher": "PR Newswire — financial services"
-    }
-   ],
-   "unverified_claims": [
-    "Quarterly and nine-month financial results are as reported by the company in its earnings release and have not yet been reflected in a Form 10-Q filing."
-   ],
-   "brief": [
-    "MetroCity Bankshares, Inc. (NASDAQ: MCBS), the holding company for Metro City Bank, reported net income of $24.3 million, or $0.84 per diluted share, for the third quarter of 2026. That compares with $22.1 million, or $0.76 per diluted share, in the second quarter, and $17.3 million, or $0.67 per diluted share, in the third quarter of 2025.",
-    "For the nine months ended September 30, 2026, net income was $68.7 million, or $2.37 per diluted share, against $50.4 million, or $1.96 per diluted share, for the same period in 2025. The company reported return on average assets of 2.12%, return on average equity of 16.97% and a net interest margin of 4.07% for the quarter.",
-    "At quarter-end, total assets stood at $4.60 billion, gross loans held for investment at $3.98 billion and total deposits at $3.56 billion, of which 23.3% was noninterest-bearing. Dividends per share for the nine months reached $0.87, up from $0.71 a year earlier. The release's cautionary language notes results could differ with economic and rate conditions."
-   ],
-   "body": [
-    "MetroCity Bankshares, Inc. (NASDAQ: MCBS), the Atlanta-based holding company for Metro City Bank, reported net income of $24.3 million, or $0.84 per diluted share, for the third quarter of 2026 ended September 30, 2026, according to its earnings release dated October 23, 2026.",
-    "The third-quarter result compares with net income of $22.1 million, or $0.76 per diluted share, in the second quarter of 2026, and with $17.3 million, or $0.67 per diluted share, in the third quarter of 2025 — increases of 9.8% and 40.7%, respectively, as stated in the release.",
-    "For the nine months ended September 30, 2026, the company reported net income of $68.7 million, or $2.37 per diluted share, compared with $50.4 million, or $1.96 per diluted share, for the nine months ended September 30, 2025, an increase of 36.4%.",
-    "For the third quarter, MetroCity reported return on average assets of 2.12%, return on average equity of 16.97% and a net interest margin of 4.07%, according to the release.",
-    "At September 30, 2026, the company reported total assets of $4.60 billion, gross loans held for investment of $3.98 billion and total deposits of $3.56 billion. Noninterest-bearing deposits were $828.3 million, representing 23.3% of total deposits, and uninsured deposits represented 34.7% of total deposits.",
-    "Dividends paid per share for the nine months ended September 30, 2026 totaled $0.87, compared with $0.71 for the same period in 2025. The release names Farid Tan as President and Interim Chief Financial Officer; no other executive is quoted.",
-    "The release includes cautionary language stating that actual results could differ from any forward-looking statements due to factors including economic and market conditions, changes in interest rates, competitive pressures in the banking industry, and regulatory developments. It provides no additional guidance beyond the figures reported for the quarter and nine-month period."
-   ]
-  },
-  {
-   "slug": "permian-basin-royalty-trust-sets-date-for-unitholder-vote",
-   "url": "https://www.cmbulletin.com/posts/permian-basin-royalty-trust-sets-date-for-unitholder-vote.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/permian-basin-royalty-trust-sets-date-for-unitholder-vote.json",
-   "date": "2026-10-25T12:28:49Z",
-   "headline": "Permian Basin Royalty Trust sets date for unitholder vote",
-   "dek": "Record date is October 13 and the special meeting is set for November 23, 2026, to vote on a proposed business combination and incentive plan.",
-   "caption": "Argent Trust Company set a record date and meeting date for Permian Basin Royalty Trust unitholders to vote on SoftVest-requested proposals.",
+   "slug": "ovintiv-to-acquire-logan-energy-for-c-1-26-billion",
+   "url": "https://www.cmbulletin.com/posts/ovintiv-to-acquire-logan-energy-for-c-1-26-billion.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/ovintiv-to-acquire-logan-energy-for-c-1-26-billion.json",
+   "date": "2026-10-26T14:35:24Z",
+   "headline": "Ovintiv to acquire Logan Energy for C$1.26 billion",
+   "dek": "The all-cash deal adds about 266,000 net acres and 20,000 barrels of oil equivalent a day in the Montney's oil window, with closing expected early in 2027.",
+   "caption": "Oil infrastructure in the Montney formation, where Ovintiv has agreed to acquire fellow producer Logan Energy for roughly $890 million.",
    "sections": [
     "energy"
    ],
    "tags": [
-    "Oil & Gas",
-    "Governance",
-    "Special Meeting"
+    "M&A",
+    "Energy",
+    "Oil & Gas"
    ],
    "tickers": [
-    "NYSE:PBT"
+    "NYSE:OVV",
+    "TSX:OVV",
+    "TSXV:LGN"
    ],
-   "image": "https://www.cmbulletin.com/images/permian-basin-royalty-trust-sets-date-for-unitholder-vote.png",
-   "source_name": "PR Newswire — financial services",
+   "image": "https://www.cmbulletin.com/images/ovintiv-to-acquire-logan-energy-for-c-1-26-billion.png",
+   "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
-     "title": "PERMIAN BASIN ROYALTY TRUST ANNOUNCES RECORD DATE AND MEETING DATE FOR SPECIAL MEETING TO CONSIDER SOFTVEST PROPOSALS",
-     "url": "https://www.prnewswire.com/news-releases/permian-basin-royalty-trust-announces-record-date-and-meeting-date-for-special-meeting-to-consider-softvest-proposals-302918456.html",
-     "publisher": "PR Newswire — financial services"
+     "title": "Ovintiv Announces Agreement to Acquire Montney Oil Producer, Logan Energy Corp.",
+     "url": "https://investingnews.com/ovintiv-announces-agreement-to-acquire-montney-oil-producer-logan-energy-corp/",
+     "publisher": "Investing News Network — Resource Investing"
     }
    ],
    "unverified_claims": [
-    "SoftVest Advisors, LLC's stated ownership, together with other unitholders, of more than 15% of outstanding trust units is as asserted in the request to the trustee, per the release."
+    "The projected 2027 accretion of approximately 5% to Non-GAAP Cash Flow per Share and 3% to Non-GAAP Free Cash Flow per Share is a company estimate.",
+    "The expected annual cost synergies of about $60 million and capital savings of more than $2 million per well are company estimates.",
+    "Ovintiv's expectation that net debt will be below $4 billion after closing is a forward-looking company estimate.",
+    "The classification of well locations as 'premium return' or 'upside' reflects Ovintiv's own characterization."
    ],
    "brief": [
-    "Argent Trust Company, as trustee of Permian Basin Royalty Trust (NYSE: PBT), announced a record date of October 13, 2026 and a special meeting of unitholders for November 23, 2026. The meeting was requested by SoftVest Advisors, LLC together with other unitholders the trust says collectively hold more than 15% of outstanding units.",
-    "Unitholders will vote on three proposals: an amendment to the Trust Indenture to effect a Business Combination under a Combination Agreement; the terms of the PBT Land and Minerals, Inc. Omnibus Incentive Plan; and authority to adjourn the meeting if needed to solicit additional proxies. The trustee said it is not recommending how unitholders should vote.",
-    "The release does not describe the terms of the Business Combination or the incentive plan; it directs unitholders to the trust's Form S-4 and Form S-1 filed with the Securities and Exchange Commission. A formal notice of the meeting was to be mailed to unitholders beginning October 23, 2026."
+    "Ovintiv Inc. (NYSE:OVV, TSX:OVV) has agreed to acquire Logan Energy Corp. (TSXV:LGN) for C$1.40 per share in cash, a transaction valued at approximately $890 million, or C$1.26 billion, including the assumption of Logan's net debt. The boards of both companies have unanimously approved the agreement.",
+    "The deal adds roughly 266,000 net acres in the Montney's oil window, about 20,000 barrels of oil equivalent a day of current production, plus 420 net well locations, 220 of them premium return. It also brings about 60,000 net acres of Duvernay shale exposure and two new oil batteries at Simonette with combined capacity of 24,000 barrels a day.",
+    "The transaction is expected to close early in the first quarter of 2027, subject to Logan shareholder, court and regulatory approvals and customary closing conditions. Ovintiv said it expects annual cost synergies of about $60 million, net debt below $4 billion after closing, and an unchanged target of returning at least 60% of 2026 non-GAAP free cash flow to shareholders."
    ],
    "body": [
-    "Argent Trust Company, as trustee ('Trustee') of Permian Basin Royalty Trust (NYSE: PBT), announced on October 23, 2026 that it has set a record date of October 13, 2026 and a special meeting date of November 23, 2026 for unitholders to vote on proposals tied to a previously disclosed Business Combination.",
-    "The special meeting was called at the request of SoftVest Advisors, LLC, together with other holders of trust units who, the release states, collectively own more than 15% of outstanding units.",
-    "The first proposal asks unitholders to approve and adopt the terms of an amendment to the Trust Indenture to effect the Business Combination pursuant to a Combination Agreement.",
-    "The second proposal asks unitholders to approve and adopt the terms of the PBT Land and Minerals, Inc. Omnibus Incentive Plan. The release does not describe what the plan covers beyond its name.",
-    "The third proposal would authorize an adjournment of the special meeting, if necessary or appropriate, to permit the solicitation of additional proxies.",
-    "The trustee states that it is not making any recommendation to unitholders as to how to vote on the proposals. It said additional details regarding the special meeting would be set forth in the trustee's notice, to be mailed to unitholders beginning October 23, 2026.",
-    "For the substance of the Business Combination and the incentive plan, the release directs unitholders to the trust's Form S-4 and Form S-1 registration statements filed with the Securities and Exchange Commission, rather than describing their terms itself."
-   ]
-  },
-  {
-   "slug": "manufacturing-sales-edged-up-0-1-percent-in-september",
-   "url": "https://www.cmbulletin.com/posts/manufacturing-sales-edged-up-0-1-percent-in-september.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/manufacturing-sales-edged-up-0-1-percent-in-september.json",
-   "date": "2026-10-25T12:28:49Z",
-   "headline": "Manufacturing sales edged up 0.1 percent in September",
-   "dek": "Statistics Canada's advance estimate points to gains led by petroleum and coal products and aerospace, with final figures due November 13.",
-   "caption": "Statistics Canada's advance estimate shows manufacturing sales edging up 0.1 percent in September, with final figures due in November.",
-   "sections": [
-    "markets"
-   ],
-   "tags": [
-    "Macro",
-    "Manufacturing",
-    "Statistics Canada"
-   ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/manufacturing-sales-edged-up-0-1-percent-in-september.png",
-   "source_name": "Statistics Canada — The Daily",
-   "sources": [
-    {
-     "title": "Monthly Survey of Manufacturing: Advance indicator, September 2026",
-     "url": "https://www.statcan.gc.ca/daily-quotidien/261023/dq261023b-eng.htm",
-     "publisher": "Statistics Canada — The Daily"
-    }
-   ],
-   "unverified_claims": [],
-   "brief": [
-    "Statistics Canada's advance indicator estimates that total manufacturing sales edged up 0.1% in September 2026. The largest increases were in the petroleum and coal product subsector and the aerospace product and parts industry group; the agency gives no specific percentage for either.",
-    "The advance estimate is based on a weighted response rate of 71.3%, compared with an average final response rate of 92.4% over the preceding 12 months, so it carries more revision risk than a final figure.",
-    "Statistics Canada's official manufacturing sales figures for September are scheduled for release on November 13, 2026. The advance release gives no breakdown of other subsectors and no commentary beyond the aggregate figure and the two named industry groups."
-   ],
-   "body": [
-    "Statistics Canada released an advance indicator on October 23, 2026 estimating that total manufacturing sales edged up 0.1% in September 2026. The agency said the largest increases were in the petroleum and coal product subsector and the aerospace product and parts industry group.",
-    "The release gives no specific percentage change for either of those two groups, and no figures for any other subsector.",
-    "Statistics Canada said the advance estimate is based on a weighted response rate of 71.3%, compared with an average final response rate of 92.4% over the preceding 12 months — a lower response rate that the agency says carries more risk of revision than a final estimate.",
-    "The agency's official manufacturing sales figures for September 2026 are scheduled for release on November 13, 2026. The disclosure in this advance release is limited to the single aggregate figure, the two named industry groups, and the response-rate caveat; no further detail or commentary is given."
+    "Ovintiv Inc. (NYSE:OVV, TSX:OVV) said it has agreed to acquire Logan Energy Corp. (TSXV:LGN) in an all-cash transaction. Logan shareholders will receive C$1.40 per share, for total consideration of approximately $890 million, or C$1.26 billion, including the assumption of Logan's net debt. The agreement was announced October 26, 2026, and the boards of both companies have unanimously approved it.",
+    "The transaction brings Ovintiv roughly 266,000 net acres in the oil-rich window of the Montney formation, along with about 20,000 barrels of oil equivalent a day of current production, the release said. Ovintiv said the acreage carries approximately 420 net oil well locations drilled on a 10,000-foot equivalent lateral basis, including about 220 it classifies as premium return locations, at an average cost of $1.5 million per location, and roughly 200 as upside locations.",
+    "The release said Logan's assets also include about 60,000 net acres with exposure to the Duvernay shale, two new oil batteries at Simonette with combined capacity of 24,000 barrels of oil a day, and interests in two natural gas processing facilities. These assets are included within the total consideration of approximately $890 million, or C$1.26 billion, that Ovintiv has agreed to pay, including the assumption of Logan's net debt.",
+    "Ovintiv said the acquisition is expected to be accretive to its 2027 Non-GAAP Cash Flow per Share by approximately 5% and to its Non-GAAP Free Cash Flow per Share by approximately 3%. The company also said it expects annual cost synergies of about $60 million and capital savings of more than $2 million per well, and that its net debt is expected to be below $4 billion following the transaction's close.",
+    "Ovintiv President and CEO Brendan McCracken said: \"This bolt-on transaction delivers value for our shareholders by adding high margin oil and condensate production and infrastructure, utilizing our operational advantage to drive significant synergies, and adding to our already deep drilling inventory and future growth optionality.\" The release's own headline described the transaction as unlocking 'incremental profitability,' providing 'additional oil growth optionality' and adding to 'premium return drilling inventory.'",
+    "Completion is expected early in the first quarter of 2027, subject to Logan shareholder approval, court approval, customary regulatory approvals and other customary closing conditions, the release said. RBC Capital Markets is acting as exclusive financial advisor to Ovintiv on the transaction, with Blake, Cassels & Graydon LLP and Paul, Weiss, Rifkind, Wharton & Garrison LLP serving as Ovintiv's legal advisors. Ovintiv said its targeted shareholder returns are unchanged, with at least 60% of 2026 Non-GAAP Free Cash Flow expected to be returned to shareholders."
    ]
   }
  ]
