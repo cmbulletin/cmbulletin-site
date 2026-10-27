@@ -261,6 +261,7 @@ a.stretch:hover { color: inherit; }
 /* No read-through to sit beside it: the opening paragraph takes the measure. */
 .lead__more--solo { grid-template-columns: minmax(0, 1fr) !important; max-width: 44em; }
 .lead__brief { margin: 0; font-size: 17px; line-height: 1.6; }
+.lead__brief + .lead__brief { margin-top: 12px; }
 /* A wide window sets the lead's photograph beside its text rather than above
    it: stacked, a full-width photo grew to some 630px tall at 1920px and the
    Markets column ran out 600px before the lead did. Since the afternoon of 27
@@ -276,6 +277,10 @@ a.stretch:hover { color: inherit; }
   .lead__text .lead__more .rt { display: none; }
   .lead__title { font-size: clamp(36px, 3.3vw, 68px); }
   .lead__more { grid-template-columns: minmax(0, 1fr) !important; }
+  /* Set by _lead_fit_script when the story's own column is the shorter one:
+     the read-through moves under the opening paragraph instead. */
+  .lead.rt-in-text .lead__media .rt--side { display: none; }
+  .lead.rt-in-text .lead__text .lead__more .rt { display: block; }
 }
 .readmore { font-family: var(--mono); font-size: 12.5px; font-weight: 500; color: var(--accent); white-space: nowrap; }
 .rt__head { font-family: var(--mono); font-size: 12.5px; font-weight: 500; color: var(--ink-soft); margin: 0 0 6px; }
@@ -501,35 +506,23 @@ a.stretch:hover { color: inherit; }
 .panes__wrap > .pane + .pane { margin-top: 30px; }
 .pane > .board__group:first-child { font-family: var(--sans); font-size: 19px; font-weight: 700; letter-spacing: -.015em; color: var(--ink); padding: 20px 0 10px; }
 
-/* The markets page at full width: each group a grid of instrument tiles —
-   name, the level large, the change, the month's line across the tile —
-   rather than three rows stretched across 1,700px with the name at one end and
-   the figure at the other (Conrad, 27 October 2026, on that page: "make these
-   better"). Hairline cells sharing their rules; no boxes, shadows or radii. */
-/* One tile width across every group, so the index reads as one table of
-   instruments; each tile carries its own hairlines (overlapped by a pixel), so
-   a short group ends where its tiles end rather than in a ruled empty box. */
-.front-wide .board__rows {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  padding: 0 1px 1px 0;
+/* The markets page: every group a compact table — name, the month's line,
+   level, change — and the groups flowed in newspaper columns across the whole
+   width, so a group of three and a group of nine both sit tight and nothing
+   leaves a half-empty row. Conrad, 27 October 2026, on the tile grid that
+   stood here for an hour: "i dont like empty space like this, and i dont like
+   this type of display". */
+@media (min-width: 900px) {
+  .front-wide .board .panes__wrap { columns: 440px; column-gap: clamp(36px, 3vw, 60px); column-rule: 1px solid var(--rule); }
+  .front-wide .board .pane { break-inside: avoid; margin: 0 0 28px; }
+  .front-wide .board .panes__wrap > .pane + .pane { margin-top: 0; }
+  .front-wide .board .pane > .board__group:first-child { padding-top: 14px; }
 }
-@media (min-width: 720px) { .front-wide .board__rows { grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); } }
-.front-wide .board__rows > .board__row {
-  grid-template-columns: minmax(0, 1fr) auto;
-  grid-template-areas: "name pct" "last last" "spark spark";
-  align-items: baseline;
-  gap: 8px 12px;
-  padding: 16px 18px 14px;
-  border: 1px solid var(--rule);
-  margin: 0 -1px -1px 0;
-}
-.front-wide .board__rows > .board__row:hover { background: var(--code); }
-.front-wide .board__rows .board__name { grid-area: name; font-family: var(--sans); font-size: 15px; font-weight: 600; letter-spacing: -.01em; color: var(--ink); }
-.front-wide .board__rows .board__last { grid-area: last; text-align: left; font-size: clamp(21px, 1.7vw, 30px); letter-spacing: -.02em; color: var(--ink); }
-.front-wide .board__rows .board__pct { grid-area: pct; font-size: 13px; }
-.front-wide .board__rows .board__spark { grid-area: spark; display: block; margin-top: 6px; color: var(--ink-soft); line-height: 0; }
-.front-wide .board__rows .board__spark svg { display: block; width: 100%; height: 46px; }
+.front-wide .board .board__row { grid-template-columns: minmax(0, 1fr) 70px 96px 82px; gap: 12px; padding: 8px 0; }
+.front-wide .board .board__row:hover { background: var(--code); }
+.front-wide .board .board__name { font-family: var(--sans); font-size: 14.5px; font-weight: 500; letter-spacing: -.005em; color: var(--ink); }
+.front-wide .board .board__spark svg { display: block; width: 70px; height: 20px; }
+@media (max-width: 620px) { .front-wide .board .board__row { grid-template-columns: minmax(0, 1fr) 84px 76px; } }
 
 /* ---------- the wire (section fronts) ---------- */
 

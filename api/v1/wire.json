@@ -1,12 +1,30 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T20:42:29Z",
+ "generated_at": "2026-10-27T20:53:49Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "count": 400,
  "note": "Third-party headlines with a one-sentence summary written by the Bulletin. The article stays with its publisher; follow the link.",
  "items": [
+  {
+   "id": "92b1eab92a993a162d3a",
+   "section": "news",
+   "headline": "Sports Leagues Evolving Rules For Investment: Charles",
+   "summary": "Professional sports leagues are changing their rules around outside investment, according to a Bloomberg video commentary.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-27/sports-leagues-evolving-rules-for-investment-charles-video",
+   "published": "2026-10-27T20:46:44+00:00"
+  },
+  {
+   "id": "44c5f8b33aa113fe8aea",
+   "section": "mining",
+   "headline": "Day One on the TSXV: TruSilver's Rig Heads for the Sturgis Target",
+   "summary": "TruSilver began trading on the TSX Venture Exchange and mobilized its drilling rig toward the Sturgis target, Investing News Network reported.",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/day-one-on-the-tsxv-trusilver-s-rig-heads-for-the-sturgis-target/",
+   "published": "2026-10-27T20:38:40+00:00"
+  },
   {
    "id": "779bb6912856193d84f2",
    "section": "mining",
@@ -24,6 +42,15 @@
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/videos/2026-10-27/kipchoge-takes-running-mission-worldwide-video",
    "published": "2026-10-27T20:29:19+00:00"
+  },
+  {
+   "id": "0e3c725d53ea677a91f4",
+   "section": "tech",
+   "headline": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+   "summary": "A code-execution vulnerability in UEFI firmware was reported to affect most servers worldwide, according to Ars Technica.",
+   "publisher": "Ars Technica",
+   "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+   "published": "2026-10-27T20:25:55+00:00"
   },
   {
    "id": "05084eb6fe64258e4124",
@@ -204,6 +231,15 @@
    "publisher": "Financial Times — Companies",
    "url": "https://www.ft.com/content/dcfaf62f-497d-4db0-bb2d-a55e0b749750?syn-25a6b1a6=1",
    "published": "2026-10-27T19:33:01+00:00"
+  },
+  {
+   "id": "23e9ddd6f6b0e1389a66",
+   "section": "tech",
+   "headline": "Google begins certifying Registered App Stores for Android, but not in the US",
+   "summary": "Google launched a certification program for Registered App Stores on Android, excluding the United States from the initial rollout, Ars Technica reported.",
+   "publisher": "Ars Technica",
+   "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+   "published": "2026-10-27T19:32:07+00:00"
   },
   {
    "id": "f6a075e4d8ae47efb4ce",
@@ -3570,42 +3606,6 @@
    "publisher": "World Nuclear News",
    "url": "https://www.world-nuclear-news.org/articles/first-reactor-unit-launched-on-chukotka-icebreaker",
    "published": "2026-10-26T15:09:12+00:00"
-  },
-  {
-   "id": "74a81fa883677602d0c1",
-   "section": "energy",
-   "headline": "Wind turbine orders hit 2.8 GW in Q2 ahead of tax credit deadline: WoodMac",
-   "summary": "Wind turbine orders reached 2.8 gigawatts in the second quarter as developers moved ahead of an expiring tax credit deadline, WoodMac found.",
-   "publisher": "Utility Dive",
-   "url": "https://www.utilitydive.com/news/wind-turbine-orders-hit-28-gw-in-q2-ahead-of-tax-credit-deadline-woodmac/872757/",
-   "published": "2026-10-26T15:06:46+00:00"
-  },
-  {
-   "id": "edf5ad4fb29863012873",
-   "section": "energy",
-   "headline": "BP Gets New Settlement with Louisiana over Deepwater Horizon Disaster",
-   "summary": "BP reached a new settlement with the state of Louisiana over claims tied to the Deepwater Horizon disaster, Rigzone reported.",
-   "publisher": "Rigzone",
-   "url": "https://www.rigzone.com/news/bp_gets_new_settlement_with_louisiana_over_deepwater_horizon_disaster-26-oct-2026-184933-article/?rss=true",
-   "published": "2026-10-26T15:04:33+00:00"
-  },
-  {
-   "id": "0f8dde5de52cec8053e3",
-   "section": "energy",
-   "headline": "Preparations for advanced nuclear at ports should begin now, study concludes",
-   "summary": "A new study concluded that preparations for deploying advanced nuclear reactors at ports should begin now, World Nuclear News reported.",
-   "publisher": "World Nuclear News",
-   "url": "https://www.world-nuclear-news.org/articles/preparations-for-advanced-nuclear-at-ports-should-begin-now-study-concludes",
-   "published": "2026-10-26T14:50:59+00:00"
-  },
-  {
-   "id": "a2bc4463f9bdaf221169",
-   "section": "tech",
-   "headline": "ESMO: J&J exec says RIPTAC readout is ‘best data we’ve ever seen’ for a prostate cancer drug",
-   "summary": "A Johnson & Johnson executive described clinical data on its RIPTAC prostate cancer therapy, presented at ESMO, as the best the company has seen for the drug.",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug",
-   "published": "2026-10-26T14:47:29.627714+00:00"
   }
  ]
 }
