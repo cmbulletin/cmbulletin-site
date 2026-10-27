@@ -1,0 +1,55 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-27T16:27:47Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "anthropic-files-for-an-ipo-that-could-be-the-biggest-ever",
+ "url": "https://www.cmbulletin.com/posts/anthropic-files-for-an-ipo-that-could-be-the-biggest-ever.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/anthropic-files-for-an-ipo-that-could-be-the-biggest-ever.json",
+ "date": "2026-10-27T12:38:49Z",
+ "headline": "Anthropic files for an IPO that could be the biggest ever",
+ "dek": "The AI company could raise up to $100 billion at a valuation of $1.5 trillion to $2 trillion, even as its chief executive warns of a risk to humanity from unchecked AI.",
+ "caption": "A trading floor sits quiet before the bell as Anthropic prepares what could be the largest IPO on record.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "IPO",
+  "Artificial Intelligence",
+  "Markets"
+ ],
+ "tickers": [
+  "NASDAQ:ANT"
+ ],
+ "image": "https://www.cmbulletin.com/images/anthropic-files-for-an-ipo-that-could-be-the-biggest-ever.png",
+ "source_name": "Associated Press (via ClickOrlando)",
+ "sources": [
+  {
+   "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+   "url": "https://www.clickorlando.com/business/2026/10/26/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/",
+   "publisher": "Associated Press (via ClickOrlando)"
+  },
+  {
+   "title": "Anthropic files for potentially biggest IPO ever as CEO warns of risk to humanity from AI",
+   "url": "https://www.theglobeandmail.com/business/video-anthropic-files-for-potentially-biggest-ipo-ever-as-ceo-warns-of-risk/",
+   "publisher": "Globe and Mail — Business"
+  }
+ ],
+ "unverified_claims": [
+  "The $100 billion potential raise and $1.5-2 trillion valuation range, the founders' projected 1.4% stakes and $28 billion potential individual wealth, and Dario Amodei's warning that AI could let loose \"a swarm of agents\" that could \"take over the entire internet\" within six to 12 months rest on reporting of the company's filing and statements, not on figures independently confirmed by this publication."
+ ],
+ "brief": [
+  "Anthropic has filed for an initial public offering that could be the largest ever, potentially raising as much as $100 billion and valuing the San Francisco company at $1.5 trillion to $2 trillion, according to the Associated Press. The company plans to list on the Nasdaq Global Select Market under the ticker ANT.",
+  "Founded in 2021 by former OpenAI staff including siblings Dario and Daniela Amodei, Anthropic reported more than $16 billion in revenue in the first half of 2026, fourteen times a year earlier, alongside a net loss of $80.7 billion that includes a $72.4 billion one-time accounting charge. Its founders will retain 50.1% voting control through a special share class.",
+  "None of the two listed venture names in the space theme cleared the liquidity floor required to be named today, so no junior move is reported alongside this story. The theme's venture board accordingly offers nothing to set against Anthropic's filing today."
+ ],
+ "body": [
+  "Anthropic has filed papers for an initial public offering that could be the largest in history, the Associated Press reported. The filing sets up a Wall Street debut as soon as next month, with the company potentially raising as much as $100 billion at a valuation of $1.5 trillion to $2 trillion — topping the $86 billion raised by SpaceX's IPO in June, previously the record.",
+  "Anthropic plans to list on the Nasdaq Global Select Market under the ticker ANT. The company was founded in 2021 by a group of former OpenAI employees, including siblings Dario Amodei, its chief executive, and Daniela Amodei, its president. It reported revenue of more than $16 billion for the first half of 2026, fourteen times the prior year's figure, according to the AP.",
+  "Anthropic also reported a net loss of $80.7 billion for the period, which includes a one-time accounting charge of $72.4 billion. The company has not yet reported a profit. Its seven founders are each expected to hold about 1.4% of the company, a stake that could be worth as much as $28 billion apiece at the top of the expected valuation range, the AP reported.",
+  "The founders will retain 50.1% voting control through a special class of shares, and the company has established a Long-Term Benefit Trust of independent directors with the power to appoint board members, structured to keep financial interests from overriding public-safety considerations, according to the filing as reported by the AP.",
+  "Dario Amodei has separately argued, in a post on his website, for slowing development of the most advanced AI models, warning that without an industry slowdown, AI could let loose \"a swarm of agents\" that could \"take over the entire internet\" within six to 12 months, the AP reported.",
+  "The space theme on this publication's venture boards comprises two listed names; neither cleared the C$25,000 daily-volume floor this publication requires before naming a security today. No junior move is therefore reported alongside Anthropic's filing, and no names are given."
+ ]
+}

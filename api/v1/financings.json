@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T13:03:46Z",
+ "generated_at": "2026-10-27T16:27:47Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 49,
+ "count": 50,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -1034,6 +1034,24 @@
    "warrant_expiry": null,
    "hold_expiry": null,
    "entry_url": "https://www.cmbulletin.com/posts/minehub-arranges-1-5-million-placement-pushes-warrant-expiry-out-to.html"
+  },
+  {
+   "company": "Anthropic",
+   "ticker": "NASDAQ:ANT",
+   "type": "initial public offering (filed)",
+   "currency": "$",
+   "closed": "",
+   "agent": "",
+   "hold_period": false,
+   "note": "A potential raise of up to $100 billion and valuation of $1.5-2 trillion were reported by the Associated Press; the filing itself does not fix a final offering size in the reporting available.",
+   "gross": null,
+   "units": null,
+   "price": null,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/anthropic-files-for-an-ipo-that-could-be-the-biggest-ever.html"
   }
  ]
 }
