@@ -1,12 +1,57 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T20:14:11Z",
+ "generated_at": "2026-10-27T20:18:58Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "count": 400,
  "note": "Third-party headlines with a one-sentence summary written by the Bulletin. The article stays with its publisher; follow the link.",
  "items": [
+  {
+   "id": "eae556c8e4a5786678f5",
+   "section": "news",
+   "headline": "Banks Eye $21 Billion of Bonds For Broadcom Chip-Financing Deal",
+   "summary": "Banks are reportedly arranging about $21 billion in bonds to finance Broadcom's chip business, Bloomberg reports.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/banks-eye-21-billion-of-bonds-for-broadcom-chip-financing-deal",
+   "published": "2026-10-27T20:09:29+00:00"
+  },
+  {
+   "id": "f50dc7e50046f77a828e",
+   "section": "news",
+   "headline": "Kalshi Sets $2,500 Monthly Deposit Limits for Users Under 21",
+   "summary": "Prediction-market operator Kalshi is capping monthly deposits at $2,500 for users under the age of 21, Bloomberg reports.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/kalshi-sets-2-500-monthly-deposit-limits-for-users-under-21",
+   "published": "2026-10-27T20:09:24+00:00"
+  },
+  {
+   "id": "1874209e3fa59b7efcf7",
+   "section": "financings",
+   "headline": "F5 Reports Fourth Quarter Results with 23% Product Revenue Growth",
+   "summary": "F5 reported fourth-quarter financial results, citing product revenue growth of 23 percent for the period, according to the company.",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027415774/en/F5-Reports-Fourth-Quarter-Results-with-23-Product-Revenue-Growth/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T20:05:00+00:00"
+  },
+  {
+   "id": "238d1f352d22ff8d366e",
+   "section": "financings",
+   "headline": "Fortune Brands Innovations Strengthens Leadership to Drive Focus and Execution",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027995382/en/Fortune-Brands-Innovations-Strengthens-Leadership-to-Drive-Focus-and-Execution/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T20:05:00+00:00"
+  },
+  {
+   "id": "847e0acc6462688eba91",
+   "section": "financings",
+   "headline": "Digimarc Sets Third Quarter 2026 Conference Call for Thursday, November 12",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027700861/en/Digimarc-Sets-Third-Quarter-2026-Conference-Call-for-Thursday-November-12/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T20:05:00+00:00"
+  },
   {
    "id": "9d5b70df07a753c677a5",
    "section": "energy",
@@ -51,6 +96,15 @@
    "publisher": "Business Wire — Financial",
    "url": "http://www.businesswire.com/news/home/20261027040012/en/Dominican-Republic-to-Host-World-Governments-Summit-Dialogue-for-Latin-America-and-the-Caribbean/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-10-27T19:40:00+00:00"
+  },
+  {
+   "id": "1f69bbf3ef72a7cb6779",
+   "section": "news",
+   "headline": "Elite consulting firms raise starting salaries for first time since 2022",
+   "summary": "Leading consulting firms are raising starting salaries for new hires for the first time since 2022, the Financial Times reports.",
+   "publisher": "Financial Times — Companies",
+   "url": "https://www.ft.com/content/dcfaf62f-497d-4db0-bb2d-a55e0b749750?syn-25a6b1a6=1",
+   "published": "2026-10-27T19:33:01+00:00"
   },
   {
    "id": "f6a075e4d8ae47efb4ce",
@@ -213,6 +267,15 @@
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Crude-Exports-Set-to-Fall-as-Diesel-Production-Rises.html",
    "published": "2026-10-27T18:30:00+00:00"
+  },
+  {
+   "id": "5bab652ad188ba7c7174",
+   "section": "news",
+   "headline": "UK government quietly axes more than two dozen new road schemes",
+   "summary": "",
+   "publisher": "Financial Times — Companies",
+   "url": "https://www.ft.com/content/92780ba3-5201-4002-abca-3ee1a053eb30?syn-25a6b1a6=1",
+   "published": "2026-10-27T18:27:33+00:00"
   },
   {
    "id": "667f1310f933d6dcf40d",
@@ -2900,7 +2963,7 @@
    "id": "66fcd75f6f7b3714987a",
    "section": "tech",
    "headline": "Why pharma firms are betting billions on psychedelic drugs despite setbacks",
-   "summary": "",
+   "summary": "Pharmaceutical companies are investing billions of dollars in psychedelic drug development despite a string of clinical setbacks, Nature reports.",
    "publisher": "Nature",
    "url": "https://www.nature.com/articles/d41586-026-03390-8",
    "published": "2026-10-27T00:00:00+00:00"
@@ -2945,7 +3008,7 @@
    "id": "5c8208ea765b2b658461",
    "section": "news",
    "headline": "Anthropic sets stage for blockbuster IPO, highlighting AI’s benefits and risks for humanity",
-   "summary": "",
+   "summary": "Anthropic has filed for an initial public offering it says could rank among the largest ever, with its CEO flagging AI risks, The Globe and Mail reports.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-anthropic-sec-filing-blockbuster-ipo/",
    "published": "2026-10-26T23:45:02+00:00"
@@ -2954,7 +3017,7 @@
    "id": "4c8013cc0680ed1344be",
    "section": "news",
    "headline": "Alberta regulator approves power plant project for data centre near Edmonton",
-   "summary": "",
+   "summary": "Alberta's energy regulator approved a power plant project intended to supply a data centre near Edmonton, The Globe and Mail reports.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/economy/article-alberta-regulator-approves-power-plant-data-centre-near-edmonton/",
    "published": "2026-10-26T23:30:05+00:00"
@@ -2963,7 +3026,7 @@
    "id": "67013a973e1f8345b6d5",
    "section": "news",
    "headline": "Gold Recovers as Bargain Hunters Return Ahead of Fed Decision",
-   "summary": "",
+   "summary": "Gold prices recovered as bargain hunters stepped back in ahead of the Federal Reserve's upcoming interest-rate decision, Bloomberg reports.",
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/gold-steadies-above-4-000-with-fed-rate-decision-in-focus",
    "published": "2026-10-26T23:20:28+00:00"
@@ -2972,7 +3035,7 @@
    "id": "ad66ab64b52b86fc3e4b",
    "section": "energy",
    "headline": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
-   "summary": "",
+   "summary": "China's government is pushing for increased domestic oil production as supply from Iran continues to decline, according to OilPrice.com.",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Energy/Crude-Oil/Beijing-Pushes-Domestic-Oil-Production-as-Iranian-Supply-Dries-Up.html",
    "published": "2026-10-26T23:00:00+00:00"
@@ -2981,7 +3044,7 @@
    "id": "8b87daf1c15f9d8def7f",
    "section": "news",
    "headline": "Canada, partners to sign charter for new defence bank at end of November",
-   "summary": "",
+   "summary": "Canada and its partners plan to sign a charter establishing a new defence bank by the end of November, The Globe and Mail reports.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/economy/article-canada-defence-security-resilience-bank-signing/",
    "published": "2026-10-26T22:43:38+00:00"
@@ -2990,7 +3053,7 @@
    "id": "ed18ddb7db1f00113c37",
    "section": "tech",
    "headline": "Microsoft offers to buy out a quarter of its workforce",
-   "summary": "",
+   "summary": "Microsoft is offering voluntary buyouts to about a quarter of its workforce, roughly 60,000 employees, Ars Technica reports.",
    "publisher": "Ars Technica",
    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
    "published": "2026-10-26T22:36:06+00:00"
@@ -2999,7 +3062,7 @@
    "id": "ec0a1d2da6eb996e2e2a",
    "section": "news",
    "headline": "U.S. trade negotiators ‘coming closer to our position,’ Carney says",
-   "summary": "",
+   "summary": "Prime Minister Mark Carney said U.S. trade negotiators are moving closer to Canada's position in ongoing talks, The Globe and Mail reports.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/canada/video-us-trade-negotiators-coming-closer-to-our-position-carney-says/",
    "published": "2026-10-26T22:08:35+00:00"
@@ -3008,7 +3071,7 @@
    "id": "50c453f64f4fe623447f",
    "section": "news",
    "headline": "Tech Stocks Power Wall Street Gains as Oil Falls: Markets Wrap",
-   "summary": "",
+   "summary": "U.S. technology shares led Wall Street gains while oil prices fell back, according to Bloomberg's daily markets wrap.",
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
    "published": "2026-10-26T22:03:56+00:00"
@@ -3017,7 +3080,7 @@
    "id": "aba2466f52e7461562f4",
    "section": "news",
    "headline": "Stocks Rise in Run-Up to Tech Results as Oil Falls: Markets Wrap",
-   "summary": "",
+   "summary": "U.S. stocks rose ahead of upcoming technology-sector earnings while oil prices fell, Bloomberg's markets wrap reports.",
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
    "published": "2026-10-26T22:03:56+00:00"
@@ -3035,7 +3098,7 @@
    "id": "25afcefaf92594b4f2e5",
    "section": "energy",
    "headline": "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm",
-   "summary": "",
+   "summary": "Several executives have reportedly left a U.S. LNG company amid allegations that it received Russian funding, OilPrice.com reports.",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Energy/Natural-Gas/Alleged-Russian-Funding-Prompts-Executive-Exodus-at-US-LNG-Firm.html",
    "published": "2026-10-26T22:00:00+00:00"
@@ -3053,7 +3116,7 @@
    "id": "c34486e67121b7c46355",
    "section": "news",
    "headline": "NBA strikes deals with prediction markets, with an eye on integrity and regulations",
-   "summary": "",
+   "summary": "The NBA has struck partnership deals with prediction-market operators, citing attention to integrity safeguards and regulatory compliance, The Globe and Mail reports.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/sports/basketball/article-nba-strikes-deals-with-prediction-markets-with-an-eye-on-integrity-and/",
    "published": "2026-10-26T21:54:21+00:00"
@@ -3080,7 +3143,7 @@
    "id": "4fb6a11254c48cd98c98",
    "section": "news",
    "headline": "Brazil’s currency plunges most since 1999 after Lula’s election victory",
-   "summary": "",
+   "summary": "Brazil's currency recorded its steepest decline since 1999 following Lula's election victory, the Financial Times reports.",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
    "published": "2026-10-26T21:08:50+00:00"
@@ -3089,7 +3152,7 @@
    "id": "15b65de01aaa56133399",
    "section": "energy",
    "headline": "Oil Dips from 6 Month High as Officials Meet in Tehran",
-   "summary": "",
+   "summary": "Oil prices eased back from a recent six-month high as officials held meetings in Tehran, according to Rigzone.",
    "publisher": "Rigzone",
    "url": "https://www.rigzone.com/news/wire/oil_dips_from_6_month_high_as_officials_meet_in_tehran-26-oct-2026-184936-article/?rss=true",
    "published": "2026-10-26T21:02:54+00:00"
@@ -3098,7 +3161,7 @@
    "id": "1ffd6c8e79acdf666e4c",
    "section": "news",
    "headline": "Anthropic files for potentially biggest IPO ever as CEO warns of risk to humanity from AI",
-   "summary": "",
+   "summary": "Anthropic filed for what could be one of the largest initial public offerings on record, with its chief executive warning of AI risk to humanity, The Globe and Mail reports.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/video-anthropic-files-for-potentially-biggest-ipo-ever-as-ceo-warns-of-risk/",
    "published": "2026-10-26T20:55:39+00:00"
@@ -3107,7 +3170,7 @@
    "id": "b633d126a649e229fd02",
    "section": "news",
    "headline": "DoorDash in talks to buy Instacart in deal valued around $17-billion, source says",
-   "summary": "",
+   "summary": "DoorDash is reportedly in talks to acquire Instacart in a deal valued at around $17 billion, The Globe and Mail reports.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-doordash-talks-to-buy-instacart-october-26/",
    "published": "2026-10-26T20:38:53+00:00"
@@ -3134,7 +3197,7 @@
    "id": "801dff318e02727b2076",
    "section": "financings",
    "headline": "Boost Run Continues to Convert Backlog to Recurring Revenue as New Deployments Go Live, Backed by Non-Dilutive Financing",
-   "summary": "",
+   "summary": "Boost Run said it continues converting contract backlog into recurring revenue as new deployments launch, supported by non-dilutive financing, the company reported.",
    "publisher": "Business Wire — Financial",
    "url": "http://www.businesswire.com/news/home/20261026965061/en/Boost-Run-Continues-to-Convert-Backlog-to-Recurring-Revenue-as-New-Deployments-Go-Live-Backed-by-Non-Dilutive-Financing/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-10-26T20:05:00+00:00"
@@ -3143,7 +3206,7 @@
    "id": "c3a1f66dbdc758cd289b",
    "section": "tech",
    "headline": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-   "summary": "",
+   "summary": "Apple released iOS and macOS 27.2, adding new Siri AI features and a redesigned Music app logo, Ars Technica reports.",
    "publisher": "Ars Technica",
    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
    "published": "2026-10-26T20:04:16+00:00"
@@ -3152,7 +3215,7 @@
    "id": "c39a47fdb660cedd395d",
    "section": "mining",
    "headline": "Local miner outbids Freeport for Colombia exploration",
-   "summary": "",
+   "summary": "A local mining company outbid Freeport-McMoRan to win exploration rights in Colombia, The Northern Miner reported.",
    "publisher": "The Northern Miner",
    "url": "https://www.northernminer.com/news/local-miner-outbids-freeport-for-colombia-exploration/1003896051/",
    "published": "2026-10-26T20:00:20+00:00"
@@ -3161,7 +3224,7 @@
    "id": "3b41105f88b817586ab4",
    "section": "mining",
    "headline": "Lula’s Brazil win puts rare earths in Trump’s crosshairs",
-   "summary": "",
+   "summary": "Lula's electoral win in Brazil is drawing renewed attention from the Trump administration to the country's rare-earth resources, The Northern Miner reports.",
    "publisher": "The Northern Miner",
    "url": "https://www.northernminer.com/news/lulas-brazil-win-puts-rare-earths-in-trumps-crosshairs/1003896069/",
    "published": "2026-10-26T19:55:00+00:00"
@@ -3543,69 +3606,6 @@
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-BPCL-to-Cut-Russian-Oil-Imports-Due-to-Higher-Prices.html",
    "published": "2026-10-26T14:30:00+00:00"
-  },
-  {
-   "id": "a8f8b0d9a60ff923cec3",
-   "section": "news",
-   "headline": "Verizon Beats, Brazil in Focus | Stock Movers",
-   "summary": "Verizon reported quarterly results that beat expectations, while investors also tracked the market fallout from Brazil's election.",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-26/verizon-beats-brazil-in-focus-stock-movers-video",
-   "published": "2026-10-26T14:29:10+00:00"
-  },
-  {
-   "id": "b25f95aeb4b5252ebc04",
-   "section": "news",
-   "headline": "DraftKings Faces Growing Pressure Over How It Targets Customers",
-   "summary": "DraftKings is facing increased scrutiny over its customer-targeting practices, including from lawmakers in New York and Louisiana.",
-   "publisher": "The New York Times",
-   "url": "https://www.nytimes.com/2026/10/26/business/draftkings-new-york-louisiana-blumenthal.html",
-   "published": "2026-10-26T14:26:21+00:00"
-  },
-  {
-   "id": "6d37587a91a96454bf4d",
-   "section": "energy",
-   "headline": "Gulf Oil Bargains Lure India Away from Russia",
-   "summary": "",
-   "publisher": "Rigzone",
-   "url": "https://www.rigzone.com/news/wire/gulf_oil_bargains_lure_india_away_from_russia-26-oct-2026-184931-article/?rss=true",
-   "published": "2026-10-26T14:22:58+00:00"
-  },
-  {
-   "id": "4f3ddc7b176fad36cba0",
-   "section": "energy",
-   "headline": "Sembcorp Gets Conditional Approval to Import 1.3GW of Power into Singapore",
-   "summary": "Sembcorp has received conditional regulatory approval to import 1.3 gigawatts of power into Singapore, adding cross-border electricity supply for the city-state.",
-   "publisher": "Rigzone",
-   "url": "https://www.rigzone.com/news/sembcorp_gets_conditional_approval_to_import_13gw_of_power_into_singapore-26-oct-2026-184930-article/?rss=true",
-   "published": "2026-10-26T14:19:22+00:00"
-  },
-  {
-   "id": "1d001f613b665efa95af",
-   "section": "news",
-   "headline": "Congo Removes Boss of Artisanal Mining Regulator Amid Crackdown",
-   "summary": "The Democratic Republic of Congo removed the head of its artisanal mining regulator as part of a broader crackdown on the sector.",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/congo-removes-boss-of-artisanal-mining-regulator-amid-crackdown",
-   "published": "2026-10-26T14:17:52+00:00"
-  },
-  {
-   "id": "d4a6ce3f63607010aa76",
-   "section": "news",
-   "headline": "Bon Secours agrees $5.7bn takeover of Bain-backed Surgery Partners",
-   "summary": "Bon Secours has agreed to acquire Bain Capital-backed Surgery Partners in a transaction valued at $5.7 billion.",
-   "publisher": "Financial Times",
-   "url": "https://www.ft.com/content/e7b82fe0-db51-49cf-bad4-2168a905652b?syn-25a6b1a6=1",
-   "published": "2026-10-26T14:08:26+00:00"
-  },
-  {
-   "id": "73ca2d202c4b7b1f842e",
-   "section": "news",
-   "headline": "Why Some People Are Paying to Make Friends",
-   "summary": "",
-   "publisher": "The New York Times",
-   "url": "https://www.nytimes.com/2026/10/26/business/why-some-people-are-paying-to-make-friends.html",
-   "published": "2026-10-26T14:06:54+00:00"
   }
  ]
 }

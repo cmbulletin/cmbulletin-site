@@ -468,78 +468,64 @@ a.stretch:hover { color: inherit; }
 }
 
 /* ---------------------------------------------------------------- panes
-   Markets and Financings show one group at a time (Conrad, 13 October 2026).
-   **Nothing is hidden until the script says so**: the tab list is display:none
-   and every pane ships open until the script adds `is-tabbed`, so a reader with
-   no JavaScript, a search engine and the printed page get every group. The
-   rows stay in the DOM when a pane is closed, which keeps the live poller
-   correct: it updates by `data-symbol` and never looks at visibility. */
-.panes__tabs { display: none; }
-.panes__wrap > .pane + .pane { border-top: 1px solid var(--rule); margin-top: 10px; }
-.is-tabbed .panes__tabs { display: flex; gap: 2px; overflow-x: auto; scrollbar-width: none; margin: 10px 0 4px; padding-bottom: 2px; border-bottom: 1px solid var(--rule); }
-.is-tabbed .panes__tabs::-webkit-scrollbar { display: none; }
-.is-tabbed .panes__wrap > .pane + .pane { border-top: 0; margin-top: 0; }
-.is-tabbed .pane[hidden] { display: none; }
-.is-tabbed .pane > .board__group:first-child { display: none; }
-.panes__tab {
-  flex: 0 0 auto;
-  background: none;
-  border: 0;
-  border-bottom: 2px solid transparent;
-  margin-bottom: -1px;
-  padding: 7px 12px 7px 0;
-  color: var(--ink-soft);
-  cursor: pointer;
-  white-space: nowrap;
+   **Every group shown, as an index — Conrad, 27 October 2026**: "The markets
+   should be a whole index of everything, same with other pages". From 13
+   October the groups were tabs, one open at a time; that is reversed on
+   purpose. The jump links stay pinned to the top of the window while the page
+   scrolls past the groups, which is the job the tabs were doing. */
+.panes__index {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 24px;
+  margin: 6px 0 4px;
+  padding: 12px 0;
+  background: var(--paper);
+  border-bottom: 1px solid var(--rule);
   font-family: var(--mono);
-  font-size: 13px;
-  font-weight: 400;
+  font-size: 13.5px;
 }
-.panes__tab:hover { color: var(--ink); }
-.panes__tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
-@media (min-width: 900px) {
-  .is-tabbed .panes { display: grid; grid-template-columns: 236px minmax(0, 1fr); column-gap: 36px; align-items: start; }
-  .is-tabbed .panes__tabs { flex-direction: column; gap: 0; overflow: visible; margin: 0; border-bottom: 0; border-right: 1px solid var(--rule); }
-  .is-tabbed .panes__tab { text-align: left; padding: 8px 14px 8px 0; border-bottom: 0; border-right: 2px solid transparent; margin: 0 -1px 0 0; }
-  .is-tabbed .panes__tab[aria-selected="true"] { border-right-color: var(--accent); }
-  /* A section front's board sits in a narrow column; a tab list down its side
-     left the rows a hundred pixels and wrapped every name. There the tabs run
-     across the top and wrap instead. */
-  .is-tabbed .front-board .panes { display: block; }
-  .is-tabbed .front-board .panes__tabs { flex-direction: row; flex-wrap: wrap; gap: 0 18px; margin: 8px 0 4px; border-right: 0; border-bottom: 1px solid var(--rule); }
-  .is-tabbed .front-board .panes__tab { padding: 7px 0; border-right: 0; border-bottom: 2px solid transparent; margin: 0 0 -1px; }
-  .is-tabbed .front-board .panes__tab[aria-selected="true"] { border-bottom-color: var(--accent); }
+@media (max-width: 719px) {
+  .panes__index { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  .panes__index::-webkit-scrollbar { display: none; }
 }
+.panes__index a { color: var(--ink-soft); white-space: nowrap; }
+.panes__index a:hover { color: var(--ink); text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 6px; }
+.pane { scroll-margin-top: 72px; }
+.panes__wrap > .pane + .pane { margin-top: 30px; }
+.pane > .board__group:first-child { font-family: var(--sans); font-size: 19px; font-weight: 700; letter-spacing: -.015em; color: var(--ink); padding: 20px 0 10px; }
 
 /* The markets page at full width: each group a grid of instrument tiles —
    name, the level large, the change, the month's line across the tile —
    rather than three rows stretched across 1,700px with the name at one end and
    the figure at the other (Conrad, 27 October 2026, on that page: "make these
    better"). Hairline cells sharing their rules; no boxes, shadows or radii. */
-.front-wide .pane {
+/* One tile width across every group, so the index reads as one table of
+   instruments; each tile carries its own hairlines (overlapped by a pixel), so
+   a short group ends where its tiles end rather than in a ruled empty box. */
+.front-wide .board__rows {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  border-top: 1px solid var(--rule);
-  border-left: 1px solid var(--rule);
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  padding: 0 1px 1px 0;
 }
-@media (min-width: 720px) { .front-wide .pane { grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); } }
-.front-wide .pane > .board__group { grid-column: 1 / -1; margin: 0; padding: 12px 16px; border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
-.front-wide .pane > .board__row {
+@media (min-width: 720px) { .front-wide .board__rows { grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); } }
+.front-wide .board__rows > .board__row {
   grid-template-columns: minmax(0, 1fr) auto;
-  grid-template-areas: "name name" "last pct" "spark spark";
+  grid-template-areas: "name pct" "last last" "spark spark";
   align-items: baseline;
   gap: 8px 12px;
   padding: 16px 18px 14px;
-  border-top: 0;
-  border-right: 1px solid var(--rule);
-  border-bottom: 1px solid var(--rule);
+  border: 1px solid var(--rule);
+  margin: 0 -1px -1px 0;
 }
-.front-wide .pane > .board__row:hover { background: var(--code); }
-.front-wide .pane .board__name { grid-area: name; font-family: var(--sans); font-size: 15px; font-weight: 600; letter-spacing: -.01em; color: var(--ink); }
-.front-wide .pane .board__last { grid-area: last; text-align: left; font-size: clamp(21px, 1.7vw, 30px); letter-spacing: -.02em; color: var(--ink); }
-.front-wide .pane .board__pct { grid-area: pct; font-size: 13px; }
-.front-wide .pane .board__spark { grid-area: spark; display: block; margin-top: 6px; color: var(--ink-soft); line-height: 0; }
-.front-wide .pane .board__spark svg { display: block; width: 100%; height: 46px; }
+.front-wide .board__rows > .board__row:hover { background: var(--code); }
+.front-wide .board__rows .board__name { grid-area: name; font-family: var(--sans); font-size: 15px; font-weight: 600; letter-spacing: -.01em; color: var(--ink); }
+.front-wide .board__rows .board__last { grid-area: last; text-align: left; font-size: clamp(21px, 1.7vw, 30px); letter-spacing: -.02em; color: var(--ink); }
+.front-wide .board__rows .board__pct { grid-area: pct; font-size: 13px; }
+.front-wide .board__rows .board__spark { grid-area: spark; display: block; margin-top: 6px; color: var(--ink-soft); line-height: 0; }
+.front-wide .board__rows .board__spark svg { display: block; width: 100%; height: 46px; }
 
 /* ---------- the wire (section fronts) ---------- */
 
