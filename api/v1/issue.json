@@ -1,60 +1,106 @@
 {
  "api": "v1",
- "generated_at": "2026-10-26T14:50:11Z",
+ "generated_at": "2026-10-27T13:03:46Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-26",
- "count": 1,
+ "issue_date": "2026-10-27",
+ "count": 2,
  "entries": [
   {
-   "slug": "ovintiv-to-acquire-logan-energy-for-c-1-26-billion",
-   "url": "https://www.cmbulletin.com/posts/ovintiv-to-acquire-logan-energy-for-c-1-26-billion.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/ovintiv-to-acquire-logan-energy-for-c-1-26-billion.json",
-   "date": "2026-10-26T14:35:24Z",
-   "headline": "Ovintiv to acquire Logan Energy for C$1.26 billion",
-   "dek": "The all-cash deal adds about 266,000 net acres and 20,000 barrels of oil equivalent a day in the Montney's oil window, with closing expected early in 2027.",
-   "caption": "Oil infrastructure in the Montney formation, where Ovintiv has agreed to acquire fellow producer Logan Energy for roughly $890 million.",
+   "slug": "red-canyon-resources-closes-745-000-flow-through-raise-for-bc",
+   "url": "https://www.cmbulletin.com/posts/red-canyon-resources-closes-745-000-flow-through-raise-for-bc.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/red-canyon-resources-closes-745-000-flow-through-raise-for-bc.json",
+   "date": "2026-10-27T12:38:49Z",
+   "headline": "Red Canyon Resources closes $745,000 flow-through raise for BC critical minerals",
+   "dek": "The non-brokered placement issued 3,725,000 flow-through units at $0.20 each, with half-warrants exercisable at $0.30 for 18 months.",
+   "caption": "A drill rig stands idle at first light as Red Canyon Resources closes a flow-through financing in British Columbia.",
    "sections": [
-    "energy"
+    "mining"
    ],
    "tags": [
-    "M&A",
-    "Energy",
-    "Oil & Gas"
+    "Mining",
+    "Financing",
+    "Flow-Through"
    ],
    "tickers": [
-    "NYSE:OVV",
-    "TSX:OVV",
-    "TSXV:LGN"
+    "CSE:REDC",
+    "OTCQB:REDRF"
    ],
-   "image": "https://www.cmbulletin.com/images/ovintiv-to-acquire-logan-energy-for-c-1-26-billion.png",
-   "source_name": "Investing News Network — Resource Investing",
+   "image": "https://www.cmbulletin.com/images/red-canyon-resources-closes-745-000-flow-through-raise-for-bc.png",
+   "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Ovintiv Announces Agreement to Acquire Montney Oil Producer, Logan Energy Corp.",
-     "url": "https://investingnews.com/ovintiv-announces-agreement-to-acquire-montney-oil-producer-logan-energy-corp/",
-     "publisher": "Investing News Network — Resource Investing"
+     "title": "Red Canyon Closes Flow-Through Financing",
+     "url": "https://thenewswire.com/press-releases/1ArbFaXod-red-canyon-closes-flow-through-financing.html",
+     "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The projected 2027 accretion of approximately 5% to Non-GAAP Cash Flow per Share and 3% to Non-GAAP Free Cash Flow per Share is a company estimate.",
-    "The expected annual cost synergies of about $60 million and capital savings of more than $2 million per well are company estimates.",
-    "Ovintiv's expectation that net debt will be below $4 billion after closing is a forward-looking company estimate.",
-    "The classification of well locations as 'premium return' or 'upside' reflects Ovintiv's own characterization."
+    "The characterization of the use of proceeds as qualifying 'flow-through critical mineral mining expenditures,' and the stated renunciation and expenditure deadlines, rest solely on the company's own release."
    ],
    "brief": [
-    "Ovintiv Inc. (NYSE:OVV, TSX:OVV) has agreed to acquire Logan Energy Corp. (TSXV:LGN) for C$1.40 per share in cash, a transaction valued at approximately $890 million, or C$1.26 billion, including the assumption of Logan's net debt. The boards of both companies have unanimously approved the agreement.",
-    "The deal adds roughly 266,000 net acres in the Montney's oil window, about 20,000 barrels of oil equivalent a day of current production, plus 420 net well locations, 220 of them premium return. It also brings about 60,000 net acres of Duvernay shale exposure and two new oil batteries at Simonette with combined capacity of 24,000 barrels a day.",
-    "The transaction is expected to close early in the first quarter of 2027, subject to Logan shareholder, court and regulatory approvals and customary closing conditions. Ovintiv said it expects annual cost synergies of about $60 million, net debt below $4 billion after closing, and an unchanged target of returning at least 60% of 2026 non-GAAP free cash flow to shareholders."
+    "Red Canyon Resources Ltd. (CSE: REDC) (OTCQB: REDRF) has closed a non-brokered flow-through private placement, raising gross proceeds of $745,000 through 3,725,000 flow-through units priced at $0.20 each. Each unit includes one flow-through common share and one-half of one warrant, with each whole warrant exercisable at $0.30 for 18 months.",
+    "The company said the flow-through proceeds will fund Canadian exploration expenditures that qualify as flow-through critical mineral mining expenditures on its Kendal and Osiris projects and other eligible British Columbia properties, with an expenditure deadline of December 31, 2027 and renunciation effective December 31, 2026. The company paid $24,025 in finder's fees, and insiders purchased 937,500 of the units.",
+    "All securities issued under the offering are restricted from trading until February 27, 2027, and the financing closed October 26, 2026, the company said, giving Red Canyon fresh capital to advance exploration on its British Columbia projects."
    ],
    "body": [
-    "Ovintiv Inc. (NYSE:OVV, TSX:OVV) said it has agreed to acquire Logan Energy Corp. (TSXV:LGN) in an all-cash transaction. Logan shareholders will receive C$1.40 per share, for total consideration of approximately $890 million, or C$1.26 billion, including the assumption of Logan's net debt. The agreement was announced October 26, 2026, and the boards of both companies have unanimously approved it.",
-    "The transaction brings Ovintiv roughly 266,000 net acres in the oil-rich window of the Montney formation, along with about 20,000 barrels of oil equivalent a day of current production, the release said. Ovintiv said the acreage carries approximately 420 net oil well locations drilled on a 10,000-foot equivalent lateral basis, including about 220 it classifies as premium return locations, at an average cost of $1.5 million per location, and roughly 200 as upside locations.",
-    "The release said Logan's assets also include about 60,000 net acres with exposure to the Duvernay shale, two new oil batteries at Simonette with combined capacity of 24,000 barrels of oil a day, and interests in two natural gas processing facilities. These assets are included within the total consideration of approximately $890 million, or C$1.26 billion, that Ovintiv has agreed to pay, including the assumption of Logan's net debt.",
-    "Ovintiv said the acquisition is expected to be accretive to its 2027 Non-GAAP Cash Flow per Share by approximately 5% and to its Non-GAAP Free Cash Flow per Share by approximately 3%. The company also said it expects annual cost synergies of about $60 million and capital savings of more than $2 million per well, and that its net debt is expected to be below $4 billion following the transaction's close.",
-    "Ovintiv President and CEO Brendan McCracken said: \"This bolt-on transaction delivers value for our shareholders by adding high margin oil and condensate production and infrastructure, utilizing our operational advantage to drive significant synergies, and adding to our already deep drilling inventory and future growth optionality.\" The release's own headline described the transaction as unlocking 'incremental profitability,' providing 'additional oil growth optionality' and adding to 'premium return drilling inventory.'",
-    "Completion is expected early in the first quarter of 2027, subject to Logan shareholder approval, court approval, customary regulatory approvals and other customary closing conditions, the release said. RBC Capital Markets is acting as exclusive financial advisor to Ovintiv on the transaction, with Blake, Cassels & Graydon LLP and Paul, Weiss, Rifkind, Wharton & Garrison LLP serving as Ovintiv's legal advisors. Ovintiv said its targeted shareholder returns are unchanged, with at least 60% of 2026 Non-GAAP Free Cash Flow expected to be returned to shareholders."
+    "Red Canyon Resources Ltd. (CSE: REDC) (OTCQB: REDRF) (Frankfurt: I91) has closed a non-brokered flow-through private placement for gross proceeds of $745,000. The offering consisted of 3,725,000 flow-through units priced at $0.20 each. Each FT Unit comprised one flow-through common share and one-half of one common share purchase warrant, with each whole warrant exercisable into one common share at $0.30 for an 18-month term.",
+    "A flow-through share lets the company renounce the associated Canadian exploration expenses to the subscriber, who can then claim them against their own income for tax purposes — which is why flow-through financings are typically priced at a premium to a company's regular shares. Red Canyon's release did not state whether this placement carried that kind of premium.",
+    "The company said the proceeds qualify as flow-through critical mineral mining expenditures and are earmarked for exploration on its Kendal and Osiris projects and other eligible British Columbia properties. The expenditure deadline is December 31, 2027, and the related renunciation of the expenses to subscribers is effective December 31, 2026, the company said.",
+    "Red Canyon paid finder's fees of $24,025 in connection with the offering. Insiders of the company purchased 937,500 of the flow-through units, the release said, without further detail on which insiders participated or in what amounts individually.",
+    "All securities issued under the offering — the flow-through shares and the warrants — are restricted from trading until February 27, 2027. The offering closed October 26, 2026.",
+    "Red Canyon is a Vancouver-based company exploring in British Columbia, trading on the CSE under REDC, on the OTCQB under REDRF, and in Frankfurt under I91. The release did not disclose the current size of the company's exploration programs beyond naming the Kendal and Osiris projects as a focus for the new proceeds."
+   ]
+  },
+  {
+   "slug": "minehub-arranges-1-5-million-placement-pushes-warrant-expiry-out-to",
+   "url": "https://www.cmbulletin.com/posts/minehub-arranges-1-5-million-placement-pushes-warrant-expiry-out-to.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/minehub-arranges-1-5-million-placement-pushes-warrant-expiry-out-to.json",
+   "date": "2026-10-27T12:38:49Z",
+   "headline": "MineHub arranges $1.5 million placement, pushes warrant expiry out to 2027",
+   "dek": "The non-brokered financing prices units at $0.40 with $0.55 warrants, while more than 15.7 million existing warrants get an eleven-month extension.",
+   "caption": "A dim server room corridor stands quiet as MineHub Technologies arranges a private placement to shore up working capital.",
+   "sections": [
+    "financings"
+   ],
+   "tags": [
+    "Financing",
+    "Technology"
+   ],
+   "tickers": [
+    "TSXV:MHUB",
+    "OTCQB:MHUBF"
+   ],
+   "image": "https://www.cmbulletin.com/images/minehub-arranges-1-5-million-placement-pushes-warrant-expiry-out-to.png",
+   "source_name": "Newsfile Corp (via finanznachrichten.de)",
+   "sources": [
+    {
+     "title": "MineHub Technologies Inc.: MineHub Announces Financing",
+     "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69940588-minehub-technologies-inc-minehub-announces-financing-296.htm",
+     "publisher": "Newsfile Corp (via finanznachrichten.de)"
+    },
+    {
+     "title": "MineHub Technologies Launches $1.5 Million Non-Brokered Private Placement and Extends Warrants to 2027",
+     "url": "https://kalkinemedia.com/ca/news/announcements/minehub-technologies-launches-15-million-non-brokered-private-placement-and-extends-warrants-to-2027",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "The stated use of proceeds — working capital and 'continuing to evaluate strategic, corporate and financial opportunities' — and the insider-participation disclosure rest solely on the company's own release."
+   ],
+   "brief": [
+    "MineHub Technologies Inc. (TSXV: MHUB) (OTCQB: MHUBF) has arranged a non-brokered private placement to raise up to CAD $1,500,000. The offering consists of up to 3,750,000 units at $0.40 each, with each unit made up of one common share and half of one warrant exercisable at $0.55 for two years from closing.",
+    "The company is also extending 15,760,417 previously issued warrants — exercisable at $0.40 and $0.50 — to a new expiry of December 31, 2027, from January 31, 2027. Certain insiders may participate in the placement, which is subject to TSX Venture Exchange approval and relies on exemptions from formal valuation and shareholder-approval requirements.",
+    "MineHub says the proceeds will go to working capital and to continue evaluating strategic, corporate and financial opportunities, as the Vancouver-based digital commodity supply chain company awaits exchange sign-off on the offering."
+   ],
+   "body": [
+    "MineHub Technologies Inc. (TSXV: MHUB) (OTCQB: MHUBF) has arranged a non-brokered private placement to raise up to CAD $1,500,000. The offering consists of up to 3,750,000 units priced at $0.40 each. Each unit is made up of one common share and one-half of one transferable common share purchase warrant, with each whole warrant exercisable at $0.55 per common share for two years from the closing date.",
+    "A unit, in this structure, bundles a share together with the right to buy additional shares later at a fixed price — the warrant — giving subscribers upside if the stock trades above $0.55 before the warrant expires, without requiring them to pay for that right up front beyond the unit price.",
+    "Alongside the new placement, MineHub is extending the expiry of warrants it issued earlier. Prior warrants covering 14,584,954 shares at an exercise price of $0.40, issued January 31, 2024, along with 625,000 warrants at $0.50 issued July 25, 2025 and 550,463 warrants at $0.50 issued August 20, 2025, all had their expiry pushed from January 31, 2027 to December 31, 2027.",
+    "The company said certain insiders of MineHub may participate in the new placement, relying on exemptions from the formal valuation and minority shareholder approval requirements that would otherwise apply to insider participation under Multilateral Instrument 61-101.",
+    "Closing of the offering is subject to the company's receipt of TSX Venture Exchange approval, MineHub said. No closing date was given in the release.",
+    "MineHub said the proceeds are earmarked for working capital and for continuing to evaluate strategic, corporate and financial opportunities. The release gave no further detail on what those opportunities might involve."
    ]
   }
  ]

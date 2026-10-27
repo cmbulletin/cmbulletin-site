@@ -347,6 +347,84 @@ th.sheet__num { text-align: right; }
   border-bottom: 2px solid var(--ink);
 }
 .board__group { padding: 21px 0 7px; color: var(--accent); }
+
+/* ---------------------------------------------------------------- panes
+   **Markets and Financings were too long to read — Conrad, 13 October 2026**
+   ("it feels like the markets and financing tabs are too long ... some
+   sidetabs so they dont have to scroll so much"). Markets stacked forty quote
+   rows under eight headings; Financings stacked five blocks, two exchange
+   sheets and three trackers. Both are now one group at a time, chosen from a
+   list of tabs that sits down the left on a wide screen and scrolls across the
+   top on a phone.
+
+   **Nothing is hidden until the script says so.** The tab list is display:none
+   and every pane is open until `panes.js` adds `is-tabbed`, so a reader with no
+   JavaScript, a search engine and the printed page all get exactly the page
+   that existed before this. That is the same degradation rule the markets rail
+   is built on — see live.py.
+
+   The rows stay in the DOM when a pane is closed, which is what keeps the live
+   poller correct: it updates by `data-symbol` and never looks at visibility, so
+   a pane opened after four minutes is already current rather than stale. */
+.panes__tabs { display: none; }
+.panes__wrap > .pane + .pane { border-top: 1px solid var(--rule); margin-top: 10px; }
+
+.is-tabbed .panes__tabs {
+  display: flex;
+  gap: 4px;
+  overflow-x: auto;
+  scrollbar-width: none;
+  margin: 14px 0 4px;
+  padding-bottom: 2px;
+}
+.is-tabbed .panes__tabs::-webkit-scrollbar { display: none; }
+.is-tabbed .panes__wrap > .pane + .pane { border-top: 0; margin-top: 0; }
+.is-tabbed .pane[hidden] { display: none; }
+/* The heading inside a pane repeats the tab that opened it. */
+.is-tabbed .pane > .board__group:first-child { display: none; }
+
+.panes__tab {
+  flex: 0 0 auto;
+  background: none;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  padding: 6px 10px;
+  color: var(--ink-soft);
+  cursor: pointer;
+  white-space: nowrap;
+  font: inherit;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  font-size: 11px;
+}
+.panes__tab:hover { color: var(--ink); }
+.panes__tab[aria-selected="true"] { color: var(--accent); border-bottom-color: var(--accent); }
+.panes__tab:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+@media (min-width: 900px) {
+  /* Side tabs: the list down the left, the open group beside it. */
+  .is-tabbed .panes {
+    display: grid;
+    grid-template-columns: 186px minmax(0, 1fr);
+    column-gap: 38px;
+    align-items: start;
+  }
+  .is-tabbed .panes__tabs {
+    flex-direction: column;
+    gap: 0;
+    overflow: visible;
+    margin: 0;
+    border-right: 1px solid var(--rule);
+  }
+  .is-tabbed .panes__tab {
+    text-align: left;
+    padding: 9px 14px 9px 0;
+    border-bottom: 0;
+    border-right: 2px solid transparent;
+    margin-right: -1px;
+  }
+  .is-tabbed .panes__tab[aria-selected="true"] { border-right-color: var(--accent); }
+}
 .board__row {
   display: grid;
   grid-template-columns: 1fr auto 92px 84px;
