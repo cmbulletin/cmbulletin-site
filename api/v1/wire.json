@@ -1,12 +1,48 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T20:27:51Z",
+ "generated_at": "2026-10-27T20:42:29Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "count": 400,
  "note": "Third-party headlines with a one-sentence summary written by the Bulletin. The article stays with its publisher; follow the link.",
  "items": [
+  {
+   "id": "779bb6912856193d84f2",
+   "section": "mining",
+   "headline": "Eyes on the East: Why Atlantic Canada's Exploration Boom is Gaining Momentum",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/eyes-on-the-east-why-atlantic-canadas-exploration-boom-is-gaining-momentum/",
+   "published": "2026-10-27T20:33:01+00:00"
+  },
+  {
+   "id": "97c23b0310646edde2c3",
+   "section": "news",
+   "headline": "Kipchoge Takes Running Mission Worldwide",
+   "summary": "",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-27/kipchoge-takes-running-mission-worldwide-video",
+   "published": "2026-10-27T20:29:19+00:00"
+  },
+  {
+   "id": "05084eb6fe64258e4124",
+   "section": "news",
+   "headline": "JetBlue Surges 19% as Airline Reaffirms Profitability Outlook | Closing Bell",
+   "summary": "JetBlue Airways' shares rose 19% in trading after the airline reaffirmed its profitability outlook, according to a Bloomberg report.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-27/jetblue-surges-on-profit-outlook-closing-bell-video",
+   "published": "2026-10-27T20:24:39+00:00"
+  },
+  {
+   "id": "5ce296f1116c55f7fce6",
+   "section": "news",
+   "headline": "Trafigura, Mubadala Cancel Planned Sale of Brazilian Iron Port",
+   "summary": "Commodity trader Trafigura and investment firm Mubadala have called off their previously planned sale of a Brazilian iron port, Bloomberg reported.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/trafigura-mubadala-cancel-planned-sale-of-brazilian-iron-port",
+   "published": "2026-10-27T20:20:42+00:00"
+  },
   {
    "id": "ba16cd97aae8ff3072a2",
    "section": "mining",
@@ -24,6 +60,15 @@
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/videos/2026-10-27/microsectors-spotlight-video",
    "published": "2026-10-27T20:16:47+00:00"
+  },
+  {
+   "id": "a66602558097c0d3bf90",
+   "section": "news",
+   "headline": "Goldman Sachs' Khalil on Dealmaking Outlook & Texas",
+   "summary": "",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-27/goldman-sachs-khalil-on-dealmaking-outlook-texas-video",
+   "published": "2026-10-27T20:15:41+00:00"
   },
   {
    "id": "bdc4eef8c2cab3822a3b",
@@ -69,6 +114,15 @@
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-10-27/kalshi-sets-2-500-monthly-deposit-limits-for-users-under-21",
    "published": "2026-10-27T20:09:24+00:00"
+  },
+  {
+   "id": "747836620315da6cb612",
+   "section": "news",
+   "headline": "TXSE CEO Lee on Listing Standards and New Business",
+   "summary": "",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-27/txse-ceo-lee-on-listing-standards-and-new-business-video",
+   "published": "2026-10-27T20:08:29+00:00"
   },
   {
    "id": "1874209e3fa59b7efcf7",
@@ -3552,60 +3606,6 @@
    "publisher": "Fierce Biotech",
    "url": "https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug",
    "published": "2026-10-26T14:47:29.627714+00:00"
-  },
-  {
-   "id": "5fff9f1da33cd179d1fa",
-   "section": "tech",
-   "headline": "ESMO: AstraZeneca exec insists phase 3 ADC data ‘robust’ enough for regulators despite PFS miss",
-   "summary": "An AstraZeneca executive said phase 3 data for its antibody-drug conjugate remain robust enough to support regulatory approval, despite the trial missing its progression-free survival endpoint.",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-az-exec-insists-ph-3-adc-data-robust-enough-approval-despite-pfs-miss",
-   "published": "2026-10-26T14:47:29.627672+00:00"
-  },
-  {
-   "id": "4c13a61d52e50530a74a",
-   "section": "tech",
-   "headline": "ESMO: Roche touts ‘convincing’ phase 3 KRAS data after win over rivals",
-   "summary": "Roche presented phase 3 data for a KRAS-targeted lung cancer drug at ESMO that the company characterized as a win over competing therapies.",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-roche-sees-phase-3-kras-lung-cancer-win-over-krazati-convincing-health-authorities",
-   "published": "2026-10-26T14:47:29.627629+00:00"
-  },
-  {
-   "id": "d05a440ef83f66bcbb01",
-   "section": "tech",
-   "headline": "ESMO: BMS’ Massacesi hails ‘very promising’ data for BioNTech-partnered PD-L1xVEGF-A drug",
-   "summary": "A Bristol Myers Squibb executive called early data for its BioNTech-partnered PD-L1xVEGF-A bispecific antibody very promising, as the companies advance the program through trials.",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-bms-massacesi-hails-very-promising-data-biontech-partnered-pd-l1xvegf-drug",
-   "published": "2026-10-26T14:47:29.627590+00:00"
-  },
-  {
-   "id": "7d250371358fc6ac3a0e",
-   "section": "tech",
-   "headline": "ESMO: Tango trims headcount after impressing analysts with ‘highly synergistic’ RevMed combo",
-   "summary": "Tango Therapeutics is cutting staff after presenting phase 3 combination data with a Revolution Medicines drug that analysts described as highly synergistic.",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-tango-dances-phase-3-analysts-hail-highly-synergistic-revmed-combo",
-   "published": "2026-10-26T14:47:29.627547+00:00"
-  },
-  {
-   "id": "68c1e9f36079f4216e7e",
-   "section": "tech",
-   "headline": "ESMO: Genmab posts phase 3 win for Elahere rival, ahead of ‘very interesting’ data from Merus buyout",
-   "summary": "Genmab reported a phase 3 win for a therapy competing with Elahere, ahead of anticipated data from its pending acquisition of Merus.",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-genmabs-phase-3-win-elahere-rival-ahead-very-interesting-data-merus-buyout",
-   "published": "2026-10-26T14:47:29.627506+00:00"
-  },
-  {
-   "id": "c72114f30f1b45bea00a",
-   "section": "tech",
-   "headline": "BMS sheds light on patient death in CAR-T trial, wants to get program back on track",
-   "summary": "Bristol Myers Squibb disclosed details of a patient death in a CAR-T cell therapy trial and said it is working to resume the program.",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause",
-   "published": "2026-10-26T14:47:29.627464+00:00"
   }
  ]
 }
