@@ -1,12 +1,129 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T16:34:47Z",
+ "generated_at": "2026-10-27T17:09:00Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "count": 400,
  "note": "Third-party headlines with a one-sentence summary written by the Bulletin. The article stays with its publisher; follow the link.",
  "items": [
+  {
+   "id": "6237186f91c9564643f1",
+   "section": "news",
+   "headline": "A Visit to the AI Model Retirement Home",
+   "summary": "A Bloomberg newsletter profiled what happens to AI models after companies retire or discontinue them.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-10-27/a-visit-to-the-ai-model-retirement-home",
+   "published": "2026-10-27T17:04:41+00:00"
+  },
+  {
+   "id": "bff7cc4fc7a4355b4bff",
+   "section": "energy",
+   "headline": "45,000 Nvidia Blackwell GPUs Cleared for Kazakhstan Data Center",
+   "summary": "Kazakhstan has cleared the import of 45,000 Nvidia Blackwell GPUs for a new data center, OilPrice.com reported.",
+   "publisher": "OilPrice.com",
+   "url": "https://oilprice.com/Energy/Energy-General/45000-Nvidia-Blackwell-GPUs-Cleared-for-Kazakhstan-Data-Center.html",
+   "published": "2026-10-27T17:00:00+00:00"
+  },
+  {
+   "id": "4fad1f136265ad37e0e0",
+   "section": "news",
+   "headline": "Scotiabank Plans SRT Transaction Tied to $2 Billion of Loans",
+   "summary": "Scotiabank is planning a significant risk transfer transaction tied to $2 billion of loans, Bloomberg reported.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/scotiabank-plans-srt-transaction-tied-to-2-billion-of-loans",
+   "published": "2026-10-27T16:57:28+00:00"
+  },
+  {
+   "id": "b2576f94f5e81584aa4c",
+   "section": "news",
+   "headline": "Crusoe CEO on AI Energy Demand and Building in Texas",
+   "summary": "Crusoe's CEO discussed rising AI-driven energy demand and the company's data center buildout in Texas, in a Bloomberg interview.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-27/crusoe-ceo-on-ai-energy-demand-and-building-in-texas-video",
+   "published": "2026-10-27T16:51:04+00:00"
+  },
+  {
+   "id": "6b0d9a6bc84ff9db3eeb",
+   "section": "news",
+   "headline": "Saudi Aramco Offers Europe More Spot Oil as Supplies Ramp Up",
+   "summary": "Saudi Aramco is offering Europe additional spot oil cargoes as supply ramps up, Bloomberg reported.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/saudi-aramco-offers-europe-more-spot-oil-as-supplies-ramp-up",
+   "published": "2026-10-27T16:50:31+00:00"
+  },
+  {
+   "id": "63020a5942b61c766f76",
+   "section": "news",
+   "headline": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
+   "summary": "SEC chair Atkins said the agency is weighing an overhaul of its crowdfunding rules, Bloomberg reported.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/sec-weighing-overhaul-to-crowdfunding-rules-atkins-says",
+   "published": "2026-10-27T16:49:14+00:00"
+  },
+  {
+   "id": "0e33542a54c3328cbc95",
+   "section": "news",
+   "headline": "U.S. Bancorp Poised for Canada Bond Return After Two Decades",
+   "summary": "U.S. Bancorp is positioned to return to the Canadian bond market for the first time in two decades, Bloomberg reported.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/u-s-bancorp-poised-for-canada-bond-return-after-two-decades",
+   "published": "2026-10-27T16:43:32+00:00"
+  },
+  {
+   "id": "d989fc8a505b6e01ec5d",
+   "section": "news",
+   "headline": "UPS Raises Outlook as CEO Plans to Stay On to Oversee Union Talks",
+   "summary": "UPS raised its financial outlook, and its CEO plans to remain in place to oversee upcoming union negotiations, Bloomberg reported.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-27/ups-raises-outlook-video",
+   "published": "2026-10-27T16:42:24+00:00"
+  },
+  {
+   "id": "7f93fb3f2177d56cd0a0",
+   "section": "news",
+   "headline": "Boeing shares slump as planemaker cuts 737 jet delivery target",
+   "summary": "Boeing shares fell after the company cut its delivery target for the 737 jet, the Financial Times reported.",
+   "publisher": "Financial Times — Companies",
+   "url": "https://www.ft.com/content/f8c1c655-bb55-4ee1-bc8c-8315a6f6821f?syn-25a6b1a6=1",
+   "published": "2026-10-27T16:38:23+00:00"
+  },
+  {
+   "id": "1834bd5bcd26b6d491c1",
+   "section": "energy",
+   "headline": "Oil Markets Brace for a New Iran Escalation After U.S. Midterms",
+   "summary": "Oil markets are bracing for a possible escalation in tensions with Iran following the US midterm elections, OilPrice.com reported.",
+   "publisher": "OilPrice.com",
+   "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Brace-for-a-New-Iran-Escalation-After-US-Midterms.html",
+   "published": "2026-10-27T16:37:35+00:00"
+  },
+  {
+   "id": "554e23d551d1792abe5d",
+   "section": "news",
+   "headline": "Caviar, champagne and a Porsche ride: Airlines move upmarket as margins tighten",
+   "summary": "The Globe and Mail reported that airlines are adding premium amenities to offset tightening profit margins.",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-airlines-move-upmarket-as-margins-tighten/",
+   "published": "2026-10-27T16:35:51+00:00"
+  },
+  {
+   "id": "0cffda313ce1a8a93a16",
+   "section": "news",
+   "headline": "Causeway Capital CEO on Value Opportunities Outside US",
+   "summary": "Causeway Capital's CEO discussed value investment opportunities outside the United States, in a Bloomberg interview.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-27/causeway-capital-ceo-on-value-opportunities-outside-us-video",
+   "published": "2026-10-27T16:35:38+00:00"
+  },
+  {
+   "id": "53533ee8584086687969",
+   "section": "news",
+   "headline": "There is more Oxford Street can do to get tills ringing",
+   "summary": "The Financial Times examined measures that could help boost retail sales on London's Oxford Street.",
+   "publisher": "Financial Times — Companies",
+   "url": "https://www.ft.com/content/44ff901d-8087-4a2a-989d-7bfe05ae7d9e?syn-25a6b1a6=1",
+   "published": "2026-10-27T16:28:16+00:00"
+  },
   {
    "id": "1e439627abc916a0db62",
    "section": "news",
@@ -71,6 +188,15 @@
    "published": "2026-10-27T16:19:55+00:00"
   },
   {
+   "id": "9c0a9d675d51557e13d0",
+   "section": "tech",
+   "headline": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+   "summary": "IEEE Spectrum examined cybersecurity risks in robotic safety systems, warning that manipulated sensor data could defeat safety functions that otherwise work as designed.",
+   "publisher": "IEEE Spectrum",
+   "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+   "published": "2026-10-27T16:14:39+00:00"
+  },
+  {
    "id": "1f7908c7b8288c511537",
    "section": "mining",
    "headline": "Deep Sea Minerals eyes US listing as leasing auction nears",
@@ -116,6 +242,15 @@
    "published": "2026-10-27T16:00:00+00:00"
   },
   {
+   "id": "2703745b520347250dac",
+   "section": "energy",
+   "headline": "Capacity, clarity, cash and compliance: the 4 C’s of electric co-op funding success",
+   "summary": "",
+   "publisher": "Utility Dive",
+   "url": "https://www.utilitydive.com/news/for-electric-cooperatives-winning-federal-state-funding-depends-on-4-cs/833299/",
+   "published": "2026-10-27T16:00:00+00:00"
+  },
+  {
    "id": "77d37066cab1c033853c",
    "section": "mining",
    "headline": "Western Copper CEO exits as Casino review advances",
@@ -123,6 +258,24 @@
    "publisher": "The Northern Miner",
    "url": "https://www.northernminer.com/news/western-copper-ceo-exits-as-casino-review-advances/1003896140/",
    "published": "2026-10-27T15:59:38+00:00"
+  },
+  {
+   "id": "240985bd4c79f4d1d4ae",
+   "section": "energy",
+   "headline": "ADNOC 'Unlocks' $16B in UAE Manufacturing Opportunities",
+   "summary": "ADNOC said it is opening up $16 billion in manufacturing opportunities within the UAE, Rigzone reported.",
+   "publisher": "Rigzone",
+   "url": "https://www.rigzone.com/news/adnoc_unlocks_16b_in_uae_manufacturing_opportunities-27-oct-2026-184946-article/?rss=true",
+   "published": "2026-10-27T15:49:13+00:00"
+  },
+  {
+   "id": "85ef662328718d805fbb",
+   "section": "energy",
+   "headline": "Ovintiv Acquires Montney Neighbor Logan",
+   "summary": "Ovintiv agreed to acquire Montney-area operator Logan, expanding its position in neighboring acreage, Rigzone reported.",
+   "publisher": "Rigzone",
+   "url": "https://www.rigzone.com/news/ovintiv_acquires_montney_neighbor_logan-27-oct-2026-184945-article/?rss=true",
+   "published": "2026-10-27T15:46:26+00:00"
   },
   {
    "id": "9f9bd87fa7fdc173b3fd",
@@ -170,6 +323,15 @@
    "published": "2026-10-27T15:38:54+00:00"
   },
   {
+   "id": "f001013ecfa4f2c680a8",
+   "section": "news",
+   "headline": "US insurance regulators back down on credit ratings scrutiny",
+   "summary": "US insurance regulators have stepped back from increased scrutiny of credit rating agencies, the Financial Times reported.",
+   "publisher": "Financial Times — Companies",
+   "url": "https://www.ft.com/content/4a12c55c-40d1-4e91-990b-3adc51b85912?syn-25a6b1a6=1",
+   "published": "2026-10-27T15:36:27+00:00"
+  },
+  {
    "id": "aa0ac893cee894658799",
    "section": "energy",
    "headline": "18.4 TW by 2035: IRENA Raises Renewables Goal as Power Demand Climbs",
@@ -177,6 +339,15 @@
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Latest-Energy-News/World-News/184-TW-by-2035-IRENA-Raises-Renewables-Goal-as-Power-Demand-Climbs.html",
    "published": "2026-10-27T15:30:00+00:00"
+  },
+  {
+   "id": "3cc6fbf96d76a242666a",
+   "section": "energy",
+   "headline": "India Diesel Export Boom Set to Ease Global Crunch",
+   "summary": "India's diesel exports are set to rise, helping ease a global diesel supply crunch, Rigzone reported.",
+   "publisher": "Rigzone",
+   "url": "https://www.rigzone.com/news/wire/india_diesel_export_boom_set_to_ease_global_crunch-27-oct-2026-184943-article/?rss=true",
+   "published": "2026-10-27T15:22:17+00:00"
   },
   {
    "id": "0bde6e71ff18002afcb4",
@@ -755,6 +926,51 @@
    "published": "2026-10-27T13:00:00+00:00"
   },
   {
+   "id": "1c82654e6346c13dff3e",
+   "section": "financings",
+   "headline": "Forward Named a Top 25 Most Innovative Cybersecurity Company as Forward Predict Wins Top InfoSec Innovator Award",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027832938/en/Forward-Named-a-Top-25-Most-Innovative-Cybersecurity-Company-as-Forward-Predict-Wins-Top-InfoSec-Innovator-Award/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T13:00:00+00:00"
+  },
+  {
+   "id": "552c2ebebc28246d88ad",
+   "section": "financings",
+   "headline": "FiT Names Jamie Shafiee Vice President of Strategic Markets",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027925993/en/FiT-Names-Jamie-Shafiee-Vice-President-of-Strategic-Markets/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T13:00:00+00:00"
+  },
+  {
+   "id": "8fda36b8c12c8aeb4964",
+   "section": "financings",
+   "headline": "NTT DATA Expands AI Factory Footprint Globally to Help Clients Scale AI from Pilots to Production",
+   "summary": "NTT Data said it is expanding its AI infrastructure build-out globally to help enterprise clients move AI projects from pilot to production scale.",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027116537/en/NTT-DATA-Expands-AI-Factory-Footprint-Globally-to-Help-Clients-Scale-AI-from-Pilots-to-Production/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T13:00:00+00:00"
+  },
+  {
+   "id": "529dfd9ae4abf454a75e",
+   "section": "financings",
+   "headline": "OPSWAT-Sponsored Report: AI is Exposing a File Security Gap Most Organizations Don’t Know They Have",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027164449/en/OPSWAT-Sponsored-Report-AI-is-Exposing-a-File-Security-Gap-Most-Organizations-Don%E2%80%99t-Know-They-Have/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T13:00:00+00:00"
+  },
+  {
+   "id": "95eea575d7b568f900cb",
+   "section": "financings",
+   "headline": "NWN Strengthens Palo Alto Networks Partnership with Three NextWave Advanced MSSP Specializations",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027744777/en/NWN-Strengthens-Palo-Alto-Networks-Partnership-with-Three-NextWave-Advanced-MSSP-Specializations/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T13:00:00+00:00"
+  },
+  {
    "id": "d5126cd7e07f8e1ea31d",
    "section": "news",
    "headline": "California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives",
@@ -1064,7 +1280,7 @@
    "id": "1800a40dfca940d21dd0",
    "section": "mining",
    "headline": "Sponsored Q&A: GRG turns to gold after San Pietro copper sale",
-   "summary": "",
+   "summary": "GRG is shifting its focus to gold projects following the sale of its San Pietro copper asset, the company said.",
    "publisher": "Canadian Mining Journal",
    "url": "https://www.canadianminingjournal.com/news/sponsored-qa-grg-turns-to-gold-after-san-pietro-copper-sale/",
    "published": "2026-10-27T12:00:00+00:00"
@@ -1073,7 +1289,7 @@
    "id": "1b3335ed304f0752dc39",
    "section": "mining",
    "headline": "PPX Intercepts High-Grade Gold, Silver, and Copper at Callanquitas, with 13.28 g/t Au, 5,204 g/t Ag and 5.4% Cu Over 1.0 m; and Completes the First Drill Hole at Portachuelos",
-   "summary": "",
+   "summary": "PPX Mining reported assay results from Callanquitas showing 13.28 g/t gold, 5,204 g/t silver and 5.4% copper over one metre, and completed its first hole at Portachuelos.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/ppx-intercepts-high-grade-gold-silver-and-copper-at-callanquitas-with-13-28-g-t-au-5204-g-t-ag-and-5-4-cu-over-1-0-m-and-completes-the-first-drill-hole-at-portachuelos/",
    "published": "2026-10-27T12:00:00+00:00"
@@ -1085,6 +1301,33 @@
    "summary": "Tenaris's Canadian pipe manufacturing is positioned to support a more self-reliant domestic energy supply chain, The Globe and Mail reported.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/rob-magazine/article-made-in-canada-tenariss-totally-tubular-pipes-can-give-canada-a-truly/",
+   "published": "2026-10-27T12:00:00+00:00"
+  },
+  {
+   "id": "a71dc7810964406fd3e2",
+   "section": "financings",
+   "headline": "Ingram Micro’s New Intelligence-Powered “SMB Quick Buy” Speeds Sales Cycles and Increases Profit Potential for MSPs and Channel Partners",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027761305/en/Ingram-Micro%E2%80%99s-New-Intelligence-Powered-%E2%80%9CSMB-Quick-Buy%E2%80%9D-Speeds-Sales-Cycles-and-Increases-Profit-Potential-for-MSPs-and-Channel-Partners/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T12:00:00+00:00"
+  },
+  {
+   "id": "2752d9fab57941ebb966",
+   "section": "financings",
+   "headline": "Study Finds Hack The Box Cybersecurity Platform Delivered 330% Return on Investment",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027837445/en/Study-Finds-Hack-The-Box-Cybersecurity-Platform-Delivered-330-Return-on-Investment/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T12:00:00+00:00"
+  },
+  {
+   "id": "66b44ae4299406cce563",
+   "section": "financings",
+   "headline": "Ten Eleven Ventures Named to Inc.’s 2026 Founder-Friendly Investors List",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027958372/en/Ten-Eleven-Ventures-Named-to-Inc.%E2%80%99s-2026-Founder-Friendly-Investors-List/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-10-27T12:00:00+00:00"
   },
   {
@@ -1109,7 +1352,7 @@
    "id": "e397f34795e526c7b42b",
    "section": "energy",
    "headline": "Singapore looks to develop nuclear energy expertise",
-   "summary": "",
+   "summary": "Singapore said it is working to build domestic nuclear energy expertise, World Nuclear News reported.",
    "publisher": "World Nuclear News",
    "url": "https://www.world-nuclear-news.org/articles/singapore-looks-to-develop-nuclear-energy-workforce",
    "published": "2026-10-27T11:54:37+00:00"
@@ -1118,7 +1361,7 @@
    "id": "3bebf3802bb4e46d00db",
    "section": "mining",
    "headline": "Capstone to invest $3B in Chile to double copper production",
-   "summary": "",
+   "summary": "Capstone Copper said it will invest $3 billion in Chile to double copper production at its operations there, Canadian Mining Journal reported.",
    "publisher": "Canadian Mining Journal",
    "url": "https://www.canadianminingjournal.com/news/capstone-to-invest-3b-in-chile-to-double-copper-production/",
    "published": "2026-10-27T11:53:00+00:00"
@@ -1127,7 +1370,7 @@
    "id": "9e9928a0637d6fa6dc15",
    "section": "news",
    "headline": "Bond-Market Doubts Grow Over Gridlock as Cure for Deficit Angst",
-   "summary": "",
+   "summary": "Bond market participants are increasingly skeptical that political gridlock will ease concerns about the US fiscal deficit, Bloomberg reported.",
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-10-27/bond-market-doubts-grow-over-gridlock-as-cure-for-deficit-angst",
    "published": "2026-10-27T11:45:00+00:00"
@@ -1136,7 +1379,7 @@
    "id": "4aa007ac442eabfc4487",
    "section": "news",
    "headline": "Wilson Pinpoints Clearing Events as Buying Opportunities",
-   "summary": "",
+   "summary": "Strategist Wilson said recent market clearing events represent buying opportunities, according to a Bloomberg interview.",
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/videos/2026-10-27/wilson-pinpoints-clearing-events-as-buying-opportunities-video",
    "published": "2026-10-27T11:44:21+00:00"
@@ -1145,7 +1388,7 @@
    "id": "05ba190de603bc339aa6",
    "section": "news",
    "headline": "Novogratz Says Credit Markets Are Reaching ‘Peak Nervousness’",
-   "summary": "",
+   "summary": "Galaxy Digital's Novogratz said credit markets are reaching a point of peak nervousness, Bloomberg reported.",
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-10-27/novogratz-s-galaxy-tops-revenue-estimates-shares-rise",
    "published": "2026-10-27T11:37:30+00:00"
@@ -1154,7 +1397,7 @@
    "id": "109cee3acac423fc7a7a",
    "section": "energy",
    "headline": "Samsung SDI signs 1GWh US BESS supply agreement with Alpha Omega Power",
-   "summary": "",
+   "summary": "Samsung SDI signed a 1-gigawatt-hour battery storage supply agreement with Alpha Omega Power for a US project, Energy-Storage.news reported.",
    "publisher": "Energy-Storage.news",
    "url": "https://www.energy-storage.news/samsung-sdi-signs-1gwh-us-bess-supply-agreement-with-alpha-omega-power/",
    "published": "2026-10-27T11:32:15+00:00"
@@ -1163,7 +1406,7 @@
    "id": "ac6466dbf13d7d946a05",
    "section": "energy",
    "headline": "Diesel Drives India's Fuel Export Windfall as Earnings Reach $12.6 Billion",
-   "summary": "",
+   "summary": "India's fuel exporters earned $12.6 billion from diesel sales, driven by strong export demand, OilPrice.com reported.",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Latest-Energy-News/World-News/Diesel-Drives-Indias-Fuel-Export-Windfall-as-Earnings-Reach-126-Billion.html",
    "published": "2026-10-27T11:30:00+00:00"
@@ -1172,7 +1415,7 @@
    "id": "86c7f86b447060820dfe",
    "section": "tech",
    "headline": "Industrial Intelligence: The next growth opportunity for manufacturing",
-   "summary": "",
+   "summary": "MIT Technology Review explored industrial intelligence as an emerging growth area for manufacturers adopting AI-driven automation and data tools.",
    "publisher": "MIT Technology Review",
    "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
    "published": "2026-10-27T11:19:18+00:00"
@@ -1199,7 +1442,7 @@
    "id": "99079f56a96a8a7c7a21",
    "section": "news",
    "headline": "Coca-Cola lifts annual profit target as premium drinks, sodas hold strong",
-   "summary": "",
+   "summary": "Coca-Cola raised its annual profit outlook, citing strong demand for premium drinks and sodas, the Globe and Mail reported.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-coca-cola-results-october-2026/",
    "published": "2026-10-27T11:13:16+00:00"
@@ -1646,6 +1889,51 @@
    "published": "2026-10-27T09:00:00+00:00"
   },
   {
+   "id": "7cea93497bf5113bdd29",
+   "section": "mining",
+   "headline": "WESCAN GOLDFIELDS REPORTS ENCOURAGING DRILL CORE OBSERVATIONS IN FIRST HOLE OF 2026 DRILL CAMPAIGN AT MUNRO LAKE; ASSAYS PENDING",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/wescan-goldfields-reports-encouraging-drill-core-observations-in-first-hole-of-2026-drill-campaign-at-munro-lake-assays-pending/",
+   "published": "2026-10-27T09:00:00+00:00"
+  },
+  {
+   "id": "3549e2af2684d1aa4d38",
+   "section": "mining",
+   "headline": "Galloper Gold Intersects Occurrences of Visible Gold",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/galloper-gold-intersects-occurrences-of-visible-gold/",
+   "published": "2026-10-27T09:00:00+00:00"
+  },
+  {
+   "id": "4f834cd021311bf7d8ce",
+   "section": "mining",
+   "headline": "IAMGOLD Drilling Extends Mineralization at Nelligan, Intersects High-Grade Gold at Monster Lake and Advances Philibert Within Its Nelligan Mining Complex",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/iamgold-drilling-extends-mineralization-at-nelligan-intersects-high-grade-gold-at-monster-lake-and-advances-philibert-within-its-nelligan-mining-complex/",
+   "published": "2026-10-27T09:00:00+00:00"
+  },
+  {
+   "id": "3ed07fe31f0722c292a9",
+   "section": "mining",
+   "headline": "Jonathan Wang Joins Ivanhoe Electric as Vice President, Investor Relations",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/jonathan-wang-joins-ivanhoe-electric-as-vice-president-investor-relations/",
+   "published": "2026-10-27T09:00:00+00:00"
+  },
+  {
+   "id": "7aaa752d13babb297ab1",
+   "section": "energy",
+   "headline": "Cross-party interest in Australian nuclear future, poll suggests",
+   "summary": "",
+   "publisher": "World Nuclear News",
+   "url": "https://www.world-nuclear-news.org/articles/cross-party-interest-in-australian-nuclear-future-poll-suggests",
+   "published": "2026-10-27T08:59:46+00:00"
+  },
+  {
    "id": "5e07989aab42dccedec4",
    "section": "energy",
    "headline": "India’s Delectrik Systems awarded 120MWh long-duration vanadium flow battery contract in Gujarat",
@@ -1898,6 +2186,24 @@
    "published": "2026-10-27T01:37:32+00:00"
   },
   {
+   "id": "a5e5cb544cf8d6073dc9",
+   "section": "news",
+   "headline": "Three GTA law firms put into receivership after accusations of mishandling millions in real estate funds",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-three-gta-law-firms-put-into-receivership-after-accusations-of/",
+   "published": "2026-10-27T01:15:21+00:00"
+  },
+  {
+   "id": "b33aa7e9cae14b4a422f",
+   "section": "news",
+   "headline": "Is Trump about to TACO on tariffs? Don’t bet on it",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/commentary/article-is-trump-about-to-taco-on-tariffs-dont-bet-on-it/",
+   "published": "2026-10-27T00:05:05+00:00"
+  },
+  {
    "id": "11f5cf84be2300117a28",
    "section": "news",
    "headline": "‘Hold course and adapt as you go’: An interview with Manon van Beek",
@@ -1979,6 +2285,24 @@
    "published": "2026-10-27T00:00:00+00:00"
   },
   {
+   "id": "5c8208ea765b2b658461",
+   "section": "news",
+   "headline": "Anthropic sets stage for blockbuster IPO, highlighting AI’s benefits and risks for humanity",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-anthropic-sec-filing-blockbuster-ipo/",
+   "published": "2026-10-26T23:45:02+00:00"
+  },
+  {
+   "id": "4c8013cc0680ed1344be",
+   "section": "news",
+   "headline": "Alberta regulator approves power plant project for data centre near Edmonton",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/economy/article-alberta-regulator-approves-power-plant-data-centre-near-edmonton/",
+   "published": "2026-10-26T23:30:05+00:00"
+  },
+  {
    "id": "ad66ab64b52b86fc3e4b",
    "section": "energy",
    "headline": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
@@ -1988,6 +2312,15 @@
    "published": "2026-10-26T23:00:00+00:00"
   },
   {
+   "id": "8b87daf1c15f9d8def7f",
+   "section": "news",
+   "headline": "Canada, partners to sign charter for new defence bank at end of November",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/economy/article-canada-defence-security-resilience-bank-signing/",
+   "published": "2026-10-26T22:43:38+00:00"
+  },
+  {
    "id": "ed18ddb7db1f00113c37",
    "section": "tech",
    "headline": "Microsoft offers to buy out a quarter of its workforce",
@@ -1995,6 +2328,15 @@
    "publisher": "Ars Technica",
    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
    "published": "2026-10-26T22:36:06+00:00"
+  },
+  {
+   "id": "ec0a1d2da6eb996e2e2a",
+   "section": "news",
+   "headline": "U.S. trade negotiators ‘coming closer to our position,’ Carney says",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/canada/video-us-trade-negotiators-coming-closer-to-our-position-carney-says/",
+   "published": "2026-10-26T22:08:35+00:00"
   },
   {
    "id": "50c453f64f4fe623447f",
@@ -2022,6 +2364,15 @@
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Energy/Natural-Gas/Alleged-Russian-Funding-Prompts-Executive-Exodus-at-US-LNG-Firm.html",
    "published": "2026-10-26T22:00:00+00:00"
+  },
+  {
+   "id": "c34486e67121b7c46355",
+   "section": "news",
+   "headline": "NBA strikes deals with prediction markets, with an eye on integrity and regulations",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/sports/basketball/article-nba-strikes-deals-with-prediction-markets-with-an-eye-on-integrity-and/",
+   "published": "2026-10-26T21:54:21+00:00"
   },
   {
    "id": "b6b9ab723bb766db635d",
@@ -3255,357 +3606,6 @@
    "publisher": "European Central Bank",
    "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
    "published": "2026-10-26T05:00:00+00:00"
-  },
-  {
-   "id": "561a62c54f96111ff656",
-   "section": "energy",
-   "headline": "1GW data centre with 5,000MWh battery storage system submitted to Australia’s EPBC Act for approval",
-   "summary": "",
-   "publisher": "Energy-Storage.news",
-   "url": "https://www.energy-storage.news/1gw-data-centre-with-5000mwh-battery-storage-system-submitted-to-australias-epbc-act-for-approval/",
-   "published": "2026-10-26T03:38:54+00:00"
-  },
-  {
-   "id": "96f7d5f705237126a1d3",
-   "section": "tech",
-   "headline": "Scientists overcome a hidden obstacle to more powerful quantum computers",
-   "summary": "",
-   "publisher": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm",
-   "published": "2026-10-26T01:42:48+00:00"
-  },
-  {
-   "id": "82575c9b50e2549796f6",
-   "section": "news",
-   "headline": "Caryle Murphy Has Died. She Earned a Pulitzer for Reporting in Kuwait.",
-   "summary": "",
-   "publisher": "The New York Times",
-   "url": "https://www.nytimes.com/2026/10/25/business/media/caryle-murphy-dead.html",
-   "published": "2026-10-26T01:08:42+00:00"
-  },
-  {
-   "id": "a6299f76d73d789b2802",
-   "section": "news",
-   "headline": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-   "summary": "",
-   "publisher": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-26T00:26:49+00:00"
-  },
-  {
-   "id": "372d98773b297e51631c",
-   "section": "news",
-   "headline": "Pfizer’s Alex Condoleon on medical affairs accountability",
-   "summary": "",
-   "publisher": "McKinsey",
-   "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/pfizers-alex-condoleon-on-medical-affairs-accountability",
-   "published": "2026-10-26T00:00:00+00:00"
-  },
-  {
-   "id": "06a431f36918e7545584",
-   "section": "news",
-   "headline": "Agentic AI in financial-crime prevention: Lessons from winners",
-   "summary": "",
-   "publisher": "McKinsey",
-   "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-financial-crime-prevention-lessons-from-winners",
-   "published": "2026-10-26T00:00:00+00:00"
-  },
-  {
-   "id": "ea451dafa7ba9ea70085",
-   "section": "news",
-   "headline": "The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI",
-   "summary": "",
-   "publisher": "McKinsey",
-   "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai",
-   "published": "2026-10-26T00:00:00+00:00"
-  },
-  {
-   "id": "7fa07abf89419735b709",
-   "section": "news",
-   "headline": "Agentic AI in transaction monitoring: How banks can scale AI in compliance",
-   "summary": "",
-   "publisher": "McKinsey",
-   "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-transaction-monitoring-how-banks-can-scale-ai-in-compliance",
-   "published": "2026-10-26T00:00:00+00:00"
-  },
-  {
-   "id": "4307d55bd2de22574980",
-   "section": "tech",
-   "headline": "Are salaries getting worse? Many scientists think so",
-   "summary": "",
-   "publisher": "Nature",
-   "url": "https://www.nature.com/articles/d41586-026-03398-0",
-   "published": "2026-10-26T00:00:00+00:00"
-  },
-  {
-   "id": "3e03e78ef2559cf2c8f8",
-   "section": "tech",
-   "headline": "The Selfish Gene , 50 years on — it’s time for an update",
-   "summary": "",
-   "publisher": "Nature",
-   "url": "https://www.nature.com/articles/d41586-026-03393-5",
-   "published": "2026-10-26T00:00:00+00:00"
-  },
-  {
-   "id": "13239ea3089c420570de",
-   "section": "news",
-   "headline": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-   "summary": "",
-   "publisher": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-25T23:44:34+00:00"
-  },
-  {
-   "id": "66b84dad17f1429df02a",
-   "section": "news",
-   "headline": "Business Daily",
-   "summary": "",
-   "publisher": "BBC",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct8ggp?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-25T19:00:00+00:00"
-  },
-  {
-   "id": "764e253db1de1e5c305c",
-   "section": "tech",
-   "headline": "Gilead to pay $1.3B upfront for PepStar’s oral IL-23 challenger to J&J’s Icotyde",
-   "summary": "Gilead Sciences has agreed to pay PepStar $1.3 billion upfront for an oral IL-23 drug candidate positioned to compete with Johnson & Johnson's Icotyde.",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/gilead-pay-13b-upfront-pepstars-oral-il-23-challenger-jjs-icotyde",
-   "published": "2026-10-25T12:42:27.791960+00:00"
-  },
-  {
-   "id": "bd8698e04d43737c52d8",
-   "section": "tech",
-   "headline": "ESMO: Boehringer builds case for late-phase rival to Amgen’s Imdelltra",
-   "summary": "",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/boehringer-builds-case-late-phase-rival-amgens-imdelltra",
-   "published": "2026-10-25T12:42:27.791865+00:00"
-  },
-  {
-   "id": "f06b6e9a0de425f8b9a3",
-   "section": "tech",
-   "headline": "Roche puts numbers behind phase 3 kidney disease win amid blockbuster ambitions",
-   "summary": "",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/roches-igan-kidney-disease-drug-sefaxersen-snags-ph3-win",
-   "published": "2026-10-25T12:42:27.791840+00:00"
-  },
-  {
-   "id": "37e42ed8e2ec7fb8e43c",
-   "section": "tech",
-   "headline": "ESMO: GSK cancer R&D chief says mo-rez data ‘reinforces our belief’ in ADC as phase 3 push ramps up",
-   "summary": "",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-gsk-cancer-chief-says-latest-data-mo-rez-reinforces-our-belief-adc",
-   "published": "2026-10-25T12:42:27.791813+00:00"
-  },
-  {
-   "id": "781873e19a656aa7cd11",
-   "section": "tech",
-   "headline": "ESMO: Lilly touts 79% ADC response rate in competitive ovarian cancer space",
-   "summary": "",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-eli-lilly-touts-79-adc-response-rate-competitive-ovarian-cancer-space",
-   "published": "2026-10-25T12:42:27.791778+00:00"
-  },
-  {
-   "id": "ff5f01283ed2c9d1f159",
-   "section": "tech",
-   "headline": "‘It is what it is’: Merck exec unruffled by ‘unfortunate’ leak of ESMO cancer vaccine data",
-   "summary": "",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/it-what-it-merck-exec-sanguine-esmo-leak-significant-cancer-vaccine-data",
-   "published": "2026-10-25T12:42:27.791710+00:00"
-  },
-  {
-   "id": "53ef5fe0cfd61aeab540",
-   "section": "news",
-   "headline": "What’s Happening in EM: Bond Investors Turn to Developing World",
-   "summary": "Bloomberg reports that bond investors are increasing allocations to emerging-market debt as the developing world draws renewed fixed-income interest.",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/audio/2026-10-25/what-s-happening-in-em-bond-investors-turn-to-developing-world",
-   "published": "2026-10-25T12:30:00+00:00"
-  },
-  {
-   "id": "f3c355a7987db91cfe49",
-   "section": "news",
-   "headline": "By The Way: Headlines You May Have Missed",
-   "summary": "",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-25/by-the-way-headlines-you-may-have-missed-video",
-   "published": "2026-10-25T12:26:39+00:00"
-  },
-  {
-   "id": "57d1eaec2f9788841f13",
-   "section": "tech",
-   "headline": "Three giant black holes discovered in a galaxy from the dawn of time",
-   "summary": "",
-   "publisher": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
-   "published": "2026-10-25T12:07:01+00:00"
-  },
-  {
-   "id": "6af24b190cc8a2fcaa95",
-   "section": "news",
-   "headline": "IndiGo, Air India to Shift Some Flights to New Mumbai Airport",
-   "summary": "IndiGo and Air India plan to move a portion of their flight operations to Mumbai's new airport, Bloomberg reports.",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-25/indigo-air-india-to-shift-some-flights-to-new-mumbai-airport",
-   "published": "2026-10-25T11:20:11+00:00"
-  },
-  {
-   "id": "bcfd0479cb83d97fc55c",
-   "section": "news",
-   "headline": "Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.",
-   "summary": "",
-   "publisher": "The New York Times",
-   "url": "https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html",
-   "published": "2026-10-25T11:11:21+00:00"
-  },
-  {
-   "id": "db58aad73735b1074cb7",
-   "section": "news",
-   "headline": "Airbus to hold talks with BAE over role in GCAP fighter jet programme",
-   "summary": "Airbus is set to hold talks with BAE Systems regarding a potential role in the GCAP fighter jet programme, the Financial Times reports.",
-   "publisher": "Financial Times — Companies",
-   "url": "https://www.ft.com/content/701768ba-b541-491e-bcc5-e76d1baea2fe?syn-25a6b1a6=1",
-   "published": "2026-10-25T11:00:02+00:00"
-  },
-  {
-   "id": "e76156a09f6913638586",
-   "section": "energy",
-   "headline": "Iberdrola Secures New EIB Loan for Brazil Grid Upgrades",
-   "summary": "Iberdrola has secured a new loan from the European Investment Bank to fund upgrades to its electricity grid operations in Brazil.",
-   "publisher": "Rigzone",
-   "url": "https://www.rigzone.com/news/iberdrola_secures_new_eib_loan_for_brazil_grid_upgrades-25-oct-2026-184924-article/?rss=true",
-   "published": "2026-10-25T11:00:00+00:00"
-  },
-  {
-   "id": "f576f6fe7b4e8a3d254c",
-   "section": "news",
-   "headline": "Audi to build $4bn US plant as it grapples with tariffs",
-   "summary": "Audi plans to build a $4 billion manufacturing plant in the United States as it manages the impact of tariffs, the Financial Times reports.",
-   "publisher": "Financial Times — Companies",
-   "url": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
-   "published": "2026-10-25T10:33:28+00:00"
-  },
-  {
-   "id": "8baa2606f24965649cde",
-   "section": "news",
-   "headline": "Budget to include £1bn for social and affordable housing",
-   "summary": "The UK government's upcoming Budget is set to include £1 billion in funding for social and affordable housing, the BBC reports.",
-   "publisher": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-25T10:03:17+00:00"
-  },
-  {
-   "id": "4ec216a86ffe78c6014a",
-   "section": "news",
-   "headline": "German billionaire says €250mn Bayern Munich deal about more than money",
-   "summary": "",
-   "publisher": "Financial Times — Companies",
-   "url": "https://www.ft.com/content/167f7707-c677-4aa3-96f8-d36c9d5eb0ba?syn-25a6b1a6=1",
-   "published": "2026-10-25T10:00:02+00:00"
-  },
-  {
-   "id": "5a8a827629591dce972a",
-   "section": "news",
-   "headline": "French Bond Rout Puts Crisis at Heart of ECB Succession Endgame",
-   "summary": "A selloff in French government bonds has become a central factor in the contest over who will succeed the current ECB leadership, Bloomberg reports.",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-25/french-bond-rout-puts-crisis-at-heart-of-ecb-succession-endgame",
-   "published": "2026-10-25T10:00:00+00:00"
-  },
-  {
-   "id": "d7989bbc75bdb9f53250",
-   "section": "news",
-   "headline": "Looming rate hike raises the question: Is it better to battle inflation or win the trade war?",
-   "summary": "",
-   "publisher": "The Globe and Mail",
-   "url": "https://www.theglobeandmail.com/business/commentary/article-bank-of-canada-looming-rate-hike-inflation-trade-war/",
-   "published": "2026-10-25T10:00:00+00:00"
-  },
-  {
-   "id": "791fe85c5402771f98e9",
-   "section": "news",
-   "headline": "Former ‘60 Minutes’ Boss to Join Video Journalism Start-Up",
-   "summary": "",
-   "publisher": "The New York Times",
-   "url": "https://www.nytimes.com/2026/10/25/business/media/bill-owens-60-minutes-emerson-collective.html",
-   "published": "2026-10-25T09:30:04+00:00"
-  },
-  {
-   "id": "a1ae4c1d2b755d0bbdab",
-   "section": "news",
-   "headline": "My Co-Worker Is Losing It Over My Religion",
-   "summary": "",
-   "publisher": "The New York Times",
-   "url": "https://www.nytimes.com/2026/10/25/business/my-co-worker-is-losing-it-over-my-religion.html",
-   "published": "2026-10-25T09:01:59+00:00"
-  },
-  {
-   "id": "62f062a3166fd71a6c6d",
-   "section": "news",
-   "headline": "The Long Life of the ‘Snacking Occasion’",
-   "summary": "",
-   "publisher": "The New York Times",
-   "url": "https://www.nytimes.com/2026/10/25/business/the-long-life-of-the-snacking-occasiong-glp1.html",
-   "published": "2026-10-25T09:01:30+00:00"
-  },
-  {
-   "id": "79538c7224ba68e7ae73",
-   "section": "news",
-   "headline": "How to Straddle the MAGA Divide",
-   "summary": "",
-   "publisher": "The New York Times",
-   "url": "https://www.nytimes.com/2026/10/25/business/how-to-straddle-the-maga-divide.html",
-   "published": "2026-10-25T09:00:54+00:00"
-  },
-  {
-   "id": "c73a4a789e51245aa2c5",
-   "section": "news",
-   "headline": "Brookfield to Open Doha Office to Deepen Middle East Reach",
-   "summary": "Brookfield plans to open an office in Doha as part of an effort to deepen its presence across the Middle East, Bloomberg reports.",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-25/brookfield-to-open-doha-office-to-deepen-its-middle-east-reach",
-   "published": "2026-10-25T08:47:01+00:00"
-  },
-  {
-   "id": "3245e250ace030014603",
-   "section": "news",
-   "headline": "Goldman Cuts Kospi 12-Month Target by 25% as AI Trade Unravels",
-   "summary": "Goldman Sachs has cut its 12-month target for South Korea's Kospi index by 25%, citing a reversal in the artificial-intelligence trade, Bloomberg reports.",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-25/goldman-cuts-kospi-12-month-target-by-25-as-ai-trade-unravels",
-   "published": "2026-10-25T07:44:43+00:00"
-  },
-  {
-   "id": "fcaa4736aa1130f71a6e",
-   "section": "news",
-   "headline": "Rosebank: Life on the oil field at the centre of a political storm",
-   "summary": "",
-   "publisher": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-25T07:15:38+00:00"
-  },
-  {
-   "id": "23cab14aee66cd18b795",
-   "section": "news",
-   "headline": "Heating oil costs 'more than double' ahead of winter",
-   "summary": "",
-   "publisher": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-25T07:12:21+00:00"
-  },
-  {
-   "id": "cec0c98b823efa04b1b4",
-   "section": "news",
-   "headline": "How families are cutting the cost of Halloween as spending grows",
-   "summary": "",
-   "publisher": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c64g1kjgrl47o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-25T07:09:56+00:00"
   }
  ]
 }
