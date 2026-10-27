@@ -335,6 +335,7 @@ a.stretch:hover { color: inherit; }
   font-family: var(--sans);
   font-size: 14px;
 }
+.rail__row--head { border-top: 0; padding: 0 0 5px; font-size: 12px; font-weight: 600; color: var(--ink-soft); }
 .rail__spark { display: none; }
 /* Names wrap rather than truncate: "S&P/TSX Comp…" is not a name. */
 .rail__name { min-width: 0; overflow-wrap: anywhere; }
