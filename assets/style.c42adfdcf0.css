@@ -112,7 +112,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoratio
 
 /* Dateline row, then the nameplate set flush left and heavy, then one
    hairline. The dateline carries the utility links and the edition switch. */
-.masthead { padding-top: 14px; container-type: inline-size; }
+.masthead { padding-top: 14px; }
 .dateline {
   display: flex;
   flex-wrap: wrap;
@@ -130,22 +130,21 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoratio
   cursor: pointer; text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
 .js .edition { display: inline; }
 
-.masthead__wordmark { display: block; text-align: left; text-decoration: none; padding: 18px 0 16px; }
+.masthead__wordmark { display: block; text-align: center; text-decoration: none; padding: 10px 0 18px; }
 .masthead__wordmark:hover { text-decoration: none; }
-/* The grotesk at 800, flush left, tracked in hard, and as wide as the page.
-   Measured 27 October 2026 against the pinned instance: the name is 10.98em at
-   this tracking, at every width, so 100cqi / 11 runs it edge to edge of the
-   masthead whatever the window. The vw clamp is the fallback for a browser
-   without container units. Re-measure before changing the tracking or name. */
+/* The grotesk at 800, small and centred — Conrad, 27 October 2026, on the
+   page-wide nameplate an hour earlier: "make the logo small and centered, make
+   sure its not over the line". The line-height leaves the descender of the p
+   clear of the rule; at .92 it cut through it. The name is 10.98em at this
+   tracking, so the 7vw floor still holds one line on a 320px phone. */
 .masthead__name {
   display: block;
   font-family: var(--display);
   font-weight: 800;
-  font-size: clamp(22px, 7vw, 132px);
-  font-size: calc(100cqi / 11);
-  line-height: .92;
-  letter-spacing: -.045em;
-  margin: 0 0 0 -.04em;
+  font-size: clamp(24px, 7vw, 46px);
+  line-height: 1.15;
+  letter-spacing: -.04em;
+  margin: 0;
   white-space: nowrap;
 }
 .masthead__logo { width: min(620px, 88%); margin: 0; filter: brightness(0) invert(1); }
@@ -163,7 +162,7 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoratio
   align-items: center;
   gap: 6px 30px;
   padding: 12px 0;
-  justify-content: flex-start;
+  justify-content: safe center;
   overflow-x: auto;
   scrollbar-width: none;
   -ms-overflow-style: none;
@@ -216,7 +215,7 @@ a.stretch:hover { color: inherit; }
 .photo--lead img { aspect-ratio: 2.15 / 1; }
 .photo--story img { aspect-ratio: 3 / 2; }
 .photo--desk img { aspect-ratio: 16 / 9; }
-.photo--article img { aspect-ratio: 2.4 / 1; }
+.photo--article img { aspect-ratio: 2 / 1; }
 @media (max-width: 719px) { .photo--lead img, .photo--article img { aspect-ratio: 3 / 2; } }
 
 /* Markets-page tables: hairline rows, right-aligned tabular figures, no boxes. */
@@ -333,15 +332,40 @@ a.stretch:hover { color: inherit; }
 .xrec__meta { color: var(--faint); }
 .xrec__what { color: var(--ink-soft); }
 
-/* The bulletin as data: a documentation block, not a terminal hero. */
-.data p { margin: 0; font-size: 17px; line-height: 1.6; max-width: 40em; }
+/* The bulletin as data: a documentation block, not a terminal hero. Once its
+   column is wide enough it splits in two — the offer and the curl line on the
+   left, the endpoints on the right — so it fills its width rather than leaving
+   a blank strip beside a short list (Conrad, 27 October 2026, on the block set
+   alone across a wide window: "make sure this is done"). A container query, so
+   it is right beside the wire, alone across the page and stacked on a phone. */
+.fp__wide { container-type: inline-size; }
+.data { display: grid; grid-template-columns: minmax(0, 1fr); column-gap: clamp(28px, 3vw, 56px); align-items: start; }
+.data > * { min-width: 0; }
+@container (min-width: 720px) {
+  .data {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr);
+    grid-template-areas: "head head" "intro list" "code list" "sample list" "links list";
+    grid-template-rows: auto auto auto auto 1fr;
+  }
+  .data > .sect-head { grid-area: head; }
+  .data > p:not(.data__links) { grid-area: intro; }
+  .data > .code { grid-area: code; }
+  .data > .sample { grid-area: sample; }
+  .data > .endpoints { grid-area: list; margin-top: 4px; }
+  .data > .data__links { grid-area: links; }
+}
+.data p { margin: 0; font-size: 17px; line-height: 1.6; }
+.data .data__links { font-size: 12.5px; line-height: 1.5; }
+.sample { margin: 0 0 18px; }
+.sample__label { font-family: var(--mono); font-size: 11.5px; color: var(--faint); margin: 0 0 6px; }
+.code--sample { margin: 0; border-left-color: var(--rule-strong); color: var(--ink-soft); font-size: 12.5px; white-space: pre-wrap; overflow-wrap: anywhere; }
 .code { margin: 18px 0; padding: 14px 16px; background: var(--code); border-left: 2px solid var(--accent); font-family: var(--mono); font-size: 13px; line-height: 1.6; overflow-x: auto; color: var(--ink); }
-.endpoints { font-family: var(--mono); font-size: 12.5px; max-width: 56em; }
-.endpoint { display: grid; grid-template-columns: minmax(0, 1fr); gap: 2px 16px; padding: 7px 0; border-top: 1px solid var(--rule); }
-@media (min-width: 640px) { .endpoint { grid-template-columns: 260px minmax(0, 1fr); } }
+.endpoints { font-family: var(--mono); font-size: 12.5px; }
+.endpoint { display: grid; grid-template-columns: minmax(0, 1fr); gap: 2px 16px; padding: 8px 0; border-top: 1px solid var(--rule); }
+@media (min-width: 640px) { .endpoint { grid-template-columns: 220px minmax(0, 1fr); } }
 .endpoint code { font-family: var(--mono); font-size: 12.5px; color: var(--ink); }
 .endpoint span { color: var(--ink-soft); }
-.data__links { margin-top: 16px; font-family: var(--mono); font-size: 12.5px; }
+.data__links { margin-top: 2px; font-family: var(--mono); font-size: 12.5px; }
 .data__links a:first-child { color: var(--accent); font-weight: 500; }
 
 /* The wire on the front page: other newsrooms, summarised, linked out. */
@@ -392,8 +416,8 @@ a.stretch:hover { color: inherit; }
 
 .front-split { display: grid; gap: 30px; align-items: start; padding-top: 6px; }
 @media (min-width: 940px) {
-  .front-split { grid-template-columns: 380px minmax(0, 1fr); gap: 40px; }
-  .front-board { border-right: 1px solid var(--rule); padding-right: 30px; }
+  .front-split { grid-template-columns: clamp(380px, 30vw, 560px) minmax(0, 1fr); gap: clamp(40px, 3vw, 64px); }
+  .front-board { border-right: 1px solid var(--rule); padding-right: clamp(30px, 2.4vw, 48px); }
 }
 .front-board .board { padding-top: 0; }
 .front-board .board__spark { display: none; }
@@ -473,11 +497,48 @@ a.stretch:hover { color: inherit; }
 .panes__tab:hover { color: var(--ink); }
 .panes__tab[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--accent); }
 @media (min-width: 900px) {
-  .is-tabbed .panes { display: grid; grid-template-columns: 190px minmax(0, 1fr); column-gap: 36px; align-items: start; }
+  .is-tabbed .panes { display: grid; grid-template-columns: 236px minmax(0, 1fr); column-gap: 36px; align-items: start; }
   .is-tabbed .panes__tabs { flex-direction: column; gap: 0; overflow: visible; margin: 0; border-bottom: 0; border-right: 1px solid var(--rule); }
   .is-tabbed .panes__tab { text-align: left; padding: 8px 14px 8px 0; border-bottom: 0; border-right: 2px solid transparent; margin: 0 -1px 0 0; }
   .is-tabbed .panes__tab[aria-selected="true"] { border-right-color: var(--accent); }
+  /* A section front's board sits in a narrow column; a tab list down its side
+     left the rows a hundred pixels and wrapped every name. There the tabs run
+     across the top and wrap instead. */
+  .is-tabbed .front-board .panes { display: block; }
+  .is-tabbed .front-board .panes__tabs { flex-direction: row; flex-wrap: wrap; gap: 0 18px; margin: 8px 0 4px; border-right: 0; border-bottom: 1px solid var(--rule); }
+  .is-tabbed .front-board .panes__tab { padding: 7px 0; border-right: 0; border-bottom: 2px solid transparent; margin: 0 0 -1px; }
+  .is-tabbed .front-board .panes__tab[aria-selected="true"] { border-bottom-color: var(--accent); }
 }
+
+/* The markets page at full width: each group a grid of instrument tiles —
+   name, the level large, the change, the month's line across the tile —
+   rather than three rows stretched across 1,700px with the name at one end and
+   the figure at the other (Conrad, 27 October 2026, on that page: "make these
+   better"). Hairline cells sharing their rules; no boxes, shadows or radii. */
+.front-wide .pane {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  border-top: 1px solid var(--rule);
+  border-left: 1px solid var(--rule);
+}
+@media (min-width: 720px) { .front-wide .pane { grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); } }
+.front-wide .pane > .board__group { grid-column: 1 / -1; margin: 0; padding: 12px 16px; border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
+.front-wide .pane > .board__row {
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-areas: "name name" "last pct" "spark spark";
+  align-items: baseline;
+  gap: 8px 12px;
+  padding: 16px 18px 14px;
+  border-top: 0;
+  border-right: 1px solid var(--rule);
+  border-bottom: 1px solid var(--rule);
+}
+.front-wide .pane > .board__row:hover { background: var(--code); }
+.front-wide .pane .board__name { grid-area: name; font-family: var(--sans); font-size: 15px; font-weight: 600; letter-spacing: -.01em; color: var(--ink); }
+.front-wide .pane .board__last { grid-area: last; text-align: left; font-size: clamp(21px, 1.7vw, 30px); letter-spacing: -.02em; color: var(--ink); }
+.front-wide .pane .board__pct { grid-area: pct; font-size: 13px; }
+.front-wide .pane .board__spark { grid-area: spark; display: block; margin-top: 6px; color: var(--ink-soft); line-height: 0; }
+.front-wide .pane .board__spark svg { display: block; width: 100%; height: 46px; }
 
 /* ---------- the wire (section fronts) ---------- */
 
@@ -485,7 +546,7 @@ a.stretch:hover { color: inherit; }
 .wire__row:first-of-type { border-top: 0; padding-top: 14px; }
 .wire__meta { font-family: var(--mono); font-size: 11.5px; color: var(--faint); margin-bottom: 5px; }
 .wire__dot { margin: 0 6px; color: var(--faint); }
-.wire__title { font-family: var(--sans); font-weight: 700; font-size: 18px; line-height: 1.25; letter-spacing: -.015em; margin: 0; }
+.wire__title { font-family: var(--sans); font-weight: 600; font-size: 17.5px; line-height: 1.3; letter-spacing: -.01em; margin: 0; }
 .wire__title a::after { content: " \2197"; font-family: var(--mono); color: var(--accent); font-size: .78em; }
 .wire__dek { font-size: 15px; line-height: 1.5; color: var(--ink-soft); margin: 5px 0 0; }
 
@@ -508,8 +569,15 @@ a.stretch:hover { color: inherit; }
 .sheet { padding-bottom: 6px; }
 .sheet__scroll { overflow-x: auto; }
 .sheet__table { width: 100%; border-collapse: collapse; font-family: var(--mono); font-size: 12.5px; }
-.sheet__table th { text-align: left; font-size: 11.5px; font-weight: 400; color: var(--faint); padding: 10px 14px 6px 0; border-bottom: 1px solid var(--ink); white-space: nowrap; }
-.sheet__table td { padding: 8px 14px 8px 0; border-bottom: 1px solid var(--rule); vertical-align: top; }
+/* Even padding on both sides of every cell — Conrad, 27 October 2026, on the
+   full-width Financings page: "formatting looks off". With padding on the
+   right only, a right-aligned figure ran into the left-aligned column after it
+   ("C$0.25 —") while the wide table opened gaps elsewhere. */
+.sheet__table th { text-align: left; font-size: 11.5px; font-weight: 400; color: var(--faint); padding: 10px 18px 7px; border-bottom: 1px solid var(--ink); white-space: nowrap; }
+.sheet__table td { padding: 10px 18px; border-bottom: 1px solid var(--rule); vertical-align: baseline; }
+.sheet__table th:first-child, .sheet__table td:first-child { padding-left: 0; }
+.sheet__table th:last-child, .sheet__table td:last-child { padding-right: 0; }
+.sheet__table tbody tr:hover td { background: var(--code); }
 .sheet__table tr:last-child td { border-bottom: 0; }
 .sheet__co { font-family: var(--sans); font-weight: 600; font-size: 14.5px; letter-spacing: -.01em; }
 .sheet__tick { color: var(--faint); white-space: nowrap; }

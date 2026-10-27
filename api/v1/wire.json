@@ -1,12 +1,48 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T19:44:49Z",
+ "generated_at": "2026-10-27T20:08:28Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "count": 400,
  "note": "Third-party headlines with a one-sentence summary written by the Bulletin. The article stays with its publisher; follow the link.",
  "items": [
+  {
+   "id": "9d5b70df07a753c677a5",
+   "section": "energy",
+   "headline": "5 Data Center Power Stocks to Watch Before Earnings",
+   "summary": "",
+   "publisher": "OilPrice.com",
+   "url": "https://oilprice.com/Energy/Energy-General/5-Data-Center-Power-Stocks-to-Watch-Before-Earnings.html",
+   "published": "2026-10-27T20:00:00+00:00"
+  },
+  {
+   "id": "0f2cc4403528fe8e3999",
+   "section": "news",
+   "headline": "Canada, UAE sign trade deal as Carney pushes to expand investment ties",
+   "summary": "Canada and the United Arab Emirates signed a trade deal, with Mark Carney pushing to expand investment ties between the two countries.",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-canada-uae-sign-trade-deal-carney-oct-27/",
+   "published": "2026-10-27T19:51:13+00:00"
+  },
+  {
+   "id": "26ea905bd36865d60123",
+   "section": "news",
+   "headline": "Israel Election Tests Netanyahu's Hold on Power",
+   "summary": "",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-27/israel-election-tests-netanyahu-s-hold-on-power-video",
+   "published": "2026-10-27T19:42:56+00:00"
+  },
+  {
+   "id": "2d63e016913774e80700",
+   "section": "financings",
+   "headline": "Dominican Republic to Host World Governments Summit Dialogue for Latin America and the Caribbean",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027040012/en/Dominican-Republic-to-Host-World-Governments-Summit-Dialogue-for-Latin-America-and-the-Caribbean/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T19:40:00+00:00"
+  },
   {
    "id": "f6a075e4d8ae47efb4ce",
    "section": "news",
@@ -33,6 +69,15 @@
    "publisher": "BBC",
    "url": "https://www.bbc.co.uk/news/articles/c3dxwzzewpz1o?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-27T19:22:39+00:00"
+  },
+  {
+   "id": "33a08ae0eb1ba05e7ce2",
+   "section": "news",
+   "headline": "Indicted Ex-Fund Manager Can Sue Jefferies for Costs, Court Says",
+   "summary": "A U.S. court ruled that an indicted former fund manager can sue Jefferies to recover legal costs, according to Bloomberg.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/indicted-ex-fund-manager-can-sue-jefferies-for-costs-court-says",
+   "published": "2026-10-27T19:22:11+00:00"
   },
   {
    "id": "2f0021cb03f9f5262ad4",
@@ -107,6 +152,15 @@
    "published": "2026-10-27T18:57:00+00:00"
   },
   {
+   "id": "23575ba12bdf7cbe1233",
+   "section": "news",
+   "headline": "PDVSA Bonds Deemed Valid in US Ruling Amid Battle for Citgo",
+   "summary": "A U.S. court ruled that PDVSA bonds are valid, a decision with implications for the ongoing legal battle over control of Citgo.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/pdvsa-bonds-deemed-valid-in-us-ruling-amid-battle-for-citgo",
+   "published": "2026-10-27T18:55:03+00:00"
+  },
+  {
    "id": "61c799a7921ee090dd8f",
    "section": "news",
    "headline": "Adviser ISS recommends vote against takeover of H&R Real Estate Investment Trust",
@@ -114,6 +168,15 @@
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-hr-reit-go-residential-takeover-vote-iss-recommends-against/",
    "published": "2026-10-27T18:49:23+00:00"
+  },
+  {
+   "id": "c94bc53a24d8d4c2f24a",
+   "section": "tech",
+   "headline": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+   "summary": "",
+   "publisher": "Ars Technica",
+   "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+   "published": "2026-10-27T18:49:08+00:00"
   },
   {
    "id": "fc0f32a98728596b5870",
@@ -186,6 +249,15 @@
    "publisher": "Financial Times — Companies",
    "url": "https://www.ft.com/content/69ccfcb0-3f5e-4b77-9e04-a386e827b872?syn-25a6b1a6=1",
    "published": "2026-10-27T18:06:33+00:00"
+  },
+  {
+   "id": "b0919991d71305e261b5",
+   "section": "tech",
+   "headline": "Warner Bros. drops final trailer for Dune: Part Three",
+   "summary": "",
+   "publisher": "Ars Technica",
+   "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
+   "published": "2026-10-27T18:05:55+00:00"
   },
   {
    "id": "04d558decceff9143f92",
@@ -2153,7 +2225,7 @@
    "id": "bdab4510e976b7d7425a",
    "section": "mining",
    "headline": "Kingsmen Drills 566 g/t AgEq Over 2.52 Meters, Including 899g/t AgEq Over 1.25 Meters, at New Leona Zone Discovery on Soledad II, Las Coloradas",
-   "summary": "",
+   "summary": "Kingsmen reported a drill result of 566 grams per tonne silver equivalent over 2.52 metres, including 899 g/t over 1.25 metres, at a new discovery on Soledad II, Las Coloradas.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/kingsmen-drills-566-g-t-ageq-over-2-52-meters-including-899g-t-ageq-over-1-25-meters-at-new-leona-zone-discovery-on-soledad-ii-las-coloradas/",
    "published": "2026-10-27T10:00:00+00:00"
@@ -2171,7 +2243,7 @@
    "id": "6de4f9e06b3b374420fe",
    "section": "mining",
    "headline": "Sankamap Discovers 1,000 Metre Long New High-Grade Gold System at North Fauro Property",
-   "summary": "",
+   "summary": "Sankamap announced the discovery of a 1,000-metre-long, high-grade gold mineralized system at its North Fauro property in a new exploration update.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/sankamap-discovers-1000-metre-long-new-high-grade-gold-system-at-north-fauro-property/",
    "published": "2026-10-27T10:00:00+00:00"
@@ -2189,7 +2261,7 @@
    "id": "1e5d4f3d6dad3f4dc879",
    "section": "financings",
    "headline": "Dragos Public Sector Names Board with Former U.S. Cyber and Defense Leaders, Extends Capabilities with Industry’s First xOT Cybersecurity Platform",
-   "summary": "",
+   "summary": "Dragos Public Sector named a new board including former U.S. cyber and defense officials and detailed an expanded operational-technology cybersecurity platform.",
    "publisher": "Business Wire — Financial",
    "url": "http://www.businesswire.com/news/home/20261027821465/en/Dragos-Public-Sector-Names-Board-with-Former-U.S.-Cyber-and-Defense-Leaders-Extends-Capabilities-with-Industry%E2%80%99s-First-xOT-Cybersecurity-Platform/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-10-27T10:00:00+00:00"
@@ -2198,7 +2270,7 @@
    "id": "3348fcf99a3ffe3c90b6",
    "section": "financings",
    "headline": "N-able Launches AI-Accelerated Vulnerability and Patch Management",
-   "summary": "",
+   "summary": "N-able launched a new vulnerability and patch management product that uses AI to accelerate the process, the company said.",
    "publisher": "Business Wire — Financial",
    "url": "http://www.businesswire.com/news/home/20261027586417/en/N-able-Launches-AI-Accelerated-Vulnerability-and-Patch-Management/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-10-27T10:00:00+00:00"
@@ -2216,7 +2288,7 @@
    "id": "ffce1eebae850f0e6411",
    "section": "news",
    "headline": "Nidec to sue founder for role in Japan’s biggest accounting fraud in a decade",
-   "summary": "",
+   "summary": "Nidec said it will sue its founder over his role in what the company describes as Japan's largest accounting fraud in a decade.",
    "publisher": "Financial Times — Companies",
    "url": "https://www.ft.com/content/7aead53f-2ae7-444f-8f9d-cc98706f7130?syn-25a6b1a6=1",
    "published": "2026-10-27T09:44:32+00:00"
@@ -2234,7 +2306,7 @@
    "id": "c876873778c94b738caa",
    "section": "energy",
    "headline": "Trump Moves to Ease Methane Regulations for U.S. Oil Producers",
-   "summary": "",
+   "summary": "The Trump administration moved to ease methane emissions regulations affecting U.S. oil producers, according to the report.",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Moves-to-Ease-Methane-Regulations-for-US-Oil-Producers.html",
    "published": "2026-10-27T09:35:00+00:00"
@@ -2243,7 +2315,7 @@
    "id": "9267f456d388a6f77b31",
    "section": "mining",
    "headline": "Spanish Mountain Gold Signs Facilities Study Interconnection Agreement with BC Hydro and Strengthens Development Team",
-   "summary": "",
+   "summary": "Spanish Mountain Gold signed a facilities study interconnection agreement with BC Hydro and announced additions to its development team.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/spanish-mountain-gold-signs-facilities-study-interconnection-agreement-with-bc-hydro-and-strengthens-development-team/",
    "published": "2026-10-27T09:30:00+00:00"
@@ -2252,7 +2324,7 @@
    "id": "57790e5d0511d072c9f7",
    "section": "mining",
    "headline": "Au Gold Corp Engages Geomorphic AI to Independently Validate Drill Targeting at its Havelock Gold-Antimony Project and Generate New Projects in Victoria, Australia",
-   "summary": "",
+   "summary": "Au Gold Corp engaged Geomorphic AI to independently validate drill targeting at its Havelock gold-antimony project and identify new targets in Victoria, Australia.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/au-gold-corp-engages-geomorphic-ai-to-independently-validate-drill-targeting-at-its-havelock-gold-antimony-project-and-generate-new-projects-in-victoria-australia/",
    "published": "2026-10-27T09:30:00+00:00"
@@ -2261,7 +2333,7 @@
    "id": "bd1441cb616e61b18412",
    "section": "mining",
    "headline": "Lahontan Gold Provides Corporate Update on Santa Fe and West Santa Fe Drill Programs",
-   "summary": "",
+   "summary": "Lahontan Gold issued a corporate update on its Santa Fe and West Santa Fe drill programs.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/lahontan-gold-provides-corporate-update-on-santa-fe-and-west-santa-fe-drill-programs/",
    "published": "2026-10-27T09:30:00+00:00"
@@ -2279,7 +2351,7 @@
    "id": "5eea3e3c7125e1542819",
    "section": "mining",
    "headline": "West Wits to drill 17 holes at Bird Reef Central in Johannesburg",
-   "summary": "",
+   "summary": "West Wits said it will drill 17 holes at its Bird Reef Central target in Johannesburg, South Africa.",
    "publisher": "Mining Technology",
    "url": "https://www.mining-technology.com/news/west-wits-drill-bird-reef-central/",
    "published": "2026-10-27T09:23:43+00:00"
@@ -2288,7 +2360,7 @@
    "id": "b9254d4b211117097b96",
    "section": "mining",
    "headline": "Lion Rock Receives State and County Permits for Pegmatite Extraction & Bulk Sampling",
-   "summary": "",
+   "summary": "Lion Rock received state and county permits allowing pegmatite extraction and bulk sampling at its project.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/lion-rock-receives-state-and-county-permits-for-pegmatite-extraction-bulk-sampling/",
    "published": "2026-10-27T09:20:00+00:00"
@@ -2297,7 +2369,7 @@
    "id": "b70751574341e8035fac",
    "section": "news",
    "headline": "Porsche rules out US production despite VW’s Audi deal with Trump",
-   "summary": "",
+   "summary": "Porsche said it will not shift production to the United States, even as Volkswagen's Audi brand agreed to a separate deal with the Trump administration.",
    "publisher": "Financial Times — Companies",
    "url": "https://www.ft.com/content/28cc52cf-adb2-4582-9f6e-bd4b93cba68f?syn-25a6b1a6=1",
    "published": "2026-10-27T09:16:47+00:00"
@@ -2306,7 +2378,7 @@
    "id": "a010fa7872d77bad0afb",
    "section": "mining",
    "headline": "Cellectar Biosciences Reports Case Study Highlighting Complete Response Lasting More Than Eight Years in Heavily Pretreated DLBCL Patient Treated with Iopofosine I 131",
-   "summary": "",
+   "summary": "Cellectar Biosciences reported a case study showing a complete response lasting more than eight years in a heavily pretreated DLBCL patient treated with Iopofosine I-131.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/cellectar-biosciences-reports-case-study-highlighting-complete-response-lasting-more-than-eight-years-in-heavily-pretreated-dlbcl-patient-treated-with-iopofosine-i-131/",
    "published": "2026-10-27T09:15:00+00:00"
@@ -2315,7 +2387,7 @@
    "id": "29d380dfc274e7a09b50",
    "section": "mining",
    "headline": "RecycLiCo and Alaska Energy Metals Collaborate to Test Proprietary Processing Methods on the Polymetallic Eureka Deposit, Nikolai Nickel Project, Alaska",
-   "summary": "",
+   "summary": "RecycLiCo and Alaska Energy Metals agreed to collaborate on testing proprietary processing methods for the polymetallic Eureka deposit at the Nikolai nickel project in Alaska.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/recyclico-and-alaska-energy-metals-collaborate-to-test-proprietary-processing-methods-on-the-polymetallic-eureka-deposit-nikolai-nickel-project-alaska/",
    "published": "2026-10-27T09:12:00+00:00"
@@ -2324,7 +2396,7 @@
    "id": "4c11a62d24a8c0aeefdf",
    "section": "news",
    "headline": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
-   "summary": "",
+   "summary": "The Federal Reserve is expected to hold interest rates steady, and the New York Times said Warsh will need to explain the decision.",
    "publisher": "The New York Times",
    "url": "https://www.nytimes.com/2026/10/27/business/the-fed-is-expected-to-hold-rates-steady-warsh-will-have-to-explain-why.html",
    "published": "2026-10-27T09:03:48+00:00"
@@ -2333,7 +2405,7 @@
    "id": "6bd0bd7942e16183f0e4",
    "section": "news",
    "headline": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
-   "summary": "",
+   "summary": "The Federal Reserve is expected to hold interest rates steady, and the New York Times said Warsh will need to explain the decision.",
    "publisher": "The New York Times",
    "url": "https://www.nytimes.com/2026/10/27/business/fed-interest-rates-warsh.html",
    "published": "2026-10-27T09:03:48+00:00"
@@ -2351,7 +2423,7 @@
    "id": "12d51b0fb5ab371b7df8",
    "section": "news",
    "headline": "In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans",
-   "summary": "",
+   "summary": "The New York Times reported that Neura Robotics is training AI-driven humanoid robots in a 'robogym' environment in Germany, amid competition from China.",
    "publisher": "The New York Times",
    "url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
    "published": "2026-10-27T09:02:36+00:00"
@@ -2360,7 +2432,7 @@
    "id": "f9f14e2674c57c7f1602",
    "section": "tech",
    "headline": "How solid-state transformers could help power the AI boom",
-   "summary": "",
+   "summary": "MIT Technology Review reported that solid-state transformers are being developed as a way to help meet growing electricity demand from AI data centers.",
    "publisher": "MIT Technology Review",
    "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
    "published": "2026-10-27T09:00:00+00:00"
@@ -2369,7 +2441,7 @@
    "id": "d8ea6e78c03beea6000c",
    "section": "mining",
    "headline": "enCore Energy Reaches Final Stage of Permitting at Upper Spring Creek; Alta Mesa PAA-8 and PAA-3 Extension Remain on Schedule",
-   "summary": "",
+   "summary": "enCore Energy said it has reached the final stage of permitting at Upper Spring Creek, with its Alta Mesa PAA-8 and PAA-3 extension on schedule.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/encore-energy-reaches-final-stage-of-permitting-at-upper-spring-creek-alta-mesa-paa-8-and-paa-3-extension-remain-on-schedule/",
    "published": "2026-10-27T09:00:00+00:00"
@@ -2378,7 +2450,7 @@
    "id": "178bf67610be8f8881ca",
    "section": "mining",
    "headline": "Anfield Energy Receives Draft Renewed Radioactive Materials License and Draft Groundwater Discharge Permit for Shootaring Canyon Mill from Utah DWMRC",
-   "summary": "",
+   "summary": "Anfield Energy received draft renewed radioactive materials and groundwater discharge permits from Utah regulators for its Shootaring Canyon mill.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/anfield-energy-receives-draft-renewed-radioactive-materials-license-and-draft-groundwater-discharge-permit-for-shootaring-canyon-mill-from-utah-dwmrc/",
    "published": "2026-10-27T09:00:00+00:00"
@@ -2387,7 +2459,7 @@
    "id": "4705d718cf7b9fbb6e4c",
    "section": "mining",
    "headline": "Awalé Connects Charger 1 and Charger 2 - Extending Gold Mineralization Across 300 Metres of Strike, Including 8.7 g/t Gold over 25 Metres and 7.0 g/t Gold over 28 Metres",
-   "summary": "",
+   "summary": "Awalé reported it connected its Charger 1 and Charger 2 zones, extending gold mineralization across 300 metres of strike, with assays including 8.7 g/t gold over 25 metres.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/awale-connects-charger-1-and-charger-2-extending-gold-mineralization-across-300-metres-of-strike-including-8-7-g-t-gold-over-25-metres-and-7-0-g-t-gold-over-28-metres/",
    "published": "2026-10-27T09:00:00+00:00"
@@ -2396,7 +2468,7 @@
    "id": "ec1544e2b31dba86afc4",
    "section": "mining",
    "headline": "Stellar AfricaGold - Zone D Trenches Return 9.53 g/t Au over 3 Metres and 5.81 g/t Au over 3 Metres; Gold Mineralization in All Four Tested Dykes at Tichka Est Gold Project, Morocco.",
-   "summary": "",
+   "summary": "Stellar AfricaGold reported trench assays of 9.53 g/t and 5.81 g/t gold over 3 metres, with mineralization in all four tested dykes at Tichka Est, Morocco.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/stellar-africagold-zone-d-trenches-return-9-53-g-t-au-over-3-metres-and-5-81-g-t-au-over-3-metres-gold-mineralization-in-all-four-tested-dykes-at-tichka-est-gold-project-morocco/",
    "published": "2026-10-27T09:00:00+00:00"
@@ -2405,7 +2477,7 @@
    "id": "811386f636e1aa3a8245",
    "section": "news",
    "headline": "Bracing for AI disruption, white-collar workers are pre-emptively changing careers",
-   "summary": "",
+   "summary": "The Globe and Mail reported that white-collar workers are pre-emptively changing careers in anticipation of disruption from artificial intelligence.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/technology/article-bracing-ai-disruption-white-collar-pre-emptively-changing-careers/",
    "published": "2026-10-27T09:00:00+00:00"
@@ -2414,7 +2486,7 @@
    "id": "7cea93497bf5113bdd29",
    "section": "mining",
    "headline": "WESCAN GOLDFIELDS REPORTS ENCOURAGING DRILL CORE OBSERVATIONS IN FIRST HOLE OF 2026 DRILL CAMPAIGN AT MUNRO LAKE; ASSAYS PENDING",
-   "summary": "",
+   "summary": "Wescan Goldfields reported encouraging drill core observations from the first hole of its 2026 drill campaign at Munro Lake, with assay results still pending.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/wescan-goldfields-reports-encouraging-drill-core-observations-in-first-hole-of-2026-drill-campaign-at-munro-lake-assays-pending/",
    "published": "2026-10-27T09:00:00+00:00"
@@ -2423,7 +2495,7 @@
    "id": "3549e2af2684d1aa4d38",
    "section": "mining",
    "headline": "Galloper Gold Intersects Occurrences of Visible Gold",
-   "summary": "",
+   "summary": "Galloper Gold reported intersecting occurrences of visible gold in its latest drilling, without disclosing assay results.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/galloper-gold-intersects-occurrences-of-visible-gold/",
    "published": "2026-10-27T09:00:00+00:00"
@@ -2432,7 +2504,7 @@
    "id": "4f834cd021311bf7d8ce",
    "section": "mining",
    "headline": "IAMGOLD Drilling Extends Mineralization at Nelligan, Intersects High-Grade Gold at Monster Lake and Advances Philibert Within Its Nelligan Mining Complex",
-   "summary": "",
+   "summary": "IAMGOLD said drilling extended mineralization at Nelligan, intersected high-grade gold at Monster Lake, and advanced its Philibert target within the Nelligan mining complex.",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/iamgold-drilling-extends-mineralization-at-nelligan-intersects-high-grade-gold-at-monster-lake-and-advances-philibert-within-its-nelligan-mining-complex/",
    "published": "2026-10-27T09:00:00+00:00"
@@ -2927,6 +2999,15 @@
    "id": "50c453f64f4fe623447f",
    "section": "news",
    "headline": "Tech Stocks Power Wall Street Gains as Oil Falls: Markets Wrap",
+   "summary": "",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
+   "published": "2026-10-26T22:03:56+00:00"
+  },
+  {
+   "id": "aba2466f52e7461562f4",
+   "section": "news",
+   "headline": "Stocks Rise in Run-Up to Tech Results as Oil Falls: Markets Wrap",
    "summary": "",
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-10-26/stock-market-today-dow-s-p-live-updates",
@@ -3525,87 +3606,6 @@
    "publisher": "CIRO",
    "url": "https://www.ciro.ca/newsroom/publications/investor-alert-newcomer-guide-due-diligence-falsely-implies-affiliation-ciro-and-legitimate-firms",
    "published": "2026-10-26T14:02:08+00:00"
-  },
-  {
-   "id": "86daa91bdb779e1ce01d",
-   "section": "news",
-   "headline": "Dubai ports giant DP World signs memorandum of understanding to help develop Port of Churchill",
-   "summary": "DP World has signed a memorandum of understanding to help develop the Port of Churchill in Manitoba.",
-   "publisher": "The Globe and Mail",
-   "url": "https://www.theglobeandmail.com/business/article-dp-world-mou-port-of-churchill-development/",
-   "published": "2026-10-26T14:00:31+00:00"
-  },
-  {
-   "id": "ca5636ac89dcb3e38826",
-   "section": "news",
-   "headline": "Plan for AI-run companies challenged by US lawmakers",
-   "summary": "US lawmakers challenged proposals that would allow companies to be run autonomously by artificial intelligence systems.",
-   "publisher": "Financial Times — Companies",
-   "url": "https://www.ft.com/content/d5021cdf-816e-4cb9-bbf9-e4ba816a004f?syn-25a6b1a6=1",
-   "published": "2026-10-26T14:00:09+00:00"
-  },
-  {
-   "id": "02b3c8c20adaa8ad5146",
-   "section": "news",
-   "headline": "US Natural Gas Plunges to Six-Month Low on Warm Weather Forecast",
-   "summary": "US natural gas prices fell to a six-month low after forecasters pointed to warmer-than-expected weather reducing heating demand.",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/us-natural-gas-plunges-to-six-month-low-on-warm-weather-forecast",
-   "published": "2026-10-26T13:58:39+00:00"
-  },
-  {
-   "id": "ed179710d7f993dcb4c5",
-   "section": "news",
-   "headline": "Belgian Deputy Prime Minister Open to BNP Paribas Stake Sale",
-   "summary": "Belgium's deputy prime minister said the government is open to selling its stake in BNP Paribas.",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/belgian-deputy-prime-minister-open-to-bnp-paribas-stake-sale",
-   "published": "2026-10-26T13:56:56+00:00"
-  },
-  {
-   "id": "d1db4954232e6e2da121",
-   "section": "mining",
-   "headline": "TruSilver Metals to go public on TSXV following merger",
-   "summary": "TruSilver Metals is set to become a publicly listed company on the TSX Venture Exchange through a merger transaction.",
-   "publisher": "Canadian Mining Journal",
-   "url": "https://www.canadianminingjournal.com/news/trusilver-metals-to-go-public-on-tsxv-following-merger/",
-   "published": "2026-10-26T13:44:31+00:00"
-  },
-  {
-   "id": "41500fda07a32507c635",
-   "section": "news",
-   "headline": "Saudi Aramco Nears Signing of $10 Billion Loan With Global Banks",
-   "summary": "Saudi Aramco is close to finalizing a $10 billion loan arranged with a group of international banks.",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/saudi-aramco-nears-signing-of-10-billion-loan-with-global-banks",
-   "published": "2026-10-26T13:37:03+00:00"
-  },
-  {
-   "id": "c6b42b14ae5fbf27e348",
-   "section": "news",
-   "headline": "Mercuria Says Rival Fears Made Baltic Keep Disputed Tanker Rate",
-   "summary": "Trading house Mercuria said rivals' concerns were behind the Baltic Exchange's decision to maintain a disputed tanker freight rate.",
-   "publisher": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/mercuria-says-rival-fears-made-baltic-keep-disputed-tanker-rate",
-   "published": "2026-10-26T13:36:32+00:00"
-  },
-  {
-   "id": "46181171d79cb8974405",
-   "section": "news",
-   "headline": "Musk Is Predicting ‘Guppy-level Death’ for Scores of A.I. Companies",
-   "summary": "Elon Musk predicted that many artificial intelligence companies will fail, describing the coming shakeout in stark terms.",
-   "publisher": "The New York Times",
-   "url": "https://www.nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html",
-   "published": "2026-10-26T13:36:27+00:00"
-  },
-  {
-   "id": "cf6e0e2e05cef96c8b3a",
-   "section": "news",
-   "headline": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
-   "summary": "Meta and SpaceX are each planning to raise additional billions of dollars in capital to fund their artificial intelligence investments.",
-   "publisher": "The New York Times",
-   "url": "https://www.nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html",
-   "published": "2026-10-26T13:31:25+00:00"
   }
  ]
 }
