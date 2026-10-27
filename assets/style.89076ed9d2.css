@@ -214,8 +214,10 @@ a.stretch:hover { color: inherit; }
 .photo img { width: 100%; object-fit: cover; background: var(--rule); }
 .photo__caption { font-family: var(--mono); font-size: 11.5px; line-height: 1.5; color: var(--faint); padding-top: 8px; }
 .photo--lead img { aspect-ratio: 2.15 / 1; }
-.photo--story img { aspect-ratio: 3 / 2; }
-.photo--desk img { aspect-ratio: 16 / 9; }
+/* 2:1 for the second tier and the desk since 27 October 2026 ("the images are
+   too big"); 3:2 and 16:9 before. */
+.photo--story img { aspect-ratio: 2 / 1; }
+.photo--desk img { aspect-ratio: 2 / 1; }
 .photo--article img { aspect-ratio: 2 / 1; }
 @media (max-width: 719px) { .photo--lead img, .photo--article img { aspect-ratio: 3 / 2; } }
 
@@ -260,16 +262,18 @@ a.stretch:hover { color: inherit; }
 .lead__more--solo { grid-template-columns: minmax(0, 1fr) !important; max-width: 44em; }
 .lead__brief { margin: 0; font-size: 17px; line-height: 1.6; }
 /* A wide window sets the lead's photograph beside its text rather than above
-   it. Stacked, a full-width photo grew to some 630px tall at 1920px and the
-   Markets column ran out 600px before the lead did — the blank Conrad objected
-   to on 27 October 2026, moved to the other side. Beside the text, the photo
-   takes the text's height, which is close to the rail's. */
+   it: stacked, a full-width photo grew to some 630px tall at 1920px and the
+   Markets column ran out 600px before the lead did. Since the afternoon of 27
+   October ("the images are too big") the photo keeps a fixed 3:2 rather than
+   stretching to the text's height, and the read-through sits under it, so the
+   two columns still end together. */
+.rt--side { display: none; }
 @media (min-width: 1360px) {
-  .lead { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); column-gap: clamp(28px, 2.4vw, 48px); align-content: start; }
-  .lead > .photo { grid-column: 1; grid-row: 1 / span 6; margin: 0; display: flex; flex-direction: column; }
-  .lead > .photo > a { flex: 1 1 auto; display: block; min-height: 0; }
-  .lead > .photo img { height: 100%; min-height: 440px; aspect-ratio: auto; }
-  .lead > :not(.photo) { grid-column: 2; }
+  .lead { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); column-gap: clamp(28px, 2.4vw, 48px); align-items: start; }
+  .lead__media .photo { margin: 0; }
+  .lead__media .photo--lead img { aspect-ratio: 3 / 2; }
+  .lead__media .rt--side { display: block; margin-top: 22px; }
+  .lead__text .lead__more .rt { display: none; }
   .lead__title { font-size: clamp(36px, 3.3vw, 68px); }
   .lead__more { grid-template-columns: minmax(0, 1fr) !important; }
 }

@@ -1,12 +1,57 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T20:18:58Z",
+ "generated_at": "2026-10-27T20:27:51Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "count": 400,
  "note": "Third-party headlines with a one-sentence summary written by the Bulletin. The article stays with its publisher; follow the link.",
  "items": [
+  {
+   "id": "ba16cd97aae8ff3072a2",
+   "section": "mining",
+   "headline": "TruSilver Metals",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/stocks/tsxv-tag/trusilver-metals/",
+   "published": "2026-10-27T20:20:25+00:00"
+  },
+  {
+   "id": "7c5aaf1d3da68e1dfdca",
+   "section": "news",
+   "headline": "MicroSectors Spotlight",
+   "summary": "",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-27/microsectors-spotlight-video",
+   "published": "2026-10-27T20:16:47+00:00"
+  },
+  {
+   "id": "bdc4eef8c2cab3822a3b",
+   "section": "financings",
+   "headline": "NextNav Announces Date for Third Quarter 2026 Earnings Call",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027474193/en/NextNav-Announces-Date-for-Third-Quarter-2026-Earnings-Call/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T20:15:00+00:00"
+  },
+  {
+   "id": "6825488576712f813046",
+   "section": "financings",
+   "headline": "BigBear.ai Announces Third Quarter 2026 Results and Raises FY 2026 Revenue Guidance",
+   "summary": "BigBear.ai reported third-quarter 2026 earnings and raised its full-year 2026 revenue guidance, the company said in its results announcement.",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027936657/en/BigBear.ai-Announces-Third-Quarter-2026-Results-and-Raises-FY-2026-Revenue-Guidance/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T20:15:00+00:00"
+  },
+  {
+   "id": "fa5300fc3469e1466824",
+   "section": "financings",
+   "headline": "Quantum to Announce Fiscal Second Quarter 2027 Financial Results on November 9, 2026",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261027470249/en/Quantum-to-Announce-Fiscal-Second-Quarter-2027-Financial-Results-on-November-9-2026/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-10-27T20:10:00+00:00"
+  },
   {
    "id": "eae556c8e4a5786678f5",
    "section": "news",
@@ -701,6 +746,15 @@
    "published": "2026-10-27T16:24:54.858637+00:00"
   },
   {
+   "id": "3fc82ea2eebf62d367b8",
+   "section": "mining",
+   "headline": "Base Metals Outlook: Australia Edition",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/base-metals-outlook-australia/",
+   "published": "2026-10-27T16:21:00+00:00"
+  },
+  {
    "id": "550bf7713c6cd823fe95",
    "section": "energy",
    "headline": "Energy security, not just climate goals, drive Caribbean and Latin American storage growth",
@@ -708,6 +762,15 @@
    "publisher": "Energy-Storage.news",
    "url": "https://www.energy-storage.news/energy-security-not-just-climate-goals-drive-caribbean-and-latin-american-storage-growth/",
    "published": "2026-10-27T16:19:55+00:00"
+  },
+  {
+   "id": "4376b6c5db0ba78cc24c",
+   "section": "mining",
+   "headline": "Base Metals Outlook",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/free-report-online/base-metals-prices-and-investing-opportunities/",
+   "published": "2026-10-27T16:19:00+00:00"
   },
   {
    "id": "5c3e2f33ab40184c8cf4",
@@ -744,6 +807,15 @@
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/videos/2026-10-27/kaplan-fed-facing-different-kind-of-inflation-problem-video",
    "published": "2026-10-27T16:12:19+00:00"
+  },
+  {
+   "id": "5bc5ff0002a8cbf302e5",
+   "section": "mining",
+   "headline": "Base Metals Outlook: World Edition",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/world-base-metals-outlook/",
+   "published": "2026-10-27T16:11:00+00:00"
   },
   {
    "id": "32e35393ed62b0f75adc",
@@ -3233,7 +3305,7 @@
    "id": "78caeeb26484bf391cd3",
    "section": "financings",
    "headline": "Abnormal AI Joins Project Lifeline 250 to Strengthen Cybersecurity for Rural South Carolina Hospitals",
-   "summary": "",
+   "summary": "Abnormal AI joined Project Lifeline 250, a cybersecurity initiative aimed at strengthening defenses for rural hospitals in South Carolina.",
    "publisher": "Business Wire — Financial",
    "url": "http://www.businesswire.com/news/home/20261026355638/en/Abnormal-AI-Joins-Project-Lifeline-250-to-Strengthen-Cybersecurity-for-Rural-South-Carolina-Hospitals/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-10-26T19:53:00+00:00"
@@ -3242,7 +3314,7 @@
    "id": "540f8bcdf5cdd4264a5f",
    "section": "news",
    "headline": "Meghan Roach steps down as Roots CEO as go-private transaction closes",
-   "summary": "",
+   "summary": "Meghan Roach stepped down as chief executive of Roots after the retailer's go-private transaction closed, the Globe and Mail reported.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-meghan-roach-roots-ceo-steps-down/",
    "published": "2026-10-26T19:51:08+00:00"
@@ -3251,7 +3323,7 @@
    "id": "eb3b113745080cd85ab0",
    "section": "mining",
    "headline": "Mining Forum video: Tech stocks retreat could fuel massive mining gains, Sarmaya fund manager says",
-   "summary": "",
+   "summary": "A fund manager at Sarmaya said in a Northern Miner video interview that a pullback in technology stocks could significantly benefit mining equities.",
    "publisher": "The Northern Miner",
    "url": "https://www.northernminer.com/news/mining-forum-video-tech-stocks-retreat-could-fuel-massive-mining-gains-sarmaya-fund-manager-says/1003896075/",
    "published": "2026-10-26T19:50:42+00:00"
@@ -3260,7 +3332,7 @@
    "id": "6567608ddf0b31f93b92",
    "section": "mining",
    "headline": "US Energy Department adds helium to critical list",
-   "summary": "",
+   "summary": "The US Department of Energy added helium to its list of critical minerals, according to the Northern Miner.",
    "publisher": "The Northern Miner",
    "url": "https://www.northernminer.com/news/us-energy-department-adds-helium-to-critical-list/1003896084/",
    "published": "2026-10-26T19:45:07+00:00"
@@ -3269,7 +3341,7 @@
    "id": "52ba1d58885be153aed9",
    "section": "tech",
    "headline": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
-   "summary": "",
+   "summary": "Apple unveiled an updated iPad mini featuring a larger OLED display, priced starting at $700.",
    "publisher": "Ars Technica",
    "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
    "published": "2026-10-26T19:04:40+00:00"
@@ -3278,7 +3350,7 @@
    "id": "ecf9e7ea583a228060c6",
    "section": "tech",
    "headline": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-   "summary": "",
+   "summary": "Hundreds of Boston Dynamics employees protested a reported plan by ICE to purchase the company's robotic dogs.",
    "publisher": "Ars Technica",
    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
    "published": "2026-10-26T18:50:41+00:00"
@@ -3287,7 +3359,7 @@
    "id": "c1d77dd8386641882313",
    "section": "news",
    "headline": "DWS to honour just 10% of redemption requests at flagship property fund",
-   "summary": "",
+   "summary": "DWS said it will honour only 10 percent of redemption requests at its flagship property fund, the Financial Times reported.",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/8868926c-3ee2-45e8-9705-0cb195fcc493?syn-25a6b1a6=1",
    "published": "2026-10-26T18:16:52+00:00"
@@ -3296,7 +3368,7 @@
    "id": "f2279b087d56cacf54a2",
    "section": "tech",
    "headline": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
-   "summary": "",
+   "summary": "Elon Musk accused Ukraine of violating Starlink's terms of service in connection with lethal drone strikes.",
    "publisher": "Ars Technica",
    "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
    "published": "2026-10-26T18:09:08+00:00"
@@ -3305,7 +3377,7 @@
    "id": "1daf56c2634ed8b8d92a",
    "section": "energy",
    "headline": "BESS already reducing curtailment in Chile, says ACERA; in-construction projects to triple capacity",
-   "summary": "",
+   "summary": "Chile's battery storage association ACERA said battery systems are already cutting renewable curtailment, with projects under construction set to triple capacity.",
    "publisher": "Energy-Storage.news",
    "url": "https://www.energy-storage.news/bess-already-reducing-curtailment-in-chile-says-acera-in-construction-projects-to-triple-capacity/",
    "published": "2026-10-26T17:48:03+00:00"
@@ -3314,7 +3386,7 @@
    "id": "7c55dea75f5d83485e03",
    "section": "news",
    "headline": "‘Bold but sane’: what we learnt from Anthropic’s 240,000-word IPO filing",
-   "summary": "",
+   "summary": "The Financial Times described Anthropic's roughly 240,000-word IPO filing as reflecting a strategy that is bold but calculated.",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/a6c43402-719e-4295-ae5f-541edb0aeb29?syn-25a6b1a6=1",
    "published": "2026-10-26T17:45:49+00:00"
@@ -3323,7 +3395,7 @@
    "id": "42f203ef06ab0e37833a",
    "section": "tech",
    "headline": "Will the real Anthropic please stand up",
-   "summary": "",
+   "summary": "MIT Technology Review examined competing public portrayals of Anthropic, questioning which version of the company is accurate.",
    "publisher": "MIT Technology Review",
    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
    "published": "2026-10-26T17:45:43+00:00"
@@ -3332,7 +3404,7 @@
    "id": "0d4f9e5e4e802c9a35c2",
    "section": "mining",
    "headline": "Elevra offloads Ghanaian project, shifts focus to Quebec expansion",
-   "summary": "",
+   "summary": "Elevra sold its project in Ghana and said it will redirect its focus toward expanding operations in Quebec.",
    "publisher": "Canadian Mining Journal",
    "url": "https://www.canadianminingjournal.com/news/elevra-offloads-ghanaian-project-shifts-focus-to-quebec-expansion/",
    "published": "2026-10-26T17:43:14+00:00"
@@ -3341,7 +3413,7 @@
    "id": "b639c01372a4b4d2d667",
    "section": "news",
    "headline": "Why you shouldn’t bother reading the Anthropic IPO filing",
-   "summary": "",
+   "summary": "A Financial Times commentary argued investors need not read Anthropic's full IPO filing to understand the company.",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/d2faa674-766b-4699-83d0-d1f9ed65edbf?syn-25a6b1a6=1",
    "published": "2026-10-26T17:29:42+00:00"
@@ -3350,7 +3422,7 @@
    "id": "888810d5a61bc5025b6e",
    "section": "tech",
    "headline": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-   "summary": "",
+   "summary": "Thieves along US highways have used GPS spoofing to steal cargo worth millions of dollars destined for data centers.",
    "publisher": "Ars Technica",
    "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
    "published": "2026-10-26T17:26:36+00:00"
@@ -3359,7 +3431,7 @@
    "id": "beb8dccdeb1a47637294",
    "section": "mining",
    "headline": "Electra doubles construction workforce at cobalt refinery",
-   "summary": "",
+   "summary": "Electra doubled the construction workforce at its cobalt refinery project, according to the Canadian Mining Journal.",
    "publisher": "Canadian Mining Journal",
    "url": "https://www.canadianminingjournal.com/news/electra-doubles-construction-workforce-at-cobalt-refinery/",
    "published": "2026-10-26T17:20:48+00:00"
@@ -3368,7 +3440,7 @@
    "id": "eb3a815830ac4de684ae",
    "section": "news",
    "headline": "French bonds rally after Moody’s rating reprieve",
-   "summary": "",
+   "summary": "French government bonds rallied after Moody's declined to downgrade the country's credit rating, the Financial Times reported.",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/97a60042-f7b6-4c87-9387-8572968a7de0?syn-25a6b1a6=1",
    "published": "2026-10-26T17:14:34+00:00"
@@ -3386,7 +3458,7 @@
    "id": "0c859af303c799ee974d",
    "section": "energy",
    "headline": "Tilted fuel assembly retrieved from Palisades plant",
-   "summary": "",
+   "summary": "Operators retrieved a tilted fuel assembly from the Palisades nuclear plant, World Nuclear News reported.",
    "publisher": "World Nuclear News",
    "url": "https://www.world-nuclear-news.org/articles/tilted-fuel-assembly-retrieved-from-palisades-plant",
    "published": "2026-10-26T16:24:47+00:00"
@@ -3395,7 +3467,7 @@
    "id": "14b924bd458f1076c065",
    "section": "mining",
    "headline": "Bailey boosts electronics division with new Victoria facility",
-   "summary": "",
+   "summary": "Bailey expanded its electronics division with a new facility in Victoria, British Columbia, the Canadian Mining Journal reported.",
    "publisher": "Canadian Mining Journal",
    "url": "https://www.canadianminingjournal.com/news/bailey-boosts-electronics-division-with-new-victoria-facility/",
    "published": "2026-10-26T15:45:42+00:00"
@@ -3404,7 +3476,7 @@
    "id": "49791c18807fede800a7",
    "section": "energy",
    "headline": "Regulatory milestone for US laser enrichment plant",
-   "summary": "",
+   "summary": "A US laser enrichment plant reached a regulatory milestone in its development process, World Nuclear News reported.",
    "publisher": "World Nuclear News",
    "url": "https://www.world-nuclear-news.org/articles/regulatory-milestone-for-us-laser-enrichment-plant",
    "published": "2026-10-26T15:39:11+00:00"
@@ -3413,7 +3485,7 @@
    "id": "4d3ae27cbfae1b520de9",
    "section": "energy",
    "headline": "Studsvik's waste treatment technology heads to Fukushima",
-   "summary": "",
+   "summary": "Studsvik's nuclear waste treatment technology is being deployed at the Fukushima Daiichi site, according to World Nuclear News.",
    "publisher": "World Nuclear News",
    "url": "https://www.world-nuclear-news.org/articles/studsviks-waste-treatment-technology-heads-to-fukushima",
    "published": "2026-10-26T15:32:01+00:00"
@@ -3422,7 +3494,7 @@
    "id": "d3af6784b3ed144d745b",
    "section": "energy",
    "headline": "North America Adds Rigs Week on Week, BH Count Shows",
-   "summary": "",
+   "summary": "The North American rig count rose week over week, according to Baker Hughes data reported by Rigzone.",
    "publisher": "Rigzone",
    "url": "https://www.rigzone.com/news/north_america_adds_rigs_week_on_week_bh_count_shows-26-oct-2026-184934-article/?rss=true",
    "published": "2026-10-26T15:23:21+00:00"
@@ -3431,7 +3503,7 @@
    "id": "d355958a7b57eddc1f1b",
    "section": "mining",
    "headline": "Local miner outbids Freeport for Colombia exploration",
-   "summary": "",
+   "summary": "An unnamed local mining company outbid Freeport-McMoRan for an exploration opportunity in Colombia, according to the Canadian Mining Journal.",
    "publisher": "Canadian Mining Journal",
    "url": "https://www.canadianminingjournal.com/news/local-miner-outbids-freeport-for-colombia-exploration/",
    "published": "2026-10-26T15:21:20+00:00"
@@ -3440,7 +3512,7 @@
    "id": "cb00d75460a0890fa36a",
    "section": "energy",
    "headline": "First reactor unit launched on Chukotka icebreaker",
-   "summary": "",
+   "summary": "Russia launched the first reactor unit on a nuclear-powered icebreaker operating in the Chukotka region, World Nuclear News reported.",
    "publisher": "World Nuclear News",
    "url": "https://www.world-nuclear-news.org/articles/first-reactor-unit-launched-on-chukotka-icebreaker",
    "published": "2026-10-26T15:09:12+00:00"
@@ -3449,7 +3521,7 @@
    "id": "74a81fa883677602d0c1",
    "section": "energy",
    "headline": "Wind turbine orders hit 2.8 GW in Q2 ahead of tax credit deadline: WoodMac",
-   "summary": "",
+   "summary": "Wind turbine orders reached 2.8 gigawatts in the second quarter as developers moved ahead of an expiring tax credit deadline, WoodMac found.",
    "publisher": "Utility Dive",
    "url": "https://www.utilitydive.com/news/wind-turbine-orders-hit-28-gw-in-q2-ahead-of-tax-credit-deadline-woodmac/872757/",
    "published": "2026-10-26T15:06:46+00:00"
@@ -3458,7 +3530,7 @@
    "id": "edf5ad4fb29863012873",
    "section": "energy",
    "headline": "BP Gets New Settlement with Louisiana over Deepwater Horizon Disaster",
-   "summary": "",
+   "summary": "BP reached a new settlement with the state of Louisiana over claims tied to the Deepwater Horizon disaster, Rigzone reported.",
    "publisher": "Rigzone",
    "url": "https://www.rigzone.com/news/bp_gets_new_settlement_with_louisiana_over_deepwater_horizon_disaster-26-oct-2026-184933-article/?rss=true",
    "published": "2026-10-26T15:04:33+00:00"
@@ -3467,7 +3539,7 @@
    "id": "0f8dde5de52cec8053e3",
    "section": "energy",
    "headline": "Preparations for advanced nuclear at ports should begin now, study concludes",
-   "summary": "",
+   "summary": "A new study concluded that preparations for deploying advanced nuclear reactors at ports should begin now, World Nuclear News reported.",
    "publisher": "World Nuclear News",
    "url": "https://www.world-nuclear-news.org/articles/preparations-for-advanced-nuclear-at-ports-should-begin-now-study-concludes",
    "published": "2026-10-26T14:50:59+00:00"
@@ -3534,78 +3606,6 @@
    "publisher": "Fierce Biotech",
    "url": "https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause",
    "published": "2026-10-26T14:47:29.627464+00:00"
-  },
-  {
-   "id": "44ec6bc4cf64f88be09f",
-   "section": "tech",
-   "headline": "BioNTech sees ‘limited’ benefit to ADC after phase 3 reveals modest efficacy, ILD cases",
-   "summary": "BioNTech said its antibody-drug conjugate showed only limited benefit in a phase 3 trial, with modest efficacy and cases of interstitial lung disease.",
-   "publisher": "Fierce Biotech",
-   "url": "https://www.fiercebiotech.com/biotech/biontech-sees-limited-benefit-adc-after-phase-3-reveals-modest-efficacy-ild-cases",
-   "published": "2026-10-26T14:47:29.627423+00:00"
-  },
-  {
-   "id": "409c2a8e3b8a8386716d",
-   "section": "news",
-   "headline": "Brazilian Markets Convulse After Unexpected Election Result",
-   "summary": "Brazilian financial markets sold off sharply after an election result that investors had not anticipated.",
-   "publisher": "The New York Times",
-   "url": "https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html",
-   "published": "2026-10-26T14:42:40+00:00"
-  },
-  {
-   "id": "3a3b177161e4d7ebba80",
-   "section": "news",
-   "headline": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-   "summary": "Anthropic warned of catastrophic risks from artificial intelligence as the company moves toward a widely anticipated share listing.",
-   "publisher": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-26T14:41:45+00:00"
-  },
-  {
-   "id": "710cbd4f2d2cf641061d",
-   "section": "news",
-   "headline": "Anthropic begins countdown to IPO with prospectus filing",
-   "summary": "Anthropic has filed a prospectus with regulators, formally starting the countdown toward an initial public offering of its shares.",
-   "publisher": "Financial Times",
-   "url": "https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb?syn-25a6b1a6=1",
-   "published": "2026-10-26T14:41:35+00:00"
-  },
-  {
-   "id": "f94c87dbc6f92115c727",
-   "section": "news",
-   "headline": "Brazil’s markets tumble as investors bet Lula will add to fiscal pain",
-   "summary": "Brazilian markets fell as investors judged that a Lula election win would add to the country's fiscal pressures.",
-   "publisher": "Financial Times",
-   "url": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
-   "published": "2026-10-26T14:38:26+00:00"
-  },
-  {
-   "id": "ac0c9964778fe361b179",
-   "section": "energy",
-   "headline": "CISA promises proactive critical infrastructure defense in new strategic plan",
-   "summary": "",
-   "publisher": "Utility Dive",
-   "url": "https://www.utilitydive.com/news/cisa-strategic-plan-2030-infrastructure-partnerships/872762/",
-   "published": "2026-10-26T14:33:43+00:00"
-  },
-  {
-   "id": "5f81576ed935de1fcaa4",
-   "section": "mining",
-   "headline": "Strike curbs output at Canada’s largest copper mine",
-   "summary": "A strike is curbing production at Canada's largest copper mine, reducing near-term copper output from the country's top base-metal operation.",
-   "publisher": "The Northern Miner",
-   "url": "https://www.northernminer.com/news/strike-curbs-output-at-canadas-largest-copper-mine/1003896047/",
-   "published": "2026-10-26T14:32:05+00:00"
-  },
-  {
-   "id": "77d5c47bf1e8b3b58f6e",
-   "section": "energy",
-   "headline": "India’s BPCL to Cut Russian Oil Imports Due to Higher Prices",
-   "summary": "India's Bharat Petroleum plans to reduce purchases of Russian crude oil after price increases eroded the discount that had made the barrels attractive.",
-   "publisher": "OilPrice.com",
-   "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-BPCL-to-Cut-Russian-Oil-Imports-Due-to-Higher-Prices.html",
-   "published": "2026-10-26T14:30:00+00:00"
   }
  ]
 }
