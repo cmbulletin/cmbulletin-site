@@ -1,6 +1,6 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T20:08:28Z",
+ "generated_at": "2026-10-27T20:14:11Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
@@ -14,6 +14,15 @@
    "summary": "",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Energy/Energy-General/5-Data-Center-Power-Stocks-to-Watch-Before-Earnings.html",
+   "published": "2026-10-27T20:00:00+00:00"
+  },
+  {
+   "id": "a4daa7fde03500914f42",
+   "section": "news",
+   "headline": "Banks Ease Loan Approvals to Weather Australia Property Slump",
+   "summary": "Australian banks are loosening loan approval standards to help borrowers get through a slump in the property market.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/banks-ease-loan-approvals-to-weather-australia-property-slump",
    "published": "2026-10-27T20:00:00+00:00"
   },
   {
@@ -2531,7 +2540,7 @@
    "id": "7aaa752d13babb297ab1",
    "section": "energy",
    "headline": "Cross-party interest in Australian nuclear future, poll suggests",
-   "summary": "",
+   "summary": "A new poll suggests support for nuclear power in Australia now spans multiple political parties rather than one side.",
    "publisher": "World Nuclear News",
    "url": "https://www.world-nuclear-news.org/articles/cross-party-interest-in-australian-nuclear-future-poll-suggests",
    "published": "2026-10-27T08:59:46+00:00"
@@ -2540,7 +2549,7 @@
    "id": "5e07989aab42dccedec4",
    "section": "energy",
    "headline": "India’s Delectrik Systems awarded 120MWh long-duration vanadium flow battery contract in Gujarat",
-   "summary": "",
+   "summary": "India's Delectrik Systems has won a contract to supply a 120 megawatt-hour long-duration vanadium flow battery system in Gujarat.",
    "publisher": "Energy-Storage.news",
    "url": "https://www.energy-storage.news/indias-delectrik-systems-awarded-120mwh-long-duration-vanadium-flow-battery-contract-in-gujarat/",
    "published": "2026-10-27T08:53:09+00:00"
@@ -2549,7 +2558,7 @@
    "id": "196f87875cee23a15583",
    "section": "energy",
    "headline": "Giga Storage closes €260 million debt financing for 1,400MWh Germany BESS",
-   "summary": "",
+   "summary": "Giga Storage has closed roughly 260 million euros of debt financing for a 1,400 megawatt-hour battery storage project in Germany.",
    "publisher": "Energy-Storage.news",
    "url": "https://www.energy-storage.news/giga-storage-closes-e260-million-debt-financing-for-1400mwh-germany-bess/",
    "published": "2026-10-27T08:48:21+00:00"
@@ -2558,7 +2567,7 @@
    "id": "2e483eb7b5978b426c78",
    "section": "news",
    "headline": "Reckitt cuts sales outlook on disinfectant shortage and China hit",
-   "summary": "",
+   "summary": "Reckitt has lowered its sales outlook, citing a disinfectant product shortage and weaker performance in China.",
    "publisher": "Financial Times — Companies",
    "url": "https://www.ft.com/content/8b75b446-501f-4165-b956-5ecd20c5efb4?syn-25a6b1a6=1",
    "published": "2026-10-27T08:33:59+00:00"
@@ -2567,7 +2576,7 @@
    "id": "9b759af8dfe7a1dda2ae",
    "section": "energy",
    "headline": "IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains",
-   "summary": "",
+   "summary": "The International Energy Agency has warned that clean energy supply chains are dangerously concentrated among a small number of countries.",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-of-Dangerous-Concentration-in-Global-Clean-Energy-Supply-Chains.html",
    "published": "2026-10-27T08:30:00+00:00"
@@ -2585,7 +2594,7 @@
    "id": "1525013297b0a9ae824b",
    "section": "news",
    "headline": "European Stocks Advance on Lower Oil, Solid US Data; HSBC Slides",
-   "summary": "",
+   "summary": "European equities advanced as oil prices fell and US economic data came in solid, though HSBC shares declined on its results.",
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-10-27/european-stocks-pulled-lower-by-banks-as-hsbc-results-disappoint",
    "published": "2026-10-27T08:18:07+00:00"
@@ -2603,7 +2612,7 @@
    "id": "c1c4dce8eae6f7797034",
    "section": "energy",
    "headline": "Egypt Agrees Tax Relief for Project to Import Cyprus Gas",
-   "summary": "",
+   "summary": "Egypt has agreed to grant tax relief for a project that would import natural gas from Cyprus, officials said.",
    "publisher": "Rigzone",
    "url": "https://www.rigzone.com/news/egypt_agrees_tax_relief_for_project_to_import_cyprus_gas-27-oct-2026-184937-article/?rss=true",
    "published": "2026-10-27T07:57:10+00:00"
@@ -2612,7 +2621,7 @@
    "id": "32cf179a777b3f2adca8",
    "section": "mining",
    "headline": "Energy Fuels secures $126m loan for Donald Rare Earth Project",
-   "summary": "",
+   "summary": "Energy Fuels has secured a $126 million loan to help finance construction of its Donald rare earth project.",
    "publisher": "Mining Technology",
    "url": "https://www.mining-technology.com/news/energy-fuels-126m-loan-donald-project/",
    "published": "2026-10-27T07:31:15+00:00"
@@ -2621,7 +2630,7 @@
    "id": "5d93a32996d0f0a3fb1d",
    "section": "energy",
    "headline": "India’s Oil Buyers Squeezed by $123 Crude and Weak Rupee",
-   "summary": "",
+   "summary": "Indian oil importers are facing higher costs as crude trades near $123 a barrel while the rupee weakens.",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Buyers-Squeezed-by-123-Crude-and-Weak-Rupee.html",
    "published": "2026-10-27T07:30:00+00:00"
@@ -2630,7 +2639,7 @@
    "id": "9c372087d4df508f3fde",
    "section": "mining",
    "headline": "John Crane signs three-year reliability deal with Saudi phosphate company",
-   "summary": "",
+   "summary": "Industrial services firm John Crane has signed a three-year reliability services agreement with a Saudi Arabian phosphate producer.",
    "publisher": "Mining Technology",
    "url": "https://www.mining-technology.com/news/john-crane-deal-saudi-phosphate-company/",
    "published": "2026-10-27T07:29:43+00:00"
@@ -2639,7 +2648,7 @@
    "id": "196f2f16a9b20c5e0759",
    "section": "energy",
    "headline": "Aramco Closes In on $10B Loan",
-   "summary": "",
+   "summary": "Saudi Arabia's Aramco is reportedly close to finalizing a loan of roughly $10 billion, according to the report.",
    "publisher": "Rigzone",
    "url": "https://www.rigzone.com/news/wire/aramco_closes_in_on_10b_loan-27-oct-2026-184938-article/?rss=true",
    "published": "2026-10-27T07:00:00+00:00"
@@ -2648,7 +2657,7 @@
    "id": "51221d7be3f45c677f60",
    "section": "financings",
    "headline": "CoreWeave Expands Global AI Cloud Platform With New Capacity in Denmark and First Global AI Network Backbone",
-   "summary": "",
+   "summary": "CoreWeave is adding AI cloud computing capacity in Denmark and building its first global network backbone to expand international infrastructure.",
    "publisher": "Business Wire — Financial",
    "url": "http://www.businesswire.com/news/home/20261027105771/en/CoreWeave-Expands-Global-AI-Cloud-Platform-With-New-Capacity-in-Denmark-and-First-Global-AI-Network-Backbone/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-10-27T07:00:00+00:00"
@@ -2693,7 +2702,7 @@
    "id": "8869f5a5d25aea1db6ec",
    "section": "energy",
    "headline": "Oil Prices Drop Despite Threat of New U.S. Strikes on Iran",
-   "summary": "",
+   "summary": "Oil prices fell even as the United States signaled it could carry out new strikes against Iran.",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Despite-Threat-of-New-US-Strikes-on-Iran.html",
    "published": "2026-10-27T06:15:57+00:00"
@@ -2711,7 +2720,7 @@
    "id": "b984d6dd0c711f6a883f",
    "section": "news",
    "headline": "What makes a project ringfence? For Metlen, it’s complicated",
-   "summary": "",
+   "summary": "A Financial Times analysis examines the complexities of structuring a ringfenced project financing arrangement for Greek industrial group Metlen.",
    "publisher": "Financial Times — Companies",
    "url": "https://www.ft.com/content/a39295a1-b91d-4b35-9d0f-056bfc320483",
    "published": "2026-10-27T06:00:08+00:00"
@@ -2720,7 +2729,7 @@
    "id": "6ad6f434b7a7c7a6569d",
    "section": "news",
    "headline": "Anthropic’s constitutional order",
-   "summary": "",
+   "summary": "A Financial Times commentary examines Anthropic's governance structure and the principles underpinning its approach to AI safety.",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/69a623e0-8605-4b1d-b147-770649efb53a?syn-25a6b1a6=1",
    "published": "2026-10-27T05:30:08+00:00"
@@ -2729,7 +2738,7 @@
    "id": "3e199ad29f8de4337fd2",
    "section": "news",
    "headline": "India’s outsourcers defy AI threat",
-   "summary": "",
+   "summary": "Indian IT outsourcing firms are reported to be withstanding competitive pressure from the rise of artificial intelligence tools.",
    "publisher": "Financial Times — Companies",
    "url": "https://www.ft.com/content/42dc1a1c-2454-4eaf-bafe-ded5ad7855e4?syn-25a6b1a6=1",
    "published": "2026-10-27T05:15:12+00:00"
@@ -2738,7 +2747,7 @@
    "id": "2f80557d543a2f7979ad",
    "section": "news",
    "headline": "Anthropic’s big financial reveal",
-   "summary": "",
+   "summary": "A Financial Times report examines financial details Anthropic has newly disclosed about its business and valuation.",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/d1dca5d1-467f-4311-a004-82bb1ef761e0?syn-25a6b1a6=1",
    "published": "2026-10-27T05:00:29+00:00"
@@ -2747,7 +2756,7 @@
    "id": "86ecdb0993d686e0e5f5",
    "section": "news",
    "headline": "Bank of England orders probe into Revolut’s internal controls",
-   "summary": "",
+   "summary": "The Bank of England has ordered an investigation into the adequacy of Revolut's internal risk and control systems.",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/ea6d6d50-57c0-4b21-a05f-df5efe020c24?syn-25a6b1a6=1",
    "published": "2026-10-27T05:00:28+00:00"
@@ -2756,7 +2765,7 @@
    "id": "f5249568651cf0155551",
    "section": "news",
    "headline": "Insurers bullish on private markets even as government bond yields rise",
-   "summary": "",
+   "summary": "Insurers remain positive on private market investments even as rising government bond yields offer more competitive fixed-income returns.",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/26aea932-a70f-4d6a-bb41-b37079658652?syn-25a6b1a6=1",
    "published": "2026-10-27T05:00:28+00:00"
@@ -2765,7 +2774,7 @@
    "id": "a1117b4f2131d9754c81",
    "section": "news",
    "headline": "UK stocks are a haven in a more uncertain world",
-   "summary": "",
+   "summary": "A Financial Times analysis argues UK equities are serving as a relative safe haven amid broader global market uncertainty.",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/75645b2b-b092-47b5-8c62-a931dc645006",
    "published": "2026-10-27T05:00:28+00:00"
@@ -2774,7 +2783,7 @@
    "id": "a210a24bd951a339b675",
    "section": "news",
    "headline": "Lula faces a fiscal reckoning after Brazil’s market rout",
-   "summary": "",
+   "summary": "Brazilian President Lula faces mounting fiscal pressure following a recent selloff across the country's financial markets.",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/0231b234-14dc-4ff0-8263-e1063b0a25d5?syn-25a6b1a6=1",
    "published": "2026-10-27T05:00:28+00:00"
@@ -2783,7 +2792,7 @@
    "id": "4db001e25e3226697f76",
    "section": "news",
    "headline": "Caterpillar mounts landmark legal test of UK’s post-Brexit tariffs",
-   "summary": "",
+   "summary": "Caterpillar is pursuing a legal case seen as a major test of the United Kingdom's post-Brexit tariff regime.",
    "publisher": "Financial Times — Companies",
    "url": "https://www.ft.com/content/71e415ce-87e9-4c29-bce2-b7f3803ac6b9?syn-25a6b1a6=1",
    "published": "2026-10-27T05:00:28+00:00"
@@ -2801,7 +2810,7 @@
    "id": "5170d1c71957aed6e47b",
    "section": "news",
    "headline": "Cleveland-Cliffs says it is in compliance with commitments to Ottawa, seeks meeting with Joly",
-   "summary": "",
+   "summary": "Cleveland-Cliffs says it remains compliant with commitments made to the Canadian government and is seeking a meeting with Industry Minister Joly.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-cleveland-cliffs-says-it-is-in-compliance-with-investment-canada-act/",
    "published": "2026-10-27T01:39:07+00:00"
@@ -2810,7 +2819,7 @@
    "id": "7e52db55873d6fa562c7",
    "section": "energy",
    "headline": "Philippines BESS revenue streams will shift to arbitrage after initial reserve market reliance: Aurora Energy Research",
-   "summary": "",
+   "summary": "Battery storage revenue in the Philippines is expected to shift toward price arbitrage once initial reliance on reserve markets fades, Aurora Energy Research says.",
    "publisher": "Energy-Storage.news",
    "url": "https://www.energy-storage.news/philippines-bess-revenue-streams-will-shift-to-arbitrage-after-initial-reserve-market-reliance-aurora-energy-research/",
    "published": "2026-10-27T01:37:32+00:00"
@@ -2819,7 +2828,7 @@
    "id": "a5e5cb544cf8d6073dc9",
    "section": "news",
    "headline": "Three GTA law firms put into receivership after accusations of mishandling millions in real estate funds",
-   "summary": "",
+   "summary": "Three Toronto-area law firms have been placed into receivership following allegations they mishandled millions of dollars in real estate funds.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-three-gta-law-firms-put-into-receivership-after-accusations-of/",
    "published": "2026-10-27T01:15:21+00:00"
@@ -2828,7 +2837,7 @@
    "id": "b33aa7e9cae14b4a422f",
    "section": "news",
    "headline": "Is Trump about to TACO on tariffs? Don’t bet on it",
-   "summary": "",
+   "summary": "A Globe and Mail commentary argues investors should not assume President Trump will again back away from his tariff threats.",
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/commentary/article-is-trump-about-to-taco-on-tariffs-dont-bet-on-it/",
    "published": "2026-10-27T00:05:05+00:00"
@@ -2846,7 +2855,7 @@
    "id": "516e0df7271ed4eb1b57",
    "section": "energy",
    "headline": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
-   "summary": "",
+   "summary": "The UK government is weighing whether to scrap development of its largest untapped oilfield even with crude trading above $100.",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Energy/Crude-Oil/UK-Weighs-Scrapping-Its-Largest-Untapped-Oilfield-With-Oil-Over-100.html",
    "published": "2026-10-27T00:00:00+00:00"
@@ -3597,15 +3606,6 @@
    "publisher": "The New York Times",
    "url": "https://www.nytimes.com/2026/10/26/business/why-some-people-are-paying-to-make-friends.html",
    "published": "2026-10-26T14:06:54+00:00"
-  },
-  {
-   "id": "3e5fcc7a6bd94b2dac45",
-   "section": "news",
-   "headline": "Investor Alert: Newcomer Guide – Due Diligence falsely implies affiliation with CIRO and legitimate firms",
-   "summary": "CIRO issued an investor alert warning that a due-diligence guide aimed at newcomers falsely implies affiliation with the regulator and legitimate industry firms.",
-   "publisher": "CIRO",
-   "url": "https://www.ciro.ca/newsroom/publications/investor-alert-newcomer-guide-due-diligence-falsely-implies-affiliation-ciro-and-legitimate-firms",
-   "published": "2026-10-26T14:02:08+00:00"
   }
  ]
 }

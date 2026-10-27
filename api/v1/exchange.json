@@ -1,6 +1,6 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T20:08:28Z",
+ "generated_at": "2026-10-27T20:14:11Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
@@ -45,7 +45,7 @@
    "warrant_fraction": "",
    "is_placement": true,
    "first_seen": "2026-10-27T13:03:43+00:00",
-   "last_seen": "2026-10-27T20:08:25+00:00"
+   "last_seen": "2026-10-27T20:14:07+00:00"
   },
   {
    "id": "V2026-3312",
@@ -85,7 +85,7 @@
    "warrant_fraction": "Full",
    "is_placement": true,
    "first_seen": "2026-10-27T13:03:43+00:00",
-   "last_seen": "2026-10-27T20:08:25+00:00"
+   "last_seen": "2026-10-27T20:14:07+00:00"
   }
  ],
  "cse": [
