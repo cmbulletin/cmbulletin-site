@@ -1,11 +1,219 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T20:53:49Z",
+ "generated_at": "2026-10-28T13:07:30Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 96,
+ "count": 101,
  "entries": [
+  {
+   "slug": "sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit",
+   "url": "https://www.cmbulletin.com/posts/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.json",
+   "date": "2026-10-28T12:40:09Z",
+   "headline": "SK Hynix is handing shareholders $75 billion after a sevenfold profit jump",
+   "dek": "The chipmaker's operating profit rose more than sevenfold to 83.3 trillion won as AI-driven demand for memory chips sold out capacity into 2029.",
+   "caption": "A wafer fabrication floor, representative of the memory-chip capacity now sold out through 2029.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Semiconductors",
+    "Earnings",
+    "Shareholder Returns",
+    "AI"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.png",
+   "source_name": "Reuters (via Lufkin Daily News)",
+   "sources": [
+    {
+     "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
+     "url": "https://lufkindailynews.com/news_reuters/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit/article_93094ad0-2128-5684-aef3-24f5382efd28.html",
+     "publisher": "Reuters (via Lufkin Daily News)"
+    }
+   ],
+   "unverified_claims": [
+    "The $75 billion shareholder-return figure rests on SK Hynix's own earnings disclosure and public statements.",
+    "The operating-profit and revenue figures rest on SK Hynix's own earnings disclosure and public statements.",
+    "The sold-out production claim through 2029 rests on SK Hynix's own earnings disclosure and public statements.",
+    "The long-term agreements with 14 customers rest on SK Hynix's own earnings disclosure and public statements."
+   ],
+   "brief": [
+    "SK Hynix said it will return approximately 100 trillion won ($75 billion) to shareholders, after third-quarter operating profit surged more than sevenfold to 83.3 trillion won on revenue of 104.6 trillion won, up 328% from a year earlier. The return comprises roughly 30 trillion won of dividends and 60 trillion won of buybacks and cancellations.",
+    "Shares rose as much as 9.4%. Chief financial officer Kim Woo-hyun said AI investment momentum is translating into broader adoption of AI services and tangible business results. The company has sold out its HBM and DRAM chip production through 2029 and has signed long-term agreements with 14 major customers.",
+    "On the venture boards, the semiconductor theme comprises three listed venture names; three traded today, two higher and one lower, for a median move of +3.09% against +1.60% for the S&P/TSX Venture Composite. None cleared the C$25,000 day-volume floor this desk requires before naming a security, so none is named."
+   ]
+  },
+  {
+   "slug": "rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining",
+   "url": "https://www.cmbulletin.com/posts/rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining.json",
+   "date": "2026-10-28T12:40:09Z",
+   "headline": "Rush Gold adds two Nevada gold properties and a 40-year mining veteran as chairman",
+   "dek": "The CSE-listed junior also closed a second placement tranche for $1,030,500 as it builds out its Walker Lane Trend portfolio.",
+   "caption": "A Walker Lane Trend exploration site in Nevada, the district where Rush Gold has added two new properties.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "M&A",
+    "Financing",
+    "Nevada"
+   ],
+   "tickers": [
+    "CSE:RGN"
+   ],
+   "image": "https://www.cmbulletin.com/images/rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Rush Gold Positions for Growth with New Nevada Assets, Experienced Leadership and Exploration Advancement",
+     "url": "https://thenewswire.com/press-releases/1A0vFmp94-rush-gold-positions-for-growth-with-new-nevada-assets-experienced-leadership-and-exploration-advancement.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The consideration paid for Landy Investments Ltd., the price per share and any warrant terms for the placement tranche, and Andy Tudor's biographical background all rest solely on Rush Gold's own release and are not independently confirmed.",
+    "The company's characterization of the placement proceeds' intended use and its cash position rest on its own statement."
+   ],
+   "brief": [
+    "Rush Gold Corp. (CSE: RGN), a mineral exploration company active in Nevada's Walker Lane Trend, said it has acquired Landy Investments Ltd., gaining an 80% interest in the Hollow North-South copper-gold project and rights to the Douglas Canyon gold-antimony project. The company also appointed geologist and mining executive Andy Tudor as chairman.",
+    "Separately, Rush Gold closed the second tranche of a non-brokered private placement, issuing 10,305,000 shares for gross proceeds of $1,030,500. The release does not state a price per share or any warrant terms. The company said the financing is intended to advance exploration on its existing and newly acquired projects.",
+    "Hollow North-South, located near Yerington, Nevada, covers 109 claims; Douglas Canyon, near Tonopah, covers 138 claims. Rush Gold reported cash on hand of $706,836 as of September 30, 2026, and said it plans geological mapping, geochemical sampling, geophysics and drill testing across its Nevada projects."
+   ]
+  },
+  {
+   "slug": "edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit",
+   "url": "https://www.cmbulletin.com/posts/edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit.json",
+   "date": "2026-10-28T12:40:09Z",
+   "headline": "Edison Lithium is raising up to $1.9 million at 7 cents a unit",
+   "dek": "The non-brokered placement pairs each share with a warrant exercisable at 10 cents for three years, funding lithium exploration work.",
+   "caption": "An exploration camp at daybreak, the kind of site Edison Lithium's new financing is meant to fund.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Financing",
+    "Lithium",
+    "Mining",
+    "TSXV"
+   ],
+   "tickers": [
+    "TSXV:EDDY"
+   ],
+   "image": "https://www.cmbulletin.com/images/edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Edison Lithium Announces Non-Brokered Private Placement of up to $1.9 Million",
+     "url": "https://investingnews.com/edison-lithium-announces-non-brokered-private-placement-of-up-to-1-9-million/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The company's description of its own project focus and its stated use of proceeds rest on Edison Lithium's own release."
+   ],
+   "brief": [
+    "Edison Lithium Corp. (TSXV: EDDY), a junior exploration company focused on cobalt, lithium, alkali and other energy-metal properties, plans to raise up to $1,900,000 through a non-brokered private placement. The company intends to issue up to 27,142,857 units at $0.07 per unit.",
+    "Each unit consists of one common share and one warrant, with the warrant exercisable at $0.10 per share for 36 months. Edison may pay finder's fees under TSX Venture Exchange policy, and insiders may participate, which would be treated as a related-party transaction under securities rules. The securities carry a statutory hold of four months and one day.",
+    "The company plans to use the proceeds for exploration activities and general working capital. Completion of the offering remains subject to final acceptance by the TSX Venture Exchange; the release does not give a specific closing date."
+   ]
+  },
+  {
+   "slug": "argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips",
+   "url": "https://www.cmbulletin.com/posts/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.json",
+   "date": "2026-10-28T12:40:09Z",
+   "headline": "Argentum AI is negotiating $5 billion in debt to buy more AI chips",
+   "dek": "The Chicago-based neocloud, which already has $12 billion in contracted revenue, wants the financing to lease chips to customers without investment-grade credit.",
+   "caption": "A data hall at night, the kind of facility the financing under discussion would help expand.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Artificial Intelligence",
+    "Data Centres",
+    "Debt Financing",
+    "Venture Boards"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.png",
+   "source_name": "Reuters (via Investing.com)",
+   "sources": [
+    {
+     "title": "Exclusive-Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say",
+     "url": "https://www.investing.com/news/stock-market-news/exclusiveneocloud-firm-argentum-ai-in-talks-for-5-billion-ai-chip-financing-sources-say-4976170",
+     "publisher": "Reuters (via Investing.com)"
+    },
+    {
+     "title": "Sparc AI Inc. (CSE: SPAI) quote, +8.70% on about $217,658",
+     "url": "https://finance.yahoo.com/quote/SPAI.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Railtown AI Technologies Inc (CSE: RAIL) quote, +7.14% on about $31,500",
+     "url": "https://finance.yahoo.com/quote/RAIL.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "AI-ML Innovations Inc. (CSE: AIML) quote, +0.00% on about $33,015",
+     "url": "https://finance.yahoo.com/quote/AIML.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "MIIVO AI INC (TSXV: MIVO) quote, +0.00% on about $31,800",
+     "url": "https://finance.yahoo.com/quote/MIVO.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "The $5 billion financing talks, the $12 billion contracted-revenue figure and the terms of the Poland data-centre arrangement rest on Reuters' sourcing to unnamed people familiar with the matter and have not been confirmed by Argentum AI."
+   ],
+   "brief": [
+    "Argentum AI, a Chicago-based cloud computing company backed by Super Micro, is in talks with a major private credit firm for a $5 billion financing deal, Reuters reported, citing two people familiar with the matter. The debt would fund additional AI chips for a data centre Argentum is building in Poland with DL Invest Group.",
+    "The financing is intended for chips leased to customers that do not carry investment-grade credit ratings, the sources said. Argentum, founded in 2025 by chief executive Andrew Sobko, has more than $12 billion in contracted revenue and in May signed roughly a $2.5 billion deal with cloud-gaming firm Boosteroid and DL Invest for a 300-megawatt facility.",
+    "On the venture boards, the AI theme's 29 listed names were mixed today — 17 traded, 5 higher and 6 lower, for a median move of +0.00% against +1.60% for the S&P/TSX Venture Composite. Sparc AI Inc. (CSE: SPAI) rose 8.70% to CAD2.5, and is in the theme because its registered name contains \"ai.\""
+   ]
+  },
+  {
+   "slug": "a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion",
+   "url": "https://www.cmbulletin.com/posts/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.json",
+   "date": "2026-10-28T12:40:09Z",
+   "headline": "A proxy adviser is telling H&R REIT investors to reject a $3.4-billion buyout",
+   "dek": "ISS cited concerns about the sale process and an insider-linked side deal ahead of the November 13 unitholder vote on the GO Residential takeover.",
+   "caption": "An empty boardroom, where unitholders will decide a contested REIT merger on November 13.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "REIT",
+    "M&A",
+    "Real Estate",
+    "Governance"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.png",
+   "source_name": "Globe and Mail — Business",
+   "sources": [
+    {
+     "title": "Adviser ISS recommends vote against takeover of H&R Real Estate Investment Trust",
+     "url": "https://www.theglobeandmail.com/business/article-hr-reit-go-residential-takeover-vote-iss-recommends-against/",
+     "publisher": "Globe and Mail — Business"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization and terms of the related-party transaction rest on ISS's published rationale as reported; H&R's and GO Residential's responses to the ISS recommendation are not yet known."
+   ],
+   "brief": [
+    "Proxy adviser Institutional Shareholder Services is recommending that H&R Real Estate Investment Trust unitholders vote against its proposed $3.4-billion acquisition by GO Residential Real Estate Investment Trust. Under the deal announced in August, H&R unitholders would receive $4.28 in cash plus 0.5688 of a GO unit for each H&R unit held. Unitholders vote November 13.",
+    "ISS cited concerns over the sale process, conflicts, deal logic and whether disinterested unitholders are capturing fair value relative to insiders — pointing to a related transaction in which a company controlled by H&R chief executive Tom Hofstedter would buy $1.98 billion of properties, at book value, for $1.56 billion.",
+    "On the venture boards, the real estate theme comprises 12 listed names; 3 traded today, 1 higher and 1 lower, for a median move of +0.00% against +1.60% for the S&P/TSX Venture Composite. None cleared the C$25,000 day-volume floor this desk requires before naming a security, so none is named."
+   ]
+  },
   {
    "slug": "red-canyon-resources-closes-745-000-flow-through-raise-for-bc",
    "url": "https://www.cmbulletin.com/posts/red-canyon-resources-closes-745-000-flow-through-raise-for-bc.html",

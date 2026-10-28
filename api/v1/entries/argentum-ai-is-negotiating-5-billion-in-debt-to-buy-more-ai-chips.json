@@ -1,0 +1,70 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-28T13:07:30Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips",
+ "url": "https://www.cmbulletin.com/posts/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.json",
+ "date": "2026-10-28T12:40:09Z",
+ "headline": "Argentum AI is negotiating $5 billion in debt to buy more AI chips",
+ "dek": "The Chicago-based neocloud, which already has $12 billion in contracted revenue, wants the financing to lease chips to customers without investment-grade credit.",
+ "caption": "A data hall at night, the kind of facility the financing under discussion would help expand.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Artificial Intelligence",
+  "Data Centres",
+  "Debt Financing",
+  "Venture Boards"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.png",
+ "source_name": "Reuters (via Investing.com)",
+ "sources": [
+  {
+   "title": "Exclusive-Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say",
+   "url": "https://www.investing.com/news/stock-market-news/exclusiveneocloud-firm-argentum-ai-in-talks-for-5-billion-ai-chip-financing-sources-say-4976170",
+   "publisher": "Reuters (via Investing.com)"
+  },
+  {
+   "title": "Sparc AI Inc. (CSE: SPAI) quote, +8.70% on about $217,658",
+   "url": "https://finance.yahoo.com/quote/SPAI.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "Railtown AI Technologies Inc (CSE: RAIL) quote, +7.14% on about $31,500",
+   "url": "https://finance.yahoo.com/quote/RAIL.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "AI-ML Innovations Inc. (CSE: AIML) quote, +0.00% on about $33,015",
+   "url": "https://finance.yahoo.com/quote/AIML.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "MIIVO AI INC (TSXV: MIVO) quote, +0.00% on about $31,800",
+   "url": "https://finance.yahoo.com/quote/MIVO.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "The $5 billion financing talks, the $12 billion contracted-revenue figure and the terms of the Poland data-centre arrangement rest on Reuters' sourcing to unnamed people familiar with the matter and have not been confirmed by Argentum AI."
+ ],
+ "brief": [
+  "Argentum AI, a Chicago-based cloud computing company backed by Super Micro, is in talks with a major private credit firm for a $5 billion financing deal, Reuters reported, citing two people familiar with the matter. The debt would fund additional AI chips for a data centre Argentum is building in Poland with DL Invest Group.",
+  "The financing is intended for chips leased to customers that do not carry investment-grade credit ratings, the sources said. Argentum, founded in 2025 by chief executive Andrew Sobko, has more than $12 billion in contracted revenue and in May signed roughly a $2.5 billion deal with cloud-gaming firm Boosteroid and DL Invest for a 300-megawatt facility.",
+  "On the venture boards, the AI theme's 29 listed names were mixed today — 17 traded, 5 higher and 6 lower, for a median move of +0.00% against +1.60% for the S&P/TSX Venture Composite. Sparc AI Inc. (CSE: SPAI) rose 8.70% to CAD2.5, and is in the theme because its registered name contains \"ai.\""
+ ],
+ "body": [
+  "Argentum AI, a Chicago-based cloud computing company backed by Super Micro, is in talks with a major private credit firm for a $5 billion financing deal, Reuters reported on Tuesday, citing two people familiar with the matter. The debt would fund additional AI chips for a data centre Argentum is building in Poland with DL Invest Group.",
+  "The financing is intended for chips leased to customers that do not carry investment-grade credit ratings, according to the sources. Argentum was founded in 2025 by chief executive Andrew Sobko and describes itself as an independent, institutional-grade AI cloud platform focused on deploying large-scale GPU infrastructure for enterprise AI.",
+  "Argentum has more than $12 billion in contracted revenue, Reuters reported. In May, the company signed roughly a $2.5 billion agreement with cloud-gaming firm Boosteroid and DL Invest Group for a 300-megawatt data centre facility.",
+  "The talks come a day after SpaceX secured $40 billion in debt financing for chips from an affiliate of Apollo Global Management, as financing has tightened for \"neoclouds\" — firms that rent out AI computing power. Elon Musk said \"debt markets have almost entirely shut off access to money for companies without substantial revenue independent of AI data centers,\" and predicted significant consolidation among the sector's more than 200 competitors.",
+  "On the venture boards, the read-through is artificial intelligence and data centres. The theme comprises 29 listed venture names; 17 traded today, 5 higher and 6 lower, for a median move of +0.00%, against +1.60% for the S&P/TSX Venture Composite — a spread of 1.60 percentage points against the theme.",
+  "Sparc AI Inc. (CSE: SPAI) rose 8.70% to CAD2.5, and is in the theme because its registered name contains \"ai.\" Railtown AI Technologies Inc (CSE: RAIL) rose 7.14% to CAD0.3, and is in the theme because its registered name contains \"ai.\" AI-ML Innovations Inc. (CSE: AIML) was unchanged at CAD0.04, and is in the theme because its registered name contains \"ai.\" Miivo Ai Inc (TSXV: MIVO) was unchanged at CAD0.4, and is in the theme because its registered name contains \"ai.\"",
+  "The financing talks and the moves in these four names fall on the same day; nothing here suggests one caused the other, and no such link should be inferred."
+ ]
+}

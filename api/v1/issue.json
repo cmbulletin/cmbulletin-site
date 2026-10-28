@@ -1,258 +1,261 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T20:53:49Z",
+ "generated_at": "2026-10-28T13:07:30Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-27",
+ "issue_date": "2026-10-28",
  "count": 5,
  "entries": [
   {
-   "slug": "red-canyon-resources-closes-745-000-flow-through-raise-for-bc",
-   "url": "https://www.cmbulletin.com/posts/red-canyon-resources-closes-745-000-flow-through-raise-for-bc.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/red-canyon-resources-closes-745-000-flow-through-raise-for-bc.json",
-   "date": "2026-10-27T12:38:49Z",
-   "headline": "Red Canyon Resources closes $745,000 flow-through raise for BC critical minerals",
-   "dek": "The non-brokered placement issued 3,725,000 flow-through units at $0.20 each, with half-warrants exercisable at $0.30 for 18 months.",
-   "caption": "A drill rig stands idle at first light as Red Canyon Resources closes a flow-through financing in British Columbia.",
+   "slug": "sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit",
+   "url": "https://www.cmbulletin.com/posts/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.json",
+   "date": "2026-10-28T12:40:09Z",
+   "headline": "SK Hynix is handing shareholders $75 billion after a sevenfold profit jump",
+   "dek": "The chipmaker's operating profit rose more than sevenfold to 83.3 trillion won as AI-driven demand for memory chips sold out capacity into 2029.",
+   "caption": "A wafer fabrication floor, representative of the memory-chip capacity now sold out through 2029.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Semiconductors",
+    "Earnings",
+    "Shareholder Returns",
+    "AI"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.png",
+   "source_name": "Reuters (via Lufkin Daily News)",
+   "sources": [
+    {
+     "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
+     "url": "https://lufkindailynews.com/news_reuters/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit/article_93094ad0-2128-5684-aef3-24f5382efd28.html",
+     "publisher": "Reuters (via Lufkin Daily News)"
+    }
+   ],
+   "unverified_claims": [
+    "The $75 billion shareholder-return figure rests on SK Hynix's own earnings disclosure and public statements.",
+    "The operating-profit and revenue figures rest on SK Hynix's own earnings disclosure and public statements.",
+    "The sold-out production claim through 2029 rests on SK Hynix's own earnings disclosure and public statements.",
+    "The long-term agreements with 14 customers rest on SK Hynix's own earnings disclosure and public statements."
+   ],
+   "brief": [
+    "SK Hynix said it will return approximately 100 trillion won ($75 billion) to shareholders, after third-quarter operating profit surged more than sevenfold to 83.3 trillion won on revenue of 104.6 trillion won, up 328% from a year earlier. The return comprises roughly 30 trillion won of dividends and 60 trillion won of buybacks and cancellations.",
+    "Shares rose as much as 9.4%. Chief financial officer Kim Woo-hyun said AI investment momentum is translating into broader adoption of AI services and tangible business results. The company has sold out its HBM and DRAM chip production through 2029 and has signed long-term agreements with 14 major customers.",
+    "On the venture boards, the semiconductor theme comprises three listed venture names; three traded today, two higher and one lower, for a median move of +3.09% against +1.60% for the S&P/TSX Venture Composite. None cleared the C$25,000 day-volume floor this desk requires before naming a security, so none is named."
+   ],
+   "body": [
+    "SK Hynix said on Tuesday it will return approximately 100 trillion won, or about $75 billion, to shareholders this year, after third-quarter operating profit surged more than sevenfold to 83.3 trillion won from 11.4 trillion won a year earlier. Quarterly revenue rose 328% to 104.6 trillion won. The company is the world's largest maker of high-bandwidth memory chips used in artificial-intelligence data centres.",
+    "The shareholder return is split between roughly 30 trillion won in cash dividends and 60 trillion won in share repurchases and cancellations, the latter figure including the 40 trillion won in buybacks the company had already announced in August. Shares in SK Hynix rose as much as 9.4% following the announcement.",
+    "Chief financial officer Kim Woo-hyun said the company expects AI investment momentum to continue, with customers' AI spending translating into broader adoption of AI services and tangible business results. Analyst Ryu Young-ho of NH Investment & Securities said the results had eased many of the market's concerns, with earnings coming in ahead of expectations.",
+    "SK Hynix said it has sold out its high-bandwidth memory and DRAM chip production through 2029 and has signed long-term supply agreements with 14 major customers covering more than half of its planned 2027-2028 production capacity. The company said it expects memory-chip demand to continue exceeding supply through 2030.",
+    "On the venture boards, the read-through is semiconductors — the theme a chipmaker's results fall into on this desk's sector mapping. The theme comprises three listed venture names; three traded today, two higher and one lower, for a median move of +3.09%, against +1.60% for the S&P/TSX Venture Composite, a spread of 1.49 percentage points in the theme's favour.",
+    "None of the three names cleared the C$25,000 day-volume floor this desk requires before naming a security on a given day's move, so none is named here. A percentage change on a stock that prints without real volume behind it is a stale quote, not a market move, and this desk does not report it as one.",
+    "The coincidence of SK Hynix's results and the theme's move establishes nothing beyond timing. Nothing here attributes the venture names' trading to SK Hynix, and no causal link should be inferred from the two falling on the same day."
+   ]
+  },
+  {
+   "slug": "rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining",
+   "url": "https://www.cmbulletin.com/posts/rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining.json",
+   "date": "2026-10-28T12:40:09Z",
+   "headline": "Rush Gold adds two Nevada gold properties and a 40-year mining veteran as chairman",
+   "dek": "The CSE-listed junior also closed a second placement tranche for $1,030,500 as it builds out its Walker Lane Trend portfolio.",
+   "caption": "A Walker Lane Trend exploration site in Nevada, the district where Rush Gold has added two new properties.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
+    "M&A",
     "Financing",
-    "Flow-Through"
+    "Nevada"
    ],
    "tickers": [
-    "CSE:REDC",
-    "OTCQB:REDRF"
+    "CSE:RGN"
    ],
-   "image": "https://www.cmbulletin.com/images/red-canyon-resources-closes-745-000-flow-through-raise-for-bc.png",
+   "image": "https://www.cmbulletin.com/images/rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining.png",
    "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Red Canyon Closes Flow-Through Financing",
-     "url": "https://thenewswire.com/press-releases/1ArbFaXod-red-canyon-closes-flow-through-financing.html",
+     "title": "Rush Gold Positions for Growth with New Nevada Assets, Experienced Leadership and Exploration Advancement",
+     "url": "https://thenewswire.com/press-releases/1A0vFmp94-rush-gold-positions-for-growth-with-new-nevada-assets-experienced-leadership-and-exploration-advancement.html",
      "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The characterization of the use of proceeds as qualifying 'flow-through critical mineral mining expenditures,' and the stated renunciation and expenditure deadlines, rest solely on the company's own release."
+    "The consideration paid for Landy Investments Ltd., the price per share and any warrant terms for the placement tranche, and Andy Tudor's biographical background all rest solely on Rush Gold's own release and are not independently confirmed.",
+    "The company's characterization of the placement proceeds' intended use and its cash position rest on its own statement."
    ],
    "brief": [
-    "Red Canyon Resources Ltd. (CSE: REDC) (OTCQB: REDRF) has closed a non-brokered flow-through private placement, raising gross proceeds of $745,000 through 3,725,000 flow-through units priced at $0.20 each. Each unit includes one flow-through common share and one-half of one warrant, with each whole warrant exercisable at $0.30 for 18 months.",
-    "The company said the flow-through proceeds will fund Canadian exploration expenditures that qualify as flow-through critical mineral mining expenditures on its Kendal and Osiris projects and other eligible British Columbia properties, with an expenditure deadline of December 31, 2027 and renunciation effective December 31, 2026. The company paid $24,025 in finder's fees, and insiders purchased 937,500 of the units.",
-    "All securities issued under the offering are restricted from trading until February 27, 2027, and the financing closed October 26, 2026, the company said, giving Red Canyon fresh capital to advance exploration on its British Columbia projects."
+    "Rush Gold Corp. (CSE: RGN), a mineral exploration company active in Nevada's Walker Lane Trend, said it has acquired Landy Investments Ltd., gaining an 80% interest in the Hollow North-South copper-gold project and rights to the Douglas Canyon gold-antimony project. The company also appointed geologist and mining executive Andy Tudor as chairman.",
+    "Separately, Rush Gold closed the second tranche of a non-brokered private placement, issuing 10,305,000 shares for gross proceeds of $1,030,500. The release does not state a price per share or any warrant terms. The company said the financing is intended to advance exploration on its existing and newly acquired projects.",
+    "Hollow North-South, located near Yerington, Nevada, covers 109 claims; Douglas Canyon, near Tonopah, covers 138 claims. Rush Gold reported cash on hand of $706,836 as of September 30, 2026, and said it plans geological mapping, geochemical sampling, geophysics and drill testing across its Nevada projects."
    ],
    "body": [
-    "Red Canyon Resources Ltd. (CSE: REDC) (OTCQB: REDRF) (Frankfurt: I91) has closed a non-brokered flow-through private placement for gross proceeds of $745,000. The offering consisted of 3,725,000 flow-through units priced at $0.20 each. Each FT Unit comprised one flow-through common share and one-half of one common share purchase warrant, with each whole warrant exercisable into one common share at $0.30 for an 18-month term.",
-    "A flow-through share lets the company renounce the associated Canadian exploration expenses to the subscriber, who can then claim them against their own income for tax purposes — which is why flow-through financings are typically priced at a premium to a company's regular shares. Red Canyon's release did not state whether this placement carried that kind of premium.",
-    "The company said the proceeds qualify as flow-through critical mineral mining expenditures and are earmarked for exploration on its Kendal and Osiris projects and other eligible British Columbia properties. The expenditure deadline is December 31, 2027, and the related renunciation of the expenses to subscribers is effective December 31, 2026, the company said.",
-    "Red Canyon paid finder's fees of $24,025 in connection with the offering. Insiders of the company purchased 937,500 of the flow-through units, the release said, without further detail on which insiders participated or in what amounts individually.",
-    "All securities issued under the offering — the flow-through shares and the warrants — are restricted from trading until February 27, 2027. The offering closed October 26, 2026.",
-    "Red Canyon is a Vancouver-based company exploring in British Columbia, trading on the CSE under REDC, on the OTCQB under REDRF, and in Frankfurt under I91. The release did not disclose the current size of the company's exploration programs beyond naming the Kendal and Osiris projects as a focus for the new proceeds."
+    "Rush Gold Corp. (CSE: RGN, FSE: B6H) said it has completed the acquisition of Landy Investments Ltd., through which the company gained the rights to two mineral properties in Nevada's Walker Lane Trend: the Hollow North-South project and the Douglas Canyon project. The release does not state the consideration paid for Landy Investments — no share issuance or cash amount is disclosed for the transaction.",
+    "Hollow North-South, a copper-gold property, is located about 15 kilometres east of Yerington, Nevada, on 109 claims on land managed by the U.S. Bureau of Land Management. Rush Gold holds an 80% interest in the project, which the company said complements its existing Skylight and Legal Tender projects.",
+    "Douglas Canyon, a gold-antimony property, is located about 80 kilometres northwest of Tonopah, Nevada, and covers 138 claims on BLM land. The release gives no interest percentage for Douglas Canyon, unlike the 80% stake disclosed for Hollow North-South, and does not state the terms on which Rush Gold acquired its rights to the property.",
+    "Rush Gold also appointed Andy Tudor as chairman. The company described Tudor as a geologist and mining executive with more than 40 years of experience across the mineral exploration and mining sectors. The release gives no further biographical detail.",
+    "Separately, the company closed the second tranche of a non-brokered private placement, issuing 10,305,000 shares for gross proceeds of $1,030,500. The release does not disclose a price per share, warrant terms, or a closing date for the tranche, and does not name an agent or finder.",
+    "Rush Gold said proceeds from the financing are intended to advance exploration on its existing and newly acquired mineral projects. The company reported cash on hand of $706,836 as of September 30, 2026, and said it had approximately 53.2 million shares outstanding.",
+    "The company also said it has engaged CPS Capital Group and EuroSwiss Capital Partners on advisory, communications and marketing work intended to strengthen market awareness. Rush Gold said planned exploration activity across its Nevada projects includes geological mapping, geochemical sampling, geophysics and drill testing, without giving a timeline for any of the programs."
    ]
   },
   {
-   "slug": "minehub-arranges-1-5-million-placement-pushes-warrant-expiry-out-to",
-   "url": "https://www.cmbulletin.com/posts/minehub-arranges-1-5-million-placement-pushes-warrant-expiry-out-to.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/minehub-arranges-1-5-million-placement-pushes-warrant-expiry-out-to.json",
-   "date": "2026-10-27T12:38:49Z",
-   "headline": "MineHub arranges $1.5 million placement, pushes warrant expiry out to 2027",
-   "dek": "The non-brokered financing prices units at $0.40 with $0.55 warrants, while more than 15.7 million existing warrants get an eleven-month extension.",
-   "caption": "A dim server room corridor stands quiet as MineHub Technologies arranges a private placement to shore up working capital.",
+   "slug": "edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit",
+   "url": "https://www.cmbulletin.com/posts/edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit.json",
+   "date": "2026-10-28T12:40:09Z",
+   "headline": "Edison Lithium is raising up to $1.9 million at 7 cents a unit",
+   "dek": "The non-brokered placement pairs each share with a warrant exercisable at 10 cents for three years, funding lithium exploration work.",
+   "caption": "An exploration camp at daybreak, the kind of site Edison Lithium's new financing is meant to fund.",
    "sections": [
-    "financings"
+    "mining"
    ],
    "tags": [
     "Financing",
-    "Technology"
+    "Lithium",
+    "Mining",
+    "TSXV"
    ],
    "tickers": [
-    "TSXV:MHUB",
-    "OTCQB:MHUBF"
+    "TSXV:EDDY"
    ],
-   "image": "https://www.cmbulletin.com/images/minehub-arranges-1-5-million-placement-pushes-warrant-expiry-out-to.png",
-   "source_name": "Newsfile Corp (via finanznachrichten.de)",
+   "image": "https://www.cmbulletin.com/images/edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit.png",
+   "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
-     "title": "MineHub Technologies Inc.: MineHub Announces Financing",
-     "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69940588-minehub-technologies-inc-minehub-announces-financing-296.htm",
-     "publisher": "Newsfile Corp (via finanznachrichten.de)"
-    },
-    {
-     "title": "MineHub Technologies Launches $1.5 Million Non-Brokered Private Placement and Extends Warrants to 2027",
-     "url": "https://kalkinemedia.com/ca/news/announcements/minehub-technologies-launches-15-million-non-brokered-private-placement-and-extends-warrants-to-2027",
-     "publisher": "Kalkine Media — Canada"
+     "title": "Edison Lithium Announces Non-Brokered Private Placement of up to $1.9 Million",
+     "url": "https://investingnews.com/edison-lithium-announces-non-brokered-private-placement-of-up-to-1-9-million/",
+     "publisher": "Investing News Network — Resource Investing"
     }
    ],
    "unverified_claims": [
-    "The stated use of proceeds — working capital and 'continuing to evaluate strategic, corporate and financial opportunities' — and the insider-participation disclosure rest solely on the company's own release."
+    "The company's description of its own project focus and its stated use of proceeds rest on Edison Lithium's own release."
    ],
    "brief": [
-    "MineHub Technologies Inc. (TSXV: MHUB) (OTCQB: MHUBF) has arranged a non-brokered private placement to raise up to CAD $1,500,000. The offering consists of up to 3,750,000 units at $0.40 each, with each unit made up of one common share and half of one warrant exercisable at $0.55 for two years from closing.",
-    "The company is also extending 15,760,417 previously issued warrants — exercisable at $0.40 and $0.50 — to a new expiry of December 31, 2027, from January 31, 2027. Certain insiders may participate in the placement, which is subject to TSX Venture Exchange approval and relies on exemptions from formal valuation and shareholder-approval requirements.",
-    "MineHub says the proceeds will go to working capital and to continue evaluating strategic, corporate and financial opportunities, as the Vancouver-based digital commodity supply chain company awaits exchange sign-off on the offering."
+    "Edison Lithium Corp. (TSXV: EDDY), a junior exploration company focused on cobalt, lithium, alkali and other energy-metal properties, plans to raise up to $1,900,000 through a non-brokered private placement. The company intends to issue up to 27,142,857 units at $0.07 per unit.",
+    "Each unit consists of one common share and one warrant, with the warrant exercisable at $0.10 per share for 36 months. Edison may pay finder's fees under TSX Venture Exchange policy, and insiders may participate, which would be treated as a related-party transaction under securities rules. The securities carry a statutory hold of four months and one day.",
+    "The company plans to use the proceeds for exploration activities and general working capital. Completion of the offering remains subject to final acceptance by the TSX Venture Exchange; the release does not give a specific closing date."
    ],
    "body": [
-    "MineHub Technologies Inc. (TSXV: MHUB) (OTCQB: MHUBF) has arranged a non-brokered private placement to raise up to CAD $1,500,000. The offering consists of up to 3,750,000 units priced at $0.40 each. Each unit is made up of one common share and one-half of one transferable common share purchase warrant, with each whole warrant exercisable at $0.55 per common share for two years from the closing date.",
-    "A unit, in this structure, bundles a share together with the right to buy additional shares later at a fixed price — the warrant — giving subscribers upside if the stock trades above $0.55 before the warrant expires, without requiring them to pay for that right up front beyond the unit price.",
-    "Alongside the new placement, MineHub is extending the expiry of warrants it issued earlier. Prior warrants covering 14,584,954 shares at an exercise price of $0.40, issued January 31, 2024, along with 625,000 warrants at $0.50 issued July 25, 2025 and 550,463 warrants at $0.50 issued August 20, 2025, all had their expiry pushed from January 31, 2027 to December 31, 2027.",
-    "The company said certain insiders of MineHub may participate in the new placement, relying on exemptions from the formal valuation and minority shareholder approval requirements that would otherwise apply to insider participation under Multilateral Instrument 61-101.",
-    "Closing of the offering is subject to the company's receipt of TSX Venture Exchange approval, MineHub said. No closing date was given in the release.",
-    "MineHub said the proceeds are earmarked for working capital and for continuing to evaluate strategic, corporate and financial opportunities. The release gave no further detail on what those opportunities might involve."
+    "Edison Lithium Corp. (TSXV: EDDY, FSE: VV0) said it intends to complete a non-brokered private placement of up to 27,142,857 units at $0.07 per unit, for gross proceeds of up to approximately $1,900,000. Edison is a junior exploration company focused on the procurement, exploration and development of cobalt, lithium, alkali and other energy-metal properties.",
+    "Each unit consists of one common share of Edison plus one common-share purchase warrant. Each warrant entitles the holder to buy one additional share at $0.10 for 36 months from the date of issuance. In a non-brokered placement, the company sells the units directly to investors it has found itself, rather than through an underwriter who commits to sell the full offering.",
+    "The securities issued under the offering will be subject to a statutory hold period of four months and one day from the date of issuance, the release said — the standard resale restriction under Canadian securities law for securities distributed without a prospectus.",
+    "Insiders of the company may participate in the offering, which the release says would constitute a related-party transaction; Edison said it anticipates relying on exemptions from the formal valuation and minority-shareholder-approval requirements under Multilateral Instrument 61-101, subject to satisfying the applicable conditions. The release does not name which insiders, if any, intend to participate.",
+    "The company may also pay finder's fees in connection with the offering, subject to compliance with the policies of the TSX Venture Exchange and applicable securities law, Edison said. The release does not name a finder or state a fee amount, and no agent or underwriter is identified anywhere in the announcement.",
+    "Edison said the net proceeds will be used for exploration activities and for general working capital and corporate purposes. Completion remains subject to final acceptance by the TSX Venture Exchange. The release does not state an expected closing date, and the units have not been registered under the U.S. Securities Act, so they may not be offered or sold within the United States."
    ]
   },
   {
-   "slug": "nvidia-is-putting-3-billion-into-meta-s-largest-ever-fundraising-round",
-   "url": "https://www.cmbulletin.com/posts/nvidia-is-putting-3-billion-into-meta-s-largest-ever-fundraising-round.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/nvidia-is-putting-3-billion-into-meta-s-largest-ever-fundraising-round.json",
-   "date": "2026-10-27T12:38:49Z",
-   "headline": "Nvidia is putting $3 billion into Meta's largest-ever fundraising round",
-   "dek": "The chipmaker's stake deepens a partnership on Meta's Muse AI assistant, built on Nvidia hardware, as Meta boosts its planned offering to $97.5 billion.",
-   "caption": "Server racks hum inside a data centre as Nvidia and Meta deepen an AI infrastructure partnership this week.",
+   "slug": "argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips",
+   "url": "https://www.cmbulletin.com/posts/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.json",
+   "date": "2026-10-28T12:40:09Z",
+   "headline": "Argentum AI is negotiating $5 billion in debt to buy more AI chips",
+   "dek": "The Chicago-based neocloud, which already has $12 billion in contracted revenue, wants the financing to lease chips to customers without investment-grade credit.",
+   "caption": "A data hall at night, the kind of facility the financing under discussion would help expand.",
    "sections": [
     "tech"
    ],
    "tags": [
     "Artificial Intelligence",
-    "Big Tech",
-    "Markets"
+    "Data Centres",
+    "Debt Financing",
+    "Venture Boards"
    ],
    "tickers": [],
-   "image": "https://www.cmbulletin.com/images/nvidia-is-putting-3-billion-into-meta-s-largest-ever-fundraising-round.png",
-   "source_name": "Reuters (via KSL.com)",
+   "image": "https://www.cmbulletin.com/images/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.png",
+   "source_name": "Reuters (via Investing.com)",
    "sources": [
     {
-     "title": "Nvidia, Meta deepen AI ties with $3 billion investment deal",
-     "url": "https://www.ksl.com/article/51641427/nvidia-meta-partner-on-muse-agent-as-nvidia-invests-3-billion",
-     "publisher": "Reuters (via KSL.com)"
+     "title": "Exclusive-Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say",
+     "url": "https://www.investing.com/news/stock-market-news/exclusiveneocloud-firm-argentum-ai-in-talks-for-5-billion-ai-chip-financing-sources-say-4976170",
+     "publisher": "Reuters (via Investing.com)"
     },
     {
-     "title": "Sparc AI Inc. (CSE: SPAI) quote, +36.90% on about $146,135",
+     "title": "Sparc AI Inc. (CSE: SPAI) quote, +8.70% on about $217,658",
      "url": "https://finance.yahoo.com/quote/SPAI.CN",
      "publisher": "Yahoo Finance"
     },
     {
-     "title": "Yocale.ai Inc. (CSE: YAI) quote, +1.33% on about $33,440",
-     "url": "https://finance.yahoo.com/quote/YAI.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "Railtown AI Technologies Inc (CSE: RAIL) quote, +0.00% on about $125,093",
+     "title": "Railtown AI Technologies Inc (CSE: RAIL) quote, +7.14% on about $31,500",
      "url": "https://finance.yahoo.com/quote/RAIL.CN",
      "publisher": "Yahoo Finance"
-    }
-   ],
-   "unverified_claims": [
-    "The characterization of Meta's enlarged offering as 'the largest fundraising in its history' and Zuckerberg's description of Muse as delivering 'personal superintelligence' rest on statements attributed to the companies as relayed in the reporting, not on figures independently verified by this publication."
-   ],
-   "brief": [
-    "Nvidia is investing $3 billion in Meta Platforms' expanded equity offering, which Meta raised to $97.5 billion. Reuters reported the increase is the largest fundraising in Meta's history, as it accelerates investment in AI infrastructure.",
-    "The investment deepens the companies' work on Muse, Meta's AI assistant that runs on Nvidia infrastructure and can access a user's email, calendar, payments, health, shopping and smart-home applications. The companies may also work together on Nvidia's OpenShell framework.",
-    "On the venture boards, the artificial-intelligence theme's 29 names moved a median 0.00% against +0.53% for the Venture Composite, with 19 trading. Sparc AI Inc. (CSE: SPAI) rose 36.90% to CAD2.3, Yocale.ai Inc. (CSE: YAI) rose 1.33% to CAD0.76, and Railtown AI Technologies Inc. (CSE: RAIL) was unchanged at CAD0.28 — each in the theme because its registered name contains \"ai\"."
-   ],
-   "body": [
-    "Nvidia is investing $3 billion in Meta Platforms' equity offering, which Meta increased to $97.5 billion. Reuters reported the enlarged raise is the largest fundraising in Meta's history. Meta is raising the money as it accelerates investment in AI infrastructure, Reuters reported.",
-    "The deal deepens an existing partnership on Muse, Meta's personal AI assistant, internally known as Hatch, which runs on Nvidia infrastructure. Muse can access a user's email, calendar, payments, health, shopping and smart-home applications, with users able to revoke that access at any time, according to the reporting.",
-    "The companies are also exploring joint work on Nvidia's OpenShell framework and a monitoring tool called Sentry, which is intended to track AI agent behaviour, Reuters reported.",
-    "Chief executive Mark Zuckerberg has described Muse as central to delivering what he calls \"personal superintelligence\" to Meta's users; the system is modelled on the open-source AI agent OpenClaw, according to the reporting.",
-    "On the venture boards, the news coincided with trading in the artificial-intelligence theme, a group of 29 listed names of which 19 traded today. The group's median move was 0.00%, against +0.53% for the S&P/TSX Venture Composite — a spread of 0.53 percentage points below the broader junior index.",
-    "Three of the larger movers were Sparc AI Inc. (CSE: SPAI), which rose 36.90% to CAD2.3; Yocale.ai Inc. (CSE: YAI), which rose 1.33% to CAD0.76; and Railtown AI Technologies Inc. (CSE: RAIL), which was unchanged at CAD0.28. Each is in the theme because its registered name contains \"ai\".",
-    "Nothing ties these moves to the Nvidia-Meta announcement; the two events fall on the same trading day, and the venture board's theme, taken as a whole, underperformed the broader Venture Composite rather than outperforming it."
-   ]
-  },
-  {
-   "slug": "anthropic-files-for-an-ipo-that-could-be-the-biggest-ever",
-   "url": "https://www.cmbulletin.com/posts/anthropic-files-for-an-ipo-that-could-be-the-biggest-ever.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/anthropic-files-for-an-ipo-that-could-be-the-biggest-ever.json",
-   "date": "2026-10-27T12:38:49Z",
-   "headline": "Anthropic files for an IPO that could be the biggest ever",
-   "dek": "The AI company could raise up to $100 billion at a valuation of $1.5 trillion to $2 trillion, even as its chief executive warns of a risk to humanity from unchecked AI.",
-   "caption": "A trading floor sits quiet before the bell as Anthropic prepares what could be the largest IPO on record.",
-   "sections": [
-    "tech"
-   ],
-   "tags": [
-    "IPO",
-    "Artificial Intelligence",
-    "Markets"
-   ],
-   "tickers": [
-    "NASDAQ:ANT"
-   ],
-   "image": "https://www.cmbulletin.com/images/anthropic-files-for-an-ipo-that-could-be-the-biggest-ever.png",
-   "source_name": "Associated Press (via ClickOrlando)",
-   "sources": [
-    {
-     "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
-     "url": "https://www.clickorlando.com/business/2026/10/26/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/",
-     "publisher": "Associated Press (via ClickOrlando)"
     },
     {
-     "title": "Anthropic files for potentially biggest IPO ever as CEO warns of risk to humanity from AI",
-     "url": "https://www.theglobeandmail.com/business/video-anthropic-files-for-potentially-biggest-ipo-ever-as-ceo-warns-of-risk/",
-     "publisher": "Globe and Mail — Business"
+     "title": "AI-ML Innovations Inc. (CSE: AIML) quote, +0.00% on about $33,015",
+     "url": "https://finance.yahoo.com/quote/AIML.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "MIIVO AI INC (TSXV: MIVO) quote, +0.00% on about $31,800",
+     "url": "https://finance.yahoo.com/quote/MIVO.V",
+     "publisher": "Yahoo Finance"
     }
    ],
    "unverified_claims": [
-    "The $100 billion potential raise and $1.5-2 trillion valuation range, the founders' projected 1.4% stakes and $28 billion potential individual wealth, and Dario Amodei's warning that AI could let loose \"a swarm of agents\" that could \"take over the entire internet\" within six to 12 months rest on reporting of the company's filing and statements, not on figures independently confirmed by this publication."
+    "The $5 billion financing talks, the $12 billion contracted-revenue figure and the terms of the Poland data-centre arrangement rest on Reuters' sourcing to unnamed people familiar with the matter and have not been confirmed by Argentum AI."
    ],
    "brief": [
-    "Anthropic has filed for an initial public offering that could be the largest ever, potentially raising as much as $100 billion and valuing the San Francisco company at $1.5 trillion to $2 trillion, according to the Associated Press. The company plans to list on the Nasdaq Global Select Market under the ticker ANT.",
-    "Founded in 2021 by former OpenAI staff including siblings Dario and Daniela Amodei, Anthropic reported more than $16 billion in revenue in the first half of 2026, fourteen times a year earlier, alongside a net loss of $80.7 billion that includes a $72.4 billion one-time accounting charge. Its founders will retain 50.1% voting control through a special share class.",
-    "None of the two listed venture names in the space theme cleared the liquidity floor required to be named today, so no junior move is reported alongside this story. The theme's venture board accordingly offers nothing to set against Anthropic's filing today."
+    "Argentum AI, a Chicago-based cloud computing company backed by Super Micro, is in talks with a major private credit firm for a $5 billion financing deal, Reuters reported, citing two people familiar with the matter. The debt would fund additional AI chips for a data centre Argentum is building in Poland with DL Invest Group.",
+    "The financing is intended for chips leased to customers that do not carry investment-grade credit ratings, the sources said. Argentum, founded in 2025 by chief executive Andrew Sobko, has more than $12 billion in contracted revenue and in May signed roughly a $2.5 billion deal with cloud-gaming firm Boosteroid and DL Invest for a 300-megawatt facility.",
+    "On the venture boards, the AI theme's 29 listed names were mixed today — 17 traded, 5 higher and 6 lower, for a median move of +0.00% against +1.60% for the S&P/TSX Venture Composite. Sparc AI Inc. (CSE: SPAI) rose 8.70% to CAD2.5, and is in the theme because its registered name contains \"ai.\""
    ],
    "body": [
-    "Anthropic has filed papers for an initial public offering that could be the largest in history, the Associated Press reported. The filing sets up a Wall Street debut as soon as next month, with the company potentially raising as much as $100 billion at a valuation of $1.5 trillion to $2 trillion — topping the $86 billion raised by SpaceX's IPO in June, previously the record.",
-    "Anthropic plans to list on the Nasdaq Global Select Market under the ticker ANT. The company was founded in 2021 by a group of former OpenAI employees, including siblings Dario Amodei, its chief executive, and Daniela Amodei, its president. It reported revenue of more than $16 billion for the first half of 2026, fourteen times the prior year's figure, according to the AP.",
-    "Anthropic also reported a net loss of $80.7 billion for the period, which includes a one-time accounting charge of $72.4 billion. The company has not yet reported a profit. Its seven founders are each expected to hold about 1.4% of the company, a stake that could be worth as much as $28 billion apiece at the top of the expected valuation range, the AP reported.",
-    "The founders will retain 50.1% voting control through a special class of shares, and the company has established a Long-Term Benefit Trust of independent directors with the power to appoint board members, structured to keep financial interests from overriding public-safety considerations, according to the filing as reported by the AP.",
-    "Dario Amodei has separately argued, in a post on his website, for slowing development of the most advanced AI models, warning that without an industry slowdown, AI could let loose \"a swarm of agents\" that could \"take over the entire internet\" within six to 12 months, the AP reported.",
-    "The space theme on this publication's venture boards comprises two listed names; neither cleared the C$25,000 daily-volume floor this publication requires before naming a security today. No junior move is therefore reported alongside Anthropic's filing, and no names are given."
+    "Argentum AI, a Chicago-based cloud computing company backed by Super Micro, is in talks with a major private credit firm for a $5 billion financing deal, Reuters reported on Tuesday, citing two people familiar with the matter. The debt would fund additional AI chips for a data centre Argentum is building in Poland with DL Invest Group.",
+    "The financing is intended for chips leased to customers that do not carry investment-grade credit ratings, according to the sources. Argentum was founded in 2025 by chief executive Andrew Sobko and describes itself as an independent, institutional-grade AI cloud platform focused on deploying large-scale GPU infrastructure for enterprise AI.",
+    "Argentum has more than $12 billion in contracted revenue, Reuters reported. In May, the company signed roughly a $2.5 billion agreement with cloud-gaming firm Boosteroid and DL Invest Group for a 300-megawatt data centre facility.",
+    "The talks come a day after SpaceX secured $40 billion in debt financing for chips from an affiliate of Apollo Global Management, as financing has tightened for \"neoclouds\" — firms that rent out AI computing power. Elon Musk said \"debt markets have almost entirely shut off access to money for companies without substantial revenue independent of AI data centers,\" and predicted significant consolidation among the sector's more than 200 competitors.",
+    "On the venture boards, the read-through is artificial intelligence and data centres. The theme comprises 29 listed venture names; 17 traded today, 5 higher and 6 lower, for a median move of +0.00%, against +1.60% for the S&P/TSX Venture Composite — a spread of 1.60 percentage points against the theme.",
+    "Sparc AI Inc. (CSE: SPAI) rose 8.70% to CAD2.5, and is in the theme because its registered name contains \"ai.\" Railtown AI Technologies Inc (CSE: RAIL) rose 7.14% to CAD0.3, and is in the theme because its registered name contains \"ai.\" AI-ML Innovations Inc. (CSE: AIML) was unchanged at CAD0.04, and is in the theme because its registered name contains \"ai.\" Miivo Ai Inc (TSXV: MIVO) was unchanged at CAD0.4, and is in the theme because its registered name contains \"ai.\"",
+    "The financing talks and the moves in these four names fall on the same day; nothing here suggests one caused the other, and no such link should be inferred."
    ]
   },
   {
-   "slug": "us-and-canada-edge-toward-a-deal-to-ease-steel-and-auto-tariffs",
-   "url": "https://www.cmbulletin.com/posts/us-and-canada-edge-toward-a-deal-to-ease-steel-and-auto-tariffs.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/us-and-canada-edge-toward-a-deal-to-ease-steel-and-auto-tariffs.json",
-   "date": "2026-10-27T12:38:49Z",
-   "headline": "US and Canada edge toward a deal to ease steel and auto tariffs",
-   "dek": "Talks center on Section 232 duties of up to 50% on steel and 25% on autos, with Canadian sources saying a deal before the November 3 elections is possible but would likely be narrower in scope.",
-   "caption": "Steel coils sit stacked in a yard as Washington and Ottawa discuss easing tariffs on Canadian steel and autos.",
+   "slug": "a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion",
+   "url": "https://www.cmbulletin.com/posts/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.json",
+   "date": "2026-10-28T12:40:09Z",
+   "headline": "A proxy adviser is telling H&R REIT investors to reject a $3.4-billion buyout",
+   "dek": "ISS cited concerns about the sale process and an insider-linked side deal ahead of the November 13 unitholder vote on the GO Residential takeover.",
+   "caption": "An empty boardroom, where unitholders will decide a contested REIT merger on November 13.",
    "sections": [
     "news"
    ],
    "tags": [
-    "Trade Policy",
-    "Tariffs",
-    "Macro"
+    "REIT",
+    "M&A",
+    "Real Estate",
+    "Governance"
    ],
    "tickers": [],
-   "image": "https://www.cmbulletin.com/images/us-and-canada-edge-toward-a-deal-to-ease-steel-and-auto-tariffs.png",
-   "source_name": "Reuters (via Investing.com)",
+   "image": "https://www.cmbulletin.com/images/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.png",
+   "source_name": "Globe and Mail — Business",
    "sources": [
     {
-     "title": "Exclusive-US, Canada working on deal to ease steel, auto tariffs, sources say",
-     "url": "https://www.investing.com/news/economy-news/exclusiveus-canada-working-on-deal-to-ease-steel-auto-tariffs-sources-say-4973470",
-     "publisher": "Reuters (via Investing.com)"
+     "title": "Adviser ISS recommends vote against takeover of H&R Real Estate Investment Trust",
+     "url": "https://www.theglobeandmail.com/business/article-hr-reit-go-residential-takeover-vote-iss-recommends-against/",
+     "publisher": "Globe and Mail — Business"
     }
    ],
    "unverified_claims": [
-    "The characterization of the talks as 'constructive dialogue' by a spokesperson for LeBlanc, the 'slight intensification' described by Prime Minister Carney, and the Canadian sources' separate predictions about the timing and likely scope of a deal rest on sources and quotes relayed by Reuters and are not independently confirmed by this publication."
+    "The characterization and terms of the related-party transaction rest on ISS's published rationale as reported; H&R's and GO Residential's responses to the ISS recommendation are not yet known."
    ],
    "brief": [
-    "The United States and Canada are working on a deal to ease U.S. tariffs on Canadian steel and autos, Reuters reported, citing sources close to the talks. The negotiations follow the collapse of broader trade talks in August and focus on Section 232 duties of up to 50% on steel and 25% on autos.",
-    "U.S. Commerce Secretary Howard Lutnick and Canada's Dominic LeBlanc have been in regular contact, Reuters reported. Trump has said he would raise Canadian steel tariffs to 50% from January 1, 2027, absent a deal, and predicted at a rally that the dispute would be resolved \"soon.\" One Canadian source said a deal was possible before the November 3 elections, while a separate source said any deal was likely to be narrower in scope.",
-    "No venture-market name in the tariffs theme traded today, so this publication reports no group measure and names nobody; the theme simply produced no trading today to compare against the broader board."
+    "Proxy adviser Institutional Shareholder Services is recommending that H&R Real Estate Investment Trust unitholders vote against its proposed $3.4-billion acquisition by GO Residential Real Estate Investment Trust. Under the deal announced in August, H&R unitholders would receive $4.28 in cash plus 0.5688 of a GO unit for each H&R unit held. Unitholders vote November 13.",
+    "ISS cited concerns over the sale process, conflicts, deal logic and whether disinterested unitholders are capturing fair value relative to insiders — pointing to a related transaction in which a company controlled by H&R chief executive Tom Hofstedter would buy $1.98 billion of properties, at book value, for $1.56 billion.",
+    "On the venture boards, the real estate theme comprises 12 listed names; 3 traded today, 1 higher and 1 lower, for a median move of +0.00% against +1.60% for the S&P/TSX Venture Composite. None cleared the C$25,000 day-volume floor this desk requires before naming a security, so none is named."
    ],
    "body": [
-    "The United States and Canada are working on a deal to ease U.S. tariffs on Canadian steel and autos, Reuters reported, citing sources briefed on the talks. The negotiations aim to repair relations that soured after broader trade talks broke down in August, and focus on Section 232 duties — a US trade-law provision under which Washington has imposed tariffs of up to 50% on Canadian steel and 25% on Canadian autos.",
-    "Trump has said he intends to raise the Canadian steel tariff to 50% from its current level starting January 1, 2027, absent a deal. He predicted at a political rally on Sunday that the trade dispute would be resolved \"soon,\" without giving specifics, Reuters reported.",
-    "Because Section 232 tariffs are administered by the US Commerce Department, Commerce Secretary Howard Lutnick is at the center of the talks rather than the Office of the US Trade Representative, and Reuters reported he has been in regular contact with Canada's Dominic LeBlanc, the minister handling the file for Ottawa.",
-    "A spokesperson for LeBlanc described the discussions as \"constructive dialogue\" on \"a range of priorities.\" Canadian Prime Minister Mark Carney said there had been a \"slight intensification\" in talks, adding that \"to the extent any progress has been made, it's because the US is coming closer to our position.\" One Canadian source briefed on the negotiations told Reuters that a deal was possible before the November 3 US midterm elections. A separate Canadian industry source told Reuters that any deal was likely to be \"a narrowed deal\" if it happens.",
-    "Trump signed an order on Friday removing the 50% tariff on some Canadian agricultural and forestry products, Reuters reported.",
-    "This publication's tariffs theme produced no trading today, so there is no junior read-through to set alongside the talks: no venture name in the theme traded, leaving no group measure and no names to report, unlike the artificial-intelligence and space themes tracked elsewhere in this issue."
+    "Proxy adviser Institutional Shareholder Services is recommending that unitholders of H&R Real Estate Investment Trust vote against the trust's proposed $3.4-billion acquisition by GO Residential Real Estate Investment Trust, a deal announced in August. Under its terms, H&R unitholders would receive $4.28 in cash plus 0.5688 of a GO unit for every H&R unit they hold. The vote is scheduled for November 13.",
+    "ISS's recommendation cited concerns over the sale process, conflicts of interest, the logic of the deal and whether disinterested unitholders are capturing fair value relative to insiders. The adviser pointed to a related transaction in which a company controlled by H&R chief executive Tom Hofstedter would acquire $1.98 billion of properties, at book value, for $1.56 billion — different consideration than other unitholders are receiving in the main transaction.",
+    "Several institutional investors have already said publicly they intend to vote against the deal, including RBC Global Asset Management, Mill Pond Capital and Sandpiper Group. Rival proxy adviser Glass Lewis is expected to publish its own recommendation in the coming week. GO Residential's unit price has declined since the deal was announced, reducing the value of the consideration H&R unitholders would receive. H&R faces a $102-million termination fee if the transaction does not proceed.",
+    "GO Residential Real Estate Investment Trust owns luxury apartments in New York. As part of the transaction, GO would issue 134.2 million of its own units to help fund the acquisition of $1.8 billion of residential properties.",
+    "On the venture boards, the read-through is real estate — the sector theme a REIT takeover falls into on this desk's mapping. The theme comprises 12 listed venture names; 3 traded today, 1 higher and 1 lower, for a median move of +0.00%, against +1.60% for the S&P/TSX Venture Composite — a spread of 1.60 percentage points against the theme.",
+    "None of the three names that traded cleared the C$25,000 day-volume floor this desk requires before naming a security, so none is named here. The coincidence of the ISS recommendation and the theme's flat median move establishes nothing beyond timing, and no causal link should be inferred."
    ]
   }
  ]

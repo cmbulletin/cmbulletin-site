@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-10-27T20:53:49Z",
+ "generated_at": "2026-10-28T13:07:30Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 50,
+ "count": 52,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -1052,6 +1052,42 @@
    "warrant_expiry": null,
    "hold_expiry": null,
    "entry_url": "https://www.cmbulletin.com/posts/anthropic-files-for-an-ipo-that-could-be-the-biggest-ever.html"
+  },
+  {
+   "company": "Rush Gold Corp.",
+   "ticker": "CSE:RGN",
+   "type": "non-brokered private placement (second tranche)",
+   "currency": "C$",
+   "closed": "",
+   "agent": "",
+   "hold_period": false,
+   "note": "Second tranche of a placement; the release does not state a price per share, warrant terms, a closing date, or the consideration paid for the Landy Investments acquisition.",
+   "gross": 1030500.0,
+   "units": 10305000.0,
+   "price": null,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining.html"
+  },
+  {
+   "company": "Edison Lithium Corp.",
+   "ticker": "TSXV:EDDY",
+   "type": "non-brokered private placement",
+   "currency": "C$",
+   "closed": "",
+   "agent": "",
+   "hold_period": true,
+   "note": "Figures are a stated maximum (\"up to\"); the release does not designate a currency, name a finder, or state a closing date.",
+   "gross": 1900000.0,
+   "units": 27142857.0,
+   "price": 0.07,
+   "warrant_strike": 0.1,
+   "warrant_months": 36.0,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit.html"
   }
  ]
 }

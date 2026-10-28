@@ -1,0 +1,49 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-28T13:07:30Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion",
+ "url": "https://www.cmbulletin.com/posts/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.json",
+ "date": "2026-10-28T12:40:09Z",
+ "headline": "A proxy adviser is telling H&R REIT investors to reject a $3.4-billion buyout",
+ "dek": "ISS cited concerns about the sale process and an insider-linked side deal ahead of the November 13 unitholder vote on the GO Residential takeover.",
+ "caption": "An empty boardroom, where unitholders will decide a contested REIT merger on November 13.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "REIT",
+  "M&A",
+  "Real Estate",
+  "Governance"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.png",
+ "source_name": "Globe and Mail — Business",
+ "sources": [
+  {
+   "title": "Adviser ISS recommends vote against takeover of H&R Real Estate Investment Trust",
+   "url": "https://www.theglobeandmail.com/business/article-hr-reit-go-residential-takeover-vote-iss-recommends-against/",
+   "publisher": "Globe and Mail — Business"
+  }
+ ],
+ "unverified_claims": [
+  "The characterization and terms of the related-party transaction rest on ISS's published rationale as reported; H&R's and GO Residential's responses to the ISS recommendation are not yet known."
+ ],
+ "brief": [
+  "Proxy adviser Institutional Shareholder Services is recommending that H&R Real Estate Investment Trust unitholders vote against its proposed $3.4-billion acquisition by GO Residential Real Estate Investment Trust. Under the deal announced in August, H&R unitholders would receive $4.28 in cash plus 0.5688 of a GO unit for each H&R unit held. Unitholders vote November 13.",
+  "ISS cited concerns over the sale process, conflicts, deal logic and whether disinterested unitholders are capturing fair value relative to insiders — pointing to a related transaction in which a company controlled by H&R chief executive Tom Hofstedter would buy $1.98 billion of properties, at book value, for $1.56 billion.",
+  "On the venture boards, the real estate theme comprises 12 listed names; 3 traded today, 1 higher and 1 lower, for a median move of +0.00% against +1.60% for the S&P/TSX Venture Composite. None cleared the C$25,000 day-volume floor this desk requires before naming a security, so none is named."
+ ],
+ "body": [
+  "Proxy adviser Institutional Shareholder Services is recommending that unitholders of H&R Real Estate Investment Trust vote against the trust's proposed $3.4-billion acquisition by GO Residential Real Estate Investment Trust, a deal announced in August. Under its terms, H&R unitholders would receive $4.28 in cash plus 0.5688 of a GO unit for every H&R unit they hold. The vote is scheduled for November 13.",
+  "ISS's recommendation cited concerns over the sale process, conflicts of interest, the logic of the deal and whether disinterested unitholders are capturing fair value relative to insiders. The adviser pointed to a related transaction in which a company controlled by H&R chief executive Tom Hofstedter would acquire $1.98 billion of properties, at book value, for $1.56 billion — different consideration than other unitholders are receiving in the main transaction.",
+  "Several institutional investors have already said publicly they intend to vote against the deal, including RBC Global Asset Management, Mill Pond Capital and Sandpiper Group. Rival proxy adviser Glass Lewis is expected to publish its own recommendation in the coming week. GO Residential's unit price has declined since the deal was announced, reducing the value of the consideration H&R unitholders would receive. H&R faces a $102-million termination fee if the transaction does not proceed.",
+  "GO Residential Real Estate Investment Trust owns luxury apartments in New York. As part of the transaction, GO would issue 134.2 million of its own units to help fund the acquisition of $1.8 billion of residential properties.",
+  "On the venture boards, the read-through is real estate — the sector theme a REIT takeover falls into on this desk's mapping. The theme comprises 12 listed venture names; 3 traded today, 1 higher and 1 lower, for a median move of +0.00%, against +1.60% for the S&P/TSX Venture Composite — a spread of 1.60 percentage points against the theme.",
+  "None of the three names that traded cleared the C$25,000 day-volume floor this desk requires before naming a security, so none is named here. The coincidence of the ISS recommendation and the theme's flat median move establishes nothing beyond timing, and no causal link should be inferred."
+ ]
+}

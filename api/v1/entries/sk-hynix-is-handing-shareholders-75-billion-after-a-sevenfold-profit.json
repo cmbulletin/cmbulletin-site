@@ -1,0 +1,53 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-28T13:07:30Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit",
+ "url": "https://www.cmbulletin.com/posts/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.json",
+ "date": "2026-10-28T12:40:09Z",
+ "headline": "SK Hynix is handing shareholders $75 billion after a sevenfold profit jump",
+ "dek": "The chipmaker's operating profit rose more than sevenfold to 83.3 trillion won as AI-driven demand for memory chips sold out capacity into 2029.",
+ "caption": "A wafer fabrication floor, representative of the memory-chip capacity now sold out through 2029.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Semiconductors",
+  "Earnings",
+  "Shareholder Returns",
+  "AI"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.png",
+ "source_name": "Reuters (via Lufkin Daily News)",
+ "sources": [
+  {
+   "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
+   "url": "https://lufkindailynews.com/news_reuters/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit/article_93094ad0-2128-5684-aef3-24f5382efd28.html",
+   "publisher": "Reuters (via Lufkin Daily News)"
+  }
+ ],
+ "unverified_claims": [
+  "The $75 billion shareholder-return figure rests on SK Hynix's own earnings disclosure and public statements.",
+  "The operating-profit and revenue figures rest on SK Hynix's own earnings disclosure and public statements.",
+  "The sold-out production claim through 2029 rests on SK Hynix's own earnings disclosure and public statements.",
+  "The long-term agreements with 14 customers rest on SK Hynix's own earnings disclosure and public statements."
+ ],
+ "brief": [
+  "SK Hynix said it will return approximately 100 trillion won ($75 billion) to shareholders, after third-quarter operating profit surged more than sevenfold to 83.3 trillion won on revenue of 104.6 trillion won, up 328% from a year earlier. The return comprises roughly 30 trillion won of dividends and 60 trillion won of buybacks and cancellations.",
+  "Shares rose as much as 9.4%. Chief financial officer Kim Woo-hyun said AI investment momentum is translating into broader adoption of AI services and tangible business results. The company has sold out its HBM and DRAM chip production through 2029 and has signed long-term agreements with 14 major customers.",
+  "On the venture boards, the semiconductor theme comprises three listed venture names; three traded today, two higher and one lower, for a median move of +3.09% against +1.60% for the S&P/TSX Venture Composite. None cleared the C$25,000 day-volume floor this desk requires before naming a security, so none is named."
+ ],
+ "body": [
+  "SK Hynix said on Tuesday it will return approximately 100 trillion won, or about $75 billion, to shareholders this year, after third-quarter operating profit surged more than sevenfold to 83.3 trillion won from 11.4 trillion won a year earlier. Quarterly revenue rose 328% to 104.6 trillion won. The company is the world's largest maker of high-bandwidth memory chips used in artificial-intelligence data centres.",
+  "The shareholder return is split between roughly 30 trillion won in cash dividends and 60 trillion won in share repurchases and cancellations, the latter figure including the 40 trillion won in buybacks the company had already announced in August. Shares in SK Hynix rose as much as 9.4% following the announcement.",
+  "Chief financial officer Kim Woo-hyun said the company expects AI investment momentum to continue, with customers' AI spending translating into broader adoption of AI services and tangible business results. Analyst Ryu Young-ho of NH Investment & Securities said the results had eased many of the market's concerns, with earnings coming in ahead of expectations.",
+  "SK Hynix said it has sold out its high-bandwidth memory and DRAM chip production through 2029 and has signed long-term supply agreements with 14 major customers covering more than half of its planned 2027-2028 production capacity. The company said it expects memory-chip demand to continue exceeding supply through 2030.",
+  "On the venture boards, the read-through is semiconductors — the theme a chipmaker's results fall into on this desk's sector mapping. The theme comprises three listed venture names; three traded today, two higher and one lower, for a median move of +3.09%, against +1.60% for the S&P/TSX Venture Composite, a spread of 1.49 percentage points in the theme's favour.",
+  "None of the three names cleared the C$25,000 day-volume floor this desk requires before naming a security on a given day's move, so none is named here. A percentage change on a stock that prints without real volume behind it is a stale quote, not a market move, and this desk does not report it as one.",
+  "The coincidence of SK Hynix's results and the theme's move establishes nothing beyond timing. Nothing here attributes the venture names' trading to SK Hynix, and no causal link should be inferred from the two falling on the same day."
+ ]
+}
