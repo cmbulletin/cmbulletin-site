@@ -350,40 +350,7 @@ a.stretch:hover { color: inherit; }
 .xrec__meta { color: var(--faint); }
 .xrec__what { color: var(--ink-soft); }
 
-/* The bulletin as data: a documentation block, not a terminal hero. Once its
-   column is wide enough it splits in two — the offer and the curl line on the
-   left, the endpoints on the right — so it fills its width rather than leaving
-   a blank strip beside a short list (Conrad, 27 October 2026, on the block set
-   alone across a wide window: "make sure this is done"). A container query, so
-   it is right beside the wire, alone across the page and stacked on a phone. */
-.fp__wide { container-type: inline-size; }
-.data { display: grid; grid-template-columns: minmax(0, 1fr); column-gap: clamp(28px, 3vw, 56px); align-items: start; }
-.data > * { min-width: 0; }
-@container (min-width: 720px) {
-  .data {
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr);
-    grid-template-areas: "head head" "intro list" "code list" "sample list" "links list";
-    grid-template-rows: auto auto auto auto 1fr;
-  }
-  .data > .sect-head { grid-area: head; }
-  .data > p:not(.data__links) { grid-area: intro; }
-  .data > .code { grid-area: code; }
-  .data > .sample { grid-area: sample; }
-  .data > .endpoints { grid-area: list; margin-top: 4px; }
-  .data > .data__links { grid-area: links; }
-}
-.data p { margin: 0; font-size: 17px; line-height: 1.6; }
-.data .data__links { font-size: 12.5px; line-height: 1.5; }
-.sample { margin: 0 0 18px; }
-.sample__label { font-family: var(--mono); font-size: 11.5px; color: var(--faint); margin: 0 0 6px; }
-.code--sample { margin: 0; border-left-color: var(--rule-strong); color: var(--ink-soft); font-size: 12.5px; white-space: pre-wrap; overflow-wrap: anywhere; }
 .code { margin: 18px 0; padding: 14px 16px; background: var(--code); border-left: 2px solid var(--accent); font-family: var(--mono); font-size: 13px; line-height: 1.6; overflow-x: auto; color: var(--ink); }
-.endpoints { font-family: var(--mono); font-size: 12.5px; }
-.endpoint { display: grid; grid-template-columns: minmax(0, 1fr); gap: 2px 16px; padding: 8px 0; border-top: 1px solid var(--rule); }
-@media (min-width: 640px) { .endpoint { grid-template-columns: 220px minmax(0, 1fr); } }
-.endpoint code { font-family: var(--mono); font-size: 12.5px; color: var(--ink); }
-.endpoint span { color: var(--ink-soft); }
-.data__links { margin-top: 2px; font-family: var(--mono); font-size: 12.5px; }
 .data__links a:first-child { color: var(--accent); font-weight: 500; }
 
 /* The wire on the front page: other newsrooms, summarised, linked out. */
@@ -391,6 +358,13 @@ a.stretch:hover { color: inherit; }
 .fpwire__title { font-size: 15px; line-height: 1.4; }
 .fpwire__title a::after { content: " \2197"; font-family: var(--mono); font-size: .8em; color: var(--accent); }
 .fpwire__meta { font-family: var(--mono); font-size: 11.5px; color: var(--faint); margin-top: 4px; }
+/* The wire has the bottom band to itself since the data block left the front
+   page (28 October 2026), so its six items run in three columns, not one
+   stretched across the page. */
+@media (min-width: 960px) {
+  .fp__row--solo .fpwire { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); column-gap: clamp(28px, 2.6vw, 52px); }
+  .fp__row--solo .fpwire > .sect-head, .fp__row--solo .fpwire > .note-line, .fp__row--solo .fpwire > .allfin { grid-column: 1 / -1; }
+}
 
 /* ---------- markets rail (front page) ---------- */
 
