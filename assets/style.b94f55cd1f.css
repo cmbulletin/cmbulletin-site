@@ -262,6 +262,10 @@ a.stretch:hover { color: inherit; }
 .lead__more--solo { grid-template-columns: minmax(0, 1fr) !important; max-width: 44em; }
 .lead__brief { margin: 0; font-size: 17px; line-height: 1.6; }
 .lead__brief + .lead__brief { margin-top: 12px; }
+/* Set by _lead_fit_script when dropping the second paragraph ends the columns level. */
+.lead__link { display: none; }
+.lead.no-extra .lead__extra { display: none; }
+.lead.no-extra .lead__link { display: inline; }
 /* A wide window sets the lead's photograph beside its text rather than above
    it: stacked, a full-width photo grew to some 630px tall at 1920px and the
    Markets column ran out 600px before the lead did. Since the afternoon of 27
