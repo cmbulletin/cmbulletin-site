@@ -1,11 +1,49 @@
 {
  "api": "v1",
- "generated_at": "2026-10-28T17:15:02Z",
+ "generated_at": "2026-10-29T13:11:50Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 101,
+ "count": 102,
  "entries": [
+  {
+   "slug": "steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise",
+   "url": "https://www.cmbulletin.com/posts/steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise.json",
+   "date": "2026-10-29T12:45:42Z",
+   "headline": "Steadright's insiders are expected to buy most of the second tranche",
+   "dek": "Insiders already took 1,100,000 units of Steadright's first tranche at $0.10, and the company expects them to take most of the rest.",
+   "caption": "Mineral exploration in arid, mountainous terrain often requires extended logistics and permitting timelines.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Critical Minerals"
+   ],
+   "tickers": [
+    "CSE:SCM"
+   ],
+   "image": "https://www.cmbulletin.com/images/steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Steadright Closes First Tranche Of Financing",
+     "url": "https://thenewswire.com/press-releases/1AlpFlJlV-steadright-closes-first-tranche-of-financing.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The company's expectation that insiders will subscribe for most or all of the remaining units in the second tranche rests on the company's own statement.",
+    "The description of Steadright's Moroccan projects (TitanBeach Titanium Project, Copper Valley Project and the Goundafa Mine MOU) rests on the company's own release boilerplate."
+   ],
+   "brief": [
+    "Steadright Critical Minerals Inc. (CSE: SCM), which explores for critical minerals in Morocco, has closed the first tranche of a non-brokered private placement, raising $530,000 at $0.10 per unit. Company insiders subscribed for 1,100,000 of the units in this tranche, at the same price.",
+    "Each unit is one common share and one warrant, exercisable at $0.16 per share for 24 months. The securities carry a four-month-and-one-day hold period. The private placement has been upsized by $100,000 to a total of $900,000, with the second and final tranche expected to close within the week.",
+    "The company said it expects insiders to subscribe for most or all of the remaining units in the second tranche. Steadright paid finder's fees of $18,600 on 3,100,000 of the units, plus a finder's warrant equal to 6% of gross proceeds, and the offering remains subject to CSE approval."
+   ]
+  },
   {
    "slug": "sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit",
    "url": "https://www.cmbulletin.com/posts/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.html",

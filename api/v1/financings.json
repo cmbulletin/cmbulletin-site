@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-10-28T17:15:02Z",
+ "generated_at": "2026-10-29T13:11:50Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 52,
+ "count": 53,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -42,6 +42,24 @@
    "warrant_expiry": "2028-11-04",
    "hold_expiry": "2027-03-05",
    "entry_url": "https://www.cmbulletin.com/posts/lighthouse-gold-upsizes-private-placement-to-6-45-million.html"
+  },
+  {
+   "company": "Steadright Critical Minerals Inc.",
+   "ticker": "CSE:SCM",
+   "type": "non-brokered private placement",
+   "currency": "C$",
+   "closed": "2026-10-28",
+   "agent": "",
+   "hold_period": true,
+   "note": "First of two tranches; the private placement was upsized by $100,000 to a $900,000 total (up to 9,000,000 units), with the second tranche expected to close within the week and insiders expected to take most of it.",
+   "gross": 530000.0,
+   "units": null,
+   "price": 0.1,
+   "warrant_strike": 0.16,
+   "warrant_months": 24.0,
+   "warrant_expiry": "2028-10-28",
+   "hold_expiry": "2027-02-26",
+   "entry_url": "https://www.cmbulletin.com/posts/steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise.html"
   },
   {
    "company": "Red Canyon Resources Ltd.",

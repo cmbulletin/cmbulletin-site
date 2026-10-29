@@ -1,261 +1,56 @@
 {
  "api": "v1",
- "generated_at": "2026-10-28T17:15:02Z",
+ "generated_at": "2026-10-29T13:11:50Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-28",
- "count": 5,
+ "issue_date": "2026-10-29",
+ "count": 1,
  "entries": [
   {
-   "slug": "sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit",
-   "url": "https://www.cmbulletin.com/posts/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.json",
-   "date": "2026-10-28T12:40:09Z",
-   "headline": "SK Hynix is handing shareholders $75 billion after a sevenfold profit jump",
-   "dek": "The chipmaker's operating profit rose more than sevenfold to 83.3 trillion won as AI-driven demand for memory chips sold out capacity into 2029.",
-   "caption": "A wafer fabrication floor, representative of the memory-chip capacity now sold out through 2029.",
-   "sections": [
-    "tech"
-   ],
-   "tags": [
-    "Semiconductors",
-    "Earnings",
-    "Shareholder Returns",
-    "AI"
-   ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/sk-hynix-is-handing-shareholders-75-billion-after-a-sevenfold-profit.png",
-   "source_name": "Reuters (via Lufkin Daily News)",
-   "sources": [
-    {
-     "title": "SK Hynix unveils $75 billion shareholder return plan after posting record profit",
-     "url": "https://lufkindailynews.com/news_reuters/business/sk-hynix-unveils-75-billion-shareholder-return-plan-after-posting-record-profit/article_93094ad0-2128-5684-aef3-24f5382efd28.html",
-     "publisher": "Reuters (via Lufkin Daily News)"
-    }
-   ],
-   "unverified_claims": [
-    "The $75 billion shareholder-return figure rests on SK Hynix's own earnings disclosure and public statements.",
-    "The operating-profit and revenue figures rest on SK Hynix's own earnings disclosure and public statements.",
-    "The sold-out production claim through 2029 rests on SK Hynix's own earnings disclosure and public statements.",
-    "The long-term agreements with 14 customers rest on SK Hynix's own earnings disclosure and public statements."
-   ],
-   "brief": [
-    "SK Hynix said it will return approximately 100 trillion won ($75 billion) to shareholders, after third-quarter operating profit surged more than sevenfold to 83.3 trillion won on revenue of 104.6 trillion won, up 328% from a year earlier. The return comprises roughly 30 trillion won of dividends and 60 trillion won of buybacks and cancellations.",
-    "Shares rose as much as 9.4%. Chief financial officer Kim Woo-hyun said AI investment momentum is translating into broader adoption of AI services and tangible business results. The company has sold out its HBM and DRAM chip production through 2029 and has signed long-term agreements with 14 major customers.",
-    "On the venture boards, the semiconductor theme comprises three listed venture names; three traded today, two higher and one lower, for a median move of +3.09% against +1.60% for the S&P/TSX Venture Composite. None cleared the C$25,000 day-volume floor this desk requires before naming a security, so none is named."
-   ],
-   "body": [
-    "SK Hynix said on Tuesday it will return approximately 100 trillion won, or about $75 billion, to shareholders this year, after third-quarter operating profit surged more than sevenfold to 83.3 trillion won from 11.4 trillion won a year earlier. Quarterly revenue rose 328% to 104.6 trillion won. The company is the world's largest maker of high-bandwidth memory chips used in artificial-intelligence data centres.",
-    "The shareholder return is split between roughly 30 trillion won in cash dividends and 60 trillion won in share repurchases and cancellations, the latter figure including the 40 trillion won in buybacks the company had already announced in August. Shares in SK Hynix rose as much as 9.4% following the announcement.",
-    "Chief financial officer Kim Woo-hyun said the company expects AI investment momentum to continue, with customers' AI spending translating into broader adoption of AI services and tangible business results. Analyst Ryu Young-ho of NH Investment & Securities said the results had eased many of the market's concerns, with earnings coming in ahead of expectations.",
-    "SK Hynix said it has sold out its high-bandwidth memory and DRAM chip production through 2029 and has signed long-term supply agreements with 14 major customers covering more than half of its planned 2027-2028 production capacity. The company said it expects memory-chip demand to continue exceeding supply through 2030.",
-    "On the venture boards, the read-through is semiconductors — the theme a chipmaker's results fall into on this desk's sector mapping. The theme comprises three listed venture names; three traded today, two higher and one lower, for a median move of +3.09%, against +1.60% for the S&P/TSX Venture Composite, a spread of 1.49 percentage points in the theme's favour.",
-    "None of the three names cleared the C$25,000 day-volume floor this desk requires before naming a security on a given day's move, so none is named here. A percentage change on a stock that prints without real volume behind it is a stale quote, not a market move, and this desk does not report it as one.",
-    "The coincidence of SK Hynix's results and the theme's move establishes nothing beyond timing. Nothing here attributes the venture names' trading to SK Hynix, and no causal link should be inferred from the two falling on the same day."
-   ]
-  },
-  {
-   "slug": "rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining",
-   "url": "https://www.cmbulletin.com/posts/rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining.json",
-   "date": "2026-10-28T12:40:09Z",
-   "headline": "Rush Gold adds two Nevada gold properties and a 40-year mining veteran as chairman",
-   "dek": "The CSE-listed junior also closed a second placement tranche for $1,030,500 as it builds out its Walker Lane Trend portfolio.",
-   "caption": "A Walker Lane Trend exploration site in Nevada, the district where Rush Gold has added two new properties.",
+   "slug": "steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise",
+   "url": "https://www.cmbulletin.com/posts/steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise.json",
+   "date": "2026-10-29T12:45:42Z",
+   "headline": "Steadright's insiders are expected to buy most of the second tranche",
+   "dek": "Insiders already took 1,100,000 units of Steadright's first tranche at $0.10, and the company expects them to take most of the rest.",
+   "caption": "Mineral exploration in arid, mountainous terrain often requires extended logistics and permitting timelines.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
-    "M&A",
     "Financing",
-    "Nevada"
+    "Critical Minerals"
    ],
    "tickers": [
-    "CSE:RGN"
+    "CSE:SCM"
    ],
-   "image": "https://www.cmbulletin.com/images/rush-gold-adds-two-nevada-gold-properties-and-a-40-year-mining.png",
+   "image": "https://www.cmbulletin.com/images/steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise.png",
    "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Rush Gold Positions for Growth with New Nevada Assets, Experienced Leadership and Exploration Advancement",
-     "url": "https://thenewswire.com/press-releases/1A0vFmp94-rush-gold-positions-for-growth-with-new-nevada-assets-experienced-leadership-and-exploration-advancement.html",
+     "title": "Steadright Closes First Tranche Of Financing",
+     "url": "https://thenewswire.com/press-releases/1AlpFlJlV-steadright-closes-first-tranche-of-financing.html",
      "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The consideration paid for Landy Investments Ltd., the price per share and any warrant terms for the placement tranche, and Andy Tudor's biographical background all rest solely on Rush Gold's own release and are not independently confirmed.",
-    "The company's characterization of the placement proceeds' intended use and its cash position rest on its own statement."
+    "The company's expectation that insiders will subscribe for most or all of the remaining units in the second tranche rests on the company's own statement.",
+    "The description of Steadright's Moroccan projects (TitanBeach Titanium Project, Copper Valley Project and the Goundafa Mine MOU) rests on the company's own release boilerplate."
    ],
    "brief": [
-    "Rush Gold Corp. (CSE: RGN), a mineral exploration company active in Nevada's Walker Lane Trend, said it has acquired Landy Investments Ltd., gaining an 80% interest in the Hollow North-South copper-gold project and rights to the Douglas Canyon gold-antimony project. The company also appointed geologist and mining executive Andy Tudor as chairman.",
-    "Separately, Rush Gold closed the second tranche of a non-brokered private placement, issuing 10,305,000 shares for gross proceeds of $1,030,500. The release does not state a price per share or any warrant terms. The company said the financing is intended to advance exploration on its existing and newly acquired projects.",
-    "Hollow North-South, located near Yerington, Nevada, covers 109 claims; Douglas Canyon, near Tonopah, covers 138 claims. Rush Gold reported cash on hand of $706,836 as of September 30, 2026, and said it plans geological mapping, geochemical sampling, geophysics and drill testing across its Nevada projects."
+    "Steadright Critical Minerals Inc. (CSE: SCM), which explores for critical minerals in Morocco, has closed the first tranche of a non-brokered private placement, raising $530,000 at $0.10 per unit. Company insiders subscribed for 1,100,000 of the units in this tranche, at the same price.",
+    "Each unit is one common share and one warrant, exercisable at $0.16 per share for 24 months. The securities carry a four-month-and-one-day hold period. The private placement has been upsized by $100,000 to a total of $900,000, with the second and final tranche expected to close within the week.",
+    "The company said it expects insiders to subscribe for most or all of the remaining units in the second tranche. Steadright paid finder's fees of $18,600 on 3,100,000 of the units, plus a finder's warrant equal to 6% of gross proceeds, and the offering remains subject to CSE approval."
    ],
    "body": [
-    "Rush Gold Corp. (CSE: RGN, FSE: B6H) said it has completed the acquisition of Landy Investments Ltd., through which the company gained the rights to two mineral properties in Nevada's Walker Lane Trend: the Hollow North-South project and the Douglas Canyon project. The release does not state the consideration paid for Landy Investments — no share issuance or cash amount is disclosed for the transaction.",
-    "Hollow North-South, a copper-gold property, is located about 15 kilometres east of Yerington, Nevada, on 109 claims on land managed by the U.S. Bureau of Land Management. Rush Gold holds an 80% interest in the project, which the company said complements its existing Skylight and Legal Tender projects.",
-    "Douglas Canyon, a gold-antimony property, is located about 80 kilometres northwest of Tonopah, Nevada, and covers 138 claims on BLM land. The release gives no interest percentage for Douglas Canyon, unlike the 80% stake disclosed for Hollow North-South, and does not state the terms on which Rush Gold acquired its rights to the property.",
-    "Rush Gold also appointed Andy Tudor as chairman. The company described Tudor as a geologist and mining executive with more than 40 years of experience across the mineral exploration and mining sectors. The release gives no further biographical detail.",
-    "Separately, the company closed the second tranche of a non-brokered private placement, issuing 10,305,000 shares for gross proceeds of $1,030,500. The release does not disclose a price per share, warrant terms, or a closing date for the tranche, and does not name an agent or finder.",
-    "Rush Gold said proceeds from the financing are intended to advance exploration on its existing and newly acquired mineral projects. The company reported cash on hand of $706,836 as of September 30, 2026, and said it had approximately 53.2 million shares outstanding.",
-    "The company also said it has engaged CPS Capital Group and EuroSwiss Capital Partners on advisory, communications and marketing work intended to strengthen market awareness. Rush Gold said planned exploration activity across its Nevada projects includes geological mapping, geochemical sampling, geophysics and drill testing, without giving a timeline for any of the programs."
-   ]
-  },
-  {
-   "slug": "edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit",
-   "url": "https://www.cmbulletin.com/posts/edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit.json",
-   "date": "2026-10-28T12:40:09Z",
-   "headline": "Edison Lithium is raising up to $1.9 million at 7 cents a unit",
-   "dek": "The non-brokered placement pairs each share with a warrant exercisable at 10 cents for three years, funding lithium exploration work.",
-   "caption": "An exploration camp at daybreak, the kind of site Edison Lithium's new financing is meant to fund.",
-   "sections": [
-    "mining"
-   ],
-   "tags": [
-    "Financing",
-    "Lithium",
-    "Mining",
-    "TSXV"
-   ],
-   "tickers": [
-    "TSXV:EDDY"
-   ],
-   "image": "https://www.cmbulletin.com/images/edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit.png",
-   "source_name": "Investing News Network — Resource Investing",
-   "sources": [
-    {
-     "title": "Edison Lithium Announces Non-Brokered Private Placement of up to $1.9 Million",
-     "url": "https://investingnews.com/edison-lithium-announces-non-brokered-private-placement-of-up-to-1-9-million/",
-     "publisher": "Investing News Network — Resource Investing"
-    }
-   ],
-   "unverified_claims": [
-    "The company's description of its own project focus and its stated use of proceeds rest on Edison Lithium's own release."
-   ],
-   "brief": [
-    "Edison Lithium Corp. (TSXV: EDDY), a junior exploration company focused on cobalt, lithium, alkali and other energy-metal properties, plans to raise up to $1,900,000 through a non-brokered private placement. The company intends to issue up to 27,142,857 units at $0.07 per unit.",
-    "Each unit consists of one common share and one warrant, with the warrant exercisable at $0.10 per share for 36 months. Edison may pay finder's fees under TSX Venture Exchange policy, and insiders may participate, which would be treated as a related-party transaction under securities rules. The securities carry a statutory hold of four months and one day.",
-    "The company plans to use the proceeds for exploration activities and general working capital. Completion of the offering remains subject to final acceptance by the TSX Venture Exchange; the release does not give a specific closing date."
-   ],
-   "body": [
-    "Edison Lithium Corp. (TSXV: EDDY, FSE: VV0) said it intends to complete a non-brokered private placement of up to 27,142,857 units at $0.07 per unit, for gross proceeds of up to approximately $1,900,000. Edison is a junior exploration company focused on the procurement, exploration and development of cobalt, lithium, alkali and other energy-metal properties.",
-    "Each unit consists of one common share of Edison plus one common-share purchase warrant. Each warrant entitles the holder to buy one additional share at $0.10 for 36 months from the date of issuance. In a non-brokered placement, the company sells the units directly to investors it has found itself, rather than through an underwriter who commits to sell the full offering.",
-    "The securities issued under the offering will be subject to a statutory hold period of four months and one day from the date of issuance, the release said — the standard resale restriction under Canadian securities law for securities distributed without a prospectus.",
-    "Insiders of the company may participate in the offering, which the release says would constitute a related-party transaction; Edison said it anticipates relying on exemptions from the formal valuation and minority-shareholder-approval requirements under Multilateral Instrument 61-101, subject to satisfying the applicable conditions. The release does not name which insiders, if any, intend to participate.",
-    "The company may also pay finder's fees in connection with the offering, subject to compliance with the policies of the TSX Venture Exchange and applicable securities law, Edison said. The release does not name a finder or state a fee amount, and no agent or underwriter is identified anywhere in the announcement.",
-    "Edison said the net proceeds will be used for exploration activities and for general working capital and corporate purposes. Completion remains subject to final acceptance by the TSX Venture Exchange. The release does not state an expected closing date, and the units have not been registered under the U.S. Securities Act, so they may not be offered or sold within the United States."
-   ]
-  },
-  {
-   "slug": "argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips",
-   "url": "https://www.cmbulletin.com/posts/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.json",
-   "date": "2026-10-28T12:40:09Z",
-   "headline": "Argentum AI is negotiating $5 billion in debt to buy more AI chips",
-   "dek": "The Chicago-based neocloud, which already has $12 billion in contracted revenue, wants the financing to lease chips to customers without investment-grade credit.",
-   "caption": "A data hall at night, the kind of facility the financing under discussion would help expand.",
-   "sections": [
-    "tech"
-   ],
-   "tags": [
-    "Artificial Intelligence",
-    "Data Centres",
-    "Debt Financing",
-    "Venture Boards"
-   ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/argentum-ai-is-negotiating-5-billion-in-debt-to-buy-more-ai-chips.png",
-   "source_name": "Reuters (via Investing.com)",
-   "sources": [
-    {
-     "title": "Exclusive-Neocloud firm Argentum AI in talks for $5 billion AI chip financing, sources say",
-     "url": "https://www.investing.com/news/stock-market-news/exclusiveneocloud-firm-argentum-ai-in-talks-for-5-billion-ai-chip-financing-sources-say-4976170",
-     "publisher": "Reuters (via Investing.com)"
-    },
-    {
-     "title": "Sparc AI Inc. (CSE: SPAI) quote, +8.70% on about $217,658",
-     "url": "https://finance.yahoo.com/quote/SPAI.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "Railtown AI Technologies Inc (CSE: RAIL) quote, +7.14% on about $31,500",
-     "url": "https://finance.yahoo.com/quote/RAIL.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "AI-ML Innovations Inc. (CSE: AIML) quote, +0.00% on about $33,015",
-     "url": "https://finance.yahoo.com/quote/AIML.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "MIIVO AI INC (TSXV: MIVO) quote, +0.00% on about $31,800",
-     "url": "https://finance.yahoo.com/quote/MIVO.V",
-     "publisher": "Yahoo Finance"
-    }
-   ],
-   "unverified_claims": [
-    "The $5 billion financing talks, the $12 billion contracted-revenue figure and the terms of the Poland data-centre arrangement rest on Reuters' sourcing to unnamed people familiar with the matter and have not been confirmed by Argentum AI."
-   ],
-   "brief": [
-    "Argentum AI, a Chicago-based cloud computing company backed by Super Micro, is in talks with a major private credit firm for a $5 billion financing deal, Reuters reported, citing two people familiar with the matter. The debt would fund additional AI chips for a data centre Argentum is building in Poland with DL Invest Group.",
-    "The financing is intended for chips leased to customers that do not carry investment-grade credit ratings, the sources said. Argentum, founded in 2025 by chief executive Andrew Sobko, has more than $12 billion in contracted revenue and in May signed roughly a $2.5 billion deal with cloud-gaming firm Boosteroid and DL Invest for a 300-megawatt facility.",
-    "On the venture boards, the AI theme's 29 listed names were mixed today — 17 traded, 5 higher and 6 lower, for a median move of +0.00% against +1.60% for the S&P/TSX Venture Composite. Sparc AI Inc. (CSE: SPAI) rose 8.70% to CAD2.5, and is in the theme because its registered name contains \"ai.\""
-   ],
-   "body": [
-    "Argentum AI, a Chicago-based cloud computing company backed by Super Micro, is in talks with a major private credit firm for a $5 billion financing deal, Reuters reported on Tuesday, citing two people familiar with the matter. The debt would fund additional AI chips for a data centre Argentum is building in Poland with DL Invest Group.",
-    "The financing is intended for chips leased to customers that do not carry investment-grade credit ratings, according to the sources. Argentum was founded in 2025 by chief executive Andrew Sobko and describes itself as an independent, institutional-grade AI cloud platform focused on deploying large-scale GPU infrastructure for enterprise AI.",
-    "Argentum has more than $12 billion in contracted revenue, Reuters reported. In May, the company signed roughly a $2.5 billion agreement with cloud-gaming firm Boosteroid and DL Invest Group for a 300-megawatt data centre facility.",
-    "The talks come a day after SpaceX secured $40 billion in debt financing for chips from an affiliate of Apollo Global Management, as financing has tightened for \"neoclouds\" — firms that rent out AI computing power. Elon Musk said \"debt markets have almost entirely shut off access to money for companies without substantial revenue independent of AI data centers,\" and predicted significant consolidation among the sector's more than 200 competitors.",
-    "On the venture boards, the read-through is artificial intelligence and data centres. The theme comprises 29 listed venture names; 17 traded today, 5 higher and 6 lower, for a median move of +0.00%, against +1.60% for the S&P/TSX Venture Composite — a spread of 1.60 percentage points against the theme.",
-    "Sparc AI Inc. (CSE: SPAI) rose 8.70% to CAD2.5, and is in the theme because its registered name contains \"ai.\" Railtown AI Technologies Inc (CSE: RAIL) rose 7.14% to CAD0.3, and is in the theme because its registered name contains \"ai.\" AI-ML Innovations Inc. (CSE: AIML) was unchanged at CAD0.04, and is in the theme because its registered name contains \"ai.\" Miivo Ai Inc (TSXV: MIVO) was unchanged at CAD0.4, and is in the theme because its registered name contains \"ai.\"",
-    "The financing talks and the moves in these four names fall on the same day; nothing here suggests one caused the other, and no such link should be inferred."
-   ]
-  },
-  {
-   "slug": "a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion",
-   "url": "https://www.cmbulletin.com/posts/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.json",
-   "date": "2026-10-28T12:40:09Z",
-   "headline": "A proxy adviser is telling H&R REIT investors to reject a $3.4-billion buyout",
-   "dek": "ISS cited concerns about the sale process and an insider-linked side deal ahead of the November 13 unitholder vote on the GO Residential takeover.",
-   "caption": "An empty boardroom, where unitholders will decide a contested REIT merger on November 13.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "REIT",
-    "M&A",
-    "Real Estate",
-    "Governance"
-   ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/a-proxy-adviser-is-telling-h-r-reit-investors-to-reject-a-3-4-billion.png",
-   "source_name": "Globe and Mail — Business",
-   "sources": [
-    {
-     "title": "Adviser ISS recommends vote against takeover of H&R Real Estate Investment Trust",
-     "url": "https://www.theglobeandmail.com/business/article-hr-reit-go-residential-takeover-vote-iss-recommends-against/",
-     "publisher": "Globe and Mail — Business"
-    }
-   ],
-   "unverified_claims": [
-    "The characterization and terms of the related-party transaction rest on ISS's published rationale as reported; H&R's and GO Residential's responses to the ISS recommendation are not yet known."
-   ],
-   "brief": [
-    "Proxy adviser Institutional Shareholder Services is recommending that H&R Real Estate Investment Trust unitholders vote against its proposed $3.4-billion acquisition by GO Residential Real Estate Investment Trust. Under the deal announced in August, H&R unitholders would receive $4.28 in cash plus 0.5688 of a GO unit for each H&R unit held. Unitholders vote November 13.",
-    "ISS cited concerns over the sale process, conflicts, deal logic and whether disinterested unitholders are capturing fair value relative to insiders — pointing to a related transaction in which a company controlled by H&R chief executive Tom Hofstedter would buy $1.98 billion of properties, at book value, for $1.56 billion.",
-    "On the venture boards, the real estate theme comprises 12 listed names; 3 traded today, 1 higher and 1 lower, for a median move of +0.00% against +1.60% for the S&P/TSX Venture Composite. None cleared the C$25,000 day-volume floor this desk requires before naming a security, so none is named."
-   ],
-   "body": [
-    "Proxy adviser Institutional Shareholder Services is recommending that unitholders of H&R Real Estate Investment Trust vote against the trust's proposed $3.4-billion acquisition by GO Residential Real Estate Investment Trust, a deal announced in August. Under its terms, H&R unitholders would receive $4.28 in cash plus 0.5688 of a GO unit for every H&R unit they hold. The vote is scheduled for November 13.",
-    "ISS's recommendation cited concerns over the sale process, conflicts of interest, the logic of the deal and whether disinterested unitholders are capturing fair value relative to insiders. The adviser pointed to a related transaction in which a company controlled by H&R chief executive Tom Hofstedter would acquire $1.98 billion of properties, at book value, for $1.56 billion — different consideration than other unitholders are receiving in the main transaction.",
-    "Several institutional investors have already said publicly they intend to vote against the deal, including RBC Global Asset Management, Mill Pond Capital and Sandpiper Group. Rival proxy adviser Glass Lewis is expected to publish its own recommendation in the coming week. GO Residential's unit price has declined since the deal was announced, reducing the value of the consideration H&R unitholders would receive. H&R faces a $102-million termination fee if the transaction does not proceed.",
-    "GO Residential Real Estate Investment Trust owns luxury apartments in New York. As part of the transaction, GO would issue 134.2 million of its own units to help fund the acquisition of $1.8 billion of residential properties.",
-    "On the venture boards, the read-through is real estate — the sector theme a REIT takeover falls into on this desk's mapping. The theme comprises 12 listed venture names; 3 traded today, 1 higher and 1 lower, for a median move of +0.00%, against +1.60% for the S&P/TSX Venture Composite — a spread of 1.60 percentage points against the theme.",
-    "None of the three names that traded cleared the C$25,000 day-volume floor this desk requires before naming a security, so none is named here. The coincidence of the ISS recommendation and the theme's flat median move establishes nothing beyond timing, and no causal link should be inferred."
+    "Steadright Critical Minerals Inc. (CSE: SCM) has closed the first tranche of a non-brokered private placement, raising $530,000 at a price of $0.10 per unit. The closing is the first of two tranches in an offering the company has now upsized to a total of $900,000.",
+    "Company insiders subscribed for 1,100,000 of the units sold in this first tranche, at the same $0.10 price offered to other subscribers. The company said it expects insiders to take up most or all of the units remaining in the second and final tranche, which it expects to close within the next week.",
+    "Each unit sold in the placement consists of one common share and one common share purchase warrant. Each whole warrant entitles its holder to purchase one additional common share at $0.16 for a period of twenty-four months from closing.",
+    "The securities issued in the first tranche are subject to a hold period of four months and one day. The private placement overall was upsized by $100,000 to its current $900,000 total, up to 9,000,000 units in aggregate across both tranches.",
+    "Steadright paid finder's fees of $18,600 on 3,100,000 of the units sold in the first tranche, along with a finder's fee warrant equal to 6% of the gross proceeds. The release does not name the recipient, referring only to \"eligible parties\" under applicable securities laws.",
+    "The company describes itself as a mineral exploration business focused on Morocco's critical mineral space, where it holds exposure through a Moroccan entity, NSM Capital Sarl, to more than 192 square kilometres of claims covering the TitanBeach Titanium Project and the Copper Valley Project, plus a binding memorandum of understanding for the historic Goundafa Mine. Proceeds from the placement are earmarked for general working capital, corporate purposes and potential strategic initiatives, and the offering remains subject to approval from the Canadian Securities Exchange."
    ]
   }
  ]
