@@ -1,0 +1,80 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-29T22:15:29Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "teck-resources-profit-jumps-to-1-59-billion-on-copper-zinc-prices",
+ "url": "https://www.cmbulletin.com/posts/teck-resources-profit-jumps-to-1-59-billion-on-copper-zinc-prices.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/teck-resources-profit-jumps-to-1-59-billion-on-copper-zinc-prices.json",
+ "date": "2026-10-29T22:00:20Z",
+ "headline": "Teck Resources' profit jumps to $1.59 billion on copper, zinc prices",
+ "dek": "The gain from $281 million a year earlier comes as a steelworkers' strike cuts output at the company's Highland Valley Copper mine.",
+ "caption": "Haul trucks work the terraced benches of an open-pit mine as haze rises at first light.",
+ "sections": [
+  "mining"
+ ],
+ "tags": [
+  "Mining",
+  "Earnings",
+  "Copper"
+ ],
+ "tickers": [
+  "TSX:TECK.B",
+  "TSXV:XXIX",
+  "TSXV:CCMM",
+  "CSE:CCI",
+  "TSXV:CGNT",
+  "CSE:CUPR"
+ ],
+ "image": "https://www.cmbulletin.com/images/teck-resources-profit-jumps-to-1-59-billion-on-copper-zinc-prices.png",
+ "source_name": "Globe and Mail — Business",
+ "sources": [
+  {
+   "title": "Teck Resources’ third-quarter profit jumps on higher copper and zinc prices",
+   "url": "https://www.theglobeandmail.com/business/article-teck-resources-third-quarter-results-copper-and-zinc-prices/",
+   "publisher": "Globe and Mail — Business"
+  },
+  {
+   "title": "XXIX METAL CORP (TSXV: XXIX) quote, -10.34% on about $117,230",
+   "url": "https://finance.yahoo.com/quote/XXIX.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "COYOTE COPPER MINES INC (TSXV: CCMM) quote, -8.33% on about $61,309",
+   "url": "https://finance.yahoo.com/quote/CCMM.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "Canadian Copper Inc. (CSE: CCI) quote, +5.77% on about $56,562",
+   "url": "https://finance.yahoo.com/quote/CCI.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "COPPER GIANT RESOURCES CORP (TSXV: CGNT) quote, -5.00% on about $480,378",
+   "url": "https://finance.yahoo.com/quote/CGNT.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "Super Copper Corp. (CSE: CUPR) quote, +4.44% on about $64,860",
+   "url": "https://finance.yahoo.com/quote/CUPR.CN",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "Teck's own statement that the impact of the Highland Valley Copper strike on production will depend on its duration is the company's characterization and has not been independently verified."
+ ],
+ "brief": [
+  "Teck Resources reported third-quarter profit attributable to shareholders of $1.59 billion, or $3.24 per diluted share, up from $281 million, or 57 cents per diluted share, a year earlier. Adjusted profit was $1.88 per diluted share against 76 cents adjusted a year earlier. Revenue rose to $4.52 billion from $3.39 billion.",
+  "The company attributed the stronger results to higher copper and zinc prices. Separately, about 1,200 United Steelworkers members began a strike at Teck's Highland Valley Copper mine near Logan Lake, B.C., over the weekend. The mine is continuing to operate at reduced capacity, and the company said the impact on production will depend on the duration of the job action.",
+  "On the venture boards, the copper theme comprises 55 listed names; 39 traded today, 7 higher and 22 lower, for a median move of -1.20% against -1.47% for the S&P/TSX Venture Composite. Xxix Metal fell 10.34% to $0.13 and Coyote Copper Mines fell 8.33% to $0.33, while Canadian Copper rose 5.77% to $0.55."
+ ],
+ "body": [
+  "Teck Resources reported third-quarter profit attributable to shareholders of $1.59 billion, or $3.24 per diluted share, compared with $281 million, or 57 cents per diluted share, in the same quarter of 2025. On an adjusted basis, the company reported $1.88 per diluted share, against 76 cents adjusted a year earlier. Revenue for the quarter rose to $4.52 billion from $3.39 billion a year earlier.",
+  "The company attributed the improvement in both revenue and profit to higher prices for copper and zinc, though it did not disclose specific average realized prices for either metal. Teck's shares, which trade on the Toronto Stock Exchange under the symbol TECK-B, were quoted at $89.22, up 1.27%, as of the article's publication.",
+  "Separately, approximately 1,200 members of the United Steelworkers began a strike at Teck's Highland Valley Copper mine, near Logan Lake, British Columbia, over the weekend. The mine is continuing to operate at reduced capacity during the job action. Teck said the impact of the strike on production will depend on how long it lasts, without giving a specific production estimate or timeline for resolution.",
+  "On the venture boards, the copper theme comprises 55 listed venture names. Thirty-nine traded today, seven higher and 22 lower, for a median move of -1.20% against a decline of -1.47% for the S&P/TSX Venture Composite — a spread of 0.27 percentage points on the day.",
+  "Among names that cleared the board's liquidity floor, Xxix Metal Corp, in the theme on its sector label of Copper, fell 10.34% to $0.13; Coyote Copper Mines, whose registered name contains the word copper, fell 8.33% to $0.33; Canadian Copper, also named for the metal, rose 5.77% to $0.55; Copper Giant Resources fell 5.00% to $0.95; and Super Copper rose 4.44% to $0.47.",
+  "Teck's results and the day's moves among the venture copper names fall on the same trading day. Nothing in either disclosure connects one to the other."
+ ]
+}

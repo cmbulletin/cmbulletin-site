@@ -1,0 +1,51 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-29T22:15:29Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "doordash-offers-65-a-share-valuing-instacart-at-about-17-billion",
+ "url": "https://www.cmbulletin.com/posts/doordash-offers-65-a-share-valuing-instacart-at-about-17-billion.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/doordash-offers-65-a-share-valuing-instacart-at-about-17-billion.json",
+ "date": "2026-10-29T22:00:20Z",
+ "headline": "DoorDash offers $65 a share, valuing Instacart at about $17 billion",
+ "dek": "The cash-and-stock bid is a 26% premium to Instacart's October 22 closing price, with the deal targeted to close by the end of 2027 or the first half of 2028.",
+ "caption": "A grocery delivery bag sits on an empty loading dock at dusk, crates of produce stacked nearby.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "M&A",
+  "Grocery Delivery",
+  "Technology"
+ ],
+ "tickers": [
+  "NASDAQ:DASH"
+ ],
+ "image": "https://www.cmbulletin.com/images/doordash-offers-65-a-share-valuing-instacart-at-about-17-billion.png",
+ "source_name": "DoorDash, Inc. (SEC Form 8-K, Exhibit 99.1)",
+ "sources": [
+  {
+   "title": "DoorDash to Acquire Instacart",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm",
+   "publisher": "DoorDash, Inc. (SEC Form 8-K, Exhibit 99.1)"
+  }
+ ],
+ "unverified_claims": [
+  "DoorDash's projection of more than $500 million in annual synergies within several years of closing is the company's own estimate.",
+  "The expected closing timeline of late 2027 or the first half of 2028 is the companies' own target and subject to change."
+ ],
+ "brief": [
+  "DoorDash has agreed to acquire Instacart, operated by Maplebear Inc., in a deal valuing the grocery-delivery company at about $17 billion. Instacart shareholders can choose $65.00 in cash per share, 0.3372 of a DoorDash share, or a mix of $48.75 cash plus 0.0843 of a DoorDash share for each share they hold.",
+  "Instacart's board approved the deal unanimously, and holders of about 19% of its shares have agreed to vote for it. DoorDash will fund the cash portion from cash on hand and debt, including a 364-day bridge loan from JPMorgan Chase, with closing targeted for the end of 2027 or the first half of 2028, subject to shareholder and antitrust approval.",
+  "On the venture boards, the agriculture and food theme comprises 16 listed names; seven traded today, two higher and two lower, for a median move of +0.00% against -1.47% for the S&P/TSX Venture Composite. No name traded enough volume to clear the board's liquidity floor, so none is named here."
+ ],
+ "body": [
+  "DoorDash has agreed to acquire Instacart, which operates under the legal name Maplebear Inc., in a deal that values the grocery-delivery company at approximately $17 billion. Instacart shareholders will be able to elect one of three forms of consideration for each share held: $65.00 in cash, 0.3372 of a DoorDash share, or a combination of $48.75 in cash and 0.0843 of a DoorDash share. The stock portion of the total consideration is capped at 25% of the deal's aggregate value, with proration mechanics built in should stock elections be oversubscribed.",
+  "The per-share price represents a 26% premium to Instacart's closing stock price on October 22, 2026, according to the companies' release. Instacart's board of directors unanimously approved the transaction, and shareholders holding approximately 19% of the company's outstanding shares have already agreed to vote in favour of the deal.",
+  "DoorDash said it intends to fund the cash portion of the deal using cash on hand together with proceeds from new debt, and has arranged a 364-day bridge loan facility from JPMorgan Chase. The company said the transaction carries no financing condition and that it is targeting investment-grade credit ratings. DoorDash said the combination is expected to generate more than $500 million in annual synergies within several years of closing.",
+  "Completion is expected by the end of 2027 or in the first half of 2028. The deal still requires Instacart shareholder approval, clearance under the Hart-Scott-Rodino antitrust act in the United States, and regulatory approvals in Canada and Israel, along with other customary closing conditions.",
+  "On the venture boards, the agriculture and food theme comprises 16 listed venture names. Seven traded today, two higher and two lower, for a median move of +0.00% against a decline of -1.47% for the S&P/TSX Venture Composite — a spread of 1.47 percentage points on the day.",
+  "None of the theme's names traded in enough volume today to clear the board's liquidity floor of C$25,000 in day volume, so no individual name is reported here. The DoorDash-Instacart deal and the day's moves in the theme fall on the same trading day; nothing in either release connects one to the other."
+ ]
+}
