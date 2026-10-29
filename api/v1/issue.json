@@ -1,12 +1,58 @@
 {
  "api": "v1",
- "generated_at": "2026-10-29T13:11:50Z",
+ "generated_at": "2026-10-29T14:00:09Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "issue_date": "2026-10-29",
- "count": 1,
+ "count": 2,
  "entries": [
+  {
+   "slug": "aeon-strategies-crypto-audit-delay-pushes-its-filing-to-december-31",
+   "url": "https://www.cmbulletin.com/posts/aeon-strategies-crypto-audit-delay-pushes-its-filing-to-december-31.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/aeon-strategies-crypto-audit-delay-pushes-its-filing-to-december-31.json",
+   "date": "2026-10-29T13:24:23Z",
+   "headline": "Aeon Strategies' crypto audit delay pushes its filing to December 31",
+   "dek": "The CSE-listed company has applied for a management cease-trade order to avoid a broader halt while its auditor works through complex crypto-related holdings.",
+   "caption": "An empty boardroom table stands ready for a filing deadline running later than planned.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Regulatory",
+    "Disclosure",
+    "Crypto"
+   ],
+   "tickers": [
+    "CSE:AEON"
+   ],
+   "image": "https://www.cmbulletin.com/images/aeon-strategies-crypto-audit-delay-pushes-its-filing-to-december-31.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "AEON STRATEGIES LTD. Provides Update on Anticipated Late Filing of Annual Financial Statements",
+     "url": "https://thenewswire.com/press-releases/1kx7FnK1E-aeon-strategies-ltd-provides-update-on-anticipated-late-filing-of-annual-financial-statements.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The reasons given for the delay — auditor availability and the complexity of auditing crypto-related investments — rest on the company's and its auditor's own account.",
+    "The company's statement that it will apply for, and expects to receive, a management cease trade order is a statement of intent, not a granted order."
+   ],
+   "brief": [
+    "Aeon Strategies Ltd. (CSE: AEON), formerly Cloud3 Ventures Inc., said its auditor now expects to complete its annual financial statements by December 31, 2026 — later than the December 4 deadline the company had previously flagged. Davidson & Company LLP cited limited availability and the added time needed for the company's crypto-related investments.",
+    "To avoid a general trading halt, Aeon has applied for a management cease trade order, which would bar its CEO and CFO from trading the company's shares until the filings are complete — rather than freezing trading for all shareholders. If regulators do not grant it, a general cease trade order covering all trading remains possible.",
+    "Until the annual filings are submitted, Aeon must issue a default status report every two weeks, under National Policy 12-203. The company's auditor is reviewing financial statements for the year ended June 30, 2026."
+   ],
+   "body": [
+    "Aeon Strategies Ltd. (CSE: AEON, OTCQB: CLDVF, FSE: WQ40), formerly known as Cloud3 Ventures Inc., has updated its timeline for filing annual financial statements for the year ended June 30, 2026. The company now expects to file its audited annual filings, management's discussion and analysis and the related CEO and CFO certifications on or before December 31, 2026 — nearly a month later than the December 4, 2026 date it had previously disclosed.",
+    "The company's auditor, Davidson & Company LLP, told Aeon that the delay is due to two factors: limited availability on the auditor's side, and the additional time required to complete audit procedures relating to the company's crypto-related investments, which the release says are more complex to audit than in prior years.",
+    "To manage the consequences of the late filing, Aeon has applied to its principal regulator for a management cease trade order. If granted, an MCTO would prohibit only the company's chief executive officer and chief financial officer from trading in Aeon's securities until the annual filings are submitted — leaving ordinary shareholders free to continue trading.",
+    "The release states that if the management cease trade order is not granted, securities regulators may instead issue a general cease trade order prohibiting all trading in Aeon's securities, a broader measure that would affect every shareholder rather than only its two senior officers.",
+    "Until the annual filings are complete, Aeon is required to issue a default status report every two weeks by news release, under the continuous disclosure provisions of National Policy 12-203 covering defaulting reporting issuers.",
+    "For investors, the distinction matters: an MCTO limits only who can trade, not whether the stock keeps trading at all, while a general cease trade order would stop every shareholder from buying or selling until the annual filings catch up. Aeon's application for the narrower order is still pending regulatory approval."
+   ]
+  },
   {
    "slug": "steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise",
    "url": "https://www.cmbulletin.com/posts/steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise.html",
