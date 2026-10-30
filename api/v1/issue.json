@@ -1,12 +1,212 @@
 {
  "api": "v1",
- "generated_at": "2026-10-30T13:02:55Z",
+ "generated_at": "2026-10-30T13:31:58Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "issue_date": "2026-10-30",
- "count": 2,
+ "count": 6,
  "entries": [
+  {
+   "slug": "ashley-gold-wraps-up-a-c-2-08-million-flow-through-financing-in-two",
+   "url": "https://www.cmbulletin.com/posts/ashley-gold-wraps-up-a-c-2-08-million-flow-through-financing-in-two.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/ashley-gold-wraps-up-a-c-2-08-million-flow-through-financing-in-two.json",
+   "date": "2026-10-30T13:13:13Z",
+   "headline": "Ashley Gold closes C$2.08-million private placement in two tranches",
+   "dek": "The final tranche raised C$631,275 at 6.5 and 8 cents a unit, pending Canadian Securities Exchange acceptance of the full offering.",
+   "caption": "A line of core-sample boxes rests outside a canvas field tent on a forested Ontario claim.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Flow-Through",
+    "Gold"
+   ],
+   "tickers": [
+    "CSE:ASHL"
+   ],
+   "image": "https://www.cmbulletin.com/images/ashley-gold-wraps-up-a-c-2-08-million-flow-through-financing-in-two.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Ashley Gold Corp. Announces Final Closing Of Flow-Through And Non-Flow-Through Private Placement",
+     "url": "https://thenewswire.com/press-releases/1LpMFY4w9-ashley-gold-corp-announces-final-closing-of-flow-through-and-non-flow-through-private-placement.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "CEO Darcy Christian's characterization of this as 'the largest financing in the Company's history' rests solely on the company's own statement."
+   ],
+   "brief": [
+    "Ashley Gold Corp., a Canadian gold and polymetallic explorer, has closed the second and final tranche of a non-brokered private placement, raising additional gross proceeds of C$631,275. Combined with the first tranche, which closed October 19, 2026, the offering's aggregate gross proceeds reached C$2,077,461.49. The offering remains subject to final acceptance by the Canadian Securities Exchange.",
+    "The final tranche comprised 6,635,000 non-flow-through units at C$0.065 and 2,500,000 flow-through units at C$0.08. Each non-flow-through unit carries one share and half a warrant exercisable at C$0.12 for 24 months; each flow-through unit carries one flow-through share and half a warrant exercisable at C$0.15 for 24 months. The company paid finder's fees of C$45,042 and issued 652,800 finder warrants.",
+    "The securities carry a statutory hold expiring March 1, 2027, and the company had 129,888,470 shares outstanding following the close."
+   ],
+   "body": [
+    "Ashley Gold Corp., a Canadian mineral exploration company focused on gold and polymetallic deposits, has closed the second and final tranche of a non-brokered private placement. The tranche raised additional gross proceeds of C$631,275, taking the offering's aggregate gross proceeds, combined with a first tranche that closed October 19, 2026, to C$2,077,461.49. The release states the offering remains subject to final acceptance by the Canadian Securities Exchange.",
+    "The final tranche was split between two unit types. The company issued 6,635,000 non-flow-through units at C$0.065 per unit, for gross proceeds of C$431,275, and 2,500,000 flow-through units at C$0.08 per unit, for gross proceeds of C$200,000. Flow-through units carry tax deductions the company renounces to the subscriber; non-flow-through units do not.",
+    "Each non-flow-through unit consists of one common share and one-half of a warrant, with each whole warrant exercisable at C$0.12 for 24 months. Each flow-through unit consists of one flow-through common share and one-half of a warrant, with each whole warrant exercisable at C$0.15 for 24 months.",
+    "The company paid aggregate cash finder's fees of C$45,042 and issued 652,800 non-transferable finder warrants, exercisable between C$0.065 and C$0.08, in connection with the offering. All securities issued in the final tranche are subject to a statutory hold period expiring March 1, 2027.",
+    "Net proceeds from the flow-through portion are earmarked for eligible Canadian exploration expenses that qualify as flow-through mining expenditures, which the company will renounce to subscribers effective December 31, 2026. Chief executive Darcy Christian called the financing the largest in the company's history, citing continued support from new and returning investors.",
+    "Following the close, the company had 129,888,470 common shares outstanding. The release describes the company's flagship assets as 100%-owned claims in the Dryden area of Ontario, plus an optioned Icefield claim package in British Columbia."
+   ]
+  },
+  {
+   "slug": "goliath-resources-raises-c-9-8-million-without-issuing-a-single",
+   "url": "https://www.cmbulletin.com/posts/goliath-resources-raises-c-9-8-million-without-issuing-a-single.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/goliath-resources-raises-c-9-8-million-without-issuing-a-single.json",
+   "date": "2026-10-30T13:13:13Z",
+   "headline": "Goliath Resources raises C$9.8 million without issuing a single warrant",
+   "dek": "The non-brokered flow-through placement, still subject to final TSX Venture Exchange approval, funds exploration at the Golddigger-Surebet gold project in BC's Golden Triangle.",
+   "caption": "A drill rig stands on a forested ridge in British Columbia's Golden Triangle as mist settles over the valley.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Flow-Through",
+    "Gold"
+   ],
+   "tickers": [
+    "TSXV:GOT",
+    "OTCQB:GOTRF"
+   ],
+   "image": "https://www.cmbulletin.com/images/goliath-resources-raises-c-9-8-million-without-issuing-a-single.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Goliath Resources Closes $9,800,000 Non-Brokered",
+     "url": "https://investingnews.com/goliath-resources-closes-9800000-non-brokered/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The CEO's statement that the company holds approximately C$27.5 million in cash heading into 2027 rests solely on the company's own release."
+   ],
+   "brief": [
+    "Goliath Resources Limited, an explorer of precious-metals projects in British Columbia's Golden Triangle, has closed a non-brokered private placement for gross proceeds of C$9,800,000. The company issued 6,057,000 flow-through common shares at C$1.62 each. No warrants were attached, and the company paid no finder's fees or commissions. The offering remains subject to final approval of the TSX Venture Exchange.",
+    "The flow-through shares qualify under Canada's Income Tax Act, which lets subscribers deduct exploration spending the company commits to. Goliath said the proceeds will fund Canadian exploration and flow-through mining expenditures on the project, to be incurred by December 31, 2027 and renounced to subscribers by December 31, 2026. The shares carry a statutory four-month hold expiring March 1, 2027.",
+    "Chief executive Roger Rosmus called the financing \"an insurance policy that further enhances our strong balance sheet,\" adding that it puts the company \"in a stronger position, with ~C$27.5M in cash going into 2027 and our planned exploration drill program.\""
+   ],
+   "body": [
+    "Goliath Resources Limited, an explorer of precious-metals projects in the Golden Triangle of northwestern British Columbia, has closed a non-brokered private placement for gross proceeds of C$9,800,000. The company issued 6,057,000 flow-through common shares at a price of C$1.62 per share. No warrants were attached to the units, and the company paid no finder's fees or commissions in connection with the offering.",
+    "The shares were issued as flow-through shares, which qualify under subsection 66(15) of Canada's Income Tax Act. That designation lets the company renounce the associated tax deductions for qualifying exploration expenditures to the subscribers who bought the shares, rather than claiming those deductions itself — a structure used to attract investors to exploration-stage mining financings.",
+    "Goliath said the funds will go toward Canadian exploration expenses and flow-through mining expenditures on its Golddigger-Surebet Gold Project. The qualifying expenditures must be incurred by December 31, 2027, and the associated tax deductions renounced to subscribers by December 31, 2026.",
+    "The offering remains subject to final acceptance by the TSX Venture Exchange, the release states. The shares issued are subject to a statutory four-month hold period expiring March 1, 2027, under applicable Canadian securities law.",
+    "Chief executive Roger Rosmus said the financing is \"an insurance policy that further enhances our strong balance sheet and puts us in a stronger position, with ~C$27.5M in cash going into 2027 and our planned exploration drill program.\"",
+    "The company describes its projects as sitting in \"high quality geological settings and geopolitical safe jurisdictions amenable to mining in Canada.\" In 2026 it completed a fully funded 48,443-metre drill program on the Golddigger-Surebet project, for which assays are pending on 55 holes, following a 64,364-metre program in 2025."
+   ]
+  },
+  {
+   "slug": "us-offers-audi-tariff-relief-to-keep-its-4-billion-georgia-plant",
+   "url": "https://www.cmbulletin.com/posts/us-offers-audi-tariff-relief-to-keep-its-4-billion-georgia-plant.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/us-offers-audi-tariff-relief-to-keep-its-4-billion-georgia-plant.json",
+   "date": "2026-10-30T13:13:13Z",
+   "headline": "US offers Audi tariff relief to keep its $4-billion Georgia plant",
+   "dek": "Audi wants its 15% tariff on EU imports cut to 7.5%; the Commerce Department is expected to settle near 10% to secure roughly 4,500 jobs.",
+   "caption": "Steel girders rise over an empty construction site at dawn, scaffolding catching the first light.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Trade Policy",
+    "Tariffs",
+    "Automotive",
+    "Manufacturing"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/us-offers-audi-tariff-relief-to-keep-its-4-billion-georgia-plant.png",
+   "source_name": "Reuters (via Kitco)",
+   "sources": [
+    {
+     "title": "US promises tariff relief in talks with Audi on Georgia plant, sources say",
+     "url": "http://www.kitco.com/news/off-the-wire/2026-10-29/us-promises-tariff-relief-talks-audi-georgia-plant-sources-say",
+     "publisher": "Reuters (via Kitco)"
+    }
+   ],
+   "unverified_claims": [
+    "Audi's estimate that tariffs cost it roughly €1.2 billion ($1.4 billion) last year rests solely on the company's own statement.",
+    "The Commerce Department's expected roughly 10% tariff rate is attributed to anonymous sources and has not been confirmed by the agency."
+   ],
+   "brief": [
+    "The Trump administration has promised tariff relief to Audi to help secure the automaker's $4 billion assembly plant in Georgia, two sources briefed on the talks told Reuters. Audi wants the 15% tariff it pays on EU imports cut to 7.5%; the sources said the Commerce Department is expected to agree to around 10% instead.",
+    "The Georgia plant is expected to build 200,000 SUVs a year and create about 4,500 jobs, with construction starting next year and production in the early 2030s. Audi has said tariffs on autos, steel, aluminum and parts cost it roughly €1.2 billion ($1.4 billion) last year, since it imports every vehicle it sells in the US from Europe or Mexico.",
+    "None of the venture-listed names the bulletin tracks under its tariffs and trade theme traded today, so there is no group move to report and no name is given. Audi's chief executive, Gernot Doellner, said only that the decision to build in Georgia followed \"many months of careful planning and intense negotiations.\""
+   ],
+   "body": [
+    "The Trump administration has promised tariff relief to Audi to help secure the automaker's $4 billion assembly plant in Georgia, two sources briefed on the discussions told Reuters. The sources said US officials told Audi executives the government plans to offer a broader tariff relief program for automakers making significant investments in US production.",
+    "Audi has pushed Washington to cut the 15% tariff it currently pays on vehicles imported from the European Union to 7.5%. The sources said the Commerce Department was expected to agree to a rate of around 10% instead.",
+    "The plant is expected to assemble 200,000 SUVs a year and create approximately 4,500 jobs, according to the reporting. Construction is due to begin next year, with production starting in the early 2030s.",
+    "Audi has said tariffs on autos, steel, aluminum and parts cost it roughly €1.2 billion ($1.4 billion) last year. The company currently imports every vehicle it sells in the US market from factories in Europe or Mexico, which is what exposes it fully to the tariff rate rather than partially.",
+    "Audi chief executive Gernot Doellner said the Georgia investment decision followed \"many months of careful planning and intense negotiations,\" adding, \"If the American president invites you, you accept the invitation.\" The Commerce Department did not immediately comment, and Audi declined comment on the tariff discussions.",
+    "The reporting cites two anonymous sources for the substance of the talks, plus Doellner's own public statement and earlier reporting from the Wall Street Journal. Neither Audi nor the Commerce Department has confirmed the specific 10% figure the sources attribute to the department.",
+    "None of the venture-listed names the bulletin tracks under its tariffs and trade theme traded today. With no trading to measure, there is no group move to report, and the bulletin names none of them — a thin day for the theme, not a judgment on it."
+   ]
+  },
+  {
+   "slug": "sk-hynix-and-samsung-tumble-as-intel-s-weak-outlook-spooks-chip",
+   "url": "https://www.cmbulletin.com/posts/sk-hynix-and-samsung-tumble-as-intel-s-weak-outlook-spooks-chip.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/sk-hynix-and-samsung-tumble-as-intel-s-weak-outlook-spooks-chip.json",
+   "date": "2026-10-30T13:13:13Z",
+   "headline": "SK Hynix and Samsung tumble as Intel's weak outlook spooks chip investors",
+   "dek": "Disappointing US earnings from Intel, Amazon and Alphabet triggered a broad selloff in Asian chipmakers and tech suppliers on Friday.",
+   "caption": "Rows of idle processors glow faintly under blue overhead light in an empty semiconductor cleanroom.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Technology",
+    "Semiconductors",
+    "Markets",
+    "Earnings"
+   ],
+   "tickers": [
+    "TSXV:SPRQ",
+    "TSXV:YTY"
+   ],
+   "image": "https://www.cmbulletin.com/images/sk-hynix-and-samsung-tumble-as-intel-s-weak-outlook-spooks-chip.png",
+   "source_name": "Investing.com",
+   "sources": [
+    {
+     "title": "Asian tech stocks slump as AI rout deepens on disappointing U.S. earnings",
+     "url": "https://www.investing.com/news/stock-market-news/asian-tech-stocks-slump-as-ai-rout-deepens-on-disappointing-us-earnings-4985778",
+     "publisher": "Investing.com"
+    },
+    {
+     "title": "Big tech earnings stoke fresh unease across Asian chip stocks",
+     "url": "https://financialpost.com/investing/big-tech-earnings-fresh-unease-asian-chip-stocks",
+     "publisher": "Financial Post"
+    },
+    {
+     "title": "SPARQ SYSTEMS INC (TSXV: SPRQ) quote, +4.17% on about $71,641",
+     "url": "https://finance.yahoo.com/quote/SPRQ.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "WI2WI CORPORATION (TSXV: YTY) quote, +0.00% on about $62,475",
+     "url": "https://finance.yahoo.com/quote/YTY.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Chip and technology-supplier stocks fell sharply across Asia on Friday after disappointing quarterly results from three of the biggest US technology companies. South Korea's SK Hynix fell 8.3% and Samsung Electronics 5.9%; Japan's Murata Manufacturing dropped 11% and Advantest 5.8%; Taiwan Semiconductor Manufacturing Co. slipped 1.8%, according to Investing.com.",
+    "The selloff followed Intel's over 20% plunge after it gave weak fourth-quarter guidance, citing rising component costs and softer consumer demand in its PC business. Amazon missed both revenue and profit estimates with deteriorating cash flow, while Alphabet's results earlier in the week had already raised doubts over returns on artificial-intelligence spending.",
+    "On the TSX Venture board, two of the three listed venture names in the bulletin's semiconductor theme traded today: Sparq Systems rose 4.17% to C$1, and Wi2Wi Corporation was unchanged at C$0.125. The group's median move was +2.08%, against -1.47% for the S&P/TSX Venture Composite — a coincidence of timing, not a connection the record supports."
+   ],
+   "body": [
+    "Technology and chip-supplier stocks fell heavily across Asian markets on Friday, with South Korea's chip heavyweights among the hardest hit. Samsung Electronics fell 5.9% and SK Hynix 8.3%. In Japan, Murata Manufacturing dropped 11%, Advantest fell 5.8%, Tokyo Electron fell more than 5%, and SoftBank Group fell nearly 7%. Taiwan's TSMC slipped 1.8% and Foxconn 3%, according to Investing.com.",
+    "The selloff followed an over 20% plunge in Intel's share price after the company gave weak fourth-quarter guidance. Intel cited rising component costs and softer consumer demand weighing on its personal-computer business.",
+    "Amazon added to the pressure after missing both revenue and profit estimates for its most recent quarter, with the company's cash flow deteriorating further. Alphabet's results earlier in the week had already unsettled investors, raising questions about the returns big technology companies are getting on their artificial-intelligence spending.",
+    "Investing.com reported that the moves reflect mounting doubts that the money being poured into AI infrastructure will be profitable in the long term, prompting a rotation out of high-valuation technology names and into more defensive sectors of the market.",
+    "Japanese equities faced an added source of pressure: the Bank of Japan signalled it may raise interest rates further and said it would increase its sales of exchange-traded funds, both of which weighed directly on Tokyo-listed shares.",
+    "On the TSX Venture Exchange, the bulletin tracks three listed venture names under a semiconductor theme. Two traded today, one higher and none lower, for a median move of +2.08% against a decline of 1.47% for the S&P/TSX Venture Composite — a spread of 3.55 percentage points.",
+    "Sparq Systems Inc. (TSXV: SPRQ), whose sector label is Electrical Equipment & Parts, rose 4.17% to C$1 on roughly C$71,641 of dollar volume. Wi2Wi Corporation (TSXV: YTY), whose sector label is Communication Equipment, was unchanged at C$0.125 on roughly C$62,475 of dollar volume. Both moves fell on the same day as the Asian chip selloff; nothing in the record connects one to the other."
+   ]
+  },
   {
    "slug": "first-lithium-minerals-raises-1-44-million-across-a-life-offering-and",
    "url": "https://www.cmbulletin.com/posts/first-lithium-minerals-raises-1-44-million-across-a-life-offering-and.html",

@@ -1,0 +1,66 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-30T13:31:58Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "sk-hynix-and-samsung-tumble-as-intel-s-weak-outlook-spooks-chip",
+ "url": "https://www.cmbulletin.com/posts/sk-hynix-and-samsung-tumble-as-intel-s-weak-outlook-spooks-chip.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/sk-hynix-and-samsung-tumble-as-intel-s-weak-outlook-spooks-chip.json",
+ "date": "2026-10-30T13:13:13Z",
+ "headline": "SK Hynix and Samsung tumble as Intel's weak outlook spooks chip investors",
+ "dek": "Disappointing US earnings from Intel, Amazon and Alphabet triggered a broad selloff in Asian chipmakers and tech suppliers on Friday.",
+ "caption": "Rows of idle processors glow faintly under blue overhead light in an empty semiconductor cleanroom.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Technology",
+  "Semiconductors",
+  "Markets",
+  "Earnings"
+ ],
+ "tickers": [
+  "TSXV:SPRQ",
+  "TSXV:YTY"
+ ],
+ "image": "https://www.cmbulletin.com/images/sk-hynix-and-samsung-tumble-as-intel-s-weak-outlook-spooks-chip.png",
+ "source_name": "Investing.com",
+ "sources": [
+  {
+   "title": "Asian tech stocks slump as AI rout deepens on disappointing U.S. earnings",
+   "url": "https://www.investing.com/news/stock-market-news/asian-tech-stocks-slump-as-ai-rout-deepens-on-disappointing-us-earnings-4985778",
+   "publisher": "Investing.com"
+  },
+  {
+   "title": "Big tech earnings stoke fresh unease across Asian chip stocks",
+   "url": "https://financialpost.com/investing/big-tech-earnings-fresh-unease-asian-chip-stocks",
+   "publisher": "Financial Post"
+  },
+  {
+   "title": "SPARQ SYSTEMS INC (TSXV: SPRQ) quote, +4.17% on about $71,641",
+   "url": "https://finance.yahoo.com/quote/SPRQ.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "WI2WI CORPORATION (TSXV: YTY) quote, +0.00% on about $62,475",
+   "url": "https://finance.yahoo.com/quote/YTY.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [],
+ "brief": [
+  "Chip and technology-supplier stocks fell sharply across Asia on Friday after disappointing quarterly results from three of the biggest US technology companies. South Korea's SK Hynix fell 8.3% and Samsung Electronics 5.9%; Japan's Murata Manufacturing dropped 11% and Advantest 5.8%; Taiwan Semiconductor Manufacturing Co. slipped 1.8%, according to Investing.com.",
+  "The selloff followed Intel's over 20% plunge after it gave weak fourth-quarter guidance, citing rising component costs and softer consumer demand in its PC business. Amazon missed both revenue and profit estimates with deteriorating cash flow, while Alphabet's results earlier in the week had already raised doubts over returns on artificial-intelligence spending.",
+  "On the TSX Venture board, two of the three listed venture names in the bulletin's semiconductor theme traded today: Sparq Systems rose 4.17% to C$1, and Wi2Wi Corporation was unchanged at C$0.125. The group's median move was +2.08%, against -1.47% for the S&P/TSX Venture Composite — a coincidence of timing, not a connection the record supports."
+ ],
+ "body": [
+  "Technology and chip-supplier stocks fell heavily across Asian markets on Friday, with South Korea's chip heavyweights among the hardest hit. Samsung Electronics fell 5.9% and SK Hynix 8.3%. In Japan, Murata Manufacturing dropped 11%, Advantest fell 5.8%, Tokyo Electron fell more than 5%, and SoftBank Group fell nearly 7%. Taiwan's TSMC slipped 1.8% and Foxconn 3%, according to Investing.com.",
+  "The selloff followed an over 20% plunge in Intel's share price after the company gave weak fourth-quarter guidance. Intel cited rising component costs and softer consumer demand weighing on its personal-computer business.",
+  "Amazon added to the pressure after missing both revenue and profit estimates for its most recent quarter, with the company's cash flow deteriorating further. Alphabet's results earlier in the week had already unsettled investors, raising questions about the returns big technology companies are getting on their artificial-intelligence spending.",
+  "Investing.com reported that the moves reflect mounting doubts that the money being poured into AI infrastructure will be profitable in the long term, prompting a rotation out of high-valuation technology names and into more defensive sectors of the market.",
+  "Japanese equities faced an added source of pressure: the Bank of Japan signalled it may raise interest rates further and said it would increase its sales of exchange-traded funds, both of which weighed directly on Tokyo-listed shares.",
+  "On the TSX Venture Exchange, the bulletin tracks three listed venture names under a semiconductor theme. Two traded today, one higher and none lower, for a median move of +2.08% against a decline of 1.47% for the S&P/TSX Venture Composite — a spread of 3.55 percentage points.",
+  "Sparq Systems Inc. (TSXV: SPRQ), whose sector label is Electrical Equipment & Parts, rose 4.17% to C$1 on roughly C$71,641 of dollar volume. Wi2Wi Corporation (TSXV: YTY), whose sector label is Communication Equipment, was unchanged at C$0.125 on roughly C$62,475 of dollar volume. Both moves fell on the same day as the Asian chip selloff; nothing in the record connects one to the other."
+ ]
+}

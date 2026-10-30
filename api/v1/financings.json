@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-10-30T13:02:55Z",
+ "generated_at": "2026-10-30T13:31:58Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 55,
+ "count": 57,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -42,6 +42,42 @@
    "warrant_expiry": "2028-11-04",
    "hold_expiry": "2027-03-05",
    "entry_url": "https://www.cmbulletin.com/posts/lighthouse-gold-upsizes-private-placement-to-6-45-million.html"
+  },
+  {
+   "company": "Ashley Gold Corp.",
+   "ticker": "CSE:ASHL",
+   "type": "Non-brokered private placement, flow-through and non-flow-through units (second and final tranche)",
+   "currency": "C$",
+   "closed": "2026-10-30",
+   "agent": "",
+   "hold_period": true,
+   "note": "Figure is the offering's aggregate across two tranches; the second and final tranche alone raised C$631,275 (6,635,000 non-flow-through units at C$0.065 with warrants at C$0.12, and 2,500,000 flow-through units at C$0.08 with warrants at C$0.15). First tranche closed October 19, 2026. Offering remains subject to final CSE acceptance.",
+   "gross": 2077461.49,
+   "units": 9135000.0,
+   "price": null,
+   "warrant_strike": null,
+   "warrant_months": 24.0,
+   "warrant_expiry": "2028-10-30",
+   "hold_expiry": "2027-02-28",
+   "entry_url": "https://www.cmbulletin.com/posts/ashley-gold-wraps-up-a-c-2-08-million-flow-through-financing-in-two.html"
+  },
+  {
+   "company": "Goliath Resources Limited",
+   "ticker": "TSXV:GOT",
+   "type": "Non-brokered private placement (flow-through shares)",
+   "currency": "C$",
+   "closed": "2026-10-30",
+   "agent": "",
+   "hold_period": true,
+   "note": "No warrants were issued and no finder's fees or commissions were paid; the offering remains subject to final TSX Venture Exchange approval.",
+   "gross": 9800000.0,
+   "units": 6057000.0,
+   "price": 1.62,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": "2027-02-28",
+   "entry_url": "https://www.cmbulletin.com/posts/goliath-resources-raises-c-9-8-million-without-issuing-a-single.html"
   },
   {
    "company": "First Lithium Minerals Corp.",

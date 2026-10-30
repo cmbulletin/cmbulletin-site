@@ -1,0 +1,51 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-30T13:31:58Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "ashley-gold-wraps-up-a-c-2-08-million-flow-through-financing-in-two",
+ "url": "https://www.cmbulletin.com/posts/ashley-gold-wraps-up-a-c-2-08-million-flow-through-financing-in-two.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/ashley-gold-wraps-up-a-c-2-08-million-flow-through-financing-in-two.json",
+ "date": "2026-10-30T13:13:13Z",
+ "headline": "Ashley Gold closes C$2.08-million private placement in two tranches",
+ "dek": "The final tranche raised C$631,275 at 6.5 and 8 cents a unit, pending Canadian Securities Exchange acceptance of the full offering.",
+ "caption": "A line of core-sample boxes rests outside a canvas field tent on a forested Ontario claim.",
+ "sections": [
+  "mining"
+ ],
+ "tags": [
+  "Mining",
+  "Financing",
+  "Flow-Through",
+  "Gold"
+ ],
+ "tickers": [
+  "CSE:ASHL"
+ ],
+ "image": "https://www.cmbulletin.com/images/ashley-gold-wraps-up-a-c-2-08-million-flow-through-financing-in-two.png",
+ "source_name": "TheNewswire.ca",
+ "sources": [
+  {
+   "title": "Ashley Gold Corp. Announces Final Closing Of Flow-Through And Non-Flow-Through Private Placement",
+   "url": "https://thenewswire.com/press-releases/1LpMFY4w9-ashley-gold-corp-announces-final-closing-of-flow-through-and-non-flow-through-private-placement.html",
+   "publisher": "TheNewswire.ca"
+  }
+ ],
+ "unverified_claims": [
+  "CEO Darcy Christian's characterization of this as 'the largest financing in the Company's history' rests solely on the company's own statement."
+ ],
+ "brief": [
+  "Ashley Gold Corp., a Canadian gold and polymetallic explorer, has closed the second and final tranche of a non-brokered private placement, raising additional gross proceeds of C$631,275. Combined with the first tranche, which closed October 19, 2026, the offering's aggregate gross proceeds reached C$2,077,461.49. The offering remains subject to final acceptance by the Canadian Securities Exchange.",
+  "The final tranche comprised 6,635,000 non-flow-through units at C$0.065 and 2,500,000 flow-through units at C$0.08. Each non-flow-through unit carries one share and half a warrant exercisable at C$0.12 for 24 months; each flow-through unit carries one flow-through share and half a warrant exercisable at C$0.15 for 24 months. The company paid finder's fees of C$45,042 and issued 652,800 finder warrants.",
+  "The securities carry a statutory hold expiring March 1, 2027, and the company had 129,888,470 shares outstanding following the close."
+ ],
+ "body": [
+  "Ashley Gold Corp., a Canadian mineral exploration company focused on gold and polymetallic deposits, has closed the second and final tranche of a non-brokered private placement. The tranche raised additional gross proceeds of C$631,275, taking the offering's aggregate gross proceeds, combined with a first tranche that closed October 19, 2026, to C$2,077,461.49. The release states the offering remains subject to final acceptance by the Canadian Securities Exchange.",
+  "The final tranche was split between two unit types. The company issued 6,635,000 non-flow-through units at C$0.065 per unit, for gross proceeds of C$431,275, and 2,500,000 flow-through units at C$0.08 per unit, for gross proceeds of C$200,000. Flow-through units carry tax deductions the company renounces to the subscriber; non-flow-through units do not.",
+  "Each non-flow-through unit consists of one common share and one-half of a warrant, with each whole warrant exercisable at C$0.12 for 24 months. Each flow-through unit consists of one flow-through common share and one-half of a warrant, with each whole warrant exercisable at C$0.15 for 24 months.",
+  "The company paid aggregate cash finder's fees of C$45,042 and issued 652,800 non-transferable finder warrants, exercisable between C$0.065 and C$0.08, in connection with the offering. All securities issued in the final tranche are subject to a statutory hold period expiring March 1, 2027.",
+  "Net proceeds from the flow-through portion are earmarked for eligible Canadian exploration expenses that qualify as flow-through mining expenditures, which the company will renounce to subscribers effective December 31, 2026. Chief executive Darcy Christian called the financing the largest in the company's history, citing continued support from new and returning investors.",
+  "Following the close, the company had 129,888,470 common shares outstanding. The release describes the company's flagship assets as 100%-owned claims in the Dryden area of Ontario, plus an optioned Icefield claim package in British Columbia."
+ ]
+}
