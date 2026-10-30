@@ -1,223 +1,109 @@
 {
  "api": "v1",
- "generated_at": "2026-10-29T22:15:29Z",
+ "generated_at": "2026-10-30T13:02:55Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-29",
- "count": 4,
+ "issue_date": "2026-10-30",
+ "count": 2,
  "entries": [
   {
-   "slug": "doordash-offers-65-a-share-valuing-instacart-at-about-17-billion",
-   "url": "https://www.cmbulletin.com/posts/doordash-offers-65-a-share-valuing-instacart-at-about-17-billion.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/doordash-offers-65-a-share-valuing-instacart-at-about-17-billion.json",
-   "date": "2026-10-29T22:00:20Z",
-   "headline": "DoorDash offers $65 a share, valuing Instacart at about $17 billion",
-   "dek": "The cash-and-stock bid is a 26% premium to Instacart's October 22 closing price, with the deal targeted to close by the end of 2027 or the first half of 2028.",
-   "caption": "A grocery delivery bag sits on an empty loading dock at dusk, crates of produce stacked nearby.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "M&A",
-    "Grocery Delivery",
-    "Technology"
-   ],
-   "tickers": [
-    "NASDAQ:DASH"
-   ],
-   "image": "https://www.cmbulletin.com/images/doordash-offers-65-a-share-valuing-instacart-at-about-17-billion.png",
-   "source_name": "DoorDash, Inc. (SEC Form 8-K, Exhibit 99.1)",
-   "sources": [
-    {
-     "title": "DoorDash to Acquire Instacart",
-     "url": "https://www.sec.gov/Archives/edgar/data/0001792789/000179278926000062/proddashex991-pressrelease.htm",
-     "publisher": "DoorDash, Inc. (SEC Form 8-K, Exhibit 99.1)"
-    }
-   ],
-   "unverified_claims": [
-    "DoorDash's projection of more than $500 million in annual synergies within several years of closing is the company's own estimate.",
-    "The expected closing timeline of late 2027 or the first half of 2028 is the companies' own target and subject to change."
-   ],
-   "brief": [
-    "DoorDash has agreed to acquire Instacart, operated by Maplebear Inc., in a deal valuing the grocery-delivery company at about $17 billion. Instacart shareholders can choose $65.00 in cash per share, 0.3372 of a DoorDash share, or a mix of $48.75 cash plus 0.0843 of a DoorDash share for each share they hold.",
-    "Instacart's board approved the deal unanimously, and holders of about 19% of its shares have agreed to vote for it. DoorDash will fund the cash portion from cash on hand and debt, including a 364-day bridge loan from JPMorgan Chase, with closing targeted for the end of 2027 or the first half of 2028, subject to shareholder and antitrust approval.",
-    "On the venture boards, the agriculture and food theme comprises 16 listed names; seven traded today, two higher and two lower, for a median move of +0.00% against -1.47% for the S&P/TSX Venture Composite. No name traded enough volume to clear the board's liquidity floor, so none is named here."
-   ],
-   "body": [
-    "DoorDash has agreed to acquire Instacart, which operates under the legal name Maplebear Inc., in a deal that values the grocery-delivery company at approximately $17 billion. Instacart shareholders will be able to elect one of three forms of consideration for each share held: $65.00 in cash, 0.3372 of a DoorDash share, or a combination of $48.75 in cash and 0.0843 of a DoorDash share. The stock portion of the total consideration is capped at 25% of the deal's aggregate value, with proration mechanics built in should stock elections be oversubscribed.",
-    "The per-share price represents a 26% premium to Instacart's closing stock price on October 22, 2026, according to the companies' release. Instacart's board of directors unanimously approved the transaction, and shareholders holding approximately 19% of the company's outstanding shares have already agreed to vote in favour of the deal.",
-    "DoorDash said it intends to fund the cash portion of the deal using cash on hand together with proceeds from new debt, and has arranged a 364-day bridge loan facility from JPMorgan Chase. The company said the transaction carries no financing condition and that it is targeting investment-grade credit ratings. DoorDash said the combination is expected to generate more than $500 million in annual synergies within several years of closing.",
-    "Completion is expected by the end of 2027 or in the first half of 2028. The deal still requires Instacart shareholder approval, clearance under the Hart-Scott-Rodino antitrust act in the United States, and regulatory approvals in Canada and Israel, along with other customary closing conditions.",
-    "On the venture boards, the agriculture and food theme comprises 16 listed venture names. Seven traded today, two higher and two lower, for a median move of +0.00% against a decline of -1.47% for the S&P/TSX Venture Composite — a spread of 1.47 percentage points on the day.",
-    "None of the theme's names traded in enough volume today to clear the board's liquidity floor of C$25,000 in day volume, so no individual name is reported here. The DoorDash-Instacart deal and the day's moves in the theme fall on the same trading day; nothing in either release connects one to the other."
-   ]
-  },
-  {
-   "slug": "teck-resources-profit-jumps-to-1-59-billion-on-copper-zinc-prices",
-   "url": "https://www.cmbulletin.com/posts/teck-resources-profit-jumps-to-1-59-billion-on-copper-zinc-prices.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/teck-resources-profit-jumps-to-1-59-billion-on-copper-zinc-prices.json",
-   "date": "2026-10-29T22:00:20Z",
-   "headline": "Teck Resources' profit jumps to $1.59 billion on copper, zinc prices",
-   "dek": "The gain from $281 million a year earlier comes as a steelworkers' strike cuts output at the company's Highland Valley Copper mine.",
-   "caption": "Haul trucks work the terraced benches of an open-pit mine as haze rises at first light.",
-   "sections": [
-    "mining"
-   ],
-   "tags": [
-    "Mining",
-    "Earnings",
-    "Copper"
-   ],
-   "tickers": [
-    "TSX:TECK.B",
-    "TSXV:XXIX",
-    "TSXV:CCMM",
-    "CSE:CCI",
-    "TSXV:CGNT",
-    "CSE:CUPR"
-   ],
-   "image": "https://www.cmbulletin.com/images/teck-resources-profit-jumps-to-1-59-billion-on-copper-zinc-prices.png",
-   "source_name": "Globe and Mail — Business",
-   "sources": [
-    {
-     "title": "Teck Resources’ third-quarter profit jumps on higher copper and zinc prices",
-     "url": "https://www.theglobeandmail.com/business/article-teck-resources-third-quarter-results-copper-and-zinc-prices/",
-     "publisher": "Globe and Mail — Business"
-    },
-    {
-     "title": "XXIX METAL CORP (TSXV: XXIX) quote, -10.34% on about $117,230",
-     "url": "https://finance.yahoo.com/quote/XXIX.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "COYOTE COPPER MINES INC (TSXV: CCMM) quote, -8.33% on about $61,309",
-     "url": "https://finance.yahoo.com/quote/CCMM.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "Canadian Copper Inc. (CSE: CCI) quote, +5.77% on about $56,562",
-     "url": "https://finance.yahoo.com/quote/CCI.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "COPPER GIANT RESOURCES CORP (TSXV: CGNT) quote, -5.00% on about $480,378",
-     "url": "https://finance.yahoo.com/quote/CGNT.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "Super Copper Corp. (CSE: CUPR) quote, +4.44% on about $64,860",
-     "url": "https://finance.yahoo.com/quote/CUPR.CN",
-     "publisher": "Yahoo Finance"
-    }
-   ],
-   "unverified_claims": [
-    "Teck's own statement that the impact of the Highland Valley Copper strike on production will depend on its duration is the company's characterization and has not been independently verified."
-   ],
-   "brief": [
-    "Teck Resources reported third-quarter profit attributable to shareholders of $1.59 billion, or $3.24 per diluted share, up from $281 million, or 57 cents per diluted share, a year earlier. Adjusted profit was $1.88 per diluted share against 76 cents adjusted a year earlier. Revenue rose to $4.52 billion from $3.39 billion.",
-    "The company attributed the stronger results to higher copper and zinc prices. Separately, about 1,200 United Steelworkers members began a strike at Teck's Highland Valley Copper mine near Logan Lake, B.C., over the weekend. The mine is continuing to operate at reduced capacity, and the company said the impact on production will depend on the duration of the job action.",
-    "On the venture boards, the copper theme comprises 55 listed names; 39 traded today, 7 higher and 22 lower, for a median move of -1.20% against -1.47% for the S&P/TSX Venture Composite. Xxix Metal fell 10.34% to $0.13 and Coyote Copper Mines fell 8.33% to $0.33, while Canadian Copper rose 5.77% to $0.55."
-   ],
-   "body": [
-    "Teck Resources reported third-quarter profit attributable to shareholders of $1.59 billion, or $3.24 per diluted share, compared with $281 million, or 57 cents per diluted share, in the same quarter of 2025. On an adjusted basis, the company reported $1.88 per diluted share, against 76 cents adjusted a year earlier. Revenue for the quarter rose to $4.52 billion from $3.39 billion a year earlier.",
-    "The company attributed the improvement in both revenue and profit to higher prices for copper and zinc, though it did not disclose specific average realized prices for either metal. Teck's shares, which trade on the Toronto Stock Exchange under the symbol TECK-B, were quoted at $89.22, up 1.27%, as of the article's publication.",
-    "Separately, approximately 1,200 members of the United Steelworkers began a strike at Teck's Highland Valley Copper mine, near Logan Lake, British Columbia, over the weekend. The mine is continuing to operate at reduced capacity during the job action. Teck said the impact of the strike on production will depend on how long it lasts, without giving a specific production estimate or timeline for resolution.",
-    "On the venture boards, the copper theme comprises 55 listed venture names. Thirty-nine traded today, seven higher and 22 lower, for a median move of -1.20% against a decline of -1.47% for the S&P/TSX Venture Composite — a spread of 0.27 percentage points on the day.",
-    "Among names that cleared the board's liquidity floor, Xxix Metal Corp, in the theme on its sector label of Copper, fell 10.34% to $0.13; Coyote Copper Mines, whose registered name contains the word copper, fell 8.33% to $0.33; Canadian Copper, also named for the metal, rose 5.77% to $0.55; Copper Giant Resources fell 5.00% to $0.95; and Super Copper rose 4.44% to $0.47.",
-    "Teck's results and the day's moves among the venture copper names fall on the same trading day. Nothing in either disclosure connects one to the other."
-   ]
-  },
-  {
-   "slug": "aeon-strategies-crypto-audit-delay-pushes-its-filing-to-december-31",
-   "url": "https://www.cmbulletin.com/posts/aeon-strategies-crypto-audit-delay-pushes-its-filing-to-december-31.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/aeon-strategies-crypto-audit-delay-pushes-its-filing-to-december-31.json",
-   "date": "2026-10-29T13:24:23Z",
-   "headline": "Aeon Strategies' crypto audit delay pushes its filing to December 31",
-   "dek": "The CSE-listed company has applied for a management cease-trade order to avoid a broader halt while its auditor works through complex crypto-related holdings.",
-   "caption": "An empty boardroom table stands ready for a filing deadline running later than planned.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "Regulatory",
-    "Disclosure",
-    "Crypto"
-   ],
-   "tickers": [
-    "CSE:AEON"
-   ],
-   "image": "https://www.cmbulletin.com/images/aeon-strategies-crypto-audit-delay-pushes-its-filing-to-december-31.png",
-   "source_name": "TheNewswire.ca",
-   "sources": [
-    {
-     "title": "AEON STRATEGIES LTD. Provides Update on Anticipated Late Filing of Annual Financial Statements",
-     "url": "https://thenewswire.com/press-releases/1kx7FnK1E-aeon-strategies-ltd-provides-update-on-anticipated-late-filing-of-annual-financial-statements.html",
-     "publisher": "TheNewswire.ca"
-    }
-   ],
-   "unverified_claims": [
-    "The reasons given for the delay — auditor availability and the complexity of auditing crypto-related investments — rest on the company's and its auditor's own account.",
-    "The company's statement that it will apply for, and expects to receive, a management cease trade order is a statement of intent, not a granted order."
-   ],
-   "brief": [
-    "Aeon Strategies Ltd. (CSE: AEON), formerly Cloud3 Ventures Inc., said its auditor now expects to complete its annual financial statements by December 31, 2026 — later than the December 4 deadline the company had previously flagged. Davidson & Company LLP cited limited availability and the added time needed for the company's crypto-related investments.",
-    "To avoid a general trading halt, Aeon has applied for a management cease trade order, which would bar its CEO and CFO from trading the company's shares until the filings are complete — rather than freezing trading for all shareholders. If regulators do not grant it, a general cease trade order covering all trading remains possible.",
-    "Until the annual filings are submitted, Aeon must issue a default status report every two weeks, under National Policy 12-203. The company's auditor is reviewing financial statements for the year ended June 30, 2026."
-   ],
-   "body": [
-    "Aeon Strategies Ltd. (CSE: AEON, OTCQB: CLDVF, FSE: WQ40), formerly known as Cloud3 Ventures Inc., has updated its timeline for filing annual financial statements for the year ended June 30, 2026. The company now expects to file its audited annual filings, management's discussion and analysis and the related CEO and CFO certifications on or before December 31, 2026 — nearly a month later than the December 4, 2026 date it had previously disclosed.",
-    "The company's auditor, Davidson & Company LLP, told Aeon that the delay is due to two factors: limited availability on the auditor's side, and the additional time required to complete audit procedures relating to the company's crypto-related investments, which the release says are more complex to audit than in prior years.",
-    "To manage the consequences of the late filing, Aeon has applied to its principal regulator for a management cease trade order. If granted, an MCTO would prohibit only the company's chief executive officer and chief financial officer from trading in Aeon's securities until the annual filings are submitted — leaving ordinary shareholders free to continue trading.",
-    "The release states that if the management cease trade order is not granted, securities regulators may instead issue a general cease trade order prohibiting all trading in Aeon's securities, a broader measure that would affect every shareholder rather than only its two senior officers.",
-    "Until the annual filings are complete, Aeon is required to issue a default status report every two weeks by news release, under the continuous disclosure provisions of National Policy 12-203 covering defaulting reporting issuers.",
-    "For investors, the distinction matters: an MCTO limits only who can trade, not whether the stock keeps trading at all, while a general cease trade order would stop every shareholder from buying or selling until the annual filings catch up. Aeon's application for the narrower order is still pending regulatory approval."
-   ]
-  },
-  {
-   "slug": "steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise",
-   "url": "https://www.cmbulletin.com/posts/steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise.json",
-   "date": "2026-10-29T12:45:42Z",
-   "headline": "Steadright's insiders are expected to buy most of the second tranche",
-   "dek": "Insiders already took 1,100,000 units of Steadright's first tranche at $0.10, and the company expects them to take most of the rest.",
-   "caption": "Mineral exploration in arid, mountainous terrain often requires extended logistics and permitting timelines.",
+   "slug": "first-lithium-minerals-raises-1-44-million-across-a-life-offering-and",
+   "url": "https://www.cmbulletin.com/posts/first-lithium-minerals-raises-1-44-million-across-a-life-offering-and.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/first-lithium-minerals-raises-1-44-million-across-a-life-offering-and.json",
+   "date": "2026-10-30T12:43:15Z",
+   "headline": "First Lithium Minerals raises $1.44 million across a LIFE offering and placement",
+   "dek": "The financing combined a Listed Issuer Financing Exemption offering with a private placement, pricing units from 11 to 15 cents to fund exploration in Chile and Ontario.",
+   "caption": "First Lithium Minerals raised $1.44 million combining a LIFE offering and private placement for its Chile and Ontario projects.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
     "Financing",
-    "Critical Minerals"
+    "Lithium"
    ],
    "tickers": [
-    "CSE:SCM"
+    "CSE:FLM",
+    "OTC:FLMCF",
+    "FSE:X28"
    ],
-   "image": "https://www.cmbulletin.com/images/steadright-s-insiders-are-expected-to-buy-most-of-a-900-000-raise.png",
+   "image": "https://www.cmbulletin.com/images/first-lithium-minerals-raises-1-44-million-across-a-life-offering-and.png",
+   "source_name": "Newsfile Corp. (via finanznachrichten.de)",
+   "sources": [
+    {
+     "title": "First Lithium Minerals Announces Closing of Second Tranche of LIFE Offering and Private Placement for Gross Proceeds of $1,442,144",
+     "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69980885-first-lithium-minerals-corp-first-lithium-minerals-announces-closing-of-second-tranche-of-life-offering-and-private-placement-for-gross-proceeds-of-296.htm",
+     "publisher": "Newsfile Corp. (via finanznachrichten.de)"
+    },
+    {
+     "title": "First Lithium Minerals Secures $1.44M in Second Tranche LIFE Offering and Private Placement",
+     "url": "https://kalkinemedia.com/ca/news/announcements/first-lithium-minerals-secures-144m-in-second-tranche-life-offering-and-private-placement",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "First Lithium Minerals' description of its planned use of proceeds for exploration and corporate purposes is the company's own stated intention, not an independently confirmed allocation."
+   ],
+   "brief": [
+    "First Lithium Minerals Corp. (CSE: FLM), which explores for lithium and alkali metals at the Salar de Ascotan in Chile and for gold and critical metals in northwestern Ontario, has closed the second tranche of its Listed Issuer Financing Exemption offering together with a concurrent private placement, raising a combined $1,442,144.",
+    "The LIFE tranche sold non-flow-through units at $0.11 and flow-through units at $0.15 for $597,345; the private placement sold units at $0.11 for $844,840. Every unit carries half a warrant exercisable at $0.18 for three years. The company paid cash finder's fees of $23,908 and $33,387 plus finder's warrants on the two offerings.",
+    "The private placement units carry the standard four-month-and-one-day hold; the LIFE units do not. First Lithium said net proceeds will fund exploration at both projects along with general corporate and working capital purposes."
+   ],
+   "body": [
+    "First Lithium Minerals Corp. (CSE: FLM, OTC Pink: FLMCF, FSE: X28) explores for lithium and other alkali metals at the Salar de Ascotan in northern Chile, and for gold and critical metals at the Lidstone project in northwestern Ontario. The company said on October 29 that it has closed the second tranche of its Listed Issuer Financing Exemption, or LIFE, offering together with a concurrent private placement, for combined gross proceeds of $1,442,144.",
+    "The LIFE tranche raised $597,345 through 2,466,773 non-flow-through units at $0.11 per unit and 2,173,333 flow-through units at $0.15 per unit. A Listed Issuer Financing Exemption lets a company already listed on an exchange sell securities to the public without a prospectus, provided it meets disclosure conditions set by securities regulators.",
+    "The concurrent private placement raised a further $844,840 through 7,680,363 units at $0.11 per unit. Every unit across both offerings — LIFE and private placement alike — carries one-half of a common share purchase warrant, with a whole warrant exercisable at $0.18 per share for three years from closing.",
+    "The private placement units are subject to the standard statutory hold period of four months and one day from closing. The LIFE Offering units, consistent with the exemption's design, carry no such hold and are freely tradeable once issued.",
+    "First Lithium paid cash finder's fees of $23,908 plus 220,542 finder's warrants at $0.11 in connection with the LIFE tranche, and $33,387 in cash plus 337,702 finder's warrants in connection with the private placement.",
+    "The company said net proceeds will go toward exploration activities at its Chile and Ontario projects, along with general corporate purposes and working capital. The release, filed through Newsfile Corp. from Toronto, did not break out how the proceeds will be divided between the two projects."
+   ]
+  },
+  {
+   "slug": "fuse-battery-metals-closes-644-560-private-placement-at-five-cents-a",
+   "url": "https://www.cmbulletin.com/posts/fuse-battery-metals-closes-644-560-private-placement-at-five-cents-a.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/fuse-battery-metals-closes-644-560-private-placement-at-five-cents-a.json",
+   "date": "2026-10-30T12:43:15Z",
+   "headline": "Fuse Battery Metals closes $644,560 private placement at five cents a unit",
+   "dek": "The non-brokered deal priced units at five cents each, with insiders taking part and the financing still subject to TSX Venture Exchange approval.",
+   "caption": "Fuse Battery Metals closed a $644,560 private placement of 12.9 million units priced at five cents each.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Battery Metals"
+   ],
+   "tickers": [
+    "TSXV:FUSE",
+    "OTC:FSBMF",
+    "FRA:43W3"
+   ],
+   "image": "https://www.cmbulletin.com/images/fuse-battery-metals-closes-644-560-private-placement-at-five-cents-a.png",
    "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Steadright Closes First Tranche Of Financing",
-     "url": "https://thenewswire.com/press-releases/1AlpFlJlV-steadright-closes-first-tranche-of-financing.html",
+     "title": "Fuse Battery Closes Non-Brokered Private Placement Financing",
+     "url": "https://thenewswire.com/press-releases/1LaPFKVlX-fuse-battery-closes-non-brokered-private-placement-financing.html",
      "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "The company's expectation that insiders will subscribe for most or all of the remaining units in the second tranche rests on the company's own statement.",
-    "The description of Steadright's Moroccan projects (TitanBeach Titanium Project, Copper Valley Project and the Goundafa Mine MOU) rests on the company's own release boilerplate."
+    "Fuse Battery Metals' stated intention to use proceeds for 'strategic acquisition opportunities' and to 'evaluate potential transactions' is the company's own forward-looking description and not yet a specific transaction."
    ],
    "brief": [
-    "Steadright Critical Minerals Inc. (CSE: SCM), which explores for critical minerals in Morocco, has closed the first tranche of a non-brokered private placement, raising $530,000 at $0.10 per unit. Company insiders subscribed for 1,100,000 of the units in this tranche, at the same price.",
-    "Each unit is one common share and one warrant, exercisable at $0.16 per share for 24 months. The securities carry a four-month-and-one-day hold period. The private placement has been upsized by $100,000 to a total of $900,000, with the second and final tranche expected to close within the week.",
-    "The company said it expects insiders to subscribe for most or all of the remaining units in the second tranche. Steadright paid finder's fees of $18,600 on 3,100,000 of the units, plus a finder's warrant equal to 6% of gross proceeds, and the offering remains subject to CSE approval."
+    "Fuse Battery Metals Inc. (TSXV: FUSE), which holds cobalt properties near Cobalt, Ontario, has closed a non-brokered private placement of 12,891,200 units at $0.05 per unit, raising gross proceeds of $644,560. Each unit comprises one common share and one warrant.",
+    "Each warrant lets the holder buy one additional share at $0.05 for five years from closing. Insiders subscribed for 272,040 of the units, worth $13,602, and the company issued 30,000 common shares at a deemed $0.05 as a finder's fee. The placement still needs final TSX Venture Exchange acceptance.",
+    "All securities are subject to a statutory hold period expiring March 2, 2027. Fuse said it will use the proceeds to pursue strategic acquisition opportunities, evaluate potential transactions, and support ongoing corporate operations, working capital requirements and future business initiatives."
    ],
    "body": [
-    "Steadright Critical Minerals Inc. (CSE: SCM) has closed the first tranche of a non-brokered private placement, raising $530,000 at a price of $0.10 per unit. The closing is the first of two tranches in an offering the company has now upsized to a total of $900,000.",
-    "Company insiders subscribed for 1,100,000 of the units sold in this first tranche, at the same $0.10 price offered to other subscribers. The company said it expects insiders to take up most or all of the units remaining in the second and final tranche, which it expects to close within the next week.",
-    "Each unit sold in the placement consists of one common share and one common share purchase warrant. Each whole warrant entitles its holder to purchase one additional common share at $0.16 for a period of twenty-four months from closing.",
-    "The securities issued in the first tranche are subject to a hold period of four months and one day. The private placement overall was upsized by $100,000 to its current $900,000 total, up to 9,000,000 units in aggregate across both tranches.",
-    "Steadright paid finder's fees of $18,600 on 3,100,000 of the units sold in the first tranche, along with a finder's fee warrant equal to 6% of the gross proceeds. The release does not name the recipient, referring only to \"eligible parties\" under applicable securities laws.",
-    "The company describes itself as a mineral exploration business focused on Morocco's critical mineral space, where it holds exposure through a Moroccan entity, NSM Capital Sarl, to more than 192 square kilometres of claims covering the TitanBeach Titanium Project and the Copper Valley Project, plus a binding memorandum of understanding for the historic Goundafa Mine. Proceeds from the placement are earmarked for general working capital, corporate purposes and potential strategic initiatives, and the offering remains subject to approval from the Canadian Securities Exchange."
+    "Fuse Battery Metals Inc. (TSXV: FUSE, OTC: FSBMF, FRA: 43W3) is a Canadian exploration company focused on metals used in battery manufacturing, including cobalt properties near Cobalt, Ontario. The company said on October 29 that it has closed a non-brokered private placement of 12,891,200 units at $0.05 per unit, for gross proceeds of $644,560.",
+    "Each unit consists of one common share and one common share purchase warrant, with each warrant exercisable at $0.05 per share for five years from closing. Insiders of the company subscribed for 272,040 of the units in the placement, representing gross proceeds of $13,602.",
+    "In connection with the financing, Fuse issued 30,000 common shares at a deemed value of $0.05 per share as a finder's fee. All securities issued under the private placement, including the finder's shares, are subject to a statutory hold period expiring March 2, 2027 under applicable Canadian securities laws.",
+    "The private placement remains subject to final acceptance by the TSX Venture Exchange. Fuse said it intends to use the proceeds to pursue strategic acquisition opportunities, evaluate potential transactions, and support its ongoing corporate operations, working capital requirements and future business initiatives.",
+    "The release noted that more than CAD$25 million has been spent to date — stated in 2020 dollars, inflation-adjusted — on the company's Teledyne Property, one of the cobalt holdings the financing is intended to support alongside the company's other corporate purposes.",
+    "Beyond the financing terms and the brief reference to the Teledyne Property, the release gave no further operational update — no drill results, property description or revised budget — so this entry is limited to what the release discloses."
    ]
   }
  ]

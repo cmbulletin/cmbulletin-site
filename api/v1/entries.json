@@ -1,11 +1,94 @@
 {
  "api": "v1",
- "generated_at": "2026-10-29T22:15:29Z",
+ "generated_at": "2026-10-30T13:02:55Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 105,
+ "count": 107,
  "entries": [
+  {
+   "slug": "first-lithium-minerals-raises-1-44-million-across-a-life-offering-and",
+   "url": "https://www.cmbulletin.com/posts/first-lithium-minerals-raises-1-44-million-across-a-life-offering-and.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/first-lithium-minerals-raises-1-44-million-across-a-life-offering-and.json",
+   "date": "2026-10-30T12:43:15Z",
+   "headline": "First Lithium Minerals raises $1.44 million across a LIFE offering and placement",
+   "dek": "The financing combined a Listed Issuer Financing Exemption offering with a private placement, pricing units from 11 to 15 cents to fund exploration in Chile and Ontario.",
+   "caption": "First Lithium Minerals raised $1.44 million combining a LIFE offering and private placement for its Chile and Ontario projects.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Lithium"
+   ],
+   "tickers": [
+    "CSE:FLM",
+    "OTC:FLMCF",
+    "FSE:X28"
+   ],
+   "image": "https://www.cmbulletin.com/images/first-lithium-minerals-raises-1-44-million-across-a-life-offering-and.png",
+   "source_name": "Newsfile Corp. (via finanznachrichten.de)",
+   "sources": [
+    {
+     "title": "First Lithium Minerals Announces Closing of Second Tranche of LIFE Offering and Private Placement for Gross Proceeds of $1,442,144",
+     "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69980885-first-lithium-minerals-corp-first-lithium-minerals-announces-closing-of-second-tranche-of-life-offering-and-private-placement-for-gross-proceeds-of-296.htm",
+     "publisher": "Newsfile Corp. (via finanznachrichten.de)"
+    },
+    {
+     "title": "First Lithium Minerals Secures $1.44M in Second Tranche LIFE Offering and Private Placement",
+     "url": "https://kalkinemedia.com/ca/news/announcements/first-lithium-minerals-secures-144m-in-second-tranche-life-offering-and-private-placement",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "First Lithium Minerals' description of its planned use of proceeds for exploration and corporate purposes is the company's own stated intention, not an independently confirmed allocation."
+   ],
+   "brief": [
+    "First Lithium Minerals Corp. (CSE: FLM), which explores for lithium and alkali metals at the Salar de Ascotan in Chile and for gold and critical metals in northwestern Ontario, has closed the second tranche of its Listed Issuer Financing Exemption offering together with a concurrent private placement, raising a combined $1,442,144.",
+    "The LIFE tranche sold non-flow-through units at $0.11 and flow-through units at $0.15 for $597,345; the private placement sold units at $0.11 for $844,840. Every unit carries half a warrant exercisable at $0.18 for three years. The company paid cash finder's fees of $23,908 and $33,387 plus finder's warrants on the two offerings.",
+    "The private placement units carry the standard four-month-and-one-day hold; the LIFE units do not. First Lithium said net proceeds will fund exploration at both projects along with general corporate and working capital purposes."
+   ]
+  },
+  {
+   "slug": "fuse-battery-metals-closes-644-560-private-placement-at-five-cents-a",
+   "url": "https://www.cmbulletin.com/posts/fuse-battery-metals-closes-644-560-private-placement-at-five-cents-a.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/fuse-battery-metals-closes-644-560-private-placement-at-five-cents-a.json",
+   "date": "2026-10-30T12:43:15Z",
+   "headline": "Fuse Battery Metals closes $644,560 private placement at five cents a unit",
+   "dek": "The non-brokered deal priced units at five cents each, with insiders taking part and the financing still subject to TSX Venture Exchange approval.",
+   "caption": "Fuse Battery Metals closed a $644,560 private placement of 12.9 million units priced at five cents each.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Battery Metals"
+   ],
+   "tickers": [
+    "TSXV:FUSE",
+    "OTC:FSBMF",
+    "FRA:43W3"
+   ],
+   "image": "https://www.cmbulletin.com/images/fuse-battery-metals-closes-644-560-private-placement-at-five-cents-a.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Fuse Battery Closes Non-Brokered Private Placement Financing",
+     "url": "https://thenewswire.com/press-releases/1LaPFKVlX-fuse-battery-closes-non-brokered-private-placement-financing.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "Fuse Battery Metals' stated intention to use proceeds for 'strategic acquisition opportunities' and to 'evaluate potential transactions' is the company's own forward-looking description and not yet a specific transaction."
+   ],
+   "brief": [
+    "Fuse Battery Metals Inc. (TSXV: FUSE), which holds cobalt properties near Cobalt, Ontario, has closed a non-brokered private placement of 12,891,200 units at $0.05 per unit, raising gross proceeds of $644,560. Each unit comprises one common share and one warrant.",
+    "Each warrant lets the holder buy one additional share at $0.05 for five years from closing. Insiders subscribed for 272,040 of the units, worth $13,602, and the company issued 30,000 common shares at a deemed $0.05 as a finder's fee. The placement still needs final TSX Venture Exchange acceptance.",
+    "All securities are subject to a statutory hold period expiring March 2, 2027. Fuse said it will use the proceeds to pursue strategic acquisition opportunities, evaluate potential transactions, and support ongoing corporate operations, working capital requirements and future business initiatives."
+   ]
+  },
   {
    "slug": "doordash-offers-65-a-share-valuing-instacart-at-about-17-billion",
    "url": "https://www.cmbulletin.com/posts/doordash-offers-65-a-share-valuing-instacart-at-about-17-billion.html",
