@@ -1,0 +1,51 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-31T13:20:14Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "edgewater-wireless-settles-debenture-interest-in-shares-including",
+ "url": "https://www.cmbulletin.com/posts/edgewater-wireless-settles-debenture-interest-in-shares-including.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/edgewater-wireless-settles-debenture-interest-in-shares-including.json",
+ "date": "2026-10-31T13:09:27Z",
+ "headline": "Edgewater Wireless settles debenture interest in shares, including some to its own directors",
+ "dek": "The TSX Venture company will issue 1,421,982 shares at $0.05 to cover $71,100 in interest owed on debentures issued in 2022.",
+ "caption": "Debenture interest settlements paid in shares rather than cash are common among thinly traded venture issuers.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Debt",
+  "Technology",
+  "Governance"
+ ],
+ "tickers": [
+  "TSXV:YFI",
+  "OTC:KPIFF"
+ ],
+ "image": "https://www.cmbulletin.com/images/edgewater-wireless-settles-debenture-interest-in-shares-including.png",
+ "source_name": "TheNewswire.ca",
+ "sources": [
+  {
+   "title": "Edgewater Wireless Announces Payments of Debenture Interest",
+   "url": "https://thenewswire.com/press-releases/1k1vFqy0g-edgewater-wireless-announces-payments-of-debenture-interest.html",
+   "publisher": "TheNewswire.ca"
+  }
+ ],
+ "unverified_claims": [
+  "That the shares and debt involved do not exceed 25% of Edgewater's market capitalization is the company's own compliance assessment and has not been independently confirmed."
+ ],
+ "brief": [
+  "Edgewater Wireless Systems Inc. (TSXV: YFI) said October 30 it will settle $71,100.01 in accumulated interest on debentures issued September 1, 2022, by issuing 1,421,982 common shares at a deemed price of $0.05 each. The interest covers four quarterly payment dates from December 1, 2025 through September 1, 2026.",
+  "Of those shares, 265,995 are going to company directors, which the company said triggers the related-party transaction rules under Multilateral Instrument 61-101. Edgewater said it qualifies for an exemption from formal valuation and minority-approval requirements because neither the shares nor the debt involved exceed 25% of its market capitalization.",
+  "The debt settlement is subject to TSX Venture Exchange approval, the company said. Edgewater separately granted 900,000 stock options to employees and consultants at an exercise price of $0.05 per share, expiring five years from the date of grant."
+ ],
+ "body": [
+  "Edgewater Wireless Systems Inc. (TSXV: YFI) said October 30 that it will settle an aggregate of $71,100.01 owed in interest on its unsecured debentures, issued September 1, 2022, by issuing 1,421,982 common shares at a deemed price of $0.05 per share. The interest covers four quarterly obligations dated December 1, 2025, March 1, 2026, June 1, 2026 and September 1, 2026.",
+  "Of the shares being issued, 265,995 are going to company directors, the release said. Edgewater said that participation triggers the related-party transaction requirements of Multilateral Instrument 61-101, which governs transactions between an issuer and its insiders.",
+  "Edgewater said it qualifies for an exemption from the formal-valuation and minority-shareholder-approval requirements that would otherwise apply, because neither the fair value of the shares nor the debt being settled exceeds 25% of the company's market capitalization, as calculated under the instrument.",
+  "The debt settlement remains subject to the approval of the TSX Venture Exchange, the company said. The release did not state when that approval is expected or what happens to the arrangement if it is not granted.",
+  "Separately, Edgewater said it granted 900,000 stock options to employees and consultants at an exercise price of $0.05 per share. The options expire five years from the date of grant, according to the release.",
+  "Edgewater also trades over the counter in the United States under the symbol KPIFF. The release gave no further detail on the company's current financial position or on why the interest was settled in shares rather than cash."
+ ]
+}

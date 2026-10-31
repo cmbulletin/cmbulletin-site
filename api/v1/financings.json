@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-10-31T13:00:02Z",
+ "generated_at": "2026-10-31T13:20:14Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 57,
+ "count": 59,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -1178,6 +1178,42 @@
    "warrant_expiry": null,
    "hold_expiry": null,
    "entry_url": "https://www.cmbulletin.com/posts/edison-lithium-is-raising-up-to-1-9-million-at-7-cents-a-unit.html"
+  },
+  {
+   "company": "New Break Resources Ltd.",
+   "ticker": "CSE:NBRK",
+   "type": "non-brokered private placement of flow-through shares",
+   "currency": "$",
+   "closed": "",
+   "agent": "",
+   "hold_period": true,
+   "note": "Expected to close within two business days of Oct. 30, pending CSE approval; finders may earn a 6% fee plus warrants at $0.22 for 24 months.",
+   "gross": 550000.0,
+   "units": 2500000.0,
+   "price": 0.22,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/new-break-seeks-550-000-to-fund-drilling-at-its-timmins-area-gold.html"
+  },
+  {
+   "company": "Altura Energy Corp.",
+   "ticker": "TSXV:ALTU",
+   "type": "non-brokered private placement",
+   "currency": "C$",
+   "closed": "",
+   "agent": "",
+   "hold_period": false,
+   "note": "Investor not named; to receive board nomination rights upon completion, per the release.",
+   "gross": 3000000.0,
+   "units": 18541400.0,
+   "price": 0.1618,
+   "warrant_strike": 0.25,
+   "warrant_months": 36.0,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/a-southeast-asian-conglomerate-still-awaits-one-approval-for-altura-s.html"
   }
  ]
 }

@@ -1,12 +1,153 @@
 {
  "api": "v1",
- "generated_at": "2026-10-31T13:00:02Z",
+ "generated_at": "2026-10-31T13:20:14Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "issue_date": "2026-10-31",
- "count": 1,
+ "count": 4,
  "entries": [
+  {
+   "slug": "new-break-seeks-550-000-to-fund-drilling-at-its-timmins-area-gold",
+   "url": "https://www.cmbulletin.com/posts/new-break-seeks-550-000-to-fund-drilling-at-its-timmins-area-gold.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/new-break-seeks-550-000-to-fund-drilling-at-its-timmins-area-gold.json",
+   "date": "2026-10-31T13:09:27Z",
+   "headline": "New Break seeks $550,000 to fund drilling at its Timmins-area gold project",
+   "dek": "The flow-through financing would fund exploration spending at the company's Moray project, 49 kilometres southeast of Timmins, Ontario, if it closes as planned.",
+   "caption": "Flow-through financings like this one are funding further drilling across Ontario's Abitibi gold belt this fall.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Financing",
+    "Mining",
+    "Flow-Through",
+    "Gold"
+   ],
+   "tickers": [
+    "CSE:NBRK",
+    "OTCQB:NBRKF"
+   ],
+   "image": "https://www.cmbulletin.com/images/new-break-seeks-550-000-to-fund-drilling-at-its-timmins-area-gold.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "New Break Announces $550,000 Non-Brokered Private Placement Offering of Flow-Through Shares",
+     "url": "https://investingnews.com/new-break-announces-550000-non-brokered-private-placement-offering-of-flow-through-shares/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "That the offering will close within the next two business days is the company's own statement and has not been independently confirmed.",
+    "The 20% carried interest in the Sundog gold project is as disclosed in the company's own description and not independently verified."
+   ],
+   "brief": [
+    "New Break Resources Ltd. (CSE: NBRK) said October 30 it intends to complete a non-brokered private placement of up to 2,500,000 flow-through common shares at $0.22 each, for gross proceeds of up to $550,000. The offering is expected to close within two business days, subject to Canadian Securities Exchange approval.",
+    "Proceeds will fund Canadian Exploration Expenses at the Moray gold project, 49 kilometres southeast of Timmins, Ontario, the company said. New Break will renounce the expenses to subscribers effective no later than December 31, 2026. The shares carry a four-month-and-one-day statutory hold period.",
+    "Qualified finders introducing subscribers may earn a 6% cash fee plus finder warrants equal to 6% of the flow-through shares sold, exercisable at $0.22 for 24 months. New Break also holds a 20% carried interest in Nunavut's Sundog gold project, according to the release."
+   ],
+   "body": [
+    "New Break Resources Ltd. (CSE: NBRK) said October 30 that it intends to complete a non-brokered private placement of up to 2,500,000 flow-through common shares at $0.22 per share, for gross proceeds of up to $550,000. The company expects the offering to close within the next two business days, subject to acceptance by the Canadian Securities Exchange and other customary conditions.",
+    "The shares qualify as flow-through shares within the meaning of subsection 66(15) of the Income Tax Act (Canada). New Break said the proceeds will be used for Canadian Exploration Expenses, which it will renounce to the purchasers of the shares with an effective date of no later than December 31, 2026, as stated in the release.",
+    "The company said the proceeds raised through the offering will go toward ongoing drilling at its Moray gold project, located 49 kilometres southeast of Timmins, Ontario, in the Abitibi greenstone belt. The release gave no drill results or further technical detail on the current program.",
+    "Qualified finders who introduce subscribers to the offering may receive a cash fee equal to 6% of the proceeds from those subscribers, plus finder's warrants equal to 6% of the flow-through shares sold to them, exercisable at $0.22 per share for 24 months from closing, according to the release.",
+    "All securities issued under the offering, including any finder's warrants, are subject to a statutory hold period of four months and one day from the date of issuance, the standard resale restriction under Canadian securities law for this type of exemption.",
+    "New Break describes itself as a Canadian mineral exploration company focused primarily on the Moray project, and also holds a 20% carried interest in the Sundog gold project in Nunavut. The release did not disclose the size of New Break's partner's interest in Sundog or any other terms of that arrangement."
+   ]
+  },
+  {
+   "slug": "a-southeast-asian-conglomerate-still-awaits-one-approval-for-altura-s",
+   "url": "https://www.cmbulletin.com/posts/a-southeast-asian-conglomerate-still-awaits-one-approval-for-altura-s.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/a-southeast-asian-conglomerate-still-awaits-one-approval-for-altura-s.json",
+   "date": "2026-10-31T13:09:27Z",
+   "headline": "A Southeast Asian conglomerate still awaits one approval for Altura's $3-million raise",
+   "dek": "Altura Energy extended the deadline to close its $3-million helium financing to November 30 while its investor's bank sign-off is pending.",
+   "caption": "A private placement tied to Altura Energy's helium project in Arizona is awaiting one last regulatory sign-off.",
+   "sections": [
+    "energy"
+   ],
+   "tags": [
+    "Financing",
+    "Energy",
+    "Helium"
+   ],
+   "tickers": [
+    "TSXV:ALTU",
+    "OTCQB:ALTUF"
+   ],
+   "image": "https://www.cmbulletin.com/images/a-southeast-asian-conglomerate-still-awaits-one-approval-for-altura-s.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Altura Energy Provides Further Update on $3 Million Strategic Investment to Expand Helium Production in Arizona",
+     "url": "https://investingnews.com/altura-energy-provides-further-update-on-3-million-strategic-investment-to-expand-helium-production-in-arizona/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "That the private placement investor is 'a leading Southeast Asian conglomerate' rests solely on Altura's own description; the investor is not named.",
+    "That the investor will have the right to nominate one member to the board of directors upon completion is stated only in Altura's release."
+   ],
+   "brief": [
+    "Altura Energy Corp. (TSXV: ALTU) has extended the deadline to complete a $3-million non-brokered private placement to November 30, 2026, after the TSX Venture Exchange granted conditional acceptance of the financing. The helium explorer first disclosed the offering in a July 28, 2026 news release.",
+    "The offering consists of 18,541,400 units at $0.1618 each, with each unit made up of one common share and one warrant exercisable at $0.25 for 36 months. The investor, described by Altura only as a leading Southeast Asian conglomerate, has its Ministry of Finance's approval but is still waiting on its state bank before it can close.",
+    "Altura's release did not name the investor, which it described only as a leading Southeast Asian conglomerate that will have the right to nominate one member to the board of directors once the deal closes. No closing date beyond the November 30 deadline was given."
+   ],
+   "body": [
+    "Altura Energy Corp. (TSXV: ALTU) said October 30 that it has extended, to November 30, 2026, the deadline to complete a non-brokered private placement of 18,541,400 units at $0.1618 each, for gross proceeds of C$3 million. The TSX Venture Exchange has granted conditional acceptance of the offering, which the company first disclosed in a July 28, 2026 news release.",
+    "Each unit under the offering comprises one common share and one share purchase warrant, exercisable at $0.25 for 36 months from the closing date. A non-brokered placement is one an issuer sells directly to subscribers rather than through an investment dealer, which is consistent with the release naming no agent or underwriter on the transaction.",
+    "The sole subscriber is described in the release only as a leading Southeast Asian conglomerate; Altura's release does not name the investor. That investor has obtained approval from its own local Ministry of Finance to proceed, but the release said it is still awaiting a further approval from its state bank before the financing can close.",
+    "Altura said the investor will have the right to nominate one member to the board of directors once the placement completes; the release did not disclose who might be nominated or any further governance terms attached to the investment beyond that right.",
+    "The extension is the only change disclosed in the October 30 release; the unit count, the per-unit price and the warrant terms are unchanged from the July 28 announcement, according to the company. No new closing date beyond November 30, 2026, was given, and the release did not say what happens if that date passes without the state bank's approval.",
+    "Altura describes itself as a helium-focused exploration company advancing prospects in the Holbrook Basin of Arizona, targeting helium for uses the company lists as healthcare, semiconductors, aerospace and other advanced-technology applications. The company also trades on the OTCQB under the symbol ALTUF and on the Frankfurt Stock Exchange under Y020."
+   ]
+  },
+  {
+   "slug": "edgewater-wireless-settles-debenture-interest-in-shares-including",
+   "url": "https://www.cmbulletin.com/posts/edgewater-wireless-settles-debenture-interest-in-shares-including.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/edgewater-wireless-settles-debenture-interest-in-shares-including.json",
+   "date": "2026-10-31T13:09:27Z",
+   "headline": "Edgewater Wireless settles debenture interest in shares, including some to its own directors",
+   "dek": "The TSX Venture company will issue 1,421,982 shares at $0.05 to cover $71,100 in interest owed on debentures issued in 2022.",
+   "caption": "Debenture interest settlements paid in shares rather than cash are common among thinly traded venture issuers.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Debt",
+    "Technology",
+    "Governance"
+   ],
+   "tickers": [
+    "TSXV:YFI",
+    "OTC:KPIFF"
+   ],
+   "image": "https://www.cmbulletin.com/images/edgewater-wireless-settles-debenture-interest-in-shares-including.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Edgewater Wireless Announces Payments of Debenture Interest",
+     "url": "https://thenewswire.com/press-releases/1k1vFqy0g-edgewater-wireless-announces-payments-of-debenture-interest.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "That the shares and debt involved do not exceed 25% of Edgewater's market capitalization is the company's own compliance assessment and has not been independently confirmed."
+   ],
+   "brief": [
+    "Edgewater Wireless Systems Inc. (TSXV: YFI) said October 30 it will settle $71,100.01 in accumulated interest on debentures issued September 1, 2022, by issuing 1,421,982 common shares at a deemed price of $0.05 each. The interest covers four quarterly payment dates from December 1, 2025 through September 1, 2026.",
+    "Of those shares, 265,995 are going to company directors, which the company said triggers the related-party transaction rules under Multilateral Instrument 61-101. Edgewater said it qualifies for an exemption from formal valuation and minority-approval requirements because neither the shares nor the debt involved exceed 25% of its market capitalization.",
+    "The debt settlement is subject to TSX Venture Exchange approval, the company said. Edgewater separately granted 900,000 stock options to employees and consultants at an exercise price of $0.05 per share, expiring five years from the date of grant."
+   ],
+   "body": [
+    "Edgewater Wireless Systems Inc. (TSXV: YFI) said October 30 that it will settle an aggregate of $71,100.01 owed in interest on its unsecured debentures, issued September 1, 2022, by issuing 1,421,982 common shares at a deemed price of $0.05 per share. The interest covers four quarterly obligations dated December 1, 2025, March 1, 2026, June 1, 2026 and September 1, 2026.",
+    "Of the shares being issued, 265,995 are going to company directors, the release said. Edgewater said that participation triggers the related-party transaction requirements of Multilateral Instrument 61-101, which governs transactions between an issuer and its insiders.",
+    "Edgewater said it qualifies for an exemption from the formal-valuation and minority-shareholder-approval requirements that would otherwise apply, because neither the fair value of the shares nor the debt being settled exceeds 25% of the company's market capitalization, as calculated under the instrument.",
+    "The debt settlement remains subject to the approval of the TSX Venture Exchange, the company said. The release did not state when that approval is expected or what happens to the arrangement if it is not granted.",
+    "Separately, Edgewater said it granted 900,000 stock options to employees and consultants at an exercise price of $0.05 per share. The options expire five years from the date of grant, according to the release.",
+    "Edgewater also trades over the counter in the United States under the symbol KPIFF. The release gave no further detail on the company's current financial position or on why the interest was settled in shares rather than cash."
+   ]
+  },
   {
    "slug": "openai-cuts-its-funding-target-by-10-billion-as-ai-stocks-slide",
    "url": "https://www.cmbulletin.com/posts/openai-cuts-its-funding-target-by-10-billion-as-ai-stocks-slide.html",
