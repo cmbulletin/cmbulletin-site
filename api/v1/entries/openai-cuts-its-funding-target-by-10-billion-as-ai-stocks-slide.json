@@ -1,0 +1,67 @@
+{
+ "api": "v1",
+ "generated_at": "2026-10-31T13:00:02Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "openai-cuts-its-funding-target-by-10-billion-as-ai-stocks-slide",
+ "url": "https://www.cmbulletin.com/posts/openai-cuts-its-funding-target-by-10-billion-as-ai-stocks-slide.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/openai-cuts-its-funding-target-by-10-billion-as-ai-stocks-slide.json",
+ "date": "2026-10-31T12:42:46Z",
+ "headline": "OpenAI cuts its funding target by $10 billion as AI stocks slide",
+ "dek": "The ChatGPT maker now seeks $20 billion at a $1.25 trillion valuation, down from a $30 billion target.",
+ "caption": "OpenAI has cut the target for its funding round by $10 billion as a tech-stock selloff weighs on AI valuations.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Artificial Intelligence",
+  "Venture Capital",
+  "Tech"
+ ],
+ "tickers": [
+  "TSXV:PINK",
+  "CSE:SPAI",
+  "CSE:RAIL"
+ ],
+ "image": "https://www.cmbulletin.com/images/openai-cuts-its-funding-target-by-10-billion-as-ai-stocks-slide.png",
+ "source_name": "Reuters",
+ "sources": [
+  {
+   "title": "OpenAI cuts funding target by $10 billion, FT reports",
+   "url": "https://www.investing.com/news/economy-news/openai-cuts-funding-target-by-10-billion-ft-reports-4988969",
+   "publisher": "Reuters"
+  },
+  {
+   "title": "PERIMETER MEDICAL IMAGING AI IN (TSXV: PINK) quote, +28.57% on about $135,180",
+   "url": "https://finance.yahoo.com/quote/PINK.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "Sparc AI Inc. (CSE: SPAI) quote, -8.77% on about $31,331",
+   "url": "https://finance.yahoo.com/quote/SPAI.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "Railtown AI Technologies Inc (CSE: RAIL) quote, +1.72% on about $47,985",
+   "url": "https://finance.yahoo.com/quote/RAIL.CN",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "The figures for OpenAI's revised funding target and valuation come from a Financial Times report carried by Reuters; OpenAI itself has not independently confirmed them in this account."
+ ],
+ "brief": [
+  "OpenAI has cut the target for its latest funding round by $10 billion, now seeking $20 billion rather than the $30 billion it had been pursuing, according to a Financial Times report carried by Reuters. The company is also seeking a lower valuation of $1.25 trillion, down from the $1.4 trillion it wanted.",
+  "The cut comes as a tech-sector selloff tied to worries about AI spending has hit markets; the Nasdaq fell 2.9% the day the news broke and is down 7.8% from its October 6 peak. Some investors have reduced commitments, and the round's 'first close' is expected to land below the new $20 billion target.",
+  "The theme comprises 29 listed venture names; 18 traded today, 5 higher and 9 lower, for a median move of -2.17% against -2.77% for the S&P/TSX Venture Composite. Perimeter Medical Imaging Ai In (TSXV: PINK) rose 28.57% to CAD0.18, and is in the theme because its registered name contains \"ai.\" Nothing connects the two."
+ ],
+ "body": [
+  "OpenAI has cut the target for its latest funding round by $10 billion, now seeking about $20 billion rather than the $30 billion it had been pursuing, according to a Financial Times report carried by Reuters. The company is also seeking a lower valuation, $1.25 trillion rather than the $1.4 trillion target. OpenAI had set a Friday deadline for investor commitments, Reuters reported.",
+  "The reduction follows a selloff across technology stocks tied to concerns over the scale of AI infrastructure spending. Reuters reported the Nasdaq fell 2.9% on the day the cut was reported and is down 7.8% from its October 6 peak. Some investors have reduced the size of their commitments to the round, and the fund's 'first close' — the initial tranche of capital committed — is expected to come in below the revised $20 billion target.",
+  "Reuters named several participants in the round, including the UAE-backed technology fund MGX, expected to be the largest investor, alongside Founders Fund, Coatue, Sequoia Capital and Andreessen Horowitz. OpenAI is pursuing a public listing in 2027, and Reuters reported the company had been keen to close this round ahead of rival Anthropic's anticipated listing, since the two companies draw on an overlapping investor base.",
+  "On the venture boards, the read-through for today's AI theme is as follows. The theme comprises 29 listed venture names; 18 traded today, 5 higher and 9 lower, for a median move of -2.17% against -2.77% for the S&P/TSX Venture Composite. The spread between the two was 0.60 percentage points.",
+  "Perimeter Medical Imaging Ai In (TSXV: PINK) rose 28.57% to CAD0.18, and is in the theme because its registered name contains \"ai.\" Sparc AI Inc. (CSE: SPAI) fell 8.77% to CAD2.08, and is in the theme because its registered name contains \"ai.\" Railtown AI Technologies Inc (CSE: RAIL) rose 1.72% to CAD0.295, and is in the theme because its registered name contains \"ai.\"",
+  "OpenAI's funding news and these moves fell on the same trading day. Nothing in the public record ties the two together: the theme's -2.17% median move and the Composite's -2.77% decline are both simply what the board did that day."
+ ]
+}
