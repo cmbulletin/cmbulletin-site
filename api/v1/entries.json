@@ -1,11 +1,149 @@
 {
  "api": "v1",
- "generated_at": "2026-10-31T13:20:14Z",
+ "generated_at": "2026-11-01T13:01:12Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 115,
+ "count": 118,
  "entries": [
+  {
+   "slug": "eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share",
+   "url": "https://www.cmbulletin.com/posts/eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share.json",
+   "date": "2026-11-01T12:38:59Z",
+   "headline": "Eureka Metals wants $499,134 from shareholders at a penny a share",
+   "dek": "The rights offering precedes a proposed share consolidation of up to six-for-one, with rights expiring December 1.",
+   "caption": "A row of labelled rock core sample trays sits under fluorescent light, the quiet cataloguing work behind junior mineral exploration.",
+   "sections": [
+    "financings"
+   ],
+   "tags": [
+    "Financings",
+    "Mining",
+    "Capital Structure"
+   ],
+   "tickers": [
+    "CSE:ERKA",
+    "OTCQB:UREKF",
+    "FSE:S580"
+   ],
+   "image": "https://www.cmbulletin.com/images/eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share.png",
+   "source_name": "Investing News Network",
+   "sources": [
+    {
+     "title": "Eureka Metals Corp. Announces Rights Offering and Proposed Share Consolidation",
+     "url": "https://investingnews.com/eureka-metals-corp-announces-rights-offering-and-proposed-share-consolidation/",
+     "publisher": "Investing News Network"
+    },
+    {
+     "title": "Eureka Metals Corp. Initiates $0.01 Per Share Rights Offering and Plans Up-to-6-for-1 Share Consolidation",
+     "url": "https://kalkinemedia.com/ca/news/announcements/eureka-metals-corp-initiates-001-per-share-rights-offering-and-plans-up-to-6-for-1-share-consolidation",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "Eureka's own account of its planned use of proceeds for exploration, property and administrative costs"
+   ],
+   "brief": [
+    "Eureka Metals Corp. (CSE: ERKA), a mineral explorer with titanium, vanadium and scandium projects in Quebec and British Columbia, has launched a rights offering to raise up to $499,134. Shareholders of record on November 6 get one transferable right per share, each exercisable for one pre-consolidation share at $0.01.",
+    "Rights expire December 1 at 4 p.m. Toronto time, with closing expected around December 2. Eureka separately plans to consolidate its shares on a ratio of up to six-for-one, which the board will finalize; at the maximum ratio the company would have about 16.6 million shares outstanding after both steps.",
+    "Odyssey Trust Company is acting as rights agent. Net proceeds, combined with existing working capital, are earmarked for exploration and property costs, general and administrative expenses and unallocated working capital, the company said."
+   ]
+  },
+  {
+   "slug": "first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen",
+   "url": "https://www.cmbulletin.com/posts/first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen.json",
+   "date": "2026-11-01T12:38:59Z",
+   "headline": "First Atlantic buys a Newfoundland property never tested for hydrogen",
+   "dek": "The explorer is paying 1,000,000 shares for 209 claims in the Bay of Islands Ophiolite Complex, where nearby ground shows historic chromite finds.",
+   "caption": "Wind-scoured highland rock, the kind of terrain geologists are now eyeing on Newfoundland's west coast for signs of natural hydrogen.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Exploration",
+    "M&A"
+   ],
+   "tickers": [
+    "TSXV:FAN",
+    "OTCQB:FANCF",
+    "FSE:P210"
+   ],
+   "image": "https://www.cmbulletin.com/images/first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen.png",
+   "source_name": "Investing News Network",
+   "sources": [
+    {
+     "title": "First Atlantic to Acquire 100% of the North Arm Project, 52 sq km of Mantle-Derived Ultramafic Rocks in Western Newfoundland Never Systematically Tested for Geologic Hydrogen, Chromium or Awaruite Nickel-Cobalt Alloy",
+     "url": "https://investingnews.com/first-atlantic-to-acquire-100-of-the-north-arm-project-52-sq-km-of-mantle-derived-ultramafic-rocks-in-western-newfoundland-never-systematically-tested-for-geologic-hydrogen-chromium-or-awaruite-nickel/",
+     "publisher": "Investing News Network"
+    },
+    {
+     "title": "First Atlantic Nickel & Cobalt Secures Full Ownership of North Arm Ophiolite Property in Western Newfoundland for Hydrogen and Awaruite Exploration",
+     "url": "https://kalkinemedia.com/ca/news/announcements/first-atlantic-nickel-cobalt-secures-full-ownership-of-north-arm-ophiolite-property-in-western-newfoundland-for-hydrogen-and-awaruite-exploration",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "The company's characterisation of the North Arm property's hydrogen and awaruite potential and its account of nearby historic chromite occurrences, from First Atlantic's own release",
+    "First Atlantic's description of its Pipestone XL project's nickel grade and mineralization, from its own company description"
+   ],
+   "brief": [
+    "First Atlantic Nickel & Cobalt Corp. (TSXV: FAN), a Newfoundland-focused nickel and cobalt explorer, has agreed to buy 100% of the North Arm Ophiolite Property on the island's west coast. The company will pay with 1,000,000 shares at a deemed $0.55 and reimburse $51,250 in security deposits the vendors had posted with the provincial government.",
+    "The 209-claim, 52.25-square-kilometre property has never been systematically explored for geologic hydrogen or awaruite, a nickel-iron-cobalt alloy, though nearby ground carries historic chromite occurrences and active hydrogen-bearing springs. Closing needs TSX Venture Exchange acceptance, expected by January 31, 2027; the payment shares carry a four-month-and-one-day hold.",
+    "First Atlantic also granted 950,000 stock options to directors and an investor-relations consultant, exercisable at $0.55 for five years, with the consultant's options vesting quarterly over a year. The property carries no underlying royalty."
+   ]
+  },
+  {
+   "slug": "binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in",
+   "url": "https://www.cmbulletin.com/posts/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.json",
+   "date": "2026-11-01T12:38:59Z",
+   "headline": "Binance resumes bitcoin withdrawals after replacing $6 billion in stolen crypto",
+   "dek": "The exchange covered roughly 95% of October's $6.3 billion hack, which the FBI has tied to a North Korean hacking unit.",
+   "caption": "A server rack glows in an otherwise dark data centre, where exchanges now run around-the-clock monitoring after a record digital theft.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Crypto",
+    "Cybersecurity",
+    "Regulatory"
+   ],
+   "tickers": [
+    "TSXV:NDA",
+    "TSXV:DMGI"
+   ],
+   "image": "https://www.cmbulletin.com/images/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.png",
+   "source_name": "Reuters",
+   "sources": [
+    {
+     "title": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
+     "url": "https://kfgo.com/2026/10/31/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds/",
+     "publisher": "Reuters"
+    },
+    {
+     "title": "NEPTUNE DIGITAL ASSETS CORP (TSXV: NDA) quote, -5.88% on about $94,594",
+     "url": "https://finance.yahoo.com/quote/NDA.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "DMG BLOCKCHAIN SOLUTIONS INC (TSXV: DMGI) quote, -4.88% on about $88,530",
+     "url": "https://finance.yahoo.com/quote/DMGI.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "Binance's own statement that it has covered 95% of the stolen funds and its account of how the replacement tokens were funded",
+    "The FBI's attribution of the theft to a North Korean hacking unit it calls TraderTraitor"
+   ],
+   "brief": [
+    "Binance resumed bitcoin and ether withdrawals in phases on Sunday after covering roughly 95%, or about $6 billion, of the record $6.3 billion in crypto stolen in October, the exchange said. Bitcoin withdrawals resumed shortly after 0600 GMT, with other tokens following within hours.",
+    "The FBI has tied the theft to a North Korean state-sponsored group it calls TraderTraitor. Binance funded the replacement tokens from its $1 billion Secure Asset Fund for Users, its futures insurance fund and corporate treasury; the remaining 5%, in less liquid assets, is still being sourced, the exchange said.",
+    "On Canada's venture board, five of the 14 listed digital-asset names traded today; Neptune Digital Assets Corp fell 5.88% to $0.48 and Dmg Blockchain Solutions Inc fell 4.88% to $0.39, a theme median of -4.88% against -2.77% for the S&P/TSX Venture Composite."
+   ]
+  },
   {
    "slug": "new-break-seeks-550-000-to-fund-drilling-at-its-timmins-area-gold",
    "url": "https://www.cmbulletin.com/posts/new-break-seeks-550-000-to-fund-drilling-at-its-timmins-area-gold.html",

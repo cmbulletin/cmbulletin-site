@@ -1,12 +1,30 @@
 {
  "api": "v1",
- "generated_at": "2026-10-31T13:20:14Z",
+ "generated_at": "2026-11-01T13:01:12Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 59,
+ "count": 60,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
+  {
+   "company": "Eureka Metals Corp.",
+   "ticker": "CSE:ERKA",
+   "type": "Rights offering",
+   "currency": "$",
+   "closed": "2026-12-02",
+   "agent": "",
+   "hold_period": false,
+   "note": "Odyssey Trust Company is acting as rights agent; the offering is open to shareholders in Canada and select other jurisdictions, excluding the U.S., and precedes a proposed consolidation of up to six-for-one.",
+   "gross": 499134.0,
+   "units": null,
+   "price": 0.01,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share.html"
+  },
   {
    "company": "Mijem Newcomm Tech Inc.",
    "ticker": "CSE:MJEM.X",

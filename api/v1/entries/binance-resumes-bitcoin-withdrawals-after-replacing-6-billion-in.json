@@ -1,0 +1,62 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-01T13:01:12Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in",
+ "url": "https://www.cmbulletin.com/posts/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.json",
+ "date": "2026-11-01T12:38:59Z",
+ "headline": "Binance resumes bitcoin withdrawals after replacing $6 billion in stolen crypto",
+ "dek": "The exchange covered roughly 95% of October's $6.3 billion hack, which the FBI has tied to a North Korean hacking unit.",
+ "caption": "A server rack glows in an otherwise dark data centre, where exchanges now run around-the-clock monitoring after a record digital theft.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "Crypto",
+  "Cybersecurity",
+  "Regulatory"
+ ],
+ "tickers": [
+  "TSXV:NDA",
+  "TSXV:DMGI"
+ ],
+ "image": "https://www.cmbulletin.com/images/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.png",
+ "source_name": "Reuters",
+ "sources": [
+  {
+   "title": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
+   "url": "https://kfgo.com/2026/10/31/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds/",
+   "publisher": "Reuters"
+  },
+  {
+   "title": "NEPTUNE DIGITAL ASSETS CORP (TSXV: NDA) quote, -5.88% on about $94,594",
+   "url": "https://finance.yahoo.com/quote/NDA.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "DMG BLOCKCHAIN SOLUTIONS INC (TSXV: DMGI) quote, -4.88% on about $88,530",
+   "url": "https://finance.yahoo.com/quote/DMGI.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "Binance's own statement that it has covered 95% of the stolen funds and its account of how the replacement tokens were funded",
+  "The FBI's attribution of the theft to a North Korean hacking unit it calls TraderTraitor"
+ ],
+ "brief": [
+  "Binance resumed bitcoin and ether withdrawals in phases on Sunday after covering roughly 95%, or about $6 billion, of the record $6.3 billion in crypto stolen in October, the exchange said. Bitcoin withdrawals resumed shortly after 0600 GMT, with other tokens following within hours.",
+  "The FBI has tied the theft to a North Korean state-sponsored group it calls TraderTraitor. Binance funded the replacement tokens from its $1 billion Secure Asset Fund for Users, its futures insurance fund and corporate treasury; the remaining 5%, in less liquid assets, is still being sourced, the exchange said.",
+  "On Canada's venture board, five of the 14 listed digital-asset names traded today; Neptune Digital Assets Corp fell 5.88% to $0.48 and Dmg Blockchain Solutions Inc fell 4.88% to $0.39, a theme median of -4.88% against -2.77% for the S&P/TSX Venture Composite."
+ ],
+ "body": [
+  "Binance began resuming withdrawals in phases on Sunday, starting with bitcoin shortly after 0600 GMT and followed within hours by ether, BNB, XRP, dogecoin and other tokens, after the exchange said it had covered roughly 95%, or about $6 billion, of the $6.3 billion in crypto stolen in October. The remaining 5%, in less liquid assets, is still being sourced, Binance said.",
+  "The FBI said it had tied the theft to a North Korean state-sponsored hacking unit it calls TraderTraitor, which the bureau said laundered the stolen assets by converting them into Ethereum. Asked about the attribution, President Trump said: \"We don't know if it's North Korea — but if it is, we'll talk to North Korea about it.\"",
+  "Binance funded the replacement tokens using half of its $1 billion Secure Asset Fund for Users, along with portions of its futures insurance fund and corporate treasury, the exchange said. Co-chief executive Yi He said the company was committed to replenishing the Secure Asset Fund back to about $1 billion. Founder Changpeng Zhao thanked law enforcement for its help, saying \"a tweet can't fully express our gratitude.\"",
+  "Binance, described in the report as the world's largest cryptocurrency exchange, said the phased restart ultimately covered 15 crypto assets, beginning with bitcoin and followed by ether, BNB, XRP, dogecoin and the USDT and USDC stablecoins, restoring withdrawal access across the tokens affected by the October halt.",
+  "The theme of digital-asset names on Canada's venture boards comprises 14 listed companies; five traded today, one higher and four lower, for a median move of -4.88% against -2.77% for the S&P/TSX Venture Composite — a spread of -2.11 percentage points on the day Binance announced the restored withdrawals.",
+  "Neptune Digital Assets Corp (TSXV: NDA) fell 5.88% to $0.48, and is in the theme because its registered name contains \"digital asset.\" Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 4.88% to $0.39, and is in the theme because its registered name contains \"blockchain.\" The moves and the Binance news fall on the same day; nothing here connects the two."
+ ]
+}

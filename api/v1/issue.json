@@ -1,213 +1,172 @@
 {
  "api": "v1",
- "generated_at": "2026-10-31T13:20:14Z",
+ "generated_at": "2026-11-01T13:01:12Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-10-31",
- "count": 4,
+ "issue_date": "2026-11-01",
+ "count": 3,
  "entries": [
   {
-   "slug": "new-break-seeks-550-000-to-fund-drilling-at-its-timmins-area-gold",
-   "url": "https://www.cmbulletin.com/posts/new-break-seeks-550-000-to-fund-drilling-at-its-timmins-area-gold.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/new-break-seeks-550-000-to-fund-drilling-at-its-timmins-area-gold.json",
-   "date": "2026-10-31T13:09:27Z",
-   "headline": "New Break seeks $550,000 to fund drilling at its Timmins-area gold project",
-   "dek": "The flow-through financing would fund exploration spending at the company's Moray project, 49 kilometres southeast of Timmins, Ontario, if it closes as planned.",
-   "caption": "Flow-through financings like this one are funding further drilling across Ontario's Abitibi gold belt this fall.",
+   "slug": "eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share",
+   "url": "https://www.cmbulletin.com/posts/eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share.json",
+   "date": "2026-11-01T12:38:59Z",
+   "headline": "Eureka Metals wants $499,134 from shareholders at a penny a share",
+   "dek": "The rights offering precedes a proposed share consolidation of up to six-for-one, with rights expiring December 1.",
+   "caption": "A row of labelled rock core sample trays sits under fluorescent light, the quiet cataloguing work behind junior mineral exploration.",
+   "sections": [
+    "financings"
+   ],
+   "tags": [
+    "Financings",
+    "Mining",
+    "Capital Structure"
+   ],
+   "tickers": [
+    "CSE:ERKA",
+    "OTCQB:UREKF",
+    "FSE:S580"
+   ],
+   "image": "https://www.cmbulletin.com/images/eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share.png",
+   "source_name": "Investing News Network",
+   "sources": [
+    {
+     "title": "Eureka Metals Corp. Announces Rights Offering and Proposed Share Consolidation",
+     "url": "https://investingnews.com/eureka-metals-corp-announces-rights-offering-and-proposed-share-consolidation/",
+     "publisher": "Investing News Network"
+    },
+    {
+     "title": "Eureka Metals Corp. Initiates $0.01 Per Share Rights Offering and Plans Up-to-6-for-1 Share Consolidation",
+     "url": "https://kalkinemedia.com/ca/news/announcements/eureka-metals-corp-initiates-001-per-share-rights-offering-and-plans-up-to-6-for-1-share-consolidation",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "Eureka's own account of its planned use of proceeds for exploration, property and administrative costs"
+   ],
+   "brief": [
+    "Eureka Metals Corp. (CSE: ERKA), a mineral explorer with titanium, vanadium and scandium projects in Quebec and British Columbia, has launched a rights offering to raise up to $499,134. Shareholders of record on November 6 get one transferable right per share, each exercisable for one pre-consolidation share at $0.01.",
+    "Rights expire December 1 at 4 p.m. Toronto time, with closing expected around December 2. Eureka separately plans to consolidate its shares on a ratio of up to six-for-one, which the board will finalize; at the maximum ratio the company would have about 16.6 million shares outstanding after both steps.",
+    "Odyssey Trust Company is acting as rights agent. Net proceeds, combined with existing working capital, are earmarked for exploration and property costs, general and administrative expenses and unallocated working capital, the company said."
+   ],
+   "body": [
+    "Eureka Metals Corp. (CSE: ERKA) (OTCQB: UREKF) (FSE: S580), a Canadian mineral explorer holding titanium, vanadium, scandium and other polymetallic projects in Quebec and British Columbia, has launched a rights offering to raise up to $499,134. Holders of common shares as of November 6, 2026 will receive one transferable right for each share held.",
+    "Each right entitles its holder to subscribe for one pre-consolidation common share at $0.01. Rights expire December 1, 2026 at 4:00 p.m. Toronto time, and the company expects the offering to close on or about December 2, 2026. Odyssey Trust Company is acting as rights agent.",
+    "Eureka separately proposes to consolidate its shares on a basis of up to six pre-consolidation shares for every one post-consolidation share, with the final ratio to be set by the board. The company had 49,913,367 shares outstanding before the offering; if every right is exercised, that would roughly double to about 99,826,734 shares before the consolidation is applied.",
+    "At the maximum six-for-one ratio and full exercise of the rights, Eureka would have approximately 16,637,789 shares outstanding following both the offering and the consolidation. The company says the consolidation remains subject to Canadian Securities Exchange approval, and shares are expected to continue trading under the ticker ERKA.",
+    "The company said net proceeds from the rights offering, combined with its existing working capital, are expected to fund exploration and property costs, general and administrative expenses, and unallocated working capital. The offering is open to shareholders in all Canadian provinces and territories and in select international jurisdictions, excluding the United States.",
+    "The release does not state whether the dollar figures in the offering are Canadian or U.S. currency. Eureka is a Canadian company listed primarily on the Canadian Securities Exchange, with secondary listings on the OTCQB in the United States and on the Frankfurt Stock Exchange."
+   ]
+  },
+  {
+   "slug": "first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen",
+   "url": "https://www.cmbulletin.com/posts/first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen.json",
+   "date": "2026-11-01T12:38:59Z",
+   "headline": "First Atlantic buys a Newfoundland property never tested for hydrogen",
+   "dek": "The explorer is paying 1,000,000 shares for 209 claims in the Bay of Islands Ophiolite Complex, where nearby ground shows historic chromite finds.",
+   "caption": "Wind-scoured highland rock, the kind of terrain geologists are now eyeing on Newfoundland's west coast for signs of natural hydrogen.",
    "sections": [
     "mining"
    ],
    "tags": [
-    "Financing",
     "Mining",
-    "Flow-Through",
-    "Gold"
+    "Exploration",
+    "M&A"
    ],
    "tickers": [
-    "CSE:NBRK",
-    "OTCQB:NBRKF"
+    "TSXV:FAN",
+    "OTCQB:FANCF",
+    "FSE:P210"
    ],
-   "image": "https://www.cmbulletin.com/images/new-break-seeks-550-000-to-fund-drilling-at-its-timmins-area-gold.png",
-   "source_name": "Investing News Network — Resource Investing",
+   "image": "https://www.cmbulletin.com/images/first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen.png",
+   "source_name": "Investing News Network",
    "sources": [
     {
-     "title": "New Break Announces $550,000 Non-Brokered Private Placement Offering of Flow-Through Shares",
-     "url": "https://investingnews.com/new-break-announces-550000-non-brokered-private-placement-offering-of-flow-through-shares/",
-     "publisher": "Investing News Network — Resource Investing"
+     "title": "First Atlantic to Acquire 100% of the North Arm Project, 52 sq km of Mantle-Derived Ultramafic Rocks in Western Newfoundland Never Systematically Tested for Geologic Hydrogen, Chromium or Awaruite Nickel-Cobalt Alloy",
+     "url": "https://investingnews.com/first-atlantic-to-acquire-100-of-the-north-arm-project-52-sq-km-of-mantle-derived-ultramafic-rocks-in-western-newfoundland-never-systematically-tested-for-geologic-hydrogen-chromium-or-awaruite-nickel/",
+     "publisher": "Investing News Network"
+    },
+    {
+     "title": "First Atlantic Nickel & Cobalt Secures Full Ownership of North Arm Ophiolite Property in Western Newfoundland for Hydrogen and Awaruite Exploration",
+     "url": "https://kalkinemedia.com/ca/news/announcements/first-atlantic-nickel-cobalt-secures-full-ownership-of-north-arm-ophiolite-property-in-western-newfoundland-for-hydrogen-and-awaruite-exploration",
+     "publisher": "Kalkine Media — Canada"
     }
    ],
    "unverified_claims": [
-    "That the offering will close within the next two business days is the company's own statement and has not been independently confirmed.",
-    "The 20% carried interest in the Sundog gold project is as disclosed in the company's own description and not independently verified."
+    "The company's characterisation of the North Arm property's hydrogen and awaruite potential and its account of nearby historic chromite occurrences, from First Atlantic's own release",
+    "First Atlantic's description of its Pipestone XL project's nickel grade and mineralization, from its own company description"
    ],
    "brief": [
-    "New Break Resources Ltd. (CSE: NBRK) said October 30 it intends to complete a non-brokered private placement of up to 2,500,000 flow-through common shares at $0.22 each, for gross proceeds of up to $550,000. The offering is expected to close within two business days, subject to Canadian Securities Exchange approval.",
-    "Proceeds will fund Canadian Exploration Expenses at the Moray gold project, 49 kilometres southeast of Timmins, Ontario, the company said. New Break will renounce the expenses to subscribers effective no later than December 31, 2026. The shares carry a four-month-and-one-day statutory hold period.",
-    "Qualified finders introducing subscribers may earn a 6% cash fee plus finder warrants equal to 6% of the flow-through shares sold, exercisable at $0.22 for 24 months. New Break also holds a 20% carried interest in Nunavut's Sundog gold project, according to the release."
+    "First Atlantic Nickel & Cobalt Corp. (TSXV: FAN), a Newfoundland-focused nickel and cobalt explorer, has agreed to buy 100% of the North Arm Ophiolite Property on the island's west coast. The company will pay with 1,000,000 shares at a deemed $0.55 and reimburse $51,250 in security deposits the vendors had posted with the provincial government.",
+    "The 209-claim, 52.25-square-kilometre property has never been systematically explored for geologic hydrogen or awaruite, a nickel-iron-cobalt alloy, though nearby ground carries historic chromite occurrences and active hydrogen-bearing springs. Closing needs TSX Venture Exchange acceptance, expected by January 31, 2027; the payment shares carry a four-month-and-one-day hold.",
+    "First Atlantic also granted 950,000 stock options to directors and an investor-relations consultant, exercisable at $0.55 for five years, with the consultant's options vesting quarterly over a year. The property carries no underlying royalty."
    ],
    "body": [
-    "New Break Resources Ltd. (CSE: NBRK) said October 30 that it intends to complete a non-brokered private placement of up to 2,500,000 flow-through common shares at $0.22 per share, for gross proceeds of up to $550,000. The company expects the offering to close within the next two business days, subject to acceptance by the Canadian Securities Exchange and other customary conditions.",
-    "The shares qualify as flow-through shares within the meaning of subsection 66(15) of the Income Tax Act (Canada). New Break said the proceeds will be used for Canadian Exploration Expenses, which it will renounce to the purchasers of the shares with an effective date of no later than December 31, 2026, as stated in the release.",
-    "The company said the proceeds raised through the offering will go toward ongoing drilling at its Moray gold project, located 49 kilometres southeast of Timmins, Ontario, in the Abitibi greenstone belt. The release gave no drill results or further technical detail on the current program.",
-    "Qualified finders who introduce subscribers to the offering may receive a cash fee equal to 6% of the proceeds from those subscribers, plus finder's warrants equal to 6% of the flow-through shares sold to them, exercisable at $0.22 per share for 24 months from closing, according to the release.",
-    "All securities issued under the offering, including any finder's warrants, are subject to a statutory hold period of four months and one day from the date of issuance, the standard resale restriction under Canadian securities law for this type of exemption.",
-    "New Break describes itself as a Canadian mineral exploration company focused primarily on the Moray project, and also holds a 20% carried interest in the Sundog gold project in Nunavut. The release did not disclose the size of New Break's partner's interest in Sundog or any other terms of that arrangement."
+    "First Atlantic Nickel & Cobalt Corp. (TSXV: FAN) (OTCQB: FANCF) (FSE: P210) has signed an agreement, dated October 30, 2026, to acquire 100% of the North Arm Ophiolite Property on Newfoundland's west coast from two arm's-length vendors. The company will pay with 1,000,000 common shares issued at a deemed price of $0.55 each and will reimburse $51,250 in refundable security deposits the vendors had posted with the government of Newfoundland and Labrador.",
+    "The property comprises three mineral licences totalling 209 claim cells across 52.25 square kilometres on the north shore of North Arm, within the Bay of Islands Ophiolite Complex. It lies about 25 kilometres north of First Atlantic's existing Ophiolite-X project. The company says the ground has seen limited modern exploration and has never been systematically tested for geologic hydrogen or for awaruite, a naturally occurring nickel-iron-cobalt alloy.",
+    "First Atlantic points to historic chromite occurrences at nearby Blow Me Down and Springers Hill, and to active hydrogen-bearing alkaline springs at the nearby Tablelands, which the company says demonstrate ongoing serpentinization. The property itself carries no underlying royalty or option payments to a third party.",
+    "Closing is conditional on TSX Venture Exchange acceptance and is expected about five business days afterward, by January 31, 2027. The 1,000,000 payment shares will be subject to a four-month-and-one-day hold period from issuance, the standard resale restriction attached to shares issued outside a prospectus offering.",
+    "The company also granted 950,000 incentive stock options to directors and to an investor-relations consultant, exercisable at $0.55 per share for five years. The consultant's options vest quarterly over twelve months; the release does not state vesting terms for the options granted to directors.",
+    "First Atlantic's existing project in the region, Pipestone XL, spans a 30-kilometre stretch of ophiolite complex and includes awaruite deposits the company says carry about 77% nickel content along with secondary chromium mineralization, according to the company's own description of its business."
    ]
   },
   {
-   "slug": "a-southeast-asian-conglomerate-still-awaits-one-approval-for-altura-s",
-   "url": "https://www.cmbulletin.com/posts/a-southeast-asian-conglomerate-still-awaits-one-approval-for-altura-s.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/a-southeast-asian-conglomerate-still-awaits-one-approval-for-altura-s.json",
-   "date": "2026-10-31T13:09:27Z",
-   "headline": "A Southeast Asian conglomerate still awaits one approval for Altura's $3-million raise",
-   "dek": "Altura Energy extended the deadline to close its $3-million helium financing to November 30 while its investor's bank sign-off is pending.",
-   "caption": "A private placement tied to Altura Energy's helium project in Arizona is awaiting one last regulatory sign-off.",
+   "slug": "binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in",
+   "url": "https://www.cmbulletin.com/posts/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.json",
+   "date": "2026-11-01T12:38:59Z",
+   "headline": "Binance resumes bitcoin withdrawals after replacing $6 billion in stolen crypto",
+   "dek": "The exchange covered roughly 95% of October's $6.3 billion hack, which the FBI has tied to a North Korean hacking unit.",
+   "caption": "A server rack glows in an otherwise dark data centre, where exchanges now run around-the-clock monitoring after a record digital theft.",
    "sections": [
-    "energy"
+    "news"
    ],
    "tags": [
-    "Financing",
-    "Energy",
-    "Helium"
+    "Crypto",
+    "Cybersecurity",
+    "Regulatory"
    ],
    "tickers": [
-    "TSXV:ALTU",
-    "OTCQB:ALTUF"
+    "TSXV:NDA",
+    "TSXV:DMGI"
    ],
-   "image": "https://www.cmbulletin.com/images/a-southeast-asian-conglomerate-still-awaits-one-approval-for-altura-s.png",
-   "source_name": "Investing News Network — Resource Investing",
-   "sources": [
-    {
-     "title": "Altura Energy Provides Further Update on $3 Million Strategic Investment to Expand Helium Production in Arizona",
-     "url": "https://investingnews.com/altura-energy-provides-further-update-on-3-million-strategic-investment-to-expand-helium-production-in-arizona/",
-     "publisher": "Investing News Network — Resource Investing"
-    }
-   ],
-   "unverified_claims": [
-    "That the private placement investor is 'a leading Southeast Asian conglomerate' rests solely on Altura's own description; the investor is not named.",
-    "That the investor will have the right to nominate one member to the board of directors upon completion is stated only in Altura's release."
-   ],
-   "brief": [
-    "Altura Energy Corp. (TSXV: ALTU) has extended the deadline to complete a $3-million non-brokered private placement to November 30, 2026, after the TSX Venture Exchange granted conditional acceptance of the financing. The helium explorer first disclosed the offering in a July 28, 2026 news release.",
-    "The offering consists of 18,541,400 units at $0.1618 each, with each unit made up of one common share and one warrant exercisable at $0.25 for 36 months. The investor, described by Altura only as a leading Southeast Asian conglomerate, has its Ministry of Finance's approval but is still waiting on its state bank before it can close.",
-    "Altura's release did not name the investor, which it described only as a leading Southeast Asian conglomerate that will have the right to nominate one member to the board of directors once the deal closes. No closing date beyond the November 30 deadline was given."
-   ],
-   "body": [
-    "Altura Energy Corp. (TSXV: ALTU) said October 30 that it has extended, to November 30, 2026, the deadline to complete a non-brokered private placement of 18,541,400 units at $0.1618 each, for gross proceeds of C$3 million. The TSX Venture Exchange has granted conditional acceptance of the offering, which the company first disclosed in a July 28, 2026 news release.",
-    "Each unit under the offering comprises one common share and one share purchase warrant, exercisable at $0.25 for 36 months from the closing date. A non-brokered placement is one an issuer sells directly to subscribers rather than through an investment dealer, which is consistent with the release naming no agent or underwriter on the transaction.",
-    "The sole subscriber is described in the release only as a leading Southeast Asian conglomerate; Altura's release does not name the investor. That investor has obtained approval from its own local Ministry of Finance to proceed, but the release said it is still awaiting a further approval from its state bank before the financing can close.",
-    "Altura said the investor will have the right to nominate one member to the board of directors once the placement completes; the release did not disclose who might be nominated or any further governance terms attached to the investment beyond that right.",
-    "The extension is the only change disclosed in the October 30 release; the unit count, the per-unit price and the warrant terms are unchanged from the July 28 announcement, according to the company. No new closing date beyond November 30, 2026, was given, and the release did not say what happens if that date passes without the state bank's approval.",
-    "Altura describes itself as a helium-focused exploration company advancing prospects in the Holbrook Basin of Arizona, targeting helium for uses the company lists as healthcare, semiconductors, aerospace and other advanced-technology applications. The company also trades on the OTCQB under the symbol ALTUF and on the Frankfurt Stock Exchange under Y020."
-   ]
-  },
-  {
-   "slug": "edgewater-wireless-settles-debenture-interest-in-shares-including",
-   "url": "https://www.cmbulletin.com/posts/edgewater-wireless-settles-debenture-interest-in-shares-including.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/edgewater-wireless-settles-debenture-interest-in-shares-including.json",
-   "date": "2026-10-31T13:09:27Z",
-   "headline": "Edgewater Wireless settles debenture interest in shares, including some to its own directors",
-   "dek": "The TSX Venture company will issue 1,421,982 shares at $0.05 to cover $71,100 in interest owed on debentures issued in 2022.",
-   "caption": "Debenture interest settlements paid in shares rather than cash are common among thinly traded venture issuers.",
-   "sections": [
-    "tech"
-   ],
-   "tags": [
-    "Debt",
-    "Technology",
-    "Governance"
-   ],
-   "tickers": [
-    "TSXV:YFI",
-    "OTC:KPIFF"
-   ],
-   "image": "https://www.cmbulletin.com/images/edgewater-wireless-settles-debenture-interest-in-shares-including.png",
-   "source_name": "TheNewswire.ca",
-   "sources": [
-    {
-     "title": "Edgewater Wireless Announces Payments of Debenture Interest",
-     "url": "https://thenewswire.com/press-releases/1k1vFqy0g-edgewater-wireless-announces-payments-of-debenture-interest.html",
-     "publisher": "TheNewswire.ca"
-    }
-   ],
-   "unverified_claims": [
-    "That the shares and debt involved do not exceed 25% of Edgewater's market capitalization is the company's own compliance assessment and has not been independently confirmed."
-   ],
-   "brief": [
-    "Edgewater Wireless Systems Inc. (TSXV: YFI) said October 30 it will settle $71,100.01 in accumulated interest on debentures issued September 1, 2022, by issuing 1,421,982 common shares at a deemed price of $0.05 each. The interest covers four quarterly payment dates from December 1, 2025 through September 1, 2026.",
-    "Of those shares, 265,995 are going to company directors, which the company said triggers the related-party transaction rules under Multilateral Instrument 61-101. Edgewater said it qualifies for an exemption from formal valuation and minority-approval requirements because neither the shares nor the debt involved exceed 25% of its market capitalization.",
-    "The debt settlement is subject to TSX Venture Exchange approval, the company said. Edgewater separately granted 900,000 stock options to employees and consultants at an exercise price of $0.05 per share, expiring five years from the date of grant."
-   ],
-   "body": [
-    "Edgewater Wireless Systems Inc. (TSXV: YFI) said October 30 that it will settle an aggregate of $71,100.01 owed in interest on its unsecured debentures, issued September 1, 2022, by issuing 1,421,982 common shares at a deemed price of $0.05 per share. The interest covers four quarterly obligations dated December 1, 2025, March 1, 2026, June 1, 2026 and September 1, 2026.",
-    "Of the shares being issued, 265,995 are going to company directors, the release said. Edgewater said that participation triggers the related-party transaction requirements of Multilateral Instrument 61-101, which governs transactions between an issuer and its insiders.",
-    "Edgewater said it qualifies for an exemption from the formal-valuation and minority-shareholder-approval requirements that would otherwise apply, because neither the fair value of the shares nor the debt being settled exceeds 25% of the company's market capitalization, as calculated under the instrument.",
-    "The debt settlement remains subject to the approval of the TSX Venture Exchange, the company said. The release did not state when that approval is expected or what happens to the arrangement if it is not granted.",
-    "Separately, Edgewater said it granted 900,000 stock options to employees and consultants at an exercise price of $0.05 per share. The options expire five years from the date of grant, according to the release.",
-    "Edgewater also trades over the counter in the United States under the symbol KPIFF. The release gave no further detail on the company's current financial position or on why the interest was settled in shares rather than cash."
-   ]
-  },
-  {
-   "slug": "openai-cuts-its-funding-target-by-10-billion-as-ai-stocks-slide",
-   "url": "https://www.cmbulletin.com/posts/openai-cuts-its-funding-target-by-10-billion-as-ai-stocks-slide.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/openai-cuts-its-funding-target-by-10-billion-as-ai-stocks-slide.json",
-   "date": "2026-10-31T12:42:46Z",
-   "headline": "OpenAI cuts its funding target by $10 billion as AI stocks slide",
-   "dek": "The ChatGPT maker now seeks $20 billion at a $1.25 trillion valuation, down from a $30 billion target.",
-   "caption": "OpenAI has cut the target for its funding round by $10 billion as a tech-stock selloff weighs on AI valuations.",
-   "sections": [
-    "tech"
-   ],
-   "tags": [
-    "Artificial Intelligence",
-    "Venture Capital",
-    "Tech"
-   ],
-   "tickers": [
-    "TSXV:PINK",
-    "CSE:SPAI",
-    "CSE:RAIL"
-   ],
-   "image": "https://www.cmbulletin.com/images/openai-cuts-its-funding-target-by-10-billion-as-ai-stocks-slide.png",
+   "image": "https://www.cmbulletin.com/images/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.png",
    "source_name": "Reuters",
    "sources": [
     {
-     "title": "OpenAI cuts funding target by $10 billion, FT reports",
-     "url": "https://www.investing.com/news/economy-news/openai-cuts-funding-target-by-10-billion-ft-reports-4988969",
+     "title": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
+     "url": "https://kfgo.com/2026/10/31/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds/",
      "publisher": "Reuters"
     },
     {
-     "title": "PERIMETER MEDICAL IMAGING AI IN (TSXV: PINK) quote, +28.57% on about $135,180",
-     "url": "https://finance.yahoo.com/quote/PINK.V",
+     "title": "NEPTUNE DIGITAL ASSETS CORP (TSXV: NDA) quote, -5.88% on about $94,594",
+     "url": "https://finance.yahoo.com/quote/NDA.V",
      "publisher": "Yahoo Finance"
     },
     {
-     "title": "Sparc AI Inc. (CSE: SPAI) quote, -8.77% on about $31,331",
-     "url": "https://finance.yahoo.com/quote/SPAI.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "Railtown AI Technologies Inc (CSE: RAIL) quote, +1.72% on about $47,985",
-     "url": "https://finance.yahoo.com/quote/RAIL.CN",
+     "title": "DMG BLOCKCHAIN SOLUTIONS INC (TSXV: DMGI) quote, -4.88% on about $88,530",
+     "url": "https://finance.yahoo.com/quote/DMGI.V",
      "publisher": "Yahoo Finance"
     }
    ],
    "unverified_claims": [
-    "The figures for OpenAI's revised funding target and valuation come from a Financial Times report carried by Reuters; OpenAI itself has not independently confirmed them in this account."
+    "Binance's own statement that it has covered 95% of the stolen funds and its account of how the replacement tokens were funded",
+    "The FBI's attribution of the theft to a North Korean hacking unit it calls TraderTraitor"
    ],
    "brief": [
-    "OpenAI has cut the target for its latest funding round by $10 billion, now seeking $20 billion rather than the $30 billion it had been pursuing, according to a Financial Times report carried by Reuters. The company is also seeking a lower valuation of $1.25 trillion, down from the $1.4 trillion it wanted.",
-    "The cut comes as a tech-sector selloff tied to worries about AI spending has hit markets; the Nasdaq fell 2.9% the day the news broke and is down 7.8% from its October 6 peak. Some investors have reduced commitments, and the round's 'first close' is expected to land below the new $20 billion target.",
-    "The theme comprises 29 listed venture names; 18 traded today, 5 higher and 9 lower, for a median move of -2.17% against -2.77% for the S&P/TSX Venture Composite. Perimeter Medical Imaging Ai In (TSXV: PINK) rose 28.57% to CAD0.18, and is in the theme because its registered name contains \"ai.\" Nothing connects the two."
+    "Binance resumed bitcoin and ether withdrawals in phases on Sunday after covering roughly 95%, or about $6 billion, of the record $6.3 billion in crypto stolen in October, the exchange said. Bitcoin withdrawals resumed shortly after 0600 GMT, with other tokens following within hours.",
+    "The FBI has tied the theft to a North Korean state-sponsored group it calls TraderTraitor. Binance funded the replacement tokens from its $1 billion Secure Asset Fund for Users, its futures insurance fund and corporate treasury; the remaining 5%, in less liquid assets, is still being sourced, the exchange said.",
+    "On Canada's venture board, five of the 14 listed digital-asset names traded today; Neptune Digital Assets Corp fell 5.88% to $0.48 and Dmg Blockchain Solutions Inc fell 4.88% to $0.39, a theme median of -4.88% against -2.77% for the S&P/TSX Venture Composite."
    ],
    "body": [
-    "OpenAI has cut the target for its latest funding round by $10 billion, now seeking about $20 billion rather than the $30 billion it had been pursuing, according to a Financial Times report carried by Reuters. The company is also seeking a lower valuation, $1.25 trillion rather than the $1.4 trillion target. OpenAI had set a Friday deadline for investor commitments, Reuters reported.",
-    "The reduction follows a selloff across technology stocks tied to concerns over the scale of AI infrastructure spending. Reuters reported the Nasdaq fell 2.9% on the day the cut was reported and is down 7.8% from its October 6 peak. Some investors have reduced the size of their commitments to the round, and the fund's 'first close' — the initial tranche of capital committed — is expected to come in below the revised $20 billion target.",
-    "Reuters named several participants in the round, including the UAE-backed technology fund MGX, expected to be the largest investor, alongside Founders Fund, Coatue, Sequoia Capital and Andreessen Horowitz. OpenAI is pursuing a public listing in 2027, and Reuters reported the company had been keen to close this round ahead of rival Anthropic's anticipated listing, since the two companies draw on an overlapping investor base.",
-    "On the venture boards, the read-through for today's AI theme is as follows. The theme comprises 29 listed venture names; 18 traded today, 5 higher and 9 lower, for a median move of -2.17% against -2.77% for the S&P/TSX Venture Composite. The spread between the two was 0.60 percentage points.",
-    "Perimeter Medical Imaging Ai In (TSXV: PINK) rose 28.57% to CAD0.18, and is in the theme because its registered name contains \"ai.\" Sparc AI Inc. (CSE: SPAI) fell 8.77% to CAD2.08, and is in the theme because its registered name contains \"ai.\" Railtown AI Technologies Inc (CSE: RAIL) rose 1.72% to CAD0.295, and is in the theme because its registered name contains \"ai.\"",
-    "OpenAI's funding news and these moves fell on the same trading day. Nothing in the public record ties the two together: the theme's -2.17% median move and the Composite's -2.77% decline are both simply what the board did that day."
+    "Binance began resuming withdrawals in phases on Sunday, starting with bitcoin shortly after 0600 GMT and followed within hours by ether, BNB, XRP, dogecoin and other tokens, after the exchange said it had covered roughly 95%, or about $6 billion, of the $6.3 billion in crypto stolen in October. The remaining 5%, in less liquid assets, is still being sourced, Binance said.",
+    "The FBI said it had tied the theft to a North Korean state-sponsored hacking unit it calls TraderTraitor, which the bureau said laundered the stolen assets by converting them into Ethereum. Asked about the attribution, President Trump said: \"We don't know if it's North Korea — but if it is, we'll talk to North Korea about it.\"",
+    "Binance funded the replacement tokens using half of its $1 billion Secure Asset Fund for Users, along with portions of its futures insurance fund and corporate treasury, the exchange said. Co-chief executive Yi He said the company was committed to replenishing the Secure Asset Fund back to about $1 billion. Founder Changpeng Zhao thanked law enforcement for its help, saying \"a tweet can't fully express our gratitude.\"",
+    "Binance, described in the report as the world's largest cryptocurrency exchange, said the phased restart ultimately covered 15 crypto assets, beginning with bitcoin and followed by ether, BNB, XRP, dogecoin and the USDT and USDC stablecoins, restoring withdrawal access across the tokens affected by the October halt.",
+    "The theme of digital-asset names on Canada's venture boards comprises 14 listed companies; five traded today, one higher and four lower, for a median move of -4.88% against -2.77% for the S&P/TSX Venture Composite — a spread of -2.11 percentage points on the day Binance announced the restored withdrawals.",
+    "Neptune Digital Assets Corp (TSXV: NDA) fell 5.88% to $0.48, and is in the theme because its registered name contains \"digital asset.\" Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 4.88% to $0.39, and is in the theme because its registered name contains \"blockchain.\" The moves and the Binance news fall on the same day; nothing here connects the two."
    ]
   }
  ]
