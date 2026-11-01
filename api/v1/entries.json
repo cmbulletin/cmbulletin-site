@@ -1,11 +1,109 @@
 {
  "api": "v1",
- "generated_at": "2026-11-01T13:01:12Z",
+ "generated_at": "2026-11-01T13:20:06Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 118,
+ "count": 120,
  "entries": [
+  {
+   "slug": "live-energy-minerals-issues-120-000-shares-to-option-a-new-brunswick",
+   "url": "https://www.cmbulletin.com/posts/live-energy-minerals-issues-120-000-shares-to-option-a-new-brunswick.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/live-energy-minerals-issues-120-000-shares-to-option-a-new-brunswick.json",
+   "date": "2026-11-01T13:10:04Z",
+   "headline": "Live Energy Minerals issues 120,000 shares to option a New Brunswick property",
+   "dek": "The CSE-listed junior's first tranche under an October 15 option agreement covers two uranium-copper claims near Plaster Rock, with no cash payments required.",
+   "caption": "A quiet stretch of sandstone outcrop and second-growth forest in rural New Brunswick, the kind of ground staked under option agreements like this one.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Uranium",
+    "Property Option"
+   ],
+   "tickers": [
+    "CSE:LIVE",
+    "OTC:GTREF"
+   ],
+   "image": "https://www.cmbulletin.com/images/live-energy-minerals-issues-120-000-shares-to-option-a-new-brunswick.png",
+   "source_name": "Live Energy Minerals Corp. (via StockTitan)",
+   "sources": [
+    {
+     "title": "Live Energy Minerals Completes Issuance of First Tranche of Shares for Plaster Rock Property in New Brunswick",
+     "url": "https://www.stocktitan.net/news/GTREF/live-energy-minerals-completes-issuance-of-first-tranche-of-shares-zmkllo682v6e.html",
+     "publisher": "Live Energy Minerals Corp. (via StockTitan)"
+    },
+    {
+     "title": "Live Energy Minerals Issues Initial 120,000 Shares to Secure Plaster Rock Uranium-Copper Property in New Brunswick",
+     "url": "https://kalkinemedia.com/ca/news/announcements/live-energy-minerals-issues-initial-120000-shares-to-secure-plaster-rock-uranium-copper-property-in-new-brunswick",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization of the Plaster Rock claims as a 'uranium-copper property' rests on the company's own description in the release.",
+    "The release does not designate its dollar figures as Canadian or US currency."
+   ],
+   "brief": [
+    "Live Energy Minerals Corp. (CSE:LIVE; OTC:GTREF) said it issued 120,000 common shares on October 30, 2026, at a deemed price of $0.20 each, worth $24,000, as the first payment under an option agreement to acquire a 100% interest in two mineral claims comprising 73 units near Plaster Rock, New Brunswick.",
+    "The option agreement, dated October 15, 2026, carries no cash payments and no minimum exploration expenditures, the company said. Live Energy must issue a further 1,000,000 shares on or before October 30, 2027, and a further 2,880,000 shares on or before October 30, 2028, each priced at the closing share price before issuance under Canadian Securities Exchange policy.",
+    "The optionor retains a 2% net smelter returns royalty on the property, half of which Live Energy may buy back at any time for $500,000, the release said. The 120,000 shares issued are subject to a statutory hold period expiring March 1, 2027."
+   ]
+  },
+  {
+   "slug": "russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine",
+   "url": "https://www.cmbulletin.com/posts/russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine.json",
+   "date": "2026-11-01T13:10:04Z",
+   "headline": "Russian strikes knock out power for hundreds of thousands in Ukraine",
+   "dek": "Ukrainian drones struck a Russian missile plant in Rostov and caused significant damage in Nizhny Novgorod the same night, as a local ceasefire held elsewhere.",
+   "caption": "Transmission towers stand against a grey dawn sky, evoking the power infrastructure now targeted on both sides of the front line.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Geopolitics",
+    "Defence",
+    "Energy Infrastructure"
+   ],
+   "tickers": [
+    "CSE:QESS",
+    "TSXV:ALCH",
+    "TSXV:PNG"
+   ],
+   "image": "https://www.cmbulletin.com/images/russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine.png",
+   "source_name": "Reuters (via Yahoo News)",
+   "sources": [
+    {
+     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+     "url": "https://www.yahoo.com/news/articles/russian-strikes-cut-power-thousands-113519888.html",
+     "publisher": "Reuters (via Yahoo News)"
+    },
+    {
+     "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, -11.11% on about $72,387",
+     "url": "https://finance.yahoo.com/quote/QESS.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "ALCHEMY LABS INC (TSXV: ALCH) quote, -9.88% on about $86,213",
+     "url": "https://finance.yahoo.com/quote/ALCH.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -2.07% on about $4,758,264",
+     "url": "https://finance.yahoo.com/quote/PNG.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "Casualty-free damage and drone-count figures are relayed by each side's own officials (Ukraine's air force and President Zelenskiy; Russia's Defence Ministry and Nizhny Novgorod governor Gleb Nikitin) and have not been independently verified."
+   ],
+   "brief": [
+    "Russian missile and drone strikes hit power infrastructure across four Ukrainian regions overnight, leaving hundreds of thousands of households without electricity, President Volodymyr Zelenskiy said. Ukraine's air force said it shot down 371 of the 433 long-range Russian drones launched since Saturday evening, Reuters reported.",
+    "Ukrainian drones struck the Kamensky plant in Russia's Rostov region, which Ukraine says manufactures missiles, and caused what Nizhny Novgorod governor Gleb Nikitin called significant damage to an industrial facility in his region, home to the NORSI oil refinery. Russia's Defence Ministry said it downed 235 Ukrainian drones overnight.",
+    "CM Bulletin's defence-and-drones theme comprises 8 listed venture names; 5 traded today, 0 higher and 3 lower, for a median move of -2.07% against -2.77% for the S&P/TSX Venture Composite. Aegis Critical Energy Defence (CSE:QESS) fell 11.11% to C$0.24, Alchemy Labs (TSXV:ALCH) fell 9.88% to C$0.73, and Kraken Robotics (TSXV:PNG) fell 2.07% to C$3.78."
+   ]
+  },
   {
    "slug": "eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share",
    "url": "https://www.cmbulletin.com/posts/eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share.html",

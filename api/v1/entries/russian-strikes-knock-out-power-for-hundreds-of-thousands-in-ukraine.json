@@ -1,0 +1,68 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-01T13:20:06Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine",
+ "url": "https://www.cmbulletin.com/posts/russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine.json",
+ "date": "2026-11-01T13:10:04Z",
+ "headline": "Russian strikes knock out power for hundreds of thousands in Ukraine",
+ "dek": "Ukrainian drones struck a Russian missile plant in Rostov and caused significant damage in Nizhny Novgorod the same night, as a local ceasefire held elsewhere.",
+ "caption": "Transmission towers stand against a grey dawn sky, evoking the power infrastructure now targeted on both sides of the front line.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "Geopolitics",
+  "Defence",
+  "Energy Infrastructure"
+ ],
+ "tickers": [
+  "CSE:QESS",
+  "TSXV:ALCH",
+  "TSXV:PNG"
+ ],
+ "image": "https://www.cmbulletin.com/images/russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine.png",
+ "source_name": "Reuters (via Yahoo News)",
+ "sources": [
+  {
+   "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+   "url": "https://www.yahoo.com/news/articles/russian-strikes-cut-power-thousands-113519888.html",
+   "publisher": "Reuters (via Yahoo News)"
+  },
+  {
+   "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, -11.11% on about $72,387",
+   "url": "https://finance.yahoo.com/quote/QESS.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "ALCHEMY LABS INC (TSXV: ALCH) quote, -9.88% on about $86,213",
+   "url": "https://finance.yahoo.com/quote/ALCH.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -2.07% on about $4,758,264",
+   "url": "https://finance.yahoo.com/quote/PNG.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "Casualty-free damage and drone-count figures are relayed by each side's own officials (Ukraine's air force and President Zelenskiy; Russia's Defence Ministry and Nizhny Novgorod governor Gleb Nikitin) and have not been independently verified."
+ ],
+ "brief": [
+  "Russian missile and drone strikes hit power infrastructure across four Ukrainian regions overnight, leaving hundreds of thousands of households without electricity, President Volodymyr Zelenskiy said. Ukraine's air force said it shot down 371 of the 433 long-range Russian drones launched since Saturday evening, Reuters reported.",
+  "Ukrainian drones struck the Kamensky plant in Russia's Rostov region, which Ukraine says manufactures missiles, and caused what Nizhny Novgorod governor Gleb Nikitin called significant damage to an industrial facility in his region, home to the NORSI oil refinery. Russia's Defence Ministry said it downed 235 Ukrainian drones overnight.",
+  "CM Bulletin's defence-and-drones theme comprises 8 listed venture names; 5 traded today, 0 higher and 3 lower, for a median move of -2.07% against -2.77% for the S&P/TSX Venture Composite. Aegis Critical Energy Defence (CSE:QESS) fell 11.11% to C$0.24, Alchemy Labs (TSXV:ALCH) fell 9.88% to C$0.73, and Kraken Robotics (TSXV:PNG) fell 2.07% to C$3.78."
+ ],
+ "body": [
+  "Russian missile and drone strikes hit power infrastructure across four Ukrainian regions overnight into Sunday, leaving hundreds of thousands of households without electricity, President Volodymyr Zelenskiy said. Ukraine's air force said it shot down 371 of 433 long-range Russian drones launched since Saturday evening, according to Reuters, which did not specify how many struck their targets.",
+  "Ukraine struck back at targets inside Russia. Drones hit the Kamensky plant in Russia's Rostov region, which Ukraine says is involved in missile manufacturing, Reuters reported. Nizhny Novgorod governor Gleb Nikitin said a separate, large-scale drone attack caused significant damage to an industrial facility in his region, which is home to the NORSI oil refinery, one of Russia's largest. Russia's Defence Ministry said it downed 235 Ukrainian drones over Russian regions overnight.",
+  "A six-day local ceasefire around the Russian-controlled Ukrainian town of Oleshky held through its final day, Reuters reported, even as fighting continued elsewhere along the front line and both sides kept up long-range strikes. Ukraine says it supports a broader ceasefire specifically covering energy-infrastructure targets, and says Russia has not agreed to one.",
+  "US President Donald Trump has asked Ukraine to stop striking Russian oil refineries, Reuters reported, saying such strikes have helped push up diesel prices ahead of US midterm elections.",
+  "On the venture boards, CM Bulletin's defence-and-drones theme — eight listed names tied to the sector by their registered name or sector label — was mixed on the day the strikes were reported. Five of the eight traded; none rose and three fell, for a median move of -2.07%, against a -2.77% decline for the S&P/TSX Venture Composite.",
+  "Aegis Critical Energy Defence Corp. (CSE:QESS) fell 11.11% to C$0.24, qualifying for the theme because its registered name contains \"defence.\" Alchemy Labs Inc (TSXV:ALCH) fell 9.88% to C$0.73, in the theme because its sector label is \"Aerospace & Defense.\" Kraken Robotics Inc (TSXV:PNG) fell 2.07% to C$3.78, its registered name being Kraken Robotics Inc.",
+  "The declines fall on the same day as the strikes reported above. Neither the reporting on the strikes nor the quotes behind these moves draws any connection between the two, and none is implied here."
+ ]
+}

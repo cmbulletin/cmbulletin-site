@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-11-01T13:01:12Z",
+ "generated_at": "2026-11-01T13:20:06Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "fetched_at": "2026-11-01T13:01:11.962897+00:00",
+ "fetched_at": "2026-11-01T13:20:06.188856+00:00",
  "delayed": true,
  "note": "Levels are delayed, typically by fifteen minutes, and are not real-time. A row whose name says ETF is a fund, not the underlying. Series is the last month of daily closes.",
  "live": {
@@ -2110,9 +2110,9 @@
       "symbol": "BTC-USD",
       "name": "Bitcoin",
       "decimals": 2,
-      "last": 77772.0,
+      "last": 77866.22,
       "prev": 77434.75,
-      "pct": 0.4355,
+      "pct": 0.5572,
       "series": [
        83679.46875,
        81762.5625,
@@ -2135,16 +2135,16 @@
        77775.109375,
        77198.210938,
        77434.75,
-       77772.0
+       77866.21875
       ]
      },
      {
       "symbol": "ETH-USD",
       "name": "Ether",
       "decimals": 2,
-      "last": 2259.28,
+      "last": 2262.82,
       "prev": 2252.747803,
-      "pct": 0.29,
+      "pct": 0.4471,
       "series": [
        2534.699219,
        2444.357422,
@@ -2167,7 +2167,7 @@
        2249.498291,
        2241.054443,
        2252.747803,
-       2259.280029
+       2262.820068
       ]
      }
     ]
