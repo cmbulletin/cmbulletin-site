@@ -1,11 +1,148 @@
 {
  "api": "v1",
- "generated_at": "2026-11-01T13:20:06Z",
+ "generated_at": "2026-11-02T13:29:16Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 120,
+ "count": 123,
  "entries": [
+  {
+   "slug": "binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack",
+   "url": "https://www.cmbulletin.com/posts/binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack.json",
+   "date": "2026-11-02T12:57:27Z",
+   "headline": "Binance says customers pulled $4.7 billion after its $6.3 billion hack",
+   "dek": "The exchange reopened withdrawals after a 48-hour freeze following the theft, which the FBI has linked to the North Korean hacking group TraderTraitor.",
+   "caption": "A data center server room. Binance said net customer withdrawals eased to $4.72 billion following the exchange's $6.3 billion hack.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Digital Assets",
+    "Cybersecurity",
+    "Markets"
+   ],
+   "tickers": [
+    "TSXV:NDA",
+    "TSXV:DMGI"
+   ],
+   "image": "https://www.cmbulletin.com/images/binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack.png",
+   "source_name": "Reuters (via BNN Bloomberg)",
+   "sources": [
+    {
+     "title": "Binance says customers pulled net US$4.7 billion after hack as crypto world weighs risk",
+     "url": "https://www.bnnbloomberg.ca/markets/crypto/2026/11/02/binance-says-customers-pulled-net-us47-billion-after-hack-as-crypto-world-weighs-risk/",
+     "publisher": "Reuters (via BNN Bloomberg)"
+    },
+    {
+     "title": "NEPTUNE DIGITAL ASSETS CORP (TSXV: NDA) quote, -5.88% on about $94,594",
+     "url": "https://finance.yahoo.com/quote/NDA.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "DMG BLOCKCHAIN SOLUTIONS INC (TSXV: DMGI) quote, -4.88% on about $88,530",
+     "url": "https://finance.yahoo.com/quote/DMGI.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "Binance's characterization of the theft as 'potentially the largest financial heist in history' is the company's own description, not independently verified.",
+    "Binance's statement that it has raised $6 billion from its corporate treasury, an insurance fund and security reserves to cover customer losses rests on the company's own disclosure."
+   ],
+   "brief": [
+    "Binance said Monday that customers had withdrawn a net $4.72 billion since the exchange reopened for withdrawals on Sunday morning, after freezing them for roughly 48 hours following a $6.3 billion theft the company has called potentially the largest financial heist in history. The FBI has attributed the hack to the North Korean group TraderTraitor.",
+    "Binance co-chief executive Yi He said the exchange's \"top priority right now is to ensure the environment is secure, after which users can withdraw their funds.\" The company said it is covering customer losses with company funds, having already raised $6 billion from its corporate treasury, an insurance fund and reserves set aside for security breaches.",
+    "On the venture boards, in the digital-assets theme: the theme comprises 14 listed venture names; 5 traded today, 1 higher and 4 lower, for a median move of -4.88% against -2.77% for the S&P/TSX Venture Composite. Neptune Digital Assets Corp (TSXV: NDA) fell 5.88% to CAD0.48, and Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 4.88% to CAD0.39. Nothing ties either move to Monday's Binance news."
+   ]
+  },
+  {
+   "slug": "myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project",
+   "url": "https://www.cmbulletin.com/posts/myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project.json",
+   "date": "2026-11-02T12:57:27Z",
+   "headline": "Myriad Uranium closes its $1 million purchase of an Argentine project",
+   "dek": "The CSE-listed explorer paid cash and shares for 100% of the Los Altares uranium project in the Cerro Solo district.",
+   "caption": "A wide, arid Patagonian plateau under a pale sky, with eroded rock outcrops stretching to the horizon.",
+   "sections": [
+    "energy"
+   ],
+   "tags": [
+    "Uranium",
+    "M&A",
+    "Energy"
+   ],
+   "tickers": [
+    "CSE:M",
+    "TSXV:GCOM"
+   ],
+   "image": "https://www.cmbulletin.com/images/myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Myriad Uranium Closes Acquisition of Los Altares, a Strategic District-Scale Uranium Project in Argentina's Premier Cerro Solo Uranium District",
+     "url": "https://investingnews.com/myriad-uranium-closes-acquisition-of-los-altares-a-strategic-district-scale-uranium-project-in-argentina-s-premier-cerro-solo-uranium-district/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The release's characterization of Los Altares as carrying 'significant historic work' and 'strong leverage to the uranium price' reflects the company's own framing of the asset and is not independently verified."
+   ],
+   "brief": [
+    "Myriad Uranium Corp. (CSE: M) has closed its acquisition of the Los Altares uranium project in central Chubut, Argentina, from Green Shift Commodities Ltd. (TSXV: GCOM). The company paid $300,000 in cash plus 1,571,268 common shares, valued at $0.4455 each, or about $700,000, for total consideration of $1,000,000. Myriad now holds a 100% interest.",
+    "Green Shift retains a 2% net smelter return royalty on the project, with an option for Myriad to buy back half of it for $1,000,000. The shares issued to Green Shift are subject to a four-month hold expiring March 1, 2027. Myriad also issued 150,000 stock options to a consultant, exercisable at $0.39 and expiring October 30, 2031.",
+    "The 55,000-hectare project sits in the Cerro Solo uranium district and is adjacent to the Cerro Solo deposit and the historical Los Adobes mine. Myriad chief executive Thomas Lamb said the deal \"continues Myriad's strategy of acquiring projects with significant historic work in known uranium districts and with low up-front and ongoing costs and strong leverage to the uranium price.\""
+   ]
+  },
+  {
+   "slug": "china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies",
+   "url": "https://www.cmbulletin.com/posts/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.json",
+   "date": "2026-11-02T12:57:27Z",
+   "headline": "China's robot makers are racing to build AI 'brains', not just bodies",
+   "dek": "Chinese embodied-AI startups raised about $13 billion in the first half of 2026, five times the prior year, as the industry shifts focus from humanoid stunts to software.",
+   "caption": "An idle robotic arm on a factory assembly line, lit by cool overhead fluorescent light.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Robotics",
+    "Artificial Intelligence",
+    "China"
+   ],
+   "tickers": [
+    "TSXV:PNG",
+    "TSXV:PALS"
+   ],
+   "image": "https://www.cmbulletin.com/images/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.png",
+   "source_name": "Reuters (via Investing.com)",
+   "sources": [
+    {
+     "title": "China's robot makers have mastered the moves. Now comes the race for brains",
+     "url": "https://www.investing.com/news/stock-market-news/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-4989782",
+     "publisher": "Reuters (via Investing.com)"
+    },
+    {
+     "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -2.07% on about $4,758,264",
+     "url": "https://finance.yahoo.com/quote/PNG.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "PARAGON ADVANCED LABS INC (TSXV: PALS) quote, -0.82% on about $53,946",
+     "url": "https://finance.yahoo.com/quote/PALS.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "DexForce's reported success rate above 99.9% in specified precision operations is self-reported by the company via its chief operating officer.",
+    "CATL's reported insertion success rate above 99% for Spirit AI's robots in its battery-pack testing is self-reported by CATL, as relayed in the reporting.",
+    "ZenGen Labs founder Dermot McGrath's conclusion that robotics margin will come from software rather than hardware is his own stated view, not an independently verified industry fact."
+   ],
+   "brief": [
+    "Chinese robotics companies that spent years building humanoids capable of running, dancing and backflips are now pouring money into the software that could make the machines useful on the job, Reuters reported. Chinese embodied-AI startups raised 93.5 billion yuan, about $13 billion, across 322 deals in the first half of 2026 — five times the year-earlier total, according to the research firm ITjuzi.",
+    "Spirit AI co-founder Gao Yang said \"the brain is indeed the weakest link in the complete robotics stack.\" Ant Group's Robbyant has trained a model on 160,000 hours of material, including 50,000 hours of human-guided robot movements, across 20 robot configurations from 17 brands. DexForce says it can prepare some industrial tasks for deployment within six to eight hours, with success rates above 99.9% in specified precision operations.",
+    "On the venture boards, in the robotics-and-automation theme: the theme comprises 11 listed venture names; 6 traded today, 2 higher and 3 lower, for a median move of -0.41% against -2.77% for the S&P/TSX Venture Composite. Kraken Robotics Inc (TSXV: PNG) fell 2.07% to CAD3.78, and Paragon Advanced Labs Inc (TSXV: PALS) fell 0.82% to CAD2.43. Nothing ties either move to the China reporting."
+   ]
+  },
   {
    "slug": "live-energy-minerals-issues-120-000-shares-to-option-a-new-brunswick",
    "url": "https://www.cmbulletin.com/posts/live-energy-minerals-issues-120-000-shares-to-option-a-new-brunswick.html",

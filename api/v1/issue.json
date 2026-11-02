@@ -1,259 +1,39 @@
 {
  "api": "v1",
- "generated_at": "2026-11-01T13:20:06Z",
+ "generated_at": "2026-11-02T13:29:16Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-11-01",
- "count": 5,
+ "issue_date": "2026-11-02",
+ "count": 3,
  "entries": [
   {
-   "slug": "live-energy-minerals-issues-120-000-shares-to-option-a-new-brunswick",
-   "url": "https://www.cmbulletin.com/posts/live-energy-minerals-issues-120-000-shares-to-option-a-new-brunswick.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/live-energy-minerals-issues-120-000-shares-to-option-a-new-brunswick.json",
-   "date": "2026-11-01T13:10:04Z",
-   "headline": "Live Energy Minerals issues 120,000 shares to option a New Brunswick property",
-   "dek": "The CSE-listed junior's first tranche under an October 15 option agreement covers two uranium-copper claims near Plaster Rock, with no cash payments required.",
-   "caption": "A quiet stretch of sandstone outcrop and second-growth forest in rural New Brunswick, the kind of ground staked under option agreements like this one.",
-   "sections": [
-    "mining"
-   ],
-   "tags": [
-    "Mining",
-    "Uranium",
-    "Property Option"
-   ],
-   "tickers": [
-    "CSE:LIVE",
-    "OTC:GTREF"
-   ],
-   "image": "https://www.cmbulletin.com/images/live-energy-minerals-issues-120-000-shares-to-option-a-new-brunswick.png",
-   "source_name": "Live Energy Minerals Corp. (via StockTitan)",
-   "sources": [
-    {
-     "title": "Live Energy Minerals Completes Issuance of First Tranche of Shares for Plaster Rock Property in New Brunswick",
-     "url": "https://www.stocktitan.net/news/GTREF/live-energy-minerals-completes-issuance-of-first-tranche-of-shares-zmkllo682v6e.html",
-     "publisher": "Live Energy Minerals Corp. (via StockTitan)"
-    },
-    {
-     "title": "Live Energy Minerals Issues Initial 120,000 Shares to Secure Plaster Rock Uranium-Copper Property in New Brunswick",
-     "url": "https://kalkinemedia.com/ca/news/announcements/live-energy-minerals-issues-initial-120000-shares-to-secure-plaster-rock-uranium-copper-property-in-new-brunswick",
-     "publisher": "Kalkine Media — Canada"
-    }
-   ],
-   "unverified_claims": [
-    "The characterization of the Plaster Rock claims as a 'uranium-copper property' rests on the company's own description in the release.",
-    "The release does not designate its dollar figures as Canadian or US currency."
-   ],
-   "brief": [
-    "Live Energy Minerals Corp. (CSE:LIVE; OTC:GTREF) said it issued 120,000 common shares on October 30, 2026, at a deemed price of $0.20 each, worth $24,000, as the first payment under an option agreement to acquire a 100% interest in two mineral claims comprising 73 units near Plaster Rock, New Brunswick.",
-    "The option agreement, dated October 15, 2026, carries no cash payments and no minimum exploration expenditures, the company said. Live Energy must issue a further 1,000,000 shares on or before October 30, 2027, and a further 2,880,000 shares on or before October 30, 2028, each priced at the closing share price before issuance under Canadian Securities Exchange policy.",
-    "The optionor retains a 2% net smelter returns royalty on the property, half of which Live Energy may buy back at any time for $500,000, the release said. The 120,000 shares issued are subject to a statutory hold period expiring March 1, 2027."
-   ],
-   "body": [
-    "Live Energy Minerals Corp. (CSE:LIVE; OTC:GTREF) said it completed the issuance of 120,000 common shares on October 30, 2026, at a deemed price of $0.20 per share, representing a deemed value of $24,000. The shares were issued as the initial tranche payment under an option agreement, dated October 15, 2026, granting Live Energy the right to acquire a 100% interest in the Plaster Rock property in New Brunswick.",
-    "The Plaster Rock property comprises two mineral claims totalling 73 units, which the release describes as a uranium-copper property. Under the option agreement, Live Energy must issue a further 1,000,000 common shares on or before October 30, 2027, and a further 2,880,000 common shares on or before October 30, 2028.",
-    "Each of the later tranches will be priced at the closing price of Live Energy's shares on the last trading day before issuance, under the policies of the Canadian Securities Exchange, the company said. The option carries no cash payments and no minimum exploration-expenditure commitments.",
-    "The optionor retains a 2% net smelter returns royalty on the property. Live Energy may purchase one-half of that royalty, equal to 1 percentage point, at any time for $500,000, the release said.",
-    "The 120,000 shares issued under the first tranche are subject to a statutory hold period expiring March 1, 2027, pursuant to applicable Canadian securities laws, the company said. The release does not designate its dollar figures as Canadian or US currency.",
-    "Live Energy Minerals also holds the Mesa Top Mine and Section 20 uranium claims in New Mexico and has optioned its McDermitt Lithium East project in Nevada to US Critical Metals Corp., according to the release."
-   ]
-  },
-  {
-   "slug": "russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine",
-   "url": "https://www.cmbulletin.com/posts/russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine.json",
-   "date": "2026-11-01T13:10:04Z",
-   "headline": "Russian strikes knock out power for hundreds of thousands in Ukraine",
-   "dek": "Ukrainian drones struck a Russian missile plant in Rostov and caused significant damage in Nizhny Novgorod the same night, as a local ceasefire held elsewhere.",
-   "caption": "Transmission towers stand against a grey dawn sky, evoking the power infrastructure now targeted on both sides of the front line.",
+   "slug": "binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack",
+   "url": "https://www.cmbulletin.com/posts/binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack.json",
+   "date": "2026-11-02T12:57:27Z",
+   "headline": "Binance says customers pulled $4.7 billion after its $6.3 billion hack",
+   "dek": "The exchange reopened withdrawals after a 48-hour freeze following the theft, which the FBI has linked to the North Korean hacking group TraderTraitor.",
+   "caption": "A data center server room. Binance said net customer withdrawals eased to $4.72 billion following the exchange's $6.3 billion hack.",
    "sections": [
     "news"
    ],
    "tags": [
-    "Geopolitics",
-    "Defence",
-    "Energy Infrastructure"
-   ],
-   "tickers": [
-    "CSE:QESS",
-    "TSXV:ALCH",
-    "TSXV:PNG"
-   ],
-   "image": "https://www.cmbulletin.com/images/russian-strikes-knock-out-power-for-hundreds-of-thousands-in-ukraine.png",
-   "source_name": "Reuters (via Yahoo News)",
-   "sources": [
-    {
-     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
-     "url": "https://www.yahoo.com/news/articles/russian-strikes-cut-power-thousands-113519888.html",
-     "publisher": "Reuters (via Yahoo News)"
-    },
-    {
-     "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, -11.11% on about $72,387",
-     "url": "https://finance.yahoo.com/quote/QESS.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "ALCHEMY LABS INC (TSXV: ALCH) quote, -9.88% on about $86,213",
-     "url": "https://finance.yahoo.com/quote/ALCH.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -2.07% on about $4,758,264",
-     "url": "https://finance.yahoo.com/quote/PNG.V",
-     "publisher": "Yahoo Finance"
-    }
-   ],
-   "unverified_claims": [
-    "Casualty-free damage and drone-count figures are relayed by each side's own officials (Ukraine's air force and President Zelenskiy; Russia's Defence Ministry and Nizhny Novgorod governor Gleb Nikitin) and have not been independently verified."
-   ],
-   "brief": [
-    "Russian missile and drone strikes hit power infrastructure across four Ukrainian regions overnight, leaving hundreds of thousands of households without electricity, President Volodymyr Zelenskiy said. Ukraine's air force said it shot down 371 of the 433 long-range Russian drones launched since Saturday evening, Reuters reported.",
-    "Ukrainian drones struck the Kamensky plant in Russia's Rostov region, which Ukraine says manufactures missiles, and caused what Nizhny Novgorod governor Gleb Nikitin called significant damage to an industrial facility in his region, home to the NORSI oil refinery. Russia's Defence Ministry said it downed 235 Ukrainian drones overnight.",
-    "CM Bulletin's defence-and-drones theme comprises 8 listed venture names; 5 traded today, 0 higher and 3 lower, for a median move of -2.07% against -2.77% for the S&P/TSX Venture Composite. Aegis Critical Energy Defence (CSE:QESS) fell 11.11% to C$0.24, Alchemy Labs (TSXV:ALCH) fell 9.88% to C$0.73, and Kraken Robotics (TSXV:PNG) fell 2.07% to C$3.78."
-   ],
-   "body": [
-    "Russian missile and drone strikes hit power infrastructure across four Ukrainian regions overnight into Sunday, leaving hundreds of thousands of households without electricity, President Volodymyr Zelenskiy said. Ukraine's air force said it shot down 371 of 433 long-range Russian drones launched since Saturday evening, according to Reuters, which did not specify how many struck their targets.",
-    "Ukraine struck back at targets inside Russia. Drones hit the Kamensky plant in Russia's Rostov region, which Ukraine says is involved in missile manufacturing, Reuters reported. Nizhny Novgorod governor Gleb Nikitin said a separate, large-scale drone attack caused significant damage to an industrial facility in his region, which is home to the NORSI oil refinery, one of Russia's largest. Russia's Defence Ministry said it downed 235 Ukrainian drones over Russian regions overnight.",
-    "A six-day local ceasefire around the Russian-controlled Ukrainian town of Oleshky held through its final day, Reuters reported, even as fighting continued elsewhere along the front line and both sides kept up long-range strikes. Ukraine says it supports a broader ceasefire specifically covering energy-infrastructure targets, and says Russia has not agreed to one.",
-    "US President Donald Trump has asked Ukraine to stop striking Russian oil refineries, Reuters reported, saying such strikes have helped push up diesel prices ahead of US midterm elections.",
-    "On the venture boards, CM Bulletin's defence-and-drones theme — eight listed names tied to the sector by their registered name or sector label — was mixed on the day the strikes were reported. Five of the eight traded; none rose and three fell, for a median move of -2.07%, against a -2.77% decline for the S&P/TSX Venture Composite.",
-    "Aegis Critical Energy Defence Corp. (CSE:QESS) fell 11.11% to C$0.24, qualifying for the theme because its registered name contains \"defence.\" Alchemy Labs Inc (TSXV:ALCH) fell 9.88% to C$0.73, in the theme because its sector label is \"Aerospace & Defense.\" Kraken Robotics Inc (TSXV:PNG) fell 2.07% to C$3.78, its registered name being Kraken Robotics Inc.",
-    "The declines fall on the same day as the strikes reported above. Neither the reporting on the strikes nor the quotes behind these moves draws any connection between the two, and none is implied here."
-   ]
-  },
-  {
-   "slug": "eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share",
-   "url": "https://www.cmbulletin.com/posts/eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share.json",
-   "date": "2026-11-01T12:38:59Z",
-   "headline": "Eureka Metals wants $499,134 from shareholders at a penny a share",
-   "dek": "The rights offering precedes a proposed share consolidation of up to six-for-one, with rights expiring December 1.",
-   "caption": "A row of labelled rock core sample trays sits under fluorescent light, the quiet cataloguing work behind junior mineral exploration.",
-   "sections": [
-    "financings"
-   ],
-   "tags": [
-    "Financings",
-    "Mining",
-    "Capital Structure"
-   ],
-   "tickers": [
-    "CSE:ERKA",
-    "OTCQB:UREKF",
-    "FSE:S580"
-   ],
-   "image": "https://www.cmbulletin.com/images/eureka-metals-wants-499-134-from-shareholders-at-a-penny-a-share.png",
-   "source_name": "Investing News Network",
-   "sources": [
-    {
-     "title": "Eureka Metals Corp. Announces Rights Offering and Proposed Share Consolidation",
-     "url": "https://investingnews.com/eureka-metals-corp-announces-rights-offering-and-proposed-share-consolidation/",
-     "publisher": "Investing News Network"
-    },
-    {
-     "title": "Eureka Metals Corp. Initiates $0.01 Per Share Rights Offering and Plans Up-to-6-for-1 Share Consolidation",
-     "url": "https://kalkinemedia.com/ca/news/announcements/eureka-metals-corp-initiates-001-per-share-rights-offering-and-plans-up-to-6-for-1-share-consolidation",
-     "publisher": "Kalkine Media — Canada"
-    }
-   ],
-   "unverified_claims": [
-    "Eureka's own account of its planned use of proceeds for exploration, property and administrative costs"
-   ],
-   "brief": [
-    "Eureka Metals Corp. (CSE: ERKA), a mineral explorer with titanium, vanadium and scandium projects in Quebec and British Columbia, has launched a rights offering to raise up to $499,134. Shareholders of record on November 6 get one transferable right per share, each exercisable for one pre-consolidation share at $0.01.",
-    "Rights expire December 1 at 4 p.m. Toronto time, with closing expected around December 2. Eureka separately plans to consolidate its shares on a ratio of up to six-for-one, which the board will finalize; at the maximum ratio the company would have about 16.6 million shares outstanding after both steps.",
-    "Odyssey Trust Company is acting as rights agent. Net proceeds, combined with existing working capital, are earmarked for exploration and property costs, general and administrative expenses and unallocated working capital, the company said."
-   ],
-   "body": [
-    "Eureka Metals Corp. (CSE: ERKA) (OTCQB: UREKF) (FSE: S580), a Canadian mineral explorer holding titanium, vanadium, scandium and other polymetallic projects in Quebec and British Columbia, has launched a rights offering to raise up to $499,134. Holders of common shares as of November 6, 2026 will receive one transferable right for each share held.",
-    "Each right entitles its holder to subscribe for one pre-consolidation common share at $0.01. Rights expire December 1, 2026 at 4:00 p.m. Toronto time, and the company expects the offering to close on or about December 2, 2026. Odyssey Trust Company is acting as rights agent.",
-    "Eureka separately proposes to consolidate its shares on a basis of up to six pre-consolidation shares for every one post-consolidation share, with the final ratio to be set by the board. The company had 49,913,367 shares outstanding before the offering; if every right is exercised, that would roughly double to about 99,826,734 shares before the consolidation is applied.",
-    "At the maximum six-for-one ratio and full exercise of the rights, Eureka would have approximately 16,637,789 shares outstanding following both the offering and the consolidation. The company says the consolidation remains subject to Canadian Securities Exchange approval, and shares are expected to continue trading under the ticker ERKA.",
-    "The company said net proceeds from the rights offering, combined with its existing working capital, are expected to fund exploration and property costs, general and administrative expenses, and unallocated working capital. The offering is open to shareholders in all Canadian provinces and territories and in select international jurisdictions, excluding the United States.",
-    "The release does not state whether the dollar figures in the offering are Canadian or U.S. currency. Eureka is a Canadian company listed primarily on the Canadian Securities Exchange, with secondary listings on the OTCQB in the United States and on the Frankfurt Stock Exchange."
-   ]
-  },
-  {
-   "slug": "first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen",
-   "url": "https://www.cmbulletin.com/posts/first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen.json",
-   "date": "2026-11-01T12:38:59Z",
-   "headline": "First Atlantic buys a Newfoundland property never tested for hydrogen",
-   "dek": "The explorer is paying 1,000,000 shares for 209 claims in the Bay of Islands Ophiolite Complex, where nearby ground shows historic chromite finds.",
-   "caption": "Wind-scoured highland rock, the kind of terrain geologists are now eyeing on Newfoundland's west coast for signs of natural hydrogen.",
-   "sections": [
-    "mining"
-   ],
-   "tags": [
-    "Mining",
-    "Exploration",
-    "M&A"
-   ],
-   "tickers": [
-    "TSXV:FAN",
-    "OTCQB:FANCF",
-    "FSE:P210"
-   ],
-   "image": "https://www.cmbulletin.com/images/first-atlantic-buys-a-newfoundland-property-never-tested-for-hydrogen.png",
-   "source_name": "Investing News Network",
-   "sources": [
-    {
-     "title": "First Atlantic to Acquire 100% of the North Arm Project, 52 sq km of Mantle-Derived Ultramafic Rocks in Western Newfoundland Never Systematically Tested for Geologic Hydrogen, Chromium or Awaruite Nickel-Cobalt Alloy",
-     "url": "https://investingnews.com/first-atlantic-to-acquire-100-of-the-north-arm-project-52-sq-km-of-mantle-derived-ultramafic-rocks-in-western-newfoundland-never-systematically-tested-for-geologic-hydrogen-chromium-or-awaruite-nickel/",
-     "publisher": "Investing News Network"
-    },
-    {
-     "title": "First Atlantic Nickel & Cobalt Secures Full Ownership of North Arm Ophiolite Property in Western Newfoundland for Hydrogen and Awaruite Exploration",
-     "url": "https://kalkinemedia.com/ca/news/announcements/first-atlantic-nickel-cobalt-secures-full-ownership-of-north-arm-ophiolite-property-in-western-newfoundland-for-hydrogen-and-awaruite-exploration",
-     "publisher": "Kalkine Media — Canada"
-    }
-   ],
-   "unverified_claims": [
-    "The company's characterisation of the North Arm property's hydrogen and awaruite potential and its account of nearby historic chromite occurrences, from First Atlantic's own release",
-    "First Atlantic's description of its Pipestone XL project's nickel grade and mineralization, from its own company description"
-   ],
-   "brief": [
-    "First Atlantic Nickel & Cobalt Corp. (TSXV: FAN), a Newfoundland-focused nickel and cobalt explorer, has agreed to buy 100% of the North Arm Ophiolite Property on the island's west coast. The company will pay with 1,000,000 shares at a deemed $0.55 and reimburse $51,250 in security deposits the vendors had posted with the provincial government.",
-    "The 209-claim, 52.25-square-kilometre property has never been systematically explored for geologic hydrogen or awaruite, a nickel-iron-cobalt alloy, though nearby ground carries historic chromite occurrences and active hydrogen-bearing springs. Closing needs TSX Venture Exchange acceptance, expected by January 31, 2027; the payment shares carry a four-month-and-one-day hold.",
-    "First Atlantic also granted 950,000 stock options to directors and an investor-relations consultant, exercisable at $0.55 for five years, with the consultant's options vesting quarterly over a year. The property carries no underlying royalty."
-   ],
-   "body": [
-    "First Atlantic Nickel & Cobalt Corp. (TSXV: FAN) (OTCQB: FANCF) (FSE: P210) has signed an agreement, dated October 30, 2026, to acquire 100% of the North Arm Ophiolite Property on Newfoundland's west coast from two arm's-length vendors. The company will pay with 1,000,000 common shares issued at a deemed price of $0.55 each and will reimburse $51,250 in refundable security deposits the vendors had posted with the government of Newfoundland and Labrador.",
-    "The property comprises three mineral licences totalling 209 claim cells across 52.25 square kilometres on the north shore of North Arm, within the Bay of Islands Ophiolite Complex. It lies about 25 kilometres north of First Atlantic's existing Ophiolite-X project. The company says the ground has seen limited modern exploration and has never been systematically tested for geologic hydrogen or for awaruite, a naturally occurring nickel-iron-cobalt alloy.",
-    "First Atlantic points to historic chromite occurrences at nearby Blow Me Down and Springers Hill, and to active hydrogen-bearing alkaline springs at the nearby Tablelands, which the company says demonstrate ongoing serpentinization. The property itself carries no underlying royalty or option payments to a third party.",
-    "Closing is conditional on TSX Venture Exchange acceptance and is expected about five business days afterward, by January 31, 2027. The 1,000,000 payment shares will be subject to a four-month-and-one-day hold period from issuance, the standard resale restriction attached to shares issued outside a prospectus offering.",
-    "The company also granted 950,000 incentive stock options to directors and to an investor-relations consultant, exercisable at $0.55 per share for five years. The consultant's options vest quarterly over twelve months; the release does not state vesting terms for the options granted to directors.",
-    "First Atlantic's existing project in the region, Pipestone XL, spans a 30-kilometre stretch of ophiolite complex and includes awaruite deposits the company says carry about 77% nickel content along with secondary chromium mineralization, according to the company's own description of its business."
-   ]
-  },
-  {
-   "slug": "binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in",
-   "url": "https://www.cmbulletin.com/posts/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.json",
-   "date": "2026-11-01T12:38:59Z",
-   "headline": "Binance resumes bitcoin withdrawals after replacing $6 billion in stolen crypto",
-   "dek": "The exchange covered roughly 95% of October's $6.3 billion hack, which the FBI has tied to a North Korean hacking unit.",
-   "caption": "A server rack glows in an otherwise dark data centre, where exchanges now run around-the-clock monitoring after a record digital theft.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "Crypto",
+    "Digital Assets",
     "Cybersecurity",
-    "Regulatory"
+    "Markets"
    ],
    "tickers": [
     "TSXV:NDA",
     "TSXV:DMGI"
    ],
-   "image": "https://www.cmbulletin.com/images/binance-resumes-bitcoin-withdrawals-after-replacing-6-billion-in.png",
-   "source_name": "Reuters",
+   "image": "https://www.cmbulletin.com/images/binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack.png",
+   "source_name": "Reuters (via BNN Bloomberg)",
    "sources": [
     {
-     "title": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
-     "url": "https://kfgo.com/2026/10/31/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds/",
-     "publisher": "Reuters"
+     "title": "Binance says customers pulled net US$4.7 billion after hack as crypto world weighs risk",
+     "url": "https://www.bnnbloomberg.ca/markets/crypto/2026/11/02/binance-says-customers-pulled-net-us47-billion-after-hack-as-crypto-world-weighs-risk/",
+     "publisher": "Reuters (via BNN Bloomberg)"
     },
     {
      "title": "NEPTUNE DIGITAL ASSETS CORP (TSXV: NDA) quote, -5.88% on about $94,594",
@@ -267,21 +47,126 @@
     }
    ],
    "unverified_claims": [
-    "Binance's own statement that it has covered 95% of the stolen funds and its account of how the replacement tokens were funded",
-    "The FBI's attribution of the theft to a North Korean hacking unit it calls TraderTraitor"
+    "Binance's characterization of the theft as 'potentially the largest financial heist in history' is the company's own description, not independently verified.",
+    "Binance's statement that it has raised $6 billion from its corporate treasury, an insurance fund and security reserves to cover customer losses rests on the company's own disclosure."
    ],
    "brief": [
-    "Binance resumed bitcoin and ether withdrawals in phases on Sunday after covering roughly 95%, or about $6 billion, of the record $6.3 billion in crypto stolen in October, the exchange said. Bitcoin withdrawals resumed shortly after 0600 GMT, with other tokens following within hours.",
-    "The FBI has tied the theft to a North Korean state-sponsored group it calls TraderTraitor. Binance funded the replacement tokens from its $1 billion Secure Asset Fund for Users, its futures insurance fund and corporate treasury; the remaining 5%, in less liquid assets, is still being sourced, the exchange said.",
-    "On Canada's venture board, five of the 14 listed digital-asset names traded today; Neptune Digital Assets Corp fell 5.88% to $0.48 and Dmg Blockchain Solutions Inc fell 4.88% to $0.39, a theme median of -4.88% against -2.77% for the S&P/TSX Venture Composite."
+    "Binance said Monday that customers had withdrawn a net $4.72 billion since the exchange reopened for withdrawals on Sunday morning, after freezing them for roughly 48 hours following a $6.3 billion theft the company has called potentially the largest financial heist in history. The FBI has attributed the hack to the North Korean group TraderTraitor.",
+    "Binance co-chief executive Yi He said the exchange's \"top priority right now is to ensure the environment is secure, after which users can withdraw their funds.\" The company said it is covering customer losses with company funds, having already raised $6 billion from its corporate treasury, an insurance fund and reserves set aside for security breaches.",
+    "On the venture boards, in the digital-assets theme: the theme comprises 14 listed venture names; 5 traded today, 1 higher and 4 lower, for a median move of -4.88% against -2.77% for the S&P/TSX Venture Composite. Neptune Digital Assets Corp (TSXV: NDA) fell 5.88% to CAD0.48, and Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 4.88% to CAD0.39. Nothing ties either move to Monday's Binance news."
    ],
    "body": [
-    "Binance began resuming withdrawals in phases on Sunday, starting with bitcoin shortly after 0600 GMT and followed within hours by ether, BNB, XRP, dogecoin and other tokens, after the exchange said it had covered roughly 95%, or about $6 billion, of the $6.3 billion in crypto stolen in October. The remaining 5%, in less liquid assets, is still being sourced, Binance said.",
-    "The FBI said it had tied the theft to a North Korean state-sponsored hacking unit it calls TraderTraitor, which the bureau said laundered the stolen assets by converting them into Ethereum. Asked about the attribution, President Trump said: \"We don't know if it's North Korea — but if it is, we'll talk to North Korea about it.\"",
-    "Binance funded the replacement tokens using half of its $1 billion Secure Asset Fund for Users, along with portions of its futures insurance fund and corporate treasury, the exchange said. Co-chief executive Yi He said the company was committed to replenishing the Secure Asset Fund back to about $1 billion. Founder Changpeng Zhao thanked law enforcement for its help, saying \"a tweet can't fully express our gratitude.\"",
-    "Binance, described in the report as the world's largest cryptocurrency exchange, said the phased restart ultimately covered 15 crypto assets, beginning with bitcoin and followed by ether, BNB, XRP, dogecoin and the USDT and USDC stablecoins, restoring withdrawal access across the tokens affected by the October halt.",
-    "The theme of digital-asset names on Canada's venture boards comprises 14 listed companies; five traded today, one higher and four lower, for a median move of -4.88% against -2.77% for the S&P/TSX Venture Composite — a spread of -2.11 percentage points on the day Binance announced the restored withdrawals.",
-    "Neptune Digital Assets Corp (TSXV: NDA) fell 5.88% to $0.48, and is in the theme because its registered name contains \"digital asset.\" Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 4.88% to $0.39, and is in the theme because its registered name contains \"blockchain.\" The moves and the Binance news fall on the same day; nothing here connects the two."
+    "Binance said Monday that customers had withdrawn a net $4.72 billion from the exchange since it reopened withdrawals on Sunday morning. The company had frozen withdrawals for roughly 48 hours after disclosing a $6.3 billion theft, which it has called potentially the largest financial heist in history. The exchange reported $2.7 billion of inflows after reopening, and said withdrawal volumes had since declined and stabilized.",
+    "The Federal Bureau of Investigation has attributed the theft to TraderTraitor, a hacking group the agency links to North Korea. Binance co-chief executive Yi He said the exchange's \"top priority right now is to ensure the environment is secure, after which users can withdraw their funds.\" Binance said it is covering customer losses with company funds, having already raised $6 billion from its corporate treasury, an insurance fund and reserves set aside for security breaches.",
+    "The stablecoin issuer Circle said it had frozen more than $1.1 billion in USDC tied to the theft. Bitcoin, which had fallen to a six-week low after the hack became public, had recovered to around $78,000 by Monday.",
+    "Spot bitcoin exchange-traded funds recorded $643 million of outflows the Friday before Binance reopened withdrawals, and more than $1.3 billion in leveraged crypto positions were liquidated in the aftermath of the hack, according to the reporting. North Korea-linked hackers have stolen a combined $7.4 billion from crypto platforms in 2026.",
+    "On the venture boards, in the digital-assets theme: the theme comprises 14 listed venture names; 5 traded today, 1 higher and 4 lower, for a median move of -4.88% against -2.77% for the S&P/TSX Venture Composite.",
+    "Neptune Digital Assets Corp (TSXV: NDA) fell 5.88% to CAD0.48, and is in the theme because its registered name contains \"digital asset.\" Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 4.88% to CAD0.39, and is in the theme because its registered name contains \"blockchain.\" Both moves fall on the same day as Binance's disclosure; nothing in the available data ties one to the other."
+   ]
+  },
+  {
+   "slug": "myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project",
+   "url": "https://www.cmbulletin.com/posts/myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project.json",
+   "date": "2026-11-02T12:57:27Z",
+   "headline": "Myriad Uranium closes its $1 million purchase of an Argentine project",
+   "dek": "The CSE-listed explorer paid cash and shares for 100% of the Los Altares uranium project in the Cerro Solo district.",
+   "caption": "A wide, arid Patagonian plateau under a pale sky, with eroded rock outcrops stretching to the horizon.",
+   "sections": [
+    "energy"
+   ],
+   "tags": [
+    "Uranium",
+    "M&A",
+    "Energy"
+   ],
+   "tickers": [
+    "CSE:M",
+    "TSXV:GCOM"
+   ],
+   "image": "https://www.cmbulletin.com/images/myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Myriad Uranium Closes Acquisition of Los Altares, a Strategic District-Scale Uranium Project in Argentina's Premier Cerro Solo Uranium District",
+     "url": "https://investingnews.com/myriad-uranium-closes-acquisition-of-los-altares-a-strategic-district-scale-uranium-project-in-argentina-s-premier-cerro-solo-uranium-district/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The release's characterization of Los Altares as carrying 'significant historic work' and 'strong leverage to the uranium price' reflects the company's own framing of the asset and is not independently verified."
+   ],
+   "brief": [
+    "Myriad Uranium Corp. (CSE: M) has closed its acquisition of the Los Altares uranium project in central Chubut, Argentina, from Green Shift Commodities Ltd. (TSXV: GCOM). The company paid $300,000 in cash plus 1,571,268 common shares, valued at $0.4455 each, or about $700,000, for total consideration of $1,000,000. Myriad now holds a 100% interest.",
+    "Green Shift retains a 2% net smelter return royalty on the project, with an option for Myriad to buy back half of it for $1,000,000. The shares issued to Green Shift are subject to a four-month hold expiring March 1, 2027. Myriad also issued 150,000 stock options to a consultant, exercisable at $0.39 and expiring October 30, 2031.",
+    "The 55,000-hectare project sits in the Cerro Solo uranium district and is adjacent to the Cerro Solo deposit and the historical Los Adobes mine. Myriad chief executive Thomas Lamb said the deal \"continues Myriad's strategy of acquiring projects with significant historic work in known uranium districts and with low up-front and ongoing costs and strong leverage to the uranium price.\""
+   ],
+   "body": [
+    "Myriad Uranium Corp. (CSE: M; OTCQB: MYRUF; FSE: C3Q) said Monday it has closed its previously announced acquisition of the Los Altares uranium project in central Chubut Province, Argentina, from Green Shift Commodities Ltd. (TSXV: GCOM). The deal was first announced October 13, 2026, and the underlying share purchase agreement is dated October 9, 2026.",
+    "Myriad paid $300,000 in cash plus 1,571,268 of its common shares, valued at $0.4455 per share, or about $700,000, bringing total consideration to $1,000,000 for a 100% interest in Buenavida Metales S.A., the Argentine company that holds the project's mineral claims.",
+    "Green Shift retains a 2% net smelter return royalty on the project, with Myriad holding an option to repurchase half of that royalty, 1%, for $1,000,000. The shares issued to Green Shift as part of the consideration are subject to a four-month hold period, expiring March 1, 2027.",
+    "Los Altares covers 55,000 hectares in the Cerro Solo uranium district and is adjacent to the Cerro Solo deposit and the historical Los Adobes mine, according to the release, which also described the project as carrying significant historical drilling data and approved environmental impact assessments.",
+    "Separately, Myriad said it issued 150,000 stock options to a consultant, exercisable at $0.39 per share, vesting immediately and expiring October 30, 2031.",
+    "Myriad chief executive Thomas Lamb said the deal \"continues Myriad's strategy of acquiring projects with significant historic work in known uranium districts and with low up-front and ongoing costs and strong leverage to the uranium price.\""
+   ]
+  },
+  {
+   "slug": "china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies",
+   "url": "https://www.cmbulletin.com/posts/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.json",
+   "date": "2026-11-02T12:57:27Z",
+   "headline": "China's robot makers are racing to build AI 'brains', not just bodies",
+   "dek": "Chinese embodied-AI startups raised about $13 billion in the first half of 2026, five times the prior year, as the industry shifts focus from humanoid stunts to software.",
+   "caption": "An idle robotic arm on a factory assembly line, lit by cool overhead fluorescent light.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Robotics",
+    "Artificial Intelligence",
+    "China"
+   ],
+   "tickers": [
+    "TSXV:PNG",
+    "TSXV:PALS"
+   ],
+   "image": "https://www.cmbulletin.com/images/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.png",
+   "source_name": "Reuters (via Investing.com)",
+   "sources": [
+    {
+     "title": "China's robot makers have mastered the moves. Now comes the race for brains",
+     "url": "https://www.investing.com/news/stock-market-news/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-4989782",
+     "publisher": "Reuters (via Investing.com)"
+    },
+    {
+     "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -2.07% on about $4,758,264",
+     "url": "https://finance.yahoo.com/quote/PNG.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "PARAGON ADVANCED LABS INC (TSXV: PALS) quote, -0.82% on about $53,946",
+     "url": "https://finance.yahoo.com/quote/PALS.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "DexForce's reported success rate above 99.9% in specified precision operations is self-reported by the company via its chief operating officer.",
+    "CATL's reported insertion success rate above 99% for Spirit AI's robots in its battery-pack testing is self-reported by CATL, as relayed in the reporting.",
+    "ZenGen Labs founder Dermot McGrath's conclusion that robotics margin will come from software rather than hardware is his own stated view, not an independently verified industry fact."
+   ],
+   "brief": [
+    "Chinese robotics companies that spent years building humanoids capable of running, dancing and backflips are now pouring money into the software that could make the machines useful on the job, Reuters reported. Chinese embodied-AI startups raised 93.5 billion yuan, about $13 billion, across 322 deals in the first half of 2026 — five times the year-earlier total, according to the research firm ITjuzi.",
+    "Spirit AI co-founder Gao Yang said \"the brain is indeed the weakest link in the complete robotics stack.\" Ant Group's Robbyant has trained a model on 160,000 hours of material, including 50,000 hours of human-guided robot movements, across 20 robot configurations from 17 brands. DexForce says it can prepare some industrial tasks for deployment within six to eight hours, with success rates above 99.9% in specified precision operations.",
+    "On the venture boards, in the robotics-and-automation theme: the theme comprises 11 listed venture names; 6 traded today, 2 higher and 3 lower, for a median move of -0.41% against -2.77% for the S&P/TSX Venture Composite. Kraken Robotics Inc (TSXV: PNG) fell 2.07% to CAD3.78, and Paragon Advanced Labs Inc (TSXV: PALS) fell 0.82% to CAD2.43. Nothing ties either move to the China reporting."
+   ],
+   "body": [
+    "Chinese robotics companies that spent years building humanoids capable of running, dancing and performing backflips are now shifting resources into the software that could make those machines useful across a wider range of jobs, Reuters reported from Beijing. Chinese embodied-AI companies raised 93.5 billion yuan, or about $13 billion, across 322 deals in the first half of 2026 — five times the amount raised a year earlier, according to the research firm ITjuzi.",
+    "Spirit AI co-founder Gao Yang said \"the brain is indeed the weakest link in the complete robotics stack.\" Hangzhou-based Unitree, one of the world's largest humanoid robot makers by shipments, has about 30 researchers working on AI that predicts how objects behave. Ant Group's robotics unit, Robbyant, has trained a model on 160,000 hours of material, including 50,000 hours of human-guided robot movements, across 20 robot configurations from 17 different brands.",
+    "DexForce, which trains robots in computer-generated environments, says it can prepare some industrial tasks for deployment within six to eight hours, with success rates above 99.9% in specified precision operations, according to chief operating officer Nicole Yang. The Chinese battery maker CATL said Spirit AI's robots achieved an insertion success rate above 99% connecting flexible wires during its battery-pack testing.",
+    "American startups including Physical Intelligence, Skild AI and Generalist are pursuing a similar goal: software that lets a robot learn a new task without lengthy retraining. Three Chinese companies — X Square, Galaxea and Spirit AI — have each reached valuations of about $3 billion, and Hong Kong-listed UBTech advertised a chief scientist role paying up to 124 million yuan, or about $18 million, including equity and benefits.",
+    "Shanghai-based ZenGen Labs founder Dermot McGrath concluded that the profit margin in robotics will come from the software rather than the hardware, according to the reporting. Unitree founder Wang Xingxing said a future version of the underlying AI models could bring robotics its own \"ChatGPT moment\" if robots can complete most tasks in unfamiliar environments from spoken instructions alone.",
+    "On the venture boards, in the robotics-and-automation theme: the theme comprises 11 listed venture names; 6 traded today, 2 higher and 3 lower, for a median move of -0.41% against -2.77% for the S&P/TSX Venture Composite.",
+    "Kraken Robotics Inc (TSXV: PNG) fell 2.07% to CAD3.78, and is in the theme because its registered name is Kraken Robotics Inc. Paragon Advanced Labs Inc (TSXV: PALS) fell 0.82% to CAD2.43, and is in the theme because its sector label is \"Scientific & Technical Instruments.\" Both moves fall on the same day as the Reuters reporting on Chinese robotics investment; nothing in the available data connects one to the other."
    ]
   }
  ]

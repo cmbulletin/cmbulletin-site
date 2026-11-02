@@ -1,0 +1,64 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-02T13:29:16Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies",
+ "url": "https://www.cmbulletin.com/posts/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.json",
+ "date": "2026-11-02T12:57:27Z",
+ "headline": "China's robot makers are racing to build AI 'brains', not just bodies",
+ "dek": "Chinese embodied-AI startups raised about $13 billion in the first half of 2026, five times the prior year, as the industry shifts focus from humanoid stunts to software.",
+ "caption": "An idle robotic arm on a factory assembly line, lit by cool overhead fluorescent light.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Robotics",
+  "Artificial Intelligence",
+  "China"
+ ],
+ "tickers": [
+  "TSXV:PNG",
+  "TSXV:PALS"
+ ],
+ "image": "https://www.cmbulletin.com/images/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.png",
+ "source_name": "Reuters (via Investing.com)",
+ "sources": [
+  {
+   "title": "China's robot makers have mastered the moves. Now comes the race for brains",
+   "url": "https://www.investing.com/news/stock-market-news/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-4989782",
+   "publisher": "Reuters (via Investing.com)"
+  },
+  {
+   "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -2.07% on about $4,758,264",
+   "url": "https://finance.yahoo.com/quote/PNG.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "PARAGON ADVANCED LABS INC (TSXV: PALS) quote, -0.82% on about $53,946",
+   "url": "https://finance.yahoo.com/quote/PALS.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "DexForce's reported success rate above 99.9% in specified precision operations is self-reported by the company via its chief operating officer.",
+  "CATL's reported insertion success rate above 99% for Spirit AI's robots in its battery-pack testing is self-reported by CATL, as relayed in the reporting.",
+  "ZenGen Labs founder Dermot McGrath's conclusion that robotics margin will come from software rather than hardware is his own stated view, not an independently verified industry fact."
+ ],
+ "brief": [
+  "Chinese robotics companies that spent years building humanoids capable of running, dancing and backflips are now pouring money into the software that could make the machines useful on the job, Reuters reported. Chinese embodied-AI startups raised 93.5 billion yuan, about $13 billion, across 322 deals in the first half of 2026 — five times the year-earlier total, according to the research firm ITjuzi.",
+  "Spirit AI co-founder Gao Yang said \"the brain is indeed the weakest link in the complete robotics stack.\" Ant Group's Robbyant has trained a model on 160,000 hours of material, including 50,000 hours of human-guided robot movements, across 20 robot configurations from 17 brands. DexForce says it can prepare some industrial tasks for deployment within six to eight hours, with success rates above 99.9% in specified precision operations.",
+  "On the venture boards, in the robotics-and-automation theme: the theme comprises 11 listed venture names; 6 traded today, 2 higher and 3 lower, for a median move of -0.41% against -2.77% for the S&P/TSX Venture Composite. Kraken Robotics Inc (TSXV: PNG) fell 2.07% to CAD3.78, and Paragon Advanced Labs Inc (TSXV: PALS) fell 0.82% to CAD2.43. Nothing ties either move to the China reporting."
+ ],
+ "body": [
+  "Chinese robotics companies that spent years building humanoids capable of running, dancing and performing backflips are now shifting resources into the software that could make those machines useful across a wider range of jobs, Reuters reported from Beijing. Chinese embodied-AI companies raised 93.5 billion yuan, or about $13 billion, across 322 deals in the first half of 2026 — five times the amount raised a year earlier, according to the research firm ITjuzi.",
+  "Spirit AI co-founder Gao Yang said \"the brain is indeed the weakest link in the complete robotics stack.\" Hangzhou-based Unitree, one of the world's largest humanoid robot makers by shipments, has about 30 researchers working on AI that predicts how objects behave. Ant Group's robotics unit, Robbyant, has trained a model on 160,000 hours of material, including 50,000 hours of human-guided robot movements, across 20 robot configurations from 17 different brands.",
+  "DexForce, which trains robots in computer-generated environments, says it can prepare some industrial tasks for deployment within six to eight hours, with success rates above 99.9% in specified precision operations, according to chief operating officer Nicole Yang. The Chinese battery maker CATL said Spirit AI's robots achieved an insertion success rate above 99% connecting flexible wires during its battery-pack testing.",
+  "American startups including Physical Intelligence, Skild AI and Generalist are pursuing a similar goal: software that lets a robot learn a new task without lengthy retraining. Three Chinese companies — X Square, Galaxea and Spirit AI — have each reached valuations of about $3 billion, and Hong Kong-listed UBTech advertised a chief scientist role paying up to 124 million yuan, or about $18 million, including equity and benefits.",
+  "Shanghai-based ZenGen Labs founder Dermot McGrath concluded that the profit margin in robotics will come from the software rather than the hardware, according to the reporting. Unitree founder Wang Xingxing said a future version of the underlying AI models could bring robotics its own \"ChatGPT moment\" if robots can complete most tasks in unfamiliar environments from spoken instructions alone.",
+  "On the venture boards, in the robotics-and-automation theme: the theme comprises 11 listed venture names; 6 traded today, 2 higher and 3 lower, for a median move of -0.41% against -2.77% for the S&P/TSX Venture Composite.",
+  "Kraken Robotics Inc (TSXV: PNG) fell 2.07% to CAD3.78, and is in the theme because its registered name is Kraken Robotics Inc. Paragon Advanced Labs Inc (TSXV: PALS) fell 0.82% to CAD2.43, and is in the theme because its sector label is \"Scientific & Technical Instruments.\" Both moves fall on the same day as the Reuters reporting on Chinese robotics investment; nothing in the available data connects one to the other."
+ ]
+}
