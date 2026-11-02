@@ -1,11 +1,162 @@
 {
  "api": "v1",
- "generated_at": "2026-11-02T13:29:16Z",
+ "generated_at": "2026-11-02T13:55:04Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 123,
+ "count": 126,
  "entries": [
+  {
+   "slug": "a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over",
+   "url": "https://www.cmbulletin.com/posts/a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over.json",
+   "date": "2026-11-02T13:37:23Z",
+   "headline": "A British Columbia regulator halted A.C.L. Construction's stock over late filings",
+   "dek": "The Fort St. John construction company's shares have been halted since October 6 while it refiles two years of financial statements under a corrected revenue method.",
+   "caption": "A.C.L. Construction's shares have been halted on the TSX Venture Exchange since October 6.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Regulatory",
+    "Accounting",
+    "Construction"
+   ],
+   "tickers": [
+    "TSXV:ACL",
+    "OTCQB:AACLF",
+    "FSE:A3L0"
+   ],
+   "image": "https://www.cmbulletin.com/images/a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "A.C.L. Construction Ltd. Files Annual and First Quarter Financial Statements and Restates Comparative Information",
+     "url": "https://thenewswire.com/press-releases/1k1vFqyyX-a-c-l-construction-ltd-files-annual-and-first-quarter-financial-statements-and-restates-comparative-information.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The company's own characterization of why its revenue-recognition method did not meet IFRS 15 rests solely on its own filing.",
+    "Whether or when the cease-trade order will be revoked is stated as the company's intention only."
+   ],
+   "brief": [
+    "A.C.L. Construction Ltd. (TSXV: ACL) has filed restated annual financial statements for the two years ended May 31, 2025 and 2024, the company said November 1. The British Columbia Securities Commission ordered a cease-trade on October 5 after the company missed its September 28 filing deadline, and TSX Venture trading has been halted since October 6.",
+    "The restatement follows a change in how the company recognizes revenue on fixed-price construction contracts, from a method based on amounts invoiced to one based on costs incurred. For the year ended May 31, 2025, revenue rose to $18,254,032 and the net loss narrowed to $693,820.",
+    "For the year before, ended May 31, 2024, revenue was restated down to $13,005,353 and the net loss widened to $1,066,455. The company said it intends to apply to have the cease-trade order revoked and trading reinstated, and consulted its audit committee and auditor, MNP LLP, on the change."
+   ]
+  },
+  {
+   "slug": "totalenergies-takes-a-30-stake-in-gas-fields-holding-6-5-trillion",
+   "url": "https://www.cmbulletin.com/posts/totalenergies-takes-a-30-stake-in-gas-fields-holding-6-5-trillion.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/totalenergies-takes-a-30-stake-in-gas-fields-holding-6-5-trillion.json",
+   "date": "2026-11-02T13:37:23Z",
+   "headline": "TotalEnergies takes a 30% stake in gas fields holding 6.5 trillion cubic feet",
+   "dek": "TotalEnergies will hold the 30% operated stake in Malaysia's Lang Lebah and B14 fields, pending regulatory approval.",
+   "caption": "TotalEnergies is acquiring a 30% operated interest in two offshore gas fields off Sarawak, Malaysia.",
+   "sections": [
+    "energy"
+   ],
+   "tags": [
+    "Energy",
+    "M&A",
+    "Natural Gas"
+   ],
+   "tickers": [
+    "NYSE:TTE",
+    "LSE:TTE",
+    "PARIS:TTE"
+   ],
+   "image": "https://www.cmbulletin.com/images/totalenergies-takes-a-30-stake-in-gas-fields-holding-6-5-trillion.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Malaysia: TotalEnergies Signs Agreements to Acquire Operated Interest in Two Major Offshore Gas Fields",
+     "url": "https://investingnews.com/malaysia-totalenergies-signs-agreements-to-acquire-operated-interest-in-two-major-offshore-gas-fields/",
+     "publisher": "Investing News Network — Resource Investing"
+    },
+    {
+     "title": "TRANS CANADA GOLD CORP (TSXV: TTG) quote, -36.67% on about $25,536",
+     "url": "https://finance.yahoo.com/quote/TTG.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "STAMPER OIL AND GAS CORP (TSXV: STMP) quote, +28.57% on about $106,974",
+     "url": "https://finance.yahoo.com/quote/STMP.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "TAG OIL LTD (TSXV: TAO) quote, -20.00% on about $26,020",
+     "url": "https://finance.yahoo.com/quote/TAO.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "WESTGATE ENERGY INC (TSXV: WGT) quote, -14.29% on about $48,078",
+     "url": "https://finance.yahoo.com/quote/WGT.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "ATLAS ENERGY CORP (TSXV: ATLE) quote, -5.26% on about $84,699",
+     "url": "https://finance.yahoo.com/quote/ATLE.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "The resource estimate of more than 6.5 trillion cubic feet and the production plateau of about 10 billion cubic metres a year rest on TotalEnergies' own release.",
+    "The quote 'another important step in our strategy to strengthen our integrated gas position in Malaysia' is attributed to CEO Patrick Pouyanné in the company's release."
+   ],
+   "brief": [
+    "TotalEnergies has signed agreements to acquire a 30% operated interest in the Lang Lebah and B14 gas fields off Sarawak, Malaysia, the company said November 1. On completion, PTTEP and KUFPEC will each hold 25% and PETRONAS Carigali 20%, subject to regulatory approvals.",
+    "Lang Lebah, among Malaysia's largest offshore gas discoveries, and the nearby B14 field are planned as an integrated development. TotalEnergies said the fields could unlock more than 6.5 trillion cubic feet of gas, feeding the Malaysia LNG plant at a plateau of about 10 billion cubic metres a year.",
+    "On the venture boards, the 72-name oil-and-gas theme traded at a median move of 0.00% today against a 2.77% decline for the S&P/TSX Venture Composite. Trans Canada Gold Corp (TSXV: TTG) fell 36.67% to C$0.095, and Stamper Oil and Gas Corp (TSXV: STMP) rose 28.57% to C$0.09."
+   ]
+  },
+  {
+   "slug": "a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to",
+   "url": "https://www.cmbulletin.com/posts/a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to.json",
+   "date": "2026-11-02T13:37:23Z",
+   "headline": "A second suspected cyberattack pushed European supermarket fridges to 50 degrees",
+   "dek": "Refrigeration units in Belgium, Luxembourg, Sweden and Estonia spiked in temperature overnight.",
+   "caption": "Refrigeration units in supermarkets across Belgium, Luxembourg, Sweden and Estonia spiked in temperature overnight in a suspected cyberattack.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Cybersecurity",
+    "Europe",
+    "Retail"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to.png",
+   "source_name": "Globe and Mail — Business",
+   "sources": [
+    {
+     "title": "European supermarket fridges and freezers hit by second suspected cyberattack",
+     "url": "https://www.theglobeandmail.com/world/article-europe-supermarkets-fridge-freezer-cyber-attack/",
+     "publisher": "Globe and Mail — Business"
+    },
+    {
+     "title": "Quantum Secure Encryption Corp. (CSE: QSE) quote, +2.78% on about $40,632",
+     "url": "https://finance.yahoo.com/quote/QSE.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "CYBERCATCH HOLDINGS INC (TSXV: CYBE) quote, -2.37% on about $33,660",
+     "url": "https://finance.yahoo.com/quote/CYBE.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "Sabcobel CEO Stephan Moelans's characterization of the incident as a cyberattack rests on his own statement; other accounts describe it only as suspected or as an IT incident.",
+    "The ICA store's claim that its units were \"hacked\" is the store's own characterization."
+   ],
+   "brief": [
+    "Refrigeration and freezer units in supermarkets across Belgium, Luxembourg, Sweden and Estonia reported sudden temperature spikes overnight into Monday, with some units switching into defrost mode or climbing toward 50 degrees Celsius. Ahold Delhaize and Colruyt-operated Spar stores were affected in Belgium and Luxembourg; ICA and Coop reported the same in Sweden.",
+    "Sabcobel chief executive Stephan Moelans called the incident a cyberattack; some retailers described it only as a suspected attack or an IT incident. It follows a cyberattack last month in France that pushed hundreds of supermarket cooling units to 50 degrees Celsius, causing fires and spoiled food, and a separate incident Ahold reported to Dutch police the same month.",
+    "On the venture boards, the three-name cybersecurity theme saw one name trade higher and one lower for a median move of 0.00%, against a 2.77% decline for the S&P/TSX Venture Composite. Quantum Secure Encryption Corp (CSE: QSE) rose 2.78% to C$0.37, and CyberCatch Holdings Inc (TSXV: CYBE) fell 2.37% to C$1.65."
+   ]
+  },
   {
    "slug": "binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack",
    "url": "https://www.cmbulletin.com/posts/binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack.html",

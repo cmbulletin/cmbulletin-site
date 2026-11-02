@@ -1,0 +1,53 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-02T13:55:04Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over",
+ "url": "https://www.cmbulletin.com/posts/a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over.json",
+ "date": "2026-11-02T13:37:23Z",
+ "headline": "A British Columbia regulator halted A.C.L. Construction's stock over late filings",
+ "dek": "The Fort St. John construction company's shares have been halted since October 6 while it refiles two years of financial statements under a corrected revenue method.",
+ "caption": "A.C.L. Construction's shares have been halted on the TSX Venture Exchange since October 6.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "Regulatory",
+  "Accounting",
+  "Construction"
+ ],
+ "tickers": [
+  "TSXV:ACL",
+  "OTCQB:AACLF",
+  "FSE:A3L0"
+ ],
+ "image": "https://www.cmbulletin.com/images/a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over.png",
+ "source_name": "TheNewswire.ca",
+ "sources": [
+  {
+   "title": "A.C.L. Construction Ltd. Files Annual and First Quarter Financial Statements and Restates Comparative Information",
+   "url": "https://thenewswire.com/press-releases/1k1vFqyyX-a-c-l-construction-ltd-files-annual-and-first-quarter-financial-statements-and-restates-comparative-information.html",
+   "publisher": "TheNewswire.ca"
+  }
+ ],
+ "unverified_claims": [
+  "The company's own characterization of why its revenue-recognition method did not meet IFRS 15 rests solely on its own filing.",
+  "Whether or when the cease-trade order will be revoked is stated as the company's intention only."
+ ],
+ "brief": [
+  "A.C.L. Construction Ltd. (TSXV: ACL) has filed restated annual financial statements for the two years ended May 31, 2025 and 2024, the company said November 1. The British Columbia Securities Commission ordered a cease-trade on October 5 after the company missed its September 28 filing deadline, and TSX Venture trading has been halted since October 6.",
+  "The restatement follows a change in how the company recognizes revenue on fixed-price construction contracts, from a method based on amounts invoiced to one based on costs incurred. For the year ended May 31, 2025, revenue rose to $18,254,032 and the net loss narrowed to $693,820.",
+  "For the year before, ended May 31, 2024, revenue was restated down to $13,005,353 and the net loss widened to $1,066,455. The company said it intends to apply to have the cease-trade order revoked and trading reinstated, and consulted its audit committee and auditor, MNP LLP, on the change."
+ ],
+ "body": [
+  "A.C.L. Construction Ltd. (TSXV: ACL, OTCQB: AACLF, FSE: A3L0) said November 1 that it has filed audited annual financial statements for the year ended May 31, 2026, along with restated comparative financial statements for the two years before it, and interim financial statements for the three months ended August 31, 2026. The restatement corrects how the Fort St. John, British Columbia-based company recognized revenue on its fixed-price construction contracts.",
+  "The British Columbia Securities Commission issued a cease-trade order on October 5 because the company had not filed its annual financial statements, annual MD&A and related certifications by the September 28 deadline. Trading in A.C.L.'s shares was suspended on the TSX Venture Exchange on October 6 and remains halted; the company said it intends to apply to have the order revoked and trading reinstated, without giving a timeline.",
+  "The company said it discovered the issue while preparing its annual financial statements, in consultation with its audit committee and auditor, MNP LLP. Its previous method recognized revenue on fixed-price construction contracts based on amounts invoiced to customers, which the company said did not meet the requirements of IFRS 15. It has replaced that method with one based on costs incurred to date relative to total estimated contract costs.",
+  "For the year ended May 31, 2025, the restated figures raised reported revenue to $18,254,032 from $17,675,792 and narrowed the net and comprehensive loss to $693,820 from $1,203,987. The company's shareholders' deficit for that year grew to $191,649 from $163,732 under the restatement, a result of the same change in how revenue on fixed-price contracts is recognized.",
+  "For the year before, ended May 31, 2024, the same change moved the figures in the other direction: revenue was restated down to $13,005,353 from $13,742,455, and the net loss widened to $1,066,455 from $528,371. The company attributed both changes to the switch from an invoicing-based to a cost-incurred-based revenue recognition method.",
+  "The company also filed interim financial statements for the three months ended August 31, 2026, though the November 1 release gives no comparable figures for that quarter. It said it consulted its audit committee and auditor, MNP LLP, in identifying and correcting the revenue-recognition error, and that it intends to apply for revocation of the cease-trade order and reinstatement of trading, without specifying when."
+ ]
+}

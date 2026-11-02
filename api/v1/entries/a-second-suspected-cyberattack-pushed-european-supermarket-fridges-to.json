@@ -1,0 +1,59 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-02T13:55:04Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to",
+ "url": "https://www.cmbulletin.com/posts/a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to.json",
+ "date": "2026-11-02T13:37:23Z",
+ "headline": "A second suspected cyberattack pushed European supermarket fridges to 50 degrees",
+ "dek": "Refrigeration units in Belgium, Luxembourg, Sweden and Estonia spiked in temperature overnight.",
+ "caption": "Refrigeration units in supermarkets across Belgium, Luxembourg, Sweden and Estonia spiked in temperature overnight in a suspected cyberattack.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "Cybersecurity",
+  "Europe",
+  "Retail"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to.png",
+ "source_name": "Globe and Mail — Business",
+ "sources": [
+  {
+   "title": "European supermarket fridges and freezers hit by second suspected cyberattack",
+   "url": "https://www.theglobeandmail.com/world/article-europe-supermarkets-fridge-freezer-cyber-attack/",
+   "publisher": "Globe and Mail — Business"
+  },
+  {
+   "title": "Quantum Secure Encryption Corp. (CSE: QSE) quote, +2.78% on about $40,632",
+   "url": "https://finance.yahoo.com/quote/QSE.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "CYBERCATCH HOLDINGS INC (TSXV: CYBE) quote, -2.37% on about $33,660",
+   "url": "https://finance.yahoo.com/quote/CYBE.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "Sabcobel CEO Stephan Moelans's characterization of the incident as a cyberattack rests on his own statement; other accounts describe it only as suspected or as an IT incident.",
+  "The ICA store's claim that its units were \"hacked\" is the store's own characterization."
+ ],
+ "brief": [
+  "Refrigeration and freezer units in supermarkets across Belgium, Luxembourg, Sweden and Estonia reported sudden temperature spikes overnight into Monday, with some units switching into defrost mode or climbing toward 50 degrees Celsius. Ahold Delhaize and Colruyt-operated Spar stores were affected in Belgium and Luxembourg; ICA and Coop reported the same in Sweden.",
+  "Sabcobel chief executive Stephan Moelans called the incident a cyberattack; some retailers described it only as a suspected attack or an IT incident. It follows a cyberattack last month in France that pushed hundreds of supermarket cooling units to 50 degrees Celsius, causing fires and spoiled food, and a separate incident Ahold reported to Dutch police the same month.",
+  "On the venture boards, the three-name cybersecurity theme saw one name trade higher and one lower for a median move of 0.00%, against a 2.77% decline for the S&P/TSX Venture Composite. Quantum Secure Encryption Corp (CSE: QSE) rose 2.78% to C$0.37, and CyberCatch Holdings Inc (TSXV: CYBE) fell 2.37% to C$1.65."
+ ],
+ "body": [
+  "Refrigeration and freezer systems in supermarkets across Belgium, Luxembourg, Sweden and Estonia reported sudden temperature spikes overnight into Monday, with some units switching into defrost mode and others climbing toward 50 degrees Celsius. Ahold Delhaize stores and Colruyt-operated Spar locations were affected in Belgium and Luxembourg; ICA, including its Baronen store in Stockholm, and six Coop stores reported the same in Sweden, and one unnamed chain was affected in Estonia.",
+  "Sabcobel chief executive Stephan Moelans said the incident \"was a cyberattack\"; an ICA store separately said its units had been \"hacked.\" Other reports described the episode only as a suspected attack or an IT incident. One store reported the intrusion at around 2 a.m. and discovered it at 5:30 a.m., according to the reporting.",
+  "It follows a cyberattack last month in France that pushed hundreds of supermarket cooling units to 50 degrees Celsius, causing fires and spoiled food, and a separate cybersecurity incident that Ahold Delhaize reported to Dutch police the same month. Kitman Coldtech, a refrigeration technology supplier, was also named in connection with the incident.",
+  "On the venture boards, the cybersecurity theme comprises three listed names; all three traded today, one higher and one lower, for a median move of 0.00% against a 2.77% decline for the S&P/TSX Venture Composite — a spread of 2.77 percentage points. Nothing connects the European incident to the day's trading in these names beyond the calendar.",
+  "Quantum Secure Encryption Corp (CSE: QSE) rose 2.78% to C$0.37, and is in the theme because its registered name is Quantum Secure Encryption Corp. CyberCatch Holdings Inc (TSXV: CYBE) fell 2.37% to C$1.65, also on its registered name. Dollar volume was thin in both: about $40,600 in Quantum Secure and $33,700 in CyberCatch.",
+  "The incidents add to a string of cyberattacks on retail refrigeration systems in Europe this autumn."
+ ]
+}
