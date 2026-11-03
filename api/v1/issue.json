@@ -1,347 +1,146 @@
 {
  "api": "v1",
- "generated_at": "2026-11-02T13:55:04Z",
+ "generated_at": "2026-11-03T13:32:55Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-11-02",
- "count": 6,
+ "issue_date": "2026-11-03",
+ "count": 3,
  "entries": [
   {
-   "slug": "a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over",
-   "url": "https://www.cmbulletin.com/posts/a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over.json",
-   "date": "2026-11-02T13:37:23Z",
-   "headline": "A British Columbia regulator halted A.C.L. Construction's stock over late filings",
-   "dek": "The Fort St. John construction company's shares have been halted since October 6 while it refiles two years of financial statements under a corrected revenue method.",
-   "caption": "A.C.L. Construction's shares have been halted on the TSX Venture Exchange since October 6.",
+   "slug": "standard-uranium-boosts-its-flow-through-placement-to-2-million",
+   "url": "https://www.cmbulletin.com/posts/standard-uranium-boosts-its-flow-through-placement-to-2-million.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/standard-uranium-boosts-its-flow-through-placement-to-2-million.json",
+   "date": "2026-11-03T13:06:16Z",
+   "headline": "Standard Uranium boosts its flow-through placement to $2 million",
+   "dek": "Strong demand led the Saskatchewan-focused explorer to increase the non-brokered offering to 25 million units at $0.08, with warrants exercisable at $0.12.",
+   "caption": "A flow-through placement for Standard Uranium's Saskatchewan projects grew to $2 million on what the company called strong demand.",
    "sections": [
-    "news"
+    "mining"
    ],
    "tags": [
-    "Regulatory",
-    "Accounting",
-    "Construction"
-   ],
-   "tickers": [
-    "TSXV:ACL",
-    "OTCQB:AACLF",
-    "FSE:A3L0"
-   ],
-   "image": "https://www.cmbulletin.com/images/a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over.png",
-   "source_name": "TheNewswire.ca",
-   "sources": [
-    {
-     "title": "A.C.L. Construction Ltd. Files Annual and First Quarter Financial Statements and Restates Comparative Information",
-     "url": "https://thenewswire.com/press-releases/1k1vFqyyX-a-c-l-construction-ltd-files-annual-and-first-quarter-financial-statements-and-restates-comparative-information.html",
-     "publisher": "TheNewswire.ca"
-    }
-   ],
-   "unverified_claims": [
-    "The company's own characterization of why its revenue-recognition method did not meet IFRS 15 rests solely on its own filing.",
-    "Whether or when the cease-trade order will be revoked is stated as the company's intention only."
-   ],
-   "brief": [
-    "A.C.L. Construction Ltd. (TSXV: ACL) has filed restated annual financial statements for the two years ended May 31, 2025 and 2024, the company said November 1. The British Columbia Securities Commission ordered a cease-trade on October 5 after the company missed its September 28 filing deadline, and TSX Venture trading has been halted since October 6.",
-    "The restatement follows a change in how the company recognizes revenue on fixed-price construction contracts, from a method based on amounts invoiced to one based on costs incurred. For the year ended May 31, 2025, revenue rose to $18,254,032 and the net loss narrowed to $693,820.",
-    "For the year before, ended May 31, 2024, revenue was restated down to $13,005,353 and the net loss widened to $1,066,455. The company said it intends to apply to have the cease-trade order revoked and trading reinstated, and consulted its audit committee and auditor, MNP LLP, on the change."
-   ],
-   "body": [
-    "A.C.L. Construction Ltd. (TSXV: ACL, OTCQB: AACLF, FSE: A3L0) said November 1 that it has filed audited annual financial statements for the year ended May 31, 2026, along with restated comparative financial statements for the two years before it, and interim financial statements for the three months ended August 31, 2026. The restatement corrects how the Fort St. John, British Columbia-based company recognized revenue on its fixed-price construction contracts.",
-    "The British Columbia Securities Commission issued a cease-trade order on October 5 because the company had not filed its annual financial statements, annual MD&A and related certifications by the September 28 deadline. Trading in A.C.L.'s shares was suspended on the TSX Venture Exchange on October 6 and remains halted; the company said it intends to apply to have the order revoked and trading reinstated, without giving a timeline.",
-    "The company said it discovered the issue while preparing its annual financial statements, in consultation with its audit committee and auditor, MNP LLP. Its previous method recognized revenue on fixed-price construction contracts based on amounts invoiced to customers, which the company said did not meet the requirements of IFRS 15. It has replaced that method with one based on costs incurred to date relative to total estimated contract costs.",
-    "For the year ended May 31, 2025, the restated figures raised reported revenue to $18,254,032 from $17,675,792 and narrowed the net and comprehensive loss to $693,820 from $1,203,987. The company's shareholders' deficit for that year grew to $191,649 from $163,732 under the restatement, a result of the same change in how revenue on fixed-price contracts is recognized.",
-    "For the year before, ended May 31, 2024, the same change moved the figures in the other direction: revenue was restated down to $13,005,353 from $13,742,455, and the net loss widened to $1,066,455 from $528,371. The company attributed both changes to the switch from an invoicing-based to a cost-incurred-based revenue recognition method.",
-    "The company also filed interim financial statements for the three months ended August 31, 2026, though the November 1 release gives no comparable figures for that quarter. It said it consulted its audit committee and auditor, MNP LLP, in identifying and correcting the revenue-recognition error, and that it intends to apply for revocation of the cease-trade order and reinstatement of trading, without specifying when."
-   ]
-  },
-  {
-   "slug": "totalenergies-takes-a-30-stake-in-gas-fields-holding-6-5-trillion",
-   "url": "https://www.cmbulletin.com/posts/totalenergies-takes-a-30-stake-in-gas-fields-holding-6-5-trillion.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/totalenergies-takes-a-30-stake-in-gas-fields-holding-6-5-trillion.json",
-   "date": "2026-11-02T13:37:23Z",
-   "headline": "TotalEnergies takes a 30% stake in gas fields holding 6.5 trillion cubic feet",
-   "dek": "TotalEnergies will hold the 30% operated stake in Malaysia's Lang Lebah and B14 fields, pending regulatory approval.",
-   "caption": "TotalEnergies is acquiring a 30% operated interest in two offshore gas fields off Sarawak, Malaysia.",
-   "sections": [
-    "energy"
-   ],
-   "tags": [
-    "Energy",
-    "M&A",
-    "Natural Gas"
-   ],
-   "tickers": [
-    "NYSE:TTE",
-    "LSE:TTE",
-    "PARIS:TTE"
-   ],
-   "image": "https://www.cmbulletin.com/images/totalenergies-takes-a-30-stake-in-gas-fields-holding-6-5-trillion.png",
-   "source_name": "Investing News Network — Resource Investing",
-   "sources": [
-    {
-     "title": "Malaysia: TotalEnergies Signs Agreements to Acquire Operated Interest in Two Major Offshore Gas Fields",
-     "url": "https://investingnews.com/malaysia-totalenergies-signs-agreements-to-acquire-operated-interest-in-two-major-offshore-gas-fields/",
-     "publisher": "Investing News Network — Resource Investing"
-    },
-    {
-     "title": "TRANS CANADA GOLD CORP (TSXV: TTG) quote, -36.67% on about $25,536",
-     "url": "https://finance.yahoo.com/quote/TTG.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "STAMPER OIL AND GAS CORP (TSXV: STMP) quote, +28.57% on about $106,974",
-     "url": "https://finance.yahoo.com/quote/STMP.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "TAG OIL LTD (TSXV: TAO) quote, -20.00% on about $26,020",
-     "url": "https://finance.yahoo.com/quote/TAO.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "WESTGATE ENERGY INC (TSXV: WGT) quote, -14.29% on about $48,078",
-     "url": "https://finance.yahoo.com/quote/WGT.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "ATLAS ENERGY CORP (TSXV: ATLE) quote, -5.26% on about $84,699",
-     "url": "https://finance.yahoo.com/quote/ATLE.V",
-     "publisher": "Yahoo Finance"
-    }
-   ],
-   "unverified_claims": [
-    "The resource estimate of more than 6.5 trillion cubic feet and the production plateau of about 10 billion cubic metres a year rest on TotalEnergies' own release.",
-    "The quote 'another important step in our strategy to strengthen our integrated gas position in Malaysia' is attributed to CEO Patrick Pouyanné in the company's release."
-   ],
-   "brief": [
-    "TotalEnergies has signed agreements to acquire a 30% operated interest in the Lang Lebah and B14 gas fields off Sarawak, Malaysia, the company said November 1. On completion, PTTEP and KUFPEC will each hold 25% and PETRONAS Carigali 20%, subject to regulatory approvals.",
-    "Lang Lebah, among Malaysia's largest offshore gas discoveries, and the nearby B14 field are planned as an integrated development. TotalEnergies said the fields could unlock more than 6.5 trillion cubic feet of gas, feeding the Malaysia LNG plant at a plateau of about 10 billion cubic metres a year.",
-    "On the venture boards, the 72-name oil-and-gas theme traded at a median move of 0.00% today against a 2.77% decline for the S&P/TSX Venture Composite. Trans Canada Gold Corp (TSXV: TTG) fell 36.67% to C$0.095, and Stamper Oil and Gas Corp (TSXV: STMP) rose 28.57% to C$0.09."
-   ],
-   "body": [
-    "TotalEnergies has signed agreements with PETRONAS Carigali Sdn Bhd, PTTEP and KUFPEC to acquire a 30% operated interest in the Lang Lebah and B14 gas fields off the coast of Sarawak, Malaysia, the company said November 1. Once the transactions close, TotalEnergies will hold the 30% operated stake alongside PTTEP and KUFPEC at 25% each and PETRONAS Carigali at 20%. Completion is subject to regulatory approvals; TotalEnergies gave no timeline for closing.",
-    "The company described Lang Lebah as one of Malaysia's largest offshore gas discoveries, with the nearby B14 field planned for development as part of the same integrated project. TotalEnergies said the combined fields could unlock more than 6.5 trillion cubic feet of gas resources, equivalent to more than 1 billion barrels of oil, feeding the existing Malaysia LNG liquefaction plant at a production plateau of around 10 billion cubic metres a year.",
-    "TotalEnergies chief executive Patrick Pouyanné said the agreements mark \"another important step in our strategy to strengthen our integrated gas position in Malaysia.\" The three agreements are subject to the same condition — regulatory approvals in Malaysia — before completion, and the release gives no date for either the approvals or the closings, nor does it state how the fields were held before this agreement.",
-    "On the venture boards, the oil-and-gas theme comprises 72 listed names; 43 traded today, 16 higher and 17 lower, for a median move of 0.00% against a 2.77% decline for the S&P/TSX Venture Composite — a spread of 2.77 percentage points. Nothing connects the two; the TotalEnergies agreements and the day's trading in these names fall on the same day only.",
-    "Trans Canada Gold Corp (TSXV: TTG) fell 36.67% to C$0.095, and is in the theme because its sector label is \"Oil & Gas E&P.\" Stamper Oil and Gas Corp (TSXV: STMP) rose 28.57% to C$0.09, also on an \"Oil & Gas E&P\" label. Tag Oil Ltd (TSXV: TAO) fell 20.00% to C$0.04, Westgate Energy Inc (TSXV: WGT) fell 14.29% to C$0.18, and Atlas Energy Corp (TSXV: ATLE) fell 5.26% to C$0.09.",
-    "Dollar volume in the five names ranged from about $25,500 in Trans Canada Gold to roughly $106,900 in Stamper Oil and Gas, thin trading by any measure. TotalEnergies' agreements concern a conventional gas development off Malaysia; none of the five venture issuers named above has any disclosed connection to the Lang Lebah or B14 project."
-   ]
-  },
-  {
-   "slug": "a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to",
-   "url": "https://www.cmbulletin.com/posts/a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to.json",
-   "date": "2026-11-02T13:37:23Z",
-   "headline": "A second suspected cyberattack pushed European supermarket fridges to 50 degrees",
-   "dek": "Refrigeration units in Belgium, Luxembourg, Sweden and Estonia spiked in temperature overnight.",
-   "caption": "Refrigeration units in supermarkets across Belgium, Luxembourg, Sweden and Estonia spiked in temperature overnight in a suspected cyberattack.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "Cybersecurity",
-    "Europe",
-    "Retail"
-   ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/a-second-suspected-cyberattack-pushed-european-supermarket-fridges-to.png",
-   "source_name": "Globe and Mail — Business",
-   "sources": [
-    {
-     "title": "European supermarket fridges and freezers hit by second suspected cyberattack",
-     "url": "https://www.theglobeandmail.com/world/article-europe-supermarkets-fridge-freezer-cyber-attack/",
-     "publisher": "Globe and Mail — Business"
-    },
-    {
-     "title": "Quantum Secure Encryption Corp. (CSE: QSE) quote, +2.78% on about $40,632",
-     "url": "https://finance.yahoo.com/quote/QSE.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "CYBERCATCH HOLDINGS INC (TSXV: CYBE) quote, -2.37% on about $33,660",
-     "url": "https://finance.yahoo.com/quote/CYBE.V",
-     "publisher": "Yahoo Finance"
-    }
-   ],
-   "unverified_claims": [
-    "Sabcobel CEO Stephan Moelans's characterization of the incident as a cyberattack rests on his own statement; other accounts describe it only as suspected or as an IT incident.",
-    "The ICA store's claim that its units were \"hacked\" is the store's own characterization."
-   ],
-   "brief": [
-    "Refrigeration and freezer units in supermarkets across Belgium, Luxembourg, Sweden and Estonia reported sudden temperature spikes overnight into Monday, with some units switching into defrost mode or climbing toward 50 degrees Celsius. Ahold Delhaize and Colruyt-operated Spar stores were affected in Belgium and Luxembourg; ICA and Coop reported the same in Sweden.",
-    "Sabcobel chief executive Stephan Moelans called the incident a cyberattack; some retailers described it only as a suspected attack or an IT incident. It follows a cyberattack last month in France that pushed hundreds of supermarket cooling units to 50 degrees Celsius, causing fires and spoiled food, and a separate incident Ahold reported to Dutch police the same month.",
-    "On the venture boards, the three-name cybersecurity theme saw one name trade higher and one lower for a median move of 0.00%, against a 2.77% decline for the S&P/TSX Venture Composite. Quantum Secure Encryption Corp (CSE: QSE) rose 2.78% to C$0.37, and CyberCatch Holdings Inc (TSXV: CYBE) fell 2.37% to C$1.65."
-   ],
-   "body": [
-    "Refrigeration and freezer systems in supermarkets across Belgium, Luxembourg, Sweden and Estonia reported sudden temperature spikes overnight into Monday, with some units switching into defrost mode and others climbing toward 50 degrees Celsius. Ahold Delhaize stores and Colruyt-operated Spar locations were affected in Belgium and Luxembourg; ICA, including its Baronen store in Stockholm, and six Coop stores reported the same in Sweden, and one unnamed chain was affected in Estonia.",
-    "Sabcobel chief executive Stephan Moelans said the incident \"was a cyberattack\"; an ICA store separately said its units had been \"hacked.\" Other reports described the episode only as a suspected attack or an IT incident. One store reported the intrusion at around 2 a.m. and discovered it at 5:30 a.m., according to the reporting.",
-    "It follows a cyberattack last month in France that pushed hundreds of supermarket cooling units to 50 degrees Celsius, causing fires and spoiled food, and a separate cybersecurity incident that Ahold Delhaize reported to Dutch police the same month. Kitman Coldtech, a refrigeration technology supplier, was also named in connection with the incident.",
-    "On the venture boards, the cybersecurity theme comprises three listed names; all three traded today, one higher and one lower, for a median move of 0.00% against a 2.77% decline for the S&P/TSX Venture Composite — a spread of 2.77 percentage points. Nothing connects the European incident to the day's trading in these names beyond the calendar.",
-    "Quantum Secure Encryption Corp (CSE: QSE) rose 2.78% to C$0.37, and is in the theme because its registered name is Quantum Secure Encryption Corp. CyberCatch Holdings Inc (TSXV: CYBE) fell 2.37% to C$1.65, also on its registered name. Dollar volume was thin in both: about $40,600 in Quantum Secure and $33,700 in CyberCatch.",
-    "The incidents add to a string of cyberattacks on retail refrigeration systems in Europe this autumn."
-   ]
-  },
-  {
-   "slug": "binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack",
-   "url": "https://www.cmbulletin.com/posts/binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack.json",
-   "date": "2026-11-02T12:57:27Z",
-   "headline": "Binance says customers pulled $4.7 billion after its $6.3 billion hack",
-   "dek": "The exchange reopened withdrawals after a 48-hour freeze following the theft, which the FBI has linked to the North Korean hacking group TraderTraitor.",
-   "caption": "A data center server room. Binance said net customer withdrawals eased to $4.72 billion following the exchange's $6.3 billion hack.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "Digital Assets",
-    "Cybersecurity",
-    "Markets"
-   ],
-   "tickers": [
-    "TSXV:NDA",
-    "TSXV:DMGI"
-   ],
-   "image": "https://www.cmbulletin.com/images/binance-says-customers-pulled-4-7-billion-after-its-6-3-billion-hack.png",
-   "source_name": "Reuters (via BNN Bloomberg)",
-   "sources": [
-    {
-     "title": "Binance says customers pulled net US$4.7 billion after hack as crypto world weighs risk",
-     "url": "https://www.bnnbloomberg.ca/markets/crypto/2026/11/02/binance-says-customers-pulled-net-us47-billion-after-hack-as-crypto-world-weighs-risk/",
-     "publisher": "Reuters (via BNN Bloomberg)"
-    },
-    {
-     "title": "NEPTUNE DIGITAL ASSETS CORP (TSXV: NDA) quote, -5.88% on about $94,594",
-     "url": "https://finance.yahoo.com/quote/NDA.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "DMG BLOCKCHAIN SOLUTIONS INC (TSXV: DMGI) quote, -4.88% on about $88,530",
-     "url": "https://finance.yahoo.com/quote/DMGI.V",
-     "publisher": "Yahoo Finance"
-    }
-   ],
-   "unverified_claims": [
-    "Binance's characterization of the theft as 'potentially the largest financial heist in history' is the company's own description, not independently verified.",
-    "Binance's statement that it has raised $6 billion from its corporate treasury, an insurance fund and security reserves to cover customer losses rests on the company's own disclosure."
-   ],
-   "brief": [
-    "Binance said Monday that customers had withdrawn a net $4.72 billion since the exchange reopened for withdrawals on Sunday morning, after freezing them for roughly 48 hours following a $6.3 billion theft the company has called potentially the largest financial heist in history. The FBI has attributed the hack to the North Korean group TraderTraitor.",
-    "Binance co-chief executive Yi He said the exchange's \"top priority right now is to ensure the environment is secure, after which users can withdraw their funds.\" The company said it is covering customer losses with company funds, having already raised $6 billion from its corporate treasury, an insurance fund and reserves set aside for security breaches.",
-    "On the venture boards, in the digital-assets theme: the theme comprises 14 listed venture names; 5 traded today, 1 higher and 4 lower, for a median move of -4.88% against -2.77% for the S&P/TSX Venture Composite. Neptune Digital Assets Corp (TSXV: NDA) fell 5.88% to CAD0.48, and Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 4.88% to CAD0.39. Nothing ties either move to Monday's Binance news."
-   ],
-   "body": [
-    "Binance said Monday that customers had withdrawn a net $4.72 billion from the exchange since it reopened withdrawals on Sunday morning. The company had frozen withdrawals for roughly 48 hours after disclosing a $6.3 billion theft, which it has called potentially the largest financial heist in history. The exchange reported $2.7 billion of inflows after reopening, and said withdrawal volumes had since declined and stabilized.",
-    "The Federal Bureau of Investigation has attributed the theft to TraderTraitor, a hacking group the agency links to North Korea. Binance co-chief executive Yi He said the exchange's \"top priority right now is to ensure the environment is secure, after which users can withdraw their funds.\" Binance said it is covering customer losses with company funds, having already raised $6 billion from its corporate treasury, an insurance fund and reserves set aside for security breaches.",
-    "The stablecoin issuer Circle said it had frozen more than $1.1 billion in USDC tied to the theft. Bitcoin, which had fallen to a six-week low after the hack became public, had recovered to around $78,000 by Monday.",
-    "Spot bitcoin exchange-traded funds recorded $643 million of outflows the Friday before Binance reopened withdrawals, and more than $1.3 billion in leveraged crypto positions were liquidated in the aftermath of the hack, according to the reporting. North Korea-linked hackers have stolen a combined $7.4 billion from crypto platforms in 2026.",
-    "On the venture boards, in the digital-assets theme: the theme comprises 14 listed venture names; 5 traded today, 1 higher and 4 lower, for a median move of -4.88% against -2.77% for the S&P/TSX Venture Composite.",
-    "Neptune Digital Assets Corp (TSXV: NDA) fell 5.88% to CAD0.48, and is in the theme because its registered name contains \"digital asset.\" Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 4.88% to CAD0.39, and is in the theme because its registered name contains \"blockchain.\" Both moves fall on the same day as Binance's disclosure; nothing in the available data ties one to the other."
-   ]
-  },
-  {
-   "slug": "myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project",
-   "url": "https://www.cmbulletin.com/posts/myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project.json",
-   "date": "2026-11-02T12:57:27Z",
-   "headline": "Myriad Uranium closes its $1 million purchase of an Argentine project",
-   "dek": "The CSE-listed explorer paid cash and shares for 100% of the Los Altares uranium project in the Cerro Solo district.",
-   "caption": "A wide, arid Patagonian plateau under a pale sky, with eroded rock outcrops stretching to the horizon.",
-   "sections": [
-    "energy"
-   ],
-   "tags": [
+    "Financing",
     "Uranium",
-    "M&A",
-    "Energy"
+    "Mining"
    ],
    "tickers": [
-    "CSE:M",
-    "TSXV:GCOM"
+    "TSXV:STND",
+    "OTCQB:STTDF"
    ],
-   "image": "https://www.cmbulletin.com/images/myriad-uranium-closes-its-1-million-purchase-of-an-argentine-project.png",
+   "image": "https://www.cmbulletin.com/images/standard-uranium-boosts-its-flow-through-placement-to-2-million.png",
    "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
-     "title": "Myriad Uranium Closes Acquisition of Los Altares, a Strategic District-Scale Uranium Project in Argentina's Premier Cerro Solo Uranium District",
-     "url": "https://investingnews.com/myriad-uranium-closes-acquisition-of-los-altares-a-strategic-district-scale-uranium-project-in-argentina-s-premier-cerro-solo-uranium-district/",
+     "title": "Standard Uranium Upsizes LIFE Offering",
+     "url": "https://investingnews.com/standard-uranium-upsizes-life-offering/",
      "publisher": "Investing News Network — Resource Investing"
     }
    ],
    "unverified_claims": [
-    "The release's characterization of Los Altares as carrying 'significant historic work' and 'strong leverage to the uranium price' reflects the company's own framing of the asset and is not independently verified."
+    "The company's characterization of 'strong demand' driving the upsize is the company's own stated reason.",
+    "No closing date is given; completion remains subject to TSX Venture Exchange acceptance."
    ],
    "brief": [
-    "Myriad Uranium Corp. (CSE: M) has closed its acquisition of the Los Altares uranium project in central Chubut, Argentina, from Green Shift Commodities Ltd. (TSXV: GCOM). The company paid $300,000 in cash plus 1,571,268 common shares, valued at $0.4455 each, or about $700,000, for total consideration of $1,000,000. Myriad now holds a 100% interest.",
-    "Green Shift retains a 2% net smelter return royalty on the project, with an option for Myriad to buy back half of it for $1,000,000. The shares issued to Green Shift are subject to a four-month hold expiring March 1, 2027. Myriad also issued 150,000 stock options to a consultant, exercisable at $0.39 and expiring October 30, 2031.",
-    "The 55,000-hectare project sits in the Cerro Solo uranium district and is adjacent to the Cerro Solo deposit and the historical Los Adobes mine. Myriad chief executive Thomas Lamb said the deal \"continues Myriad's strategy of acquiring projects with significant historic work in known uranium districts and with low up-front and ongoing costs and strong leverage to the uranium price.\""
+    "Standard Uranium Ltd. (TSXV: STND) has increased the size of its previously announced non-brokered private placement, citing strong demand. The company will now offer up to 25 million flow-through units at $0.08 each, for gross proceeds of up to $2 million.",
+    "Each unit includes one flow-through common share and half a warrant; each whole warrant allows the holder to buy one additional common share at $0.12, exercisable starting 61 days after closing and expiring 24 months later. The company said net proceeds will fund exploration of its Saskatchewan uranium projects.",
+    "The offering carries no resale hold period under Canadian securities law and remains subject to TSX Venture Exchange approval; the release does not give a closing date. Finders may receive fees for introducing eligible subscribers to the offering."
    ],
    "body": [
-    "Myriad Uranium Corp. (CSE: M; OTCQB: MYRUF; FSE: C3Q) said Monday it has closed its previously announced acquisition of the Los Altares uranium project in central Chubut Province, Argentina, from Green Shift Commodities Ltd. (TSXV: GCOM). The deal was first announced October 13, 2026, and the underlying share purchase agreement is dated October 9, 2026.",
-    "Myriad paid $300,000 in cash plus 1,571,268 of its common shares, valued at $0.4455 per share, or about $700,000, bringing total consideration to $1,000,000 for a 100% interest in Buenavida Metales S.A., the Argentine company that holds the project's mineral claims.",
-    "Green Shift retains a 2% net smelter return royalty on the project, with Myriad holding an option to repurchase half of that royalty, 1%, for $1,000,000. The shares issued to Green Shift as part of the consideration are subject to a four-month hold period, expiring March 1, 2027.",
-    "Los Altares covers 55,000 hectares in the Cerro Solo uranium district and is adjacent to the Cerro Solo deposit and the historical Los Adobes mine, according to the release, which also described the project as carrying significant historical drilling data and approved environmental impact assessments.",
-    "Separately, Myriad said it issued 150,000 stock options to a consultant, exercisable at $0.39 per share, vesting immediately and expiring October 30, 2031.",
-    "Myriad chief executive Thomas Lamb said the deal \"continues Myriad's strategy of acquiring projects with significant historic work in known uranium districts and with low up-front and ongoing costs and strong leverage to the uranium price.\""
+    "Standard Uranium Ltd. (TSXV: STND, OTCQB: STTDF) has increased the size of a previously announced private placement, citing strong investor demand. The non-brokered offering, conducted under the listed issuer financing exemption in National Instrument 45-106, will now raise up to $2 million through the sale of as many as 25 million flow-through units priced at $0.08 each.",
+    "Each flow-through unit consists of one common share, issued under the flow-through provisions of the Income Tax Act, and one half of a common share purchase warrant. A whole warrant entitles its holder to buy one additional common share at $0.12, with the right to exercise beginning 61 days after closing and running until 24 months after that date.",
+    "A flow-through share lets the issuer renounce the associated tax deductions to the subscriber rather than claiming them itself, which is why flow-through financings are priced at a premium and used specifically to fund Canadian exploration spending. Standard Uranium said the net proceeds from this offering will go toward exploring its Saskatchewan uranium projects.",
+    "The release states the securities issued will not be subject to a resale hold period under applicable Canadian securities laws. Completion remains subject to acceptance by the TSX Venture Exchange, and finder's fees are payable to eligible parties who introduce subscribers to the offering, though no rate or specific finder is named.",
+    "The release does not give a closing date for the offering, and it does not state the size of the previously announced placement that this increase replaces, so the scale of today's upsizing cannot be measured against the original offer. Standard Uranium has not named a specific lead or sole finder in the release."
    ]
   },
   {
-   "slug": "china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies",
-   "url": "https://www.cmbulletin.com/posts/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.json",
-   "date": "2026-11-02T12:57:27Z",
-   "headline": "China's robot makers are racing to build AI 'brains', not just bodies",
-   "dek": "Chinese embodied-AI startups raised about $13 billion in the first half of 2026, five times the prior year, as the industry shifts focus from humanoid stunts to software.",
-   "caption": "An idle robotic arm on a factory assembly line, lit by cool overhead fluorescent light.",
+   "slug": "aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov",
+   "url": "https://www.cmbulletin.com/posts/aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov.json",
+   "date": "2026-11-03T13:06:16Z",
+   "headline": "Aether Global pushes InMotion Energy deal deadline three weeks to Nov. 21",
+   "dek": "The defence-and-security technology company and clean-energy fleet firm InMotion now have until November 21 to sign a definitive agreement under their proposed business combination.",
+   "caption": "Aether Global and InMotion Energy now have until November 21 to sign a definitive combination agreement.",
    "sections": [
     "tech"
    ],
    "tags": [
-    "Robotics",
-    "Artificial Intelligence",
-    "China"
+    "M&A",
+    "Defense Tech",
+    "Clean Energy"
    ],
    "tickers": [
-    "TSXV:PNG",
-    "TSXV:PALS"
+    "CSE:AETH",
+    "OTC:AETHF"
    ],
-   "image": "https://www.cmbulletin.com/images/china-s-robot-makers-are-racing-to-build-ai-brains-not-just-bodies.png",
-   "source_name": "Reuters (via Investing.com)",
+   "image": "https://www.cmbulletin.com/images/aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov.png",
+   "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "China's robot makers have mastered the moves. Now comes the race for brains",
-     "url": "https://www.investing.com/news/stock-market-news/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-4989782",
-     "publisher": "Reuters (via Investing.com)"
-    },
-    {
-     "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -2.07% on about $4,758,264",
-     "url": "https://finance.yahoo.com/quote/PNG.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "PARAGON ADVANCED LABS INC (TSXV: PALS) quote, -0.82% on about $53,946",
-     "url": "https://finance.yahoo.com/quote/PALS.V",
-     "publisher": "Yahoo Finance"
+     "title": "Aether Global Innovations Announces Extension of Letter of Intent with InMotion Energy Corp.",
+     "url": "https://thenewswire.com/press-releases/1AJ6F1WNo-aether-global-innovations-announces-extension-of-letter-of-intent-with-inmotion-energy-corp.html",
+     "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [
-    "DexForce's reported success rate above 99.9% in specified precision operations is self-reported by the company via its chief operating officer.",
-    "CATL's reported insertion success rate above 99% for Spirit AI's robots in its battery-pack testing is self-reported by CATL, as relayed in the reporting.",
-    "ZenGen Labs founder Dermot McGrath's conclusion that robotics margin will come from software rather than hardware is his own stated view, not an independently verified industry fact."
+    "The release does not disclose financial terms, an exchange ratio, or a valuation for the proposed business combination.",
+    "There is no assurance stated in the release that the transaction will be completed by the new deadline or at all."
    ],
    "brief": [
-    "Chinese robotics companies that spent years building humanoids capable of running, dancing and backflips are now pouring money into the software that could make the machines useful on the job, Reuters reported. Chinese embodied-AI startups raised 93.5 billion yuan, about $13 billion, across 322 deals in the first half of 2026 — five times the year-earlier total, according to the research firm ITjuzi.",
-    "Spirit AI co-founder Gao Yang said \"the brain is indeed the weakest link in the complete robotics stack.\" Ant Group's Robbyant has trained a model on 160,000 hours of material, including 50,000 hours of human-guided robot movements, across 20 robot configurations from 17 brands. DexForce says it can prepare some industrial tasks for deployment within six to eight hours, with success rates above 99.9% in specified precision operations.",
-    "On the venture boards, in the robotics-and-automation theme: the theme comprises 11 listed venture names; 6 traded today, 2 higher and 3 lower, for a median move of -0.41% against -2.77% for the S&P/TSX Venture Composite. Kraken Robotics Inc (TSXV: PNG) fell 2.07% to CAD3.78, and Paragon Advanced Labs Inc (TSXV: PALS) fell 0.82% to CAD2.43. Nothing ties either move to the China reporting."
+    "Aether Global Innovations Corp. (CSE: AETH), a defence and security technology company, has extended the exclusivity period and term of its letter of intent with InMotion Energy Corp. by three weeks, to November 21 from October 31. All other terms of the original LOI remain unchanged, the company said.",
+    "The proposed combination would bring together Aether's unmanned-systems and counter-drone business with InMotion, a clean-energy company developing solar power systems for transportation fleets. The deal is classified as a \"Fundamental Change\" under Canadian Securities Exchange policy and would require a definitive agreement, shareholder approval and CSE approval before it could complete.",
+    "The original letter of intent was signed September 28. The companies said they continue to work toward finalizing and executing a definitive agreement by the new deadline, with no assurance the transaction will ultimately be completed."
    ],
    "body": [
-    "Chinese robotics companies that spent years building humanoids capable of running, dancing and performing backflips are now shifting resources into the software that could make those machines useful across a wider range of jobs, Reuters reported from Beijing. Chinese embodied-AI companies raised 93.5 billion yuan, or about $13 billion, across 322 deals in the first half of 2026 — five times the amount raised a year earlier, according to the research firm ITjuzi.",
-    "Spirit AI co-founder Gao Yang said \"the brain is indeed the weakest link in the complete robotics stack.\" Hangzhou-based Unitree, one of the world's largest humanoid robot makers by shipments, has about 30 researchers working on AI that predicts how objects behave. Ant Group's robotics unit, Robbyant, has trained a model on 160,000 hours of material, including 50,000 hours of human-guided robot movements, across 20 robot configurations from 17 different brands.",
-    "DexForce, which trains robots in computer-generated environments, says it can prepare some industrial tasks for deployment within six to eight hours, with success rates above 99.9% in specified precision operations, according to chief operating officer Nicole Yang. The Chinese battery maker CATL said Spirit AI's robots achieved an insertion success rate above 99% connecting flexible wires during its battery-pack testing.",
-    "American startups including Physical Intelligence, Skild AI and Generalist are pursuing a similar goal: software that lets a robot learn a new task without lengthy retraining. Three Chinese companies — X Square, Galaxea and Spirit AI — have each reached valuations of about $3 billion, and Hong Kong-listed UBTech advertised a chief scientist role paying up to 124 million yuan, or about $18 million, including equity and benefits.",
-    "Shanghai-based ZenGen Labs founder Dermot McGrath concluded that the profit margin in robotics will come from the software rather than the hardware, according to the reporting. Unitree founder Wang Xingxing said a future version of the underlying AI models could bring robotics its own \"ChatGPT moment\" if robots can complete most tasks in unfamiliar environments from spoken instructions alone.",
-    "On the venture boards, in the robotics-and-automation theme: the theme comprises 11 listed venture names; 6 traded today, 2 higher and 3 lower, for a median move of -0.41% against -2.77% for the S&P/TSX Venture Composite.",
-    "Kraken Robotics Inc (TSXV: PNG) fell 2.07% to CAD3.78, and is in the theme because its registered name is Kraken Robotics Inc. Paragon Advanced Labs Inc (TSXV: PALS) fell 0.82% to CAD2.43, and is in the theme because its sector label is \"Scientific & Technical Instruments.\" Both moves fall on the same day as the Reuters reporting on Chinese robotics investment; nothing in the available data connects one to the other."
+    "Aether Global Innovations Corp. (CSE: AETH, OTC: AETHF), a defence and security technology company, has extended the exclusivity period and term of its binding letter of intent with InMotion Energy Corp. by three weeks, moving the deadline to November 21 from October 31. The company said all other terms of the original LOI, first signed September 28, remain unchanged.",
+    "The proposed transaction would combine Aether's unmanned-systems and counter-drone business with InMotion, which operates through its subsidiary Deecell Inc. developing solar power systems for transportation fleets. Aether described the pairing as a proposed business combination between the two companies, which the release classifies as a \"Fundamental Change\" under Canadian Securities Exchange policy.",
+    "Completing the deal requires the parties to execute a definitive agreement, obtain shareholder approval, and secure CSE approval, none of which have yet occurred. The companies said they continue to work toward finalizing those steps by the new November 21 deadline, and the release states there is no assurance the transaction will be completed.",
+    "The announcement does not disclose financial terms for the proposed combination, an exchange ratio, or a valuation for either company. Both Aether and InMotion remain separately listed companies while the parties negotiate toward a definitive agreement, and the release gives no specifics beyond the extended timeline and the classification of the deal as a Fundamental Change.",
+    "Today's release is itself short: it extends one deadline and confirms no other term has moved. Readers following either company should expect the next disclosure to be either a definitive agreement or confirmation that the proposed combination has lapsed at the new November 21 deadline."
+   ]
+  },
+  {
+   "slug": "a-spacex-tesla-merger-could-hand-musk-56-voting-control",
+   "url": "https://www.cmbulletin.com/posts/a-spacex-tesla-merger-could-hand-musk-56-voting-control.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/a-spacex-tesla-merger-could-hand-musk-56-voting-control.json",
+   "date": "2026-11-03T13:06:16Z",
+   "headline": "A SpaceX-Tesla merger could hand Musk 56% voting control",
+   "dek": "Barclays estimates the combination would give Musk roughly 37% ownership of the combined company, without triggering the $1-trillion Tesla pay package shareholders approved.",
+   "caption": "An empty boardroom at Tesla's scale of ambition: voting control, not cash, is what a SpaceX combination would actually hand Musk.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "M&A",
+    "Governance",
+    "Space"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/a-spacex-tesla-merger-could-hand-musk-56-voting-control.png",
+   "source_name": "Reuters (via Investing.com)",
+   "sources": [
+    {
+     "title": "Musk's pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday",
+     "url": "https://www.investing.com/news/stock-market-news/musks-pay-under-a-spacextesla-merger-voting-control-but-no-1-trillion-payday-4994340",
+     "publisher": "Reuters (via Investing.com)"
+    }
+   ],
+   "unverified_claims": [
+    "Barclays' estimates of Musk's post-merger ownership (~37%) and voting power (~56%) are analyst projections about a hypothetical transaction, not a confirmed deal or company disclosure.",
+    "There is no confirmed SpaceX-Tesla merger; the analysis describes what voting control would look like under one."
+   ],
+   "brief": [
+    "A SpaceX-Tesla merger would give Elon Musk about 56% of the combined company's voting power, Barclays analysts estimate, versus the roughly 29% he would hold even if he meets every milestone under the $1-trillion Tesla pay package shareholders already approved, Reuters reported.",
+    "SpaceX's own compensation plan hands Musk 85% voting control immediately, without operational milestones, with the stock's value tied to targets including Mars colonization and data-center buildouts worth up to $719 billion at the highest level. Tesla's $2-trillion market-cap threshold for any merger-linked award compares with its current $1.6-trillion valuation.",
+    "On the venture boards, the space theme comprises two listed names; of those, none cleared the C$25,000 daily-volume threshold this bulletin uses to call a price change a trade, so none is named here. The S&P/TSX Venture Composite fell 0.37% on the day."
+   ],
+   "body": [
+    "A merger between SpaceX and Tesla could hand Elon Musk substantially more control over the combined company than the $1-trillion pay package Tesla shareholders approved last year, Reuters reported. Barclays analysts estimate that in a merger, Musk would own roughly 37% of the combined entity but hold about 56% of its voting power, a figure well above the roughly 29% voting control the Tesla package alone would eventually give him if every milestone is met.",
+    "The difference comes from how the two pay structures are built. Tesla's package requires Musk to hit a series of market-capitalization and operational milestones before any additional stock, and the voting power that comes with it, is released. SpaceX's own compensation plan, approved separately, gives Musk 85% voting control from the outset, with no operational conditions attached, because of a special class of shares that carries ten votes each.",
+    "SpaceX's stock-based incentives are themselves tied to ambitious targets — Mars colonization, data-center expansion, and further market-capitalization goals — that could be worth as much as $719 billion at the highest tier, according to the reporting. Under a merger scenario, any additional Tesla-linked award would not trigger until the combined company's market capitalization reached $2 trillion, versus Tesla's current standalone valuation of about $1.6 trillion; reaching that threshold would issue Musk $20 billion in shares.",
+    "Governance observers quoted in the reporting were skeptical that the pay structure itself was the real story. Corporate governance expert Charles Elson called the package \"a distraction from the real story, which is complete control.\" Accounting professor Matthew Bloomfield described the SpaceX plan as \"just a marketing document,\" saying Musk includes ambitious targets to \"get a bunch of people hyped.\"",
+    "SpaceX completed its initial public offering in the summer of 2026, and the merger itself remains speculative — there is no confirmed transaction, only analysis of what one could look like under the two companies' existing pay structures. The $1-trillion Tesla package approved by shareholders last year was structured around milestones Musk had not yet met at the time of the reporting.",
+    "On the venture boards, the space theme — two listed names — saw muted activity on the day: one showed a print, but neither cleared the C$25,000 daily-volume floor this bulletin requires before naming a price change a trade, so neither is identified here. The S&P/TSX Venture Composite, the benchmark against which this bulletin measures small-cap moves, fell 0.37% over the same session."
    ]
   }
  ]

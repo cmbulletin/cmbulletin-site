@@ -1,11 +1,125 @@
 {
  "api": "v1",
- "generated_at": "2026-11-02T13:55:04Z",
+ "generated_at": "2026-11-03T13:32:55Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 126,
+ "count": 129,
  "entries": [
+  {
+   "slug": "standard-uranium-boosts-its-flow-through-placement-to-2-million",
+   "url": "https://www.cmbulletin.com/posts/standard-uranium-boosts-its-flow-through-placement-to-2-million.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/standard-uranium-boosts-its-flow-through-placement-to-2-million.json",
+   "date": "2026-11-03T13:06:16Z",
+   "headline": "Standard Uranium boosts its flow-through placement to $2 million",
+   "dek": "Strong demand led the Saskatchewan-focused explorer to increase the non-brokered offering to 25 million units at $0.08, with warrants exercisable at $0.12.",
+   "caption": "A flow-through placement for Standard Uranium's Saskatchewan projects grew to $2 million on what the company called strong demand.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Financing",
+    "Uranium",
+    "Mining"
+   ],
+   "tickers": [
+    "TSXV:STND",
+    "OTCQB:STTDF"
+   ],
+   "image": "https://www.cmbulletin.com/images/standard-uranium-boosts-its-flow-through-placement-to-2-million.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "Standard Uranium Upsizes LIFE Offering",
+     "url": "https://investingnews.com/standard-uranium-upsizes-life-offering/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The company's characterization of 'strong demand' driving the upsize is the company's own stated reason.",
+    "No closing date is given; completion remains subject to TSX Venture Exchange acceptance."
+   ],
+   "brief": [
+    "Standard Uranium Ltd. (TSXV: STND) has increased the size of its previously announced non-brokered private placement, citing strong demand. The company will now offer up to 25 million flow-through units at $0.08 each, for gross proceeds of up to $2 million.",
+    "Each unit includes one flow-through common share and half a warrant; each whole warrant allows the holder to buy one additional common share at $0.12, exercisable starting 61 days after closing and expiring 24 months later. The company said net proceeds will fund exploration of its Saskatchewan uranium projects.",
+    "The offering carries no resale hold period under Canadian securities law and remains subject to TSX Venture Exchange approval; the release does not give a closing date. Finders may receive fees for introducing eligible subscribers to the offering."
+   ]
+  },
+  {
+   "slug": "aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov",
+   "url": "https://www.cmbulletin.com/posts/aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov.json",
+   "date": "2026-11-03T13:06:16Z",
+   "headline": "Aether Global pushes InMotion Energy deal deadline three weeks to Nov. 21",
+   "dek": "The defence-and-security technology company and clean-energy fleet firm InMotion now have until November 21 to sign a definitive agreement under their proposed business combination.",
+   "caption": "Aether Global and InMotion Energy now have until November 21 to sign a definitive combination agreement.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "M&A",
+    "Defense Tech",
+    "Clean Energy"
+   ],
+   "tickers": [
+    "CSE:AETH",
+    "OTC:AETHF"
+   ],
+   "image": "https://www.cmbulletin.com/images/aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Aether Global Innovations Announces Extension of Letter of Intent with InMotion Energy Corp.",
+     "url": "https://thenewswire.com/press-releases/1AJ6F1WNo-aether-global-innovations-announces-extension-of-letter-of-intent-with-inmotion-energy-corp.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The release does not disclose financial terms, an exchange ratio, or a valuation for the proposed business combination.",
+    "There is no assurance stated in the release that the transaction will be completed by the new deadline or at all."
+   ],
+   "brief": [
+    "Aether Global Innovations Corp. (CSE: AETH), a defence and security technology company, has extended the exclusivity period and term of its letter of intent with InMotion Energy Corp. by three weeks, to November 21 from October 31. All other terms of the original LOI remain unchanged, the company said.",
+    "The proposed combination would bring together Aether's unmanned-systems and counter-drone business with InMotion, a clean-energy company developing solar power systems for transportation fleets. The deal is classified as a \"Fundamental Change\" under Canadian Securities Exchange policy and would require a definitive agreement, shareholder approval and CSE approval before it could complete.",
+    "The original letter of intent was signed September 28. The companies said they continue to work toward finalizing and executing a definitive agreement by the new deadline, with no assurance the transaction will ultimately be completed."
+   ]
+  },
+  {
+   "slug": "a-spacex-tesla-merger-could-hand-musk-56-voting-control",
+   "url": "https://www.cmbulletin.com/posts/a-spacex-tesla-merger-could-hand-musk-56-voting-control.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/a-spacex-tesla-merger-could-hand-musk-56-voting-control.json",
+   "date": "2026-11-03T13:06:16Z",
+   "headline": "A SpaceX-Tesla merger could hand Musk 56% voting control",
+   "dek": "Barclays estimates the combination would give Musk roughly 37% ownership of the combined company, without triggering the $1-trillion Tesla pay package shareholders approved.",
+   "caption": "An empty boardroom at Tesla's scale of ambition: voting control, not cash, is what a SpaceX combination would actually hand Musk.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "M&A",
+    "Governance",
+    "Space"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/a-spacex-tesla-merger-could-hand-musk-56-voting-control.png",
+   "source_name": "Reuters (via Investing.com)",
+   "sources": [
+    {
+     "title": "Musk's pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday",
+     "url": "https://www.investing.com/news/stock-market-news/musks-pay-under-a-spacextesla-merger-voting-control-but-no-1-trillion-payday-4994340",
+     "publisher": "Reuters (via Investing.com)"
+    }
+   ],
+   "unverified_claims": [
+    "Barclays' estimates of Musk's post-merger ownership (~37%) and voting power (~56%) are analyst projections about a hypothetical transaction, not a confirmed deal or company disclosure.",
+    "There is no confirmed SpaceX-Tesla merger; the analysis describes what voting control would look like under one."
+   ],
+   "brief": [
+    "A SpaceX-Tesla merger would give Elon Musk about 56% of the combined company's voting power, Barclays analysts estimate, versus the roughly 29% he would hold even if he meets every milestone under the $1-trillion Tesla pay package shareholders already approved, Reuters reported.",
+    "SpaceX's own compensation plan hands Musk 85% voting control immediately, without operational milestones, with the stock's value tied to targets including Mars colonization and data-center buildouts worth up to $719 billion at the highest level. Tesla's $2-trillion market-cap threshold for any merger-linked award compares with its current $1.6-trillion valuation.",
+    "On the venture boards, the space theme comprises two listed names; of those, none cleared the C$25,000 daily-volume threshold this bulletin uses to call a price change a trade, so none is named here. The S&P/TSX Venture Composite fell 0.37% on the day."
+   ]
+  },
   {
    "slug": "a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over",
    "url": "https://www.cmbulletin.com/posts/a-british-columbia-regulator-halted-a-c-l-construction-s-stock-over.html",

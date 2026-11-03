@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-11-02T13:55:04Z",
+ "generated_at": "2026-11-03T13:32:55Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 60,
+ "count": 61,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -1232,6 +1232,24 @@
    "warrant_expiry": null,
    "hold_expiry": null,
    "entry_url": "https://www.cmbulletin.com/posts/a-southeast-asian-conglomerate-still-awaits-one-approval-for-altura-s.html"
+  },
+  {
+   "company": "Standard Uranium Ltd.",
+   "ticker": "TSXV:STND",
+   "type": "non-brokered private placement (flow-through units)",
+   "currency": "$",
+   "closed": "",
+   "agent": "",
+   "hold_period": false,
+   "note": "Upsized from a previously announced non-brokered offering of unstated original size; finder's fees apply to parties who introduce subscribers.",
+   "gross": 2000000.0,
+   "units": 25000000.0,
+   "price": 0.08,
+   "warrant_strike": 0.12,
+   "warrant_months": 24.0,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/standard-uranium-boosts-its-flow-through-placement-to-2-million.html"
   }
  ]
 }
