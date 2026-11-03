@@ -1,11 +1,99 @@
 {
  "api": "v1",
- "generated_at": "2026-11-03T13:32:55Z",
+ "generated_at": "2026-11-03T13:57:03Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 129,
+ "count": 131,
  "entries": [
+  {
+   "slug": "falcon-energy-materials-agrees-to-pay-us-22-million-for-a-chinese",
+   "url": "https://www.cmbulletin.com/posts/falcon-energy-materials-agrees-to-pay-us-22-million-for-a-chinese.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/falcon-energy-materials-agrees-to-pay-us-22-million-for-a-chinese.json",
+   "date": "2026-11-03T13:44:05Z",
+   "headline": "Falcon Energy Materials agrees to pay US$22 million for a Chinese graphite stake",
+   "dek": "The deal gives the TSX Venture-listed company a 49% stake in a profitable anode-material producer in Shandong province, funded by a private placement closed in September.",
+   "caption": "An industrial materials processing facility, illustrative; Tuesday's deal centres on a Chinese graphite anode producer that supplies battery manufacturers.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "M&A",
+    "Mining",
+    "Graphite",
+    "China"
+   ],
+   "tickers": [
+    "TSXV:FLCN",
+    "OTCQB:FLCNF"
+   ],
+   "image": "https://www.cmbulletin.com/images/falcon-energy-materials-agrees-to-pay-us-22-million-for-a-chinese.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Falcon Energy Materials PLC Announces Landmark Acquisition of 49% Strategic Interest in Established Graphite Anode Producer",
+     "url": "https://thenewswire.com/press-releases/1AXXFzEM6-falcon-energy-materials-plc-announces-landmark-acquisition-of-49-strategic-interest-in-established-graphite-anode-producer.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "Weihai's profitability and the terms of its long-term supply contracts rest solely on Falcon's own announcement and have not been independently verified.",
+    "Falcon's characterization of the deal as 'a defining milestone' is the company's own assessment."
+   ],
+   "brief": [
+    "Falcon Energy Materials plc (TSX-V: FLCN; OTCQB: FLCNF), through its wholly owned subsidiary Falcon EMG Holdings Ltd, has agreed to acquire a 49% non-operating equity interest in Weihai Hensen New Materials Technology Co., Ltd., a Chinese producer of natural flake and synthetic graphite anode materials, for US$22 million in cash.",
+    "Weihai operates a 25,000-tonne-per-year production facility in Shandong province and has been profitable since starting commercial output in the second half of 2025, selling under long-term contracts to Chinese anode manufacturers. Falcon says the purchase is fully funded by a C$34-million placement closed September 23, and expects to close by year-end, pending Chinese regulatory approvals.",
+    "Under a shareholder agreement, Falcon will have the right to nominate a director, veto power over key decisions requiring unanimous approval, and rights of first offer or refusal on Weihai's shares. CEO Matthieu Bos called the acquisition 'a defining milestone for Falcon.'"
+   ]
+  },
+  {
+   "slug": "salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported",
+   "url": "https://www.cmbulletin.com/posts/salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported.json",
+   "date": "2026-11-03T13:44:05Z",
+   "headline": "Salesforce agrees to buy voice-AI startup Cresta in a deal reported at $2.7 billion",
+   "dek": "The company has not disclosed terms; Cresta's voice agents already serve Marriott, Comcast and Alaska Airlines, and the deal should close early in fiscal 2028.",
+   "caption": "A customer-service call centre sits dim and quiet, illustrative of the voice-automation technology at the centre of Tuesday's acquisition.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "M&A",
+    "Artificial Intelligence",
+    "Enterprise Software"
+   ],
+   "tickers": [
+    "TSXV:DMGI",
+    "TSXV:NDA"
+   ],
+   "image": "https://www.cmbulletin.com/images/salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported.png",
+   "source_name": "Salesforce",
+   "sources": [
+    {
+     "title": "Salesforce Signs Definitive Agreement to Acquire Cresta",
+     "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/",
+     "publisher": "Salesforce"
+    },
+    {
+     "title": "DMG BLOCKCHAIN SOLUTIONS INC (TSXV: DMGI) quote, -11.54% on about $67,827",
+     "url": "https://finance.yahoo.com/quote/DMGI.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "NEPTUNE DIGITAL ASSETS CORP (TSXV: NDA) quote, -2.08% on about $30,181",
+     "url": "https://finance.yahoo.com/quote/NDA.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "The $2.7 billion purchase price is reported by The Information; Salesforce's own announcement does not state a price."
+   ],
+   "brief": [
+    "Salesforce has signed a definitive agreement to acquire Cresta, an artificial intelligence company whose voice agents handle customer service calls and coach human representatives in real time. Salesforce's own announcement names no purchase price; The Information has reported the deal at approximately $2.7 billion. Cresta already serves Marriott, Comcast and Alaska Airlines.",
+    "The acquisition pairs Cresta's voice technology with Salesforce's Service Cloud and Agentforce products, extending the company's customer-service push from chat into phone calls. Kishan Chetan, who leads Agentforce and Service Cloud, said voice is 'where service is hardest to get right.' The deal is expected to close in the first quarter of Salesforce's 2028 fiscal year, subject to regulatory approval.",
+    "Away from Salesforce, the venture board's digital assets theme comprises 14 listed names; four traded today, one higher and two lower, for a median move of -1.04% against -0.37% for the S&P/TSX Venture Composite. Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 11.54% to CAD0.345, and is in the theme because its registered name contains \"blockchain.\" Nothing connects the two."
+   ]
+  },
   {
    "slug": "standard-uranium-boosts-its-flow-through-placement-to-2-million",
    "url": "https://www.cmbulletin.com/posts/standard-uranium-boosts-its-flow-through-placement-to-2-million.html",

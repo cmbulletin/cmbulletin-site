@@ -1,0 +1,61 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-03T13:57:03Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported",
+ "url": "https://www.cmbulletin.com/posts/salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported.json",
+ "date": "2026-11-03T13:44:05Z",
+ "headline": "Salesforce agrees to buy voice-AI startup Cresta in a deal reported at $2.7 billion",
+ "dek": "The company has not disclosed terms; Cresta's voice agents already serve Marriott, Comcast and Alaska Airlines, and the deal should close early in fiscal 2028.",
+ "caption": "A customer-service call centre sits dim and quiet, illustrative of the voice-automation technology at the centre of Tuesday's acquisition.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "M&A",
+  "Artificial Intelligence",
+  "Enterprise Software"
+ ],
+ "tickers": [
+  "TSXV:DMGI",
+  "TSXV:NDA"
+ ],
+ "image": "https://www.cmbulletin.com/images/salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported.png",
+ "source_name": "Salesforce",
+ "sources": [
+  {
+   "title": "Salesforce Signs Definitive Agreement to Acquire Cresta",
+   "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/",
+   "publisher": "Salesforce"
+  },
+  {
+   "title": "DMG BLOCKCHAIN SOLUTIONS INC (TSXV: DMGI) quote, -11.54% on about $67,827",
+   "url": "https://finance.yahoo.com/quote/DMGI.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "NEPTUNE DIGITAL ASSETS CORP (TSXV: NDA) quote, -2.08% on about $30,181",
+   "url": "https://finance.yahoo.com/quote/NDA.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "The $2.7 billion purchase price is reported by The Information; Salesforce's own announcement does not state a price."
+ ],
+ "brief": [
+  "Salesforce has signed a definitive agreement to acquire Cresta, an artificial intelligence company whose voice agents handle customer service calls and coach human representatives in real time. Salesforce's own announcement names no purchase price; The Information has reported the deal at approximately $2.7 billion. Cresta already serves Marriott, Comcast and Alaska Airlines.",
+  "The acquisition pairs Cresta's voice technology with Salesforce's Service Cloud and Agentforce products, extending the company's customer-service push from chat into phone calls. Kishan Chetan, who leads Agentforce and Service Cloud, said voice is 'where service is hardest to get right.' The deal is expected to close in the first quarter of Salesforce's 2028 fiscal year, subject to regulatory approval.",
+  "Away from Salesforce, the venture board's digital assets theme comprises 14 listed names; four traded today, one higher and two lower, for a median move of -1.04% against -0.37% for the S&P/TSX Venture Composite. Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 11.54% to CAD0.345, and is in the theme because its registered name contains \"blockchain.\" Nothing connects the two."
+ ],
+ "body": [
+  "Salesforce has signed a definitive agreement to acquire Cresta, an artificial intelligence company whose voice agents handle customer service calls end-to-end and coach human representatives in real time. Salesforce's own announcement does not state a purchase price; The Information has reported the deal at approximately $2.7 billion. Cresta already serves enterprise clients including Marriott, Comcast and Alaska Airlines.",
+  "The acquisition is intended to pair Cresta's voice technology with Salesforce's Service Cloud and Agentforce products, extending the company's customer-service push from text and chat into phone calls. Kishan Chetan, who leads Agentforce and Service Cloud for Salesforce, said in the announcement that voice is 'where service is hardest to get right, and where it matters most to customers.'",
+  "Cresta chief executive Ping Wu said the combination will help 'turn every customer interaction into a competitive advantage' by building real-time conversation intelligence directly into Salesforce's service platform. Salesforce said Cresta will continue to support the contact-centre and telephony platforms its customers currently use after the deal closes.",
+  "The deal is expected to close in the first quarter of Salesforce's 2028 fiscal year, subject to regulatory approval and other customary closing conditions, the companies said. Neither company's announcement discloses the terms of the transaction beyond the expected timing, and the $2.7-billion figure circulating in media reports has not been confirmed by either party.",
+  "On the venture boards, the digital assets theme comprises 14 listed venture names; 4 traded today, 1 higher and 2 lower, for a median move of -1.04% against -0.37% for the S&P/TSX Venture Composite, a spread of -0.67 percentage points.",
+  "Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 11.54% to CAD0.345, and is in the theme because its registered name contains \"blockchain.\" Neptune Digital Assets Corp (TSXV: NDA) fell 2.08% to CAD0.47, and is in the theme because its registered name contains \"digital asset.\" The moves and Salesforce's announcement fall on the same day; nothing in either company's disclosure connects the two."
+ ]
+}
