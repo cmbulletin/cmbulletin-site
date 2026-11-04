@@ -1,33 +1,32 @@
 {
  "api": "v1",
- "generated_at": "2026-11-04T01:42:40Z",
+ "generated_at": "2026-11-04T01:47:05Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 135,
+ "count": 137,
  "entries": [
   {
-   "slug": "new-break-resources-raises-523-820-to-keep-drilling-near-timmins",
-   "url": "https://www.cmbulletin.com/posts/new-break-resources-raises-523-820-to-keep-drilling-near-timmins.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/new-break-resources-raises-523-820-to-keep-drilling-near-timmins.json",
-   "date": "2026-11-04T01:18:44Z",
-   "headline": "New Break Resources raises $523,820 to keep drilling near Timmins",
-   "dek": "The non-brokered flow-through financing funds continued drilling at the company's Moray gold project, about 49 kilometres southeast of Timmins, Ontario.",
-   "caption": "A drill rig works a forested claim near Timmins, Ontario, where small explorers routinely tap flow-through financing to fund Canadian exploration.",
+   "slug": "new-break-closes-523-820-flow-through-financing-for-its-timmins-area",
+   "url": "https://www.cmbulletin.com/posts/new-break-closes-523-820-flow-through-financing-for-its-timmins-area.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/new-break-closes-523-820-flow-through-financing-for-its-timmins-area.json",
+   "date": "2026-11-04T00:44:07Z",
+   "headline": "New Break closes $523,820 flow-through financing for its Timmins-area gold project",
+   "dek": "The CSE-listed junior issued 2,381,000 flow-through shares at $0.22 each to fund drilling at its Moray gold project near Timmins, Ontario.",
+   "caption": "A drill rig in a boreal forest clearing, representative of the exploration funded by the financing.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
     "Financing",
-    "Flow-Through"
+    "Gold"
    ],
    "tickers": [
     "CSE:NBRK",
-    "OTCQB:NBRKF",
-    "FSE:O91"
+    "OTCQB:NBRKF"
    ],
-   "image": "https://www.cmbulletin.com/images/new-break-resources-raises-523-820-to-keep-drilling-near-timmins.png",
+   "image": "https://www.cmbulletin.com/images/new-break-closes-523-820-flow-through-financing-for-its-timmins-area.png",
    "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
@@ -36,34 +35,36 @@
      "publisher": "Investing News Network — Resource Investing"
     }
    ],
-   "unverified_claims": [],
+   "unverified_claims": [
+    "The characterization of continued drilling at the Moray project rests on the company's own description in its release; no technical or assay results were disclosed."
+   ],
    "brief": [
-    "New Break Resources Ltd. (CSE: NBRK) has closed a non-brokered private-placement flow-through financing, issuing 2,381,000 flow-through shares at $0.22 each for gross proceeds of $523,820.",
-    "The company paid $12,012 in finder's fees and issued 54,600 finder warrants exercisable at $0.22 for 24 months. The FT Shares are subject to a statutory hold period of four months and one day, expiring March 4, 2027. Patricia Quigley, a control person, bought 455,000 of them.",
-    "Proceeds will be used for Canadian Exploration Expenses tied to ongoing drilling at the company's Moray gold project, located approximately 49 kilometres southeast of Timmins, Ontario."
+    "New Break Resources Ltd. has closed a non-brokered private placement of 2,381,000 flow-through shares at $0.22 each for gross proceeds of $523,820, the company said. The CSE-listed junior will use the funds for Canadian exploration expenses at its Moray gold project, about 49 kilometres southeast of Timmins, Ontario.",
+    "New Break paid $12,012 in finder's fees and issued 54,600 finder warrants, each exercisable at $0.22 for 24 months. Control person Patricia Quigley purchased 455,000 of the flow-through shares, which the company described as a related-party transaction relying on exemptions under securities rules. The shares carry a hold period expiring March 4, 2027.",
+    "The company said the gross proceeds will be renounced to purchasers as flow-through mining expenditures with an effective date no later than December 31, 2026. The financing remains subject to final approval from the Canadian Securities Exchange."
    ]
   },
   {
-   "slug": "organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis",
-   "url": "https://www.cmbulletin.com/posts/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.json",
-   "date": "2026-11-04T01:18:44Z",
-   "headline": "Organigram is offering $561 million to take over rival Aurora Cannabis",
-   "dek": "The bid, worth $7.80 a share, tops Curaleaf Holdings' hostile offer and needs two-thirds shareholder approval at a December vote.",
-   "caption": "A quiet production floor sits idle under fluorescent light, as Canada's cannabis producers consolidate around fewer, larger players.",
+   "slug": "organigram-offers-561-million-to-beat-curaleaf-s-hostile-bid-for",
+   "url": "https://www.cmbulletin.com/posts/organigram-offers-561-million-to-beat-curaleaf-s-hostile-bid-for.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/organigram-offers-561-million-to-beat-curaleaf-s-hostile-bid-for.json",
+   "date": "2026-11-04T00:44:07Z",
+   "headline": "Organigram offers $561 million to beat Curaleaf's hostile bid for Aurora Cannabis",
+   "dek": "The $7.80-a-share offer, payable in cash, stock or a mix of both, tops Curaleaf Holdings' hostile US$5 bid by about 21 per cent.",
+   "caption": "A commercial cannabis cultivation room lit by grow lamps, representative of an industry undergoing consolidation.",
    "sections": [
     "news"
    ],
    "tags": [
-    "M&A",
     "Cannabis",
-    "Takeover Bid"
+    "M&A",
+    "Takeover"
    ],
    "tickers": [
     "TSX:ACB",
     "TSXV:DB"
    ],
-   "image": "https://www.cmbulletin.com/images/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.png",
+   "image": "https://www.cmbulletin.com/images/organigram-offers-561-million-to-beat-curaleaf-s-hostile-bid-for.png",
    "source_name": "Globe and Mail — Business",
    "sources": [
     {
@@ -78,36 +79,36 @@
     }
    ],
    "unverified_claims": [
-    "The claim that the combined company would operate five EU-GMP certified production and distribution facilities rests on the companies' own statement, as reported."
+    "The approximately $561 million deal value and the characterization of the offer as a 21-per-cent premium over Curaleaf's bid are figures provided by the companies.",
+    "Whether the shareholder vote clears the two-thirds threshold, and whether the transaction completes as structured, has not yet occurred."
    ],
    "brief": [
-    "Organigram Holdings has offered $7.80 a share for Aurora Cannabis, valuing the deal at about $561 million. Shareholders can take cash, 5.86 Organigram shares, or a combination of $3.75 in cash and 3.04 Organigram shares. The offer is roughly 21 per cent above Curaleaf Holdings' competing bid of US$5 a share.",
-    "Aurora has spent several months fending off a hostile takeover attempt from Curaleaf. Completion needs at least two-thirds of votes cast by Aurora shareholders at a special meeting expected in December. Organigram has arranged a $188-million private placement with British American Tobacco and $210 million in loan facilities from ATB Financial.",
-    "The theme comprises 8 listed venture names; 2 traded today, 0 higher and 1 lower, for a median move of -2.17% against -0.77% for the S&P/TSX Venture Composite. Decibel Cannabis Company Inc (TSXV: DB) was unchanged at $1.80, and is in the theme because its registered name contains \"cannabis.\" Nothing ties the two together."
+    "Organigram Global Inc. has agreed to acquire Aurora Cannabis Inc. in a transaction the companies valued at approximately $561 million, offering $7.80 per share. Aurora shareholders may elect cash only, 5.86 Organigram shares, or a combination of $3.75 in cash and 3.04 Organigram shares, the companies said.",
+    "The offer is a roughly 21-per-cent premium to Curaleaf Holdings' hostile US$5-a-share bid, which Aurora had been fending off for months. Organigram is funding the deal with a $188-million private placement from British American Tobacco and $210 million in ATB Financial loan facilities. A shareholder vote is expected in December.",
+    "On the venture boards, the cannabis theme comprises 8 listed venture names; 2 traded today, 0 higher and 1 lower, for a median move of -2.17% against -0.77% for the S&P/TSX Venture Composite. Decibel Cannabis Company Inc. (TSXV: DB) was unchanged at C$1.80, included because its registered name contains \"cannabis.\""
    ]
   },
   {
-   "slug": "pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court",
-   "url": "https://www.cmbulletin.com/posts/pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court.json",
-   "date": "2026-11-04T01:18:44Z",
-   "headline": "PyroGenesis buys its Montreal plant for $3.1 million after a court fight",
-   "dek": "The plasma-technology company settled a Quebec court dispute over its purchase option before closing on the facility it has occupied since 2012.",
-   "caption": "A manufacturing plant sits on a quiet industrial block, its ownership settled after a dispute over the right to buy it.",
+   "slug": "pyrogenesis-pays-3-1-million-for-its-montreal-plant-after-a-legal",
+   "url": "https://www.cmbulletin.com/posts/pyrogenesis-pays-3-1-million-for-its-montreal-plant-after-a-legal.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/pyrogenesis-pays-3-1-million-for-its-montreal-plant-after-a-legal.json",
+   "date": "2026-11-04T00:44:07Z",
+   "headline": "PyroGenesis pays $3.1 million for its Montreal plant after a legal fight",
+   "dek": "The TSX-listed company had sued the building's owner to enforce its option to buy the Turcot facility before settling the case in May.",
+   "caption": "The exterior of an industrial manufacturing building, representative of the Montreal facility PyroGenesis has now purchased.",
    "sections": [
     "tech"
    ],
    "tags": [
+    "Technology",
     "Real Estate",
-    "Industrial Technology",
-    "Legal Settlement"
+    "Manufacturing"
    ],
    "tickers": [
     "TSX:PYR",
-    "OTCQX:PYRGF",
-    "FRA:8PY1"
+    "OTCQX:PYRGF"
    ],
-   "image": "https://www.cmbulletin.com/images/pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court.png",
+   "image": "https://www.cmbulletin.com/images/pyrogenesis-pays-3-1-million-for-its-montreal-plant-after-a-legal.png",
    "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
@@ -117,49 +118,165 @@
     }
    ],
    "unverified_claims": [
-    "The claim that the facility was acquired at a discount to its current market value rests solely on the company's own statement."
+    "PyroGenesis's stated intentions regarding a sale-leaseback and the planned use of any proceeds are the company's own stated plans and have not yet been executed."
    ],
    "brief": [
-    "PyroGenesis Inc. (TSX: PYR) has completed its purchase of the Turcot manufacturing facility at 5655 Philippe-Turcot in Montreal for $3.1 million. The 40,902-square-foot building has housed the company's manufacturing, R&D and office space since September 1, 2012.",
-    "The purchase settles a Quebec Superior Court action in which PyroGenesis sought to enforce a contractual option to buy the property, which the owner had contested; the closing followed an environmental assessment and the closing of financing.",
-    "PyroGenesis said it will remain in the building under a lease while it pursues a sale-leaseback of the property, which it said it acquired \"at a discount to its current market value.\" It said it is in discussions with interested parties on such a transaction."
+    "PyroGenesis Inc. has completed its purchase of the Turcot manufacturing facility at 5655 Philippe-Turcot in Montreal, the roughly 40,902-square-foot building that houses the company's operations, PyroGenesis said. The purchase followed a Quebec Superior Court action in which PyroGenesis sought to enforce its contractual option to buy the property.",
+    "The building's prior owner had contested PyroGenesis's purchase right, and the parties reached a binding settlement in May 2026 that concluded the litigation. The purchase price was $3.1 million, the company said. PyroGenesis has occupied the facility since September 1, 2012, and plans to remain there under a lease after completing the purchase.",
+    "PyroGenesis said it is in discussions with interested parties regarding a sale-leaseback of the property, which management said would help \"unlock the building's value\" while the company continues operating there and apply proceeds toward projects across its business segments."
    ]
   },
   {
-   "slug": "lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on",
-   "url": "https://www.cmbulletin.com/posts/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.json",
-   "date": "2026-11-04T01:18:44Z",
-   "headline": "Lighthouse Gold can't confirm its own historical drill results sit on its land",
-   "dek": "The company also pushed back its private placement's expected closing by about a week, to the week of November 9.",
-   "caption": "Dense forest covers the Guyana property where a junior gold explorer now says it cannot confirm decades-old drill results fall within its boundaries.",
+   "slug": "pantera-silver-s-shares-resume-trading-after-its-cease-trade-order",
+   "url": "https://www.cmbulletin.com/posts/pantera-silver-s-shares-resume-trading-after-its-cease-trade-order.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/pantera-silver-s-shares-resume-trading-after-its-cease-trade-order.json",
+   "date": "2026-11-04T00:44:07Z",
+   "headline": "Pantera Silver's shares resume trading after its cease-trade order was lifted",
+   "dek": "The TSX Venture Exchange reinstated trading Thursday after Pantera filed financial statements and the B.C. Securities Commission revoked the order.",
+   "caption": "A remote mountain exploration camp, representative of the Bolivian silver district Pantera Silver says is now its focus.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
-    "Exploration",
-    "Correction"
+    "Regulatory",
+    "Silver"
    ],
    "tickers": [
-    "CSE:LGHT"
+    "TSXV:PNTR",
+    "OTC:PNTRF"
    ],
-   "image": "https://www.cmbulletin.com/images/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.png",
-   "source_name": "TheNewswire.ca",
+   "image": "https://www.cmbulletin.com/images/pantera-silver-s-shares-resume-trading-after-its-cease-trade-order.png",
+   "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
-     "title": "Lighthouse Gold Provides Clarification Regarding Historical Drill Results at Sardine Hill and Update on Private Placement",
-     "url": "https://thenewswire.com/press-releases/1LymF9GZ1-lighthouse-gold-provides-clarification-regarding-historical-drill-results-at-sardine-hill-and-update-on-private-placement.html",
-     "publisher": "TheNewswire.ca"
+     "title": "Pantera Silver Announces Resumption of Trading on the TSX Venture Exchange",
+     "url": "https://investingnews.com/pantera-silver-announces-resumption-of-trading-on-the-tsx-venture-exchange/",
+     "publisher": "Investing News Network — Resource Investing"
     }
    ],
    "unverified_claims": [
-    "The explanation that historical drill locations were recorded on a local grid rather than accurate UTM coordinates rests solely on the company's own statement."
+    "The characterization of Pantera's renewed focus on the Rakanco Silver District rests on a quote attributed to the company's chief executive."
    ],
    "brief": [
-    "Lighthouse Gold Inc. (CSE: LGHT) said it can no longer confirm that historical drill results it had cited for its Sardine Hill zone, in Guyana, fall within the boundaries of the property. The results — a 113.5-metre interval grading 1.39 g/t gold and a 93-metre interval grading 0.69 g/t gold — were referenced in its June 15 and October 20, 2026 releases.",
-    "The company said the underlying reports date to 1997 and 2002, predate the NI 43-101 disclosure standard, and recorded drill locations on \"an historical local grid\" rather than accurate UTM coordinates. It plans further work to locate the holes relative to the property boundary.",
-    "Separately, Lighthouse said the expected closing of its previously announced private placement has moved to the week of November 9, 2026, from on or about November 4, subject to customary conditions including Canadian Securities Exchange acceptance. The release discloses no placement size or price."
+    "The TSX Venture Exchange has reinstated trading in Pantera Silver Corp.'s common shares, with trading set to resume at market open on Thursday, November 5, 2026, the company said. Trading had been halted under a cease trade order from the British Columbia Securities Commission.",
+    "The commission revoked the cease trade order on October 13, 2026, after Pantera filed its audited annual financial statements for the year ended May 31, 2026, along with the related management's discussion and analysis and CEO and CFO certifications, the company said.",
+    "President and chief executive Jay Roberge said, \"With our filings complete and trading restored, our focus is back on advancing the Rakanco Silver District in Bolivia.\""
+   ]
+  },
+  {
+   "slug": "washington-s-china-chip-curbs-put-sk-hynix-s-45-billion-new-york",
+   "url": "https://www.cmbulletin.com/posts/washington-s-china-chip-curbs-put-sk-hynix-s-45-billion-new-york.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/washington-s-china-chip-curbs-put-sk-hynix-s-45-billion-new-york.json",
+   "date": "2026-11-04T00:44:07Z",
+   "headline": "Washington's China chip curbs put SK Hynix's $45-billion New York plant in doubt",
+   "dek": "SK Hynix wants to fund the Marcy, New York NAND plants with profits from an expanded China plant Commerce officials have not approved.",
+   "caption": "An empty semiconductor cleanroom, representative of the chipmaking capacity at the centre of a US-China trade dispute.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Semiconductors",
+    "Trade Policy",
+    "Technology"
+   ],
+   "tickers": [
+    "CSE:NIOB",
+    "TSXV:NMI",
+    "CSE:QESS",
+    "CSE:APXC",
+    "TSXV:TUNG"
+   ],
+   "image": "https://www.cmbulletin.com/images/washington-s-china-chip-curbs-put-sk-hynix-s-45-billion-new-york.png",
+   "source_name": "Reuters via Investing.com",
+   "sources": [
+    {
+     "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+     "url": "https://www.investing.com/news/economy-news/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say-4996231",
+     "publisher": "Reuters via Investing.com"
+    },
+    {
+     "title": "North American Niobium and Critical Minerals Corp. (CSE: NIOB) quote, +17.86% on about $37,855",
+     "url": "https://finance.yahoo.com/quote/NIOB.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "NAMIBIA CRITICAL METALS INC (TSXV: NMI) quote, -12.50% on about $40,709",
+     "url": "https://finance.yahoo.com/quote/NMI.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, +10.42% on about $65,598",
+     "url": "https://finance.yahoo.com/quote/QESS.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Apex Critical Metals Corp. (CSE: APXC) quote, -8.26% on about $54,564",
+     "url": "https://finance.yahoo.com/quote/APXC.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "AMERICAN TUNGSTEN CORP (TSXV: TUNG) quote, +7.56% on about $44,431",
+     "url": "https://finance.yahoo.com/quote/TUNG.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "The $45-billion and potential $100-billion investment figures, and the account of the Commerce Department negotiations and the Kessler meeting, rest on unnamed sources cited by Reuters rather than an official company or government statement."
+   ],
+   "brief": [
+    "SK Hynix's Solidigm unit wants to build two NAND flash memory plants in Marcy, New York, at a cost of about $45 billion, with total investment potentially reaching $100 billion over time, Reuters reported. The company plans to fund the project using profits from an expanded chipmaking plant in Dalian, China.",
+    "The U.S. Commerce Department has not approved the export licences SK Hynix needs to expand the Dalian plant with American-made equipment, and Solidigm executives have met with officials nearly 10 times since late August. Commerce Under Secretary Jeffrey Kessler has maintained that no additional capacity-expansion equipment will be permitted, Reuters reported.",
+    "On the venture boards, the critical-minerals theme comprises 44 listed venture names; 30 traded today, 12 higher and 10 lower, for a median move of +0.00% against -0.77% for the S&P/TSX Venture Composite. North American Niobium and Critical Minerals Corp. (CSE: NIOB) rose 17.86% to C$0.165, and is in the theme because its registered name contains \"niobium.\""
+   ]
+  },
+  {
+   "slug": "novacap-led-group-buys-nato-navigation-supplier-osi-maritime-terms",
+   "url": "https://www.cmbulletin.com/posts/novacap-led-group-buys-nato-navigation-supplier-osi-maritime-terms.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/novacap-led-group-buys-nato-navigation-supplier-osi-maritime-terms.json",
+   "date": "2026-11-04T00:44:07Z",
+   "headline": "Novacap-led group buys NATO navigation supplier OSI Maritime, terms undisclosed",
+   "dek": "The Canadian consortium, which includes Export Development Canada and the Business Development Bank of Canada, keeps the Burnaby, B.C. defence technology maker in Canadian hands.",
+   "caption": "An empty ship's bridge at dusk, representative of the navigation technology at the centre of a Canadian defence acquisition.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Defence",
+    "M&A",
+    "Technology"
+   ],
+   "tickers": [
+    "CSE:QESS",
+    "TSXV:PNG"
+   ],
+   "image": "https://www.cmbulletin.com/images/novacap-led-group-buys-nato-navigation-supplier-osi-maritime-terms.png",
+   "source_name": "Globe and Mail — Business",
+   "sources": [
+    {
+     "title": "Novacap fund acquires OSI Maritime Systems, keeping NATO provider in Canada",
+     "url": "https://www.theglobeandmail.com/business/economy/article-novacap-fund-acquires-osi-maritime-systems/",
+     "publisher": "Globe and Mail — Business"
+    },
+    {
+     "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, +10.42% on about $65,598",
+     "url": "https://finance.yahoo.com/quote/QESS.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, +1.89% on about $2,749,491",
+     "url": "https://finance.yahoo.com/quote/PNG.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "OSI Maritime's claim of serving 27 NATO and allied navies and installation on more than 1,000 vessels rests on the company's own description.",
+    "The financial terms of the acquisition were not disclosed, so the deal's value cannot be independently confirmed."
+   ],
+   "brief": [
+    "A consortium led by Montreal's Novacap, including Export Development Canada and the Business Development Bank of Canada, has acquired OSI Maritime Systems, a Burnaby, B.C. company that builds electronic chart and navigation systems for ships and submarines. The financial terms were not disclosed.",
+    "OSI, founded in 1979, serves 27 NATO and allied navies including the Royal Canadian Navy, and its technology has been installed or contracted on more than 1,000 vessels, the company said. The consortium is entirely Canadian apart from one Scandinavian investor, and the deal is Novacap's first through its US$3.8-billion technology fund, which closed in February.",
+    "On the venture boards, the defence-and-drones theme comprises 8 listed venture names; 6 traded today, 4 higher and 2 lower, for a median move of +4.07% against -0.77% for the S&P/TSX Venture Composite. Aegis Critical Energy Defence Corp. (CSE: QESS) rose 10.42% to C$0.265, and Kraken Robotics Inc. (TSXV: PNG) rose 1.89% to C$3.77."
    ]
   },
   {

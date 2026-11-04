@@ -1,6 +1,6 @@
 {
  "api": "v1",
- "generated_at": "2026-11-04T01:42:40Z",
+ "generated_at": "2026-11-04T01:47:05Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
@@ -60,6 +60,24 @@
    "warrant_expiry": "2028-11-04",
    "hold_expiry": "2027-03-05",
    "entry_url": "https://www.cmbulletin.com/posts/lighthouse-gold-upsizes-private-placement-to-6-45-million.html"
+  },
+  {
+   "company": "New Break Resources Ltd.",
+   "ticker": "CSE:NBRK",
+   "type": "Non-brokered flow-through private placement",
+   "currency": "$",
+   "closed": "2026-11-03",
+   "agent": "",
+   "hold_period": true,
+   "note": "Non-brokered; New Break paid $12,012 in finder's fees and issued 54,600 finder warrants exercisable at $0.22 for 24 months. Control person Patricia Quigley purchased 455,000 of the FT shares, a related-party transaction relying on exemptions under MI 61-101.",
+   "gross": 523820.0,
+   "units": 2381000.0,
+   "price": 0.22,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": "2027-03-04",
+   "entry_url": "https://www.cmbulletin.com/posts/new-break-closes-523-820-flow-through-financing-for-its-timmins-area.html"
   },
   {
    "company": "Ashley Gold Corp.",
@@ -1250,24 +1268,6 @@
    "warrant_expiry": null,
    "hold_expiry": null,
    "entry_url": "https://www.cmbulletin.com/posts/standard-uranium-boosts-its-flow-through-placement-to-2-million.html"
-  },
-  {
-   "company": "Lighthouse Gold Inc.",
-   "ticker": "CSE:LGHT",
-   "type": "Private placement",
-   "currency": "C$",
-   "closed": "",
-   "agent": "",
-   "hold_period": false,
-   "note": "Expected closing moved to the week of November 9, 2026, from on or about November 4, subject to customary conditions including CSE acceptance; the release discloses no placement size or price.",
-   "gross": null,
-   "units": null,
-   "price": null,
-   "warrant_strike": null,
-   "warrant_months": null,
-   "warrant_expiry": null,
-   "hold_expiry": null,
-   "entry_url": "https://www.cmbulletin.com/posts/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.html"
   }
  ]
 }
