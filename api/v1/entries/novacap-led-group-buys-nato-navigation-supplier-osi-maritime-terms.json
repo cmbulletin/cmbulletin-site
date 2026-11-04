@@ -1,0 +1,61 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-04T01:02:09Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "novacap-led-group-buys-nato-navigation-supplier-osi-maritime-terms",
+ "url": "https://www.cmbulletin.com/posts/novacap-led-group-buys-nato-navigation-supplier-osi-maritime-terms.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/novacap-led-group-buys-nato-navigation-supplier-osi-maritime-terms.json",
+ "date": "2026-11-04T00:44:07Z",
+ "headline": "Novacap-led group buys NATO navigation supplier OSI Maritime, terms undisclosed",
+ "dek": "The Canadian consortium, which includes Export Development Canada and the Business Development Bank of Canada, keeps the Burnaby, B.C. defence technology maker in Canadian hands.",
+ "caption": "An empty ship's bridge at dusk, representative of the navigation technology at the centre of a Canadian defence acquisition.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Defence",
+  "M&A",
+  "Technology"
+ ],
+ "tickers": [
+  "CSE:QESS",
+  "TSXV:PNG"
+ ],
+ "image": "https://www.cmbulletin.com/images/novacap-led-group-buys-nato-navigation-supplier-osi-maritime-terms.png",
+ "source_name": "Globe and Mail — Business",
+ "sources": [
+  {
+   "title": "Novacap fund acquires OSI Maritime Systems, keeping NATO provider in Canada",
+   "url": "https://www.theglobeandmail.com/business/economy/article-novacap-fund-acquires-osi-maritime-systems/",
+   "publisher": "Globe and Mail — Business"
+  },
+  {
+   "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, +10.42% on about $65,598",
+   "url": "https://finance.yahoo.com/quote/QESS.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, +1.89% on about $2,749,491",
+   "url": "https://finance.yahoo.com/quote/PNG.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "OSI Maritime's claim of serving 27 NATO and allied navies and installation on more than 1,000 vessels rests on the company's own description.",
+  "The financial terms of the acquisition were not disclosed, so the deal's value cannot be independently confirmed."
+ ],
+ "brief": [
+  "A consortium led by Montreal's Novacap, including Export Development Canada and the Business Development Bank of Canada, has acquired OSI Maritime Systems, a Burnaby, B.C. company that builds electronic chart and navigation systems for ships and submarines. The financial terms were not disclosed.",
+  "OSI, founded in 1979, serves 27 NATO and allied navies including the Royal Canadian Navy, and its technology has been installed or contracted on more than 1,000 vessels, the company said. The consortium is entirely Canadian apart from one Scandinavian investor, and the deal is Novacap's first through its US$3.8-billion technology fund, which closed in February.",
+  "On the venture boards, the defence-and-drones theme comprises 8 listed venture names; 6 traded today, 4 higher and 2 lower, for a median move of +4.07% against -0.77% for the S&P/TSX Venture Composite. Aegis Critical Energy Defence Corp. (CSE: QESS) rose 10.42% to C$0.265, and Kraken Robotics Inc. (TSXV: PNG) rose 1.89% to C$3.77."
+ ],
+ "body": [
+  "A consortium led by Montreal-based private equity firm Novacap, alongside Crown corporations Export Development Canada and the Business Development Bank of Canada, has acquired OSI Maritime Systems, a Burnaby, B.C. company. OSI builds electronic chart software and navigation systems for ships and submarines. The financial terms of the acquisition were not disclosed.",
+  "OSI Maritime Systems was founded in 1979 and serves 27 NATO and allied navies, including the Royal Canadian Navy; its technology has been installed or contracted on more than 1,000 vessels, according to the company. OSI signed a memorandum of understanding with German submarine builder TKMS in June and has completed NATO compliance testing for its electronic chart systems.",
+  "The company is also developing what it calls an autonomy centre of excellence to support its work with the Royal Canadian Navy, through which it has previously developed products, OSI said. The buying consortium is entirely Canadian apart from one Scandinavian investor, and the deal is Novacap's first investment through its US$3.8-billion technology fund, which closed in February. David Armstrong, a senior partner at Novacap, and Jim Girard, OSI's president and chief executive, are both named in connection with the transaction.",
+  "On the venture boards, the defence-and-drones theme comprises eight listed venture names. Six traded today, four higher and two lower, for a median move of +4.07 per cent against -0.77 per cent for the S&P/TSX Venture Composite — a spread of 4.84 percentage points between the theme and the broader venture board.",
+  "Aegis Critical Energy Defence Corp. (CSE: QESS) rose 10.42 per cent to C$0.265 and is in the theme because its registered name contains \"defence.\" Kraken Robotics Inc. (TSXV: PNG) rose 1.89 per cent to C$3.77 and is in the theme because its registered name is Kraken Robotics Inc. The moves fall on the same trading day as the OSI acquisition; nothing in the day's trading data establishes a connection between the two."
+ ]
+}
