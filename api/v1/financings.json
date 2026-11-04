@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-11-04T13:15:31Z",
+ "generated_at": "2026-11-04T18:16:54Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 63,
+ "count": 64,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -1286,6 +1286,24 @@
    "warrant_expiry": null,
    "hold_expiry": null,
    "entry_url": "https://www.cmbulletin.com/posts/standard-uranium-boosts-its-flow-through-placement-to-2-million.html"
+  },
+  {
+   "company": "Global Uranium Corp.",
+   "ticker": "CSE:GURN",
+   "type": "Amended non-brokered private placement (LIFE) plus unsecured loan facility",
+   "currency": "C$",
+   "closed": "",
+   "agent": "",
+   "hold_period": false,
+   "note": "Minimum raised to 3,636,364 units ($800,000.08); maximum unchanged at 4,239,711 units ($932,736.42). Warrant not exercisable until 61 days after closing; expires 24 months after closing. Closing expected on or about Nov 6, 2026. Separate $1,000,000 unsecured, non-revolving loan facility at 12% simple annual interest; advances available to Oct 30, 2028, each repayable 24 months after being drawn, all amounts due by Nov 3, 2030; nothing drawn as of the announcement. The release states that all dollar amounts are in Canadian dollars.",
+   "gross": 800000.08,
+   "units": 3636364.0,
+   "price": 0.22,
+   "warrant_strike": 0.3,
+   "warrant_months": 24.0,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/global-uranium-raises-its-private-placement-minimum-and-adds-a-1.html"
   }
  ]
 }

@@ -1,0 +1,74 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-04T18:16:54Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on",
+ "url": "https://www.cmbulletin.com/posts/saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on.json",
+ "date": "2026-11-04T12:55:18Z",
+ "headline": "Saudi Aramco's profit jumps 34% to $36.25 billion despite attacks on its facilities",
+ "dek": "Elevated crude and product prices drove the profit rise, and the board authorized a $21.9 billion dividend, even as Houthi strikes hit its facilities and Iranian activity disrupted Hormuz shipping.",
+ "caption": "Oil storage tanks sit beneath low cloud at a coastal export terminal.",
+ "sections": [
+  "energy"
+ ],
+ "tags": [
+  "Energy",
+  "Oil & Gas",
+  "Earnings"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on.png",
+ "source_name": "The National",
+ "sources": [
+  {
+   "title": "Aramco posts 34% jump in third-quarter profit despite attacks on energy infrastructure",
+   "url": "https://www.thenationalnews.com/business/energy/2026/11/03/aramco-posts-34-jump-in-q3-profit-despite-attacks-on-energy-infrastructure/",
+   "publisher": "The National"
+  },
+  {
+   "title": "STAMPER OIL AND GAS CORP (TSXV: STMP) quote, +40.00% on about $112,560",
+   "url": "https://finance.yahoo.com/quote/STMP.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "RECONNAISSANCE ENERGY AFRICA LT (TSXV: RECO) quote, +4.00% on about $56,004",
+   "url": "https://finance.yahoo.com/quote/RECO.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "COELACANTH ENERGY INC (TSXV: CEI) quote, -2.90% on about $90,642",
+   "url": "https://finance.yahoo.com/quote/CEI.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "LOTUS CREEK EXPLORATION INC (TSXV: LTC) quote, -1.77% on about $131,163",
+   "url": "https://finance.yahoo.com/quote/LTC.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "ROBINSON ENERGY LIMITED (TSXV: ROB) quote, -1.52% on about $80,028",
+   "url": "https://finance.yahoo.com/quote/ROB.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "The attribution of the profit increase to higher crude and product prices is the company's own characterization, as reported.",
+  "CEO Amin Nasser's description of the attacks as amplifying 'the global energy supply crisis' is the company's own statement."
+ ],
+ "brief": [
+  "Saudi Arabian Oil Co. reported third-quarter net profit of $36.25 billion, up 34% from a year earlier, as revenue climbed to $140.5 billion from $111.6 billion. The company attributed the increase to higher prices for crude oil and refined chemical products, even as sales volumes fell.",
+  "The results followed Houthi missile and drone attacks on Aramco facilities, including its Dhahran headquarters and refining sites at Jazan and Riyadh, plus Iranian activity disrupting Strait of Hormuz shipping. Chief executive Amin Nasser said the attacks \"continued to amplify the global energy supply crisis\" in the quarter. The board authorized a $21.9 billion dividend, up 3.5% year on year.",
+  "On the venture boards, the oil, gas and power theme comprises 72 listed venture names; 34 traded today, 12 higher and 11 lower, for a median move of +0.00% against -0.77% for the S&P/TSX Venture Composite. Stamper Oil And Gas Corp (TSXV: STMP) rose 40.00% to CAD0.14, and is in the theme because its sector label is \"Oil & Gas E&P\"."
+ ],
+ "body": [
+  "Saudi Arabian Oil Co. reported third-quarter net profit of $36.25 billion, up 34% from a year earlier, as revenue climbed to $140.5 billion from $111.6 billion over the same period. The company attributed the increase to higher prices for crude oil and refined chemical products, even as sales volumes fell.",
+  "The results followed attacks on Aramco's operations: Houthi militants from Yemen launched missile and drone strikes targeting company facilities, including its Dhahran headquarters and refining operations in Jazan and Riyadh, while Iranian activity in the Strait of Hormuz disrupted shipping. Chief executive Amin Nasser said: \"Geopolitical uncertainty and attacks on key energy facilities continued to amplify the global energy supply crisis in the third quarter of 2026.\"",
+  "Aramco's board authorized a base dividend of $21.9 billion for the third quarter, up 3.5% from a year earlier and payable in the fourth quarter of 2026. Capital expenditure for the quarter totaled $10.5 billion, down from $12.6 billion a year earlier, and the company said it is pursuing additional overseas storage capacity and alternative export routes to help maintain supply reliability amid the disruptions.",
+  "On Canada's venture boards, the oil, gas and power theme comprises 72 listed venture names; 34 traded today, 12 higher and 11 lower, for a median move of +0.00% against -0.77% for the S&P/TSX Venture Composite, a spread of 0.77 percentage points.",
+  "The largest mover was Stamper Oil And Gas Corp (TSXV: STMP), up 40.00% to CAD0.14, followed by Reconnaissance Energy Africa Lt (TSXV: RECO), up 4.00% to CAD0.52; both are in the theme because their sector label is \"Oil & Gas E&P\". Among the decliners, Coelacanth Energy Inc (TSXV: CEI) fell 2.90% to CAD0.67, Lotus Creek Exploration Inc (TSXV: LTC) fell 1.77% to CAD4.43, and Robinson Energy Limited (TSXV: ROB) fell 1.52% to CAD3.24, each for the same reason.",
+  "Aramco's results and the moves among these five Canadian oil and gas names fell on the same calendar day. Nothing in either the company's release or the venture names' trading establishes a connection between the two, and none is drawn here."
+ ]
+}

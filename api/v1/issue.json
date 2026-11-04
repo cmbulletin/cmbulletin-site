@@ -1,11 +1,11 @@
 {
  "api": "v1",
- "generated_at": "2026-11-04T13:15:31Z",
+ "generated_at": "2026-11-04T18:16:54Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "issue_date": "2026-11-04",
- "count": 1,
+ "count": 3,
  "entries": [
   {
    "slug": "bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut",
@@ -14,7 +14,7 @@
    "date": "2026-11-04T12:55:18Z",
    "headline": "Bastion Square Partners II raises $1.5 million in its TSX Venture debut",
    "dek": "The Vancouver capital pool company sold 15 million shares at 10 cents each and will look for an acquisition target to complete its qualifying transaction.",
-   "caption": "An empty boardroom table sits beneath a window overlooking a city skyline, before any deal has been struck.",
+   "caption": "Downtown Vancouver across False Creek.",
    "sections": [
     "financings"
    ],
@@ -53,6 +53,124 @@
     "The company's directors and officers were granted 2,700,000 incentive stock options at an exercise price of $0.10, exercisable for five years. Directors also personally purchased 1,825,000 of the shares sold in the offering, a related-party transaction disclosed in the filing.",
     "A capital pool company such as Bastion Square has no business or assets of its own beyond the cash raised at listing. Under TSX Venture Exchange rules, it must use the proceeds to identify and evaluate a business or asset to acquire, a process the exchange calls a qualifying transaction.",
     "The release named Briony Bayer, the company's Chief Financial Officer and Corporate Secretary, as the contact for further information. It did not disclose any potential acquisition target or sector of interest."
+   ]
+  },
+  {
+   "slug": "global-uranium-raises-its-private-placement-minimum-and-adds-a-1",
+   "url": "https://www.cmbulletin.com/posts/global-uranium-raises-its-private-placement-minimum-and-adds-a-1.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/global-uranium-raises-its-private-placement-minimum-and-adds-a-1.json",
+   "date": "2026-11-04T12:55:18Z",
+   "headline": "Global Uranium raises its private placement minimum and adds a $1 million loan",
+   "dek": "The Calgary-based explorer increased the minimum subscription to $800,000 and secured a separate credit facility to fund its Saskatchewan and Wyoming uranium projects.",
+   "caption": "Eroded badlands in Wyoming.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Uranium",
+    "Financing"
+   ],
+   "tickers": [
+    "CSE:GURN",
+    "OTCQB:GURFF"
+   ],
+   "image": "https://www.cmbulletin.com/images/global-uranium-raises-its-private-placement-minimum-and-adds-a-1.png",
+   "source_name": "GlobeNewswire (via Manila Times)",
+   "sources": [
+    {
+     "title": "Global Uranium Announces Amended LIFE Offering and $1 Million Loan Facility",
+     "url": "https://www.manilatimes.net/2026/11/04/tmt-newswire/globenewswire/global-uranium-announces-amended-life-offering-and-1-million-loan-facility/2461245",
+     "publisher": "GlobeNewswire (via Manila Times)"
+    },
+    {
+     "title": "Global Uranium Corp (GURN) Revises LIFE Offering and Secures $1M Unsecured Loan Facility",
+     "url": "https://kalkinemedia.com/ca/news/announcements/global-uranium-corp-gurn-revises-life-offering-and-secures-1m-unsecured-loan-facility",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Global Uranium Corp. filed an amended offering document on November 3, 2026 for its non-brokered private placement under the listed issuer financing exemption, raising the minimum subscription to 3,636,364 units for gross proceeds of $800,000.08. The maximum remains 4,239,711 units for $932,736.42, both at $0.22 per unit, with closing expected on or about November 6, 2026.",
+    "Each unit comprises one common share and one warrant exercisable at $0.30, not available until 61 days after closing and expiring 24 months after closing. Separately, the company entered a committed, unsecured, non-revolving loan facility of up to $1,000,000 with an arm's-length lender, charging 12% simple annual interest, with no amount drawn as of the announcement.",
+    "Advances may be drawn until October 30, 2028 on five business days' notice, with each advance due 24 months later and all amounts owed by November 3, 2030. The company said proceeds from both will fund exploration and option payments on its Astro project in Saskatchewan and its Wyoming projects, plus working capital."
+   ],
+   "body": [
+    "Global Uranium Corp. (CSE: GURN; OTCQB: GURFF) filed an amended and restated offering document on November 3, 2026 for its non-brokered private placement under the listed issuer financing exemption (LIFE). The minimum subscription was increased to 3,636,364 units for gross proceeds of $800,000.08; the maximum offering remains 4,239,711 units for $932,736.42, both at an unchanged price of $0.22 per unit.",
+    "Each unit comprises one common share and one warrant exercisable at $0.30 per share. The warrant does not become exercisable until 61 days after closing and expires 24 months after closing. Closing is expected on or about November 6, 2026, subject to regulatory approvals including those of the Canadian Securities Exchange.",
+    "The release said the securities are expected to be immediately freely tradable under applicable Canadian securities laws, subject to the restrictions that apply to control persons, and that the offering is available to purchasers in Canada other than Quebec and New Brunswick.",
+    "Separately, the Calgary-based uranium explorer entered a committed, unsecured, non-revolving loan facility of up to $1,000,000 with an arm's-length lender. Advances can be requested on five business days' notice until October 30, 2028, each carrying 12% simple annual interest and due for repayment 24 months after it is drawn, with all amounts owed no later than November 3, 2030. No funds had been drawn as of the announcement.",
+    "The facility carries no demand-repayment clause and allows prepayment without penalty, the company said. Proceeds from both the placement and the facility are earmarked for exploration expenditures and option payments on the company's Astro uranium project in Saskatchewan and its Wyoming projects in the Great Divide Basin, Gas Hills and Copper Mountain districts, as well as corporate liabilities, administration and working capital.",
+    "The release does not name the arm's-length lender, and does not name an agent for the private placement."
+   ]
+  },
+  {
+   "slug": "saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on",
+   "url": "https://www.cmbulletin.com/posts/saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on.json",
+   "date": "2026-11-04T12:55:18Z",
+   "headline": "Saudi Aramco's profit jumps 34% to $36.25 billion despite attacks on its facilities",
+   "dek": "Elevated crude and product prices drove the profit rise, and the board authorized a $21.9 billion dividend, even as Houthi strikes hit its facilities and Iranian activity disrupted Hormuz shipping.",
+   "caption": "Oil storage tanks sit beneath low cloud at a coastal export terminal.",
+   "sections": [
+    "energy"
+   ],
+   "tags": [
+    "Energy",
+    "Oil & Gas",
+    "Earnings"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on.png",
+   "source_name": "The National",
+   "sources": [
+    {
+     "title": "Aramco posts 34% jump in third-quarter profit despite attacks on energy infrastructure",
+     "url": "https://www.thenationalnews.com/business/energy/2026/11/03/aramco-posts-34-jump-in-q3-profit-despite-attacks-on-energy-infrastructure/",
+     "publisher": "The National"
+    },
+    {
+     "title": "STAMPER OIL AND GAS CORP (TSXV: STMP) quote, +40.00% on about $112,560",
+     "url": "https://finance.yahoo.com/quote/STMP.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "RECONNAISSANCE ENERGY AFRICA LT (TSXV: RECO) quote, +4.00% on about $56,004",
+     "url": "https://finance.yahoo.com/quote/RECO.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "COELACANTH ENERGY INC (TSXV: CEI) quote, -2.90% on about $90,642",
+     "url": "https://finance.yahoo.com/quote/CEI.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "LOTUS CREEK EXPLORATION INC (TSXV: LTC) quote, -1.77% on about $131,163",
+     "url": "https://finance.yahoo.com/quote/LTC.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "ROBINSON ENERGY LIMITED (TSXV: ROB) quote, -1.52% on about $80,028",
+     "url": "https://finance.yahoo.com/quote/ROB.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "The attribution of the profit increase to higher crude and product prices is the company's own characterization, as reported.",
+    "CEO Amin Nasser's description of the attacks as amplifying 'the global energy supply crisis' is the company's own statement."
+   ],
+   "brief": [
+    "Saudi Arabian Oil Co. reported third-quarter net profit of $36.25 billion, up 34% from a year earlier, as revenue climbed to $140.5 billion from $111.6 billion. The company attributed the increase to higher prices for crude oil and refined chemical products, even as sales volumes fell.",
+    "The results followed Houthi missile and drone attacks on Aramco facilities, including its Dhahran headquarters and refining sites at Jazan and Riyadh, plus Iranian activity disrupting Strait of Hormuz shipping. Chief executive Amin Nasser said the attacks \"continued to amplify the global energy supply crisis\" in the quarter. The board authorized a $21.9 billion dividend, up 3.5% year on year.",
+    "On the venture boards, the oil, gas and power theme comprises 72 listed venture names; 34 traded today, 12 higher and 11 lower, for a median move of +0.00% against -0.77% for the S&P/TSX Venture Composite. Stamper Oil And Gas Corp (TSXV: STMP) rose 40.00% to CAD0.14, and is in the theme because its sector label is \"Oil & Gas E&P\"."
+   ],
+   "body": [
+    "Saudi Arabian Oil Co. reported third-quarter net profit of $36.25 billion, up 34% from a year earlier, as revenue climbed to $140.5 billion from $111.6 billion over the same period. The company attributed the increase to higher prices for crude oil and refined chemical products, even as sales volumes fell.",
+    "The results followed attacks on Aramco's operations: Houthi militants from Yemen launched missile and drone strikes targeting company facilities, including its Dhahran headquarters and refining operations in Jazan and Riyadh, while Iranian activity in the Strait of Hormuz disrupted shipping. Chief executive Amin Nasser said: \"Geopolitical uncertainty and attacks on key energy facilities continued to amplify the global energy supply crisis in the third quarter of 2026.\"",
+    "Aramco's board authorized a base dividend of $21.9 billion for the third quarter, up 3.5% from a year earlier and payable in the fourth quarter of 2026. Capital expenditure for the quarter totaled $10.5 billion, down from $12.6 billion a year earlier, and the company said it is pursuing additional overseas storage capacity and alternative export routes to help maintain supply reliability amid the disruptions.",
+    "On Canada's venture boards, the oil, gas and power theme comprises 72 listed venture names; 34 traded today, 12 higher and 11 lower, for a median move of +0.00% against -0.77% for the S&P/TSX Venture Composite, a spread of 0.77 percentage points.",
+    "The largest mover was Stamper Oil And Gas Corp (TSXV: STMP), up 40.00% to CAD0.14, followed by Reconnaissance Energy Africa Lt (TSXV: RECO), up 4.00% to CAD0.52; both are in the theme because their sector label is \"Oil & Gas E&P\". Among the decliners, Coelacanth Energy Inc (TSXV: CEI) fell 2.90% to CAD0.67, Lotus Creek Exploration Inc (TSXV: LTC) fell 1.77% to CAD4.43, and Robinson Energy Limited (TSXV: ROB) fell 1.52% to CAD3.24, each for the same reason.",
+    "Aramco's results and the moves among these five Canadian oil and gas names fell on the same calendar day. Nothing in either the company's release or the venture names' trading establishes a connection between the two, and none is drawn here."
    ]
   }
  ]
