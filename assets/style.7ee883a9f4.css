@@ -298,11 +298,24 @@ a.stretch:hover { color: inherit; }
 @media (min-width: 640px) { .second { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 /* One story in the second tier: picture beside text across the row, rather
    than half a row of story and half a row of nothing. */
+/* 3 Nov 2026: the text carries the summary's opening, and the photo is cut to
+   the text's height (absolutely placed, so the text sets the row), so nothing
+   is left blank beside the picture. */
+.story__brief { display: none; font-size: 16px; line-height: 1.55; margin: 12px 0 0; }
 @media (min-width: 640px) {
   .second--one { grid-template-columns: minmax(0, 1fr); }
-  .second--one .story { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); column-gap: 28px; align-items: start; }
-  .second--one .story > .photo { grid-row: span 4; margin: 0; }
+  .second--one .story { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); column-gap: 28px; align-items: stretch; }
+  .second--one .story > .photo { margin: 0; position: relative; min-height: 240px; }
+  .second--one .story > .photo img { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: auto; }
+  .second--one .story__brief:not(.story__extra) { display: block; }
+  .second--one .story--text { display: block; }
+  /* Sized to the window, not fixed: at 2,120px a 16px dek beside a 775px
+     photo read as small print (Conrad, 3 Nov 2026: "small body text"). */
+  .second--one .story__title { font-size: clamp(24px, 2.1vw, 46px); }
+  .second--one .story__dek { font-size: clamp(16px, 1.05vw, 22px); }
+  .second--one .story__brief { font-size: clamp(16px, .95vw, 20px); }
 }
+@media (min-width: 1600px) { .second--one .story__extra { display: block; } }
 .story__title { font-family: var(--sans); font-weight: 700; font-size: clamp(22px, 1.9vw, 34px); line-height: 1.06; letter-spacing: -.028em; margin: 0; }
 .story__dek { font-size: 16px; line-height: 1.5; color: var(--ink-soft); margin: 10px 0 0; }
 

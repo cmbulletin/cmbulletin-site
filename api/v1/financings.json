@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-11-04T01:02:09Z",
+ "generated_at": "2026-11-04T01:07:04Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 62,
+ "count": 61,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -60,24 +60,6 @@
    "warrant_expiry": "2028-11-04",
    "hold_expiry": "2027-03-05",
    "entry_url": "https://www.cmbulletin.com/posts/lighthouse-gold-upsizes-private-placement-to-6-45-million.html"
-  },
-  {
-   "company": "New Break Resources Ltd.",
-   "ticker": "CSE:NBRK",
-   "type": "Non-brokered flow-through private placement",
-   "currency": "$",
-   "closed": "2026-11-03",
-   "agent": "",
-   "hold_period": true,
-   "note": "Non-brokered; New Break paid $12,012 in finder's fees and issued 54,600 finder warrants exercisable at $0.22 for 24 months. Control person Patricia Quigley purchased 455,000 of the FT shares, a related-party transaction relying on exemptions under MI 61-101.",
-   "gross": 523820.0,
-   "units": 2381000.0,
-   "price": 0.22,
-   "warrant_strike": null,
-   "warrant_months": null,
-   "warrant_expiry": null,
-   "hold_expiry": "2027-03-04",
-   "entry_url": "https://www.cmbulletin.com/posts/new-break-closes-523-820-flow-through-financing-for-its-timmins-area.html"
   },
   {
    "company": "Ashley Gold Corp.",
