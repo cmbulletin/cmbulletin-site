@@ -1,0 +1,50 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-04T01:42:40Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on",
+ "url": "https://www.cmbulletin.com/posts/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.json",
+ "date": "2026-11-04T01:18:44Z",
+ "headline": "Lighthouse Gold can't confirm its own historical drill results sit on its land",
+ "dek": "The company also pushed back its private placement's expected closing by about a week, to the week of November 9.",
+ "caption": "Dense forest covers the Guyana property where a junior gold explorer now says it cannot confirm decades-old drill results fall within its boundaries.",
+ "sections": [
+  "mining"
+ ],
+ "tags": [
+  "Mining",
+  "Exploration",
+  "Correction"
+ ],
+ "tickers": [
+  "CSE:LGHT"
+ ],
+ "image": "https://www.cmbulletin.com/images/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.png",
+ "source_name": "TheNewswire.ca",
+ "sources": [
+  {
+   "title": "Lighthouse Gold Provides Clarification Regarding Historical Drill Results at Sardine Hill and Update on Private Placement",
+   "url": "https://thenewswire.com/press-releases/1LymF9GZ1-lighthouse-gold-provides-clarification-regarding-historical-drill-results-at-sardine-hill-and-update-on-private-placement.html",
+   "publisher": "TheNewswire.ca"
+  }
+ ],
+ "unverified_claims": [
+  "The explanation that historical drill locations were recorded on a local grid rather than accurate UTM coordinates rests solely on the company's own statement."
+ ],
+ "brief": [
+  "Lighthouse Gold Inc. (CSE: LGHT) said it can no longer confirm that historical drill results it had cited for its Sardine Hill zone, in Guyana, fall within the boundaries of the property. The results — a 113.5-metre interval grading 1.39 g/t gold and a 93-metre interval grading 0.69 g/t gold — were referenced in its June 15 and October 20, 2026 releases.",
+  "The company said the underlying reports date to 1997 and 2002, predate the NI 43-101 disclosure standard, and recorded drill locations on \"an historical local grid\" rather than accurate UTM coordinates. It plans further work to locate the holes relative to the property boundary.",
+  "Separately, Lighthouse said the expected closing of its previously announced private placement has moved to the week of November 9, 2026, from on or about November 4, subject to customary conditions including Canadian Securities Exchange acceptance. The release discloses no placement size or price."
+ ],
+ "body": [
+  "Lighthouse Gold Inc. (CSE: LGHT) said it can no longer confirm that historical drill results it had cited for the Sardine Hill zone, part of its Mariwa–Sardine Hill – Lower Cuyuni Gold Property in Guyana, fall within the boundaries of the property.",
+  "The company's news releases of June 15 and October 20, 2026 had referred to a historical mineralized interval of 113.5 metres grading 1.39 g/t gold and a deeper interval of 93 metres grading 0.69 g/t gold at Sardine Hill.",
+  "Lighthouse said the underlying historical reports date to 1997 and 2002, predate the NI 43-101 disclosure standard, and recorded drill locations on \"an historical local grid\" rather than accurate UTM coordinates, so that the location of the holes relative to the property boundary \"is therefore not based on accurate UTM positioning.\"",
+  "The company said it plans further work to locate the historical drill holes relative to the property's boundaries.",
+  "Separately, Lighthouse said the expected closing of its previously announced private placement has moved to the week of November 9, 2026, from on or about November 4, subject to customary conditions including acceptance by the Canadian Securities Exchange. The release does not disclose the size or pricing of the placement.",
+  "NI 43-101 is the Canadian securities standard that governs disclosure of technical and scientific information about mineral projects; sources predating it are commonly labelled historical rather than current until a qualified person can verify them."
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-04T01:42:40Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis",
+ "url": "https://www.cmbulletin.com/posts/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.json",
+ "date": "2026-11-04T01:18:44Z",
+ "headline": "Organigram is offering $561 million to take over rival Aurora Cannabis",
+ "dek": "The bid, worth $7.80 a share, tops Curaleaf Holdings' hostile offer and needs two-thirds shareholder approval at a December vote.",
+ "caption": "A quiet production floor sits idle under fluorescent light, as Canada's cannabis producers consolidate around fewer, larger players.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "M&A",
+  "Cannabis",
+  "Takeover Bid"
+ ],
+ "tickers": [
+  "TSX:ACB",
+  "TSXV:DB"
+ ],
+ "image": "https://www.cmbulletin.com/images/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.png",
+ "source_name": "Globe and Mail — Business",
+ "sources": [
+  {
+   "title": "Organigram launches $561-million takeover offer for Aurora Cannabis",
+   "url": "https://www.theglobeandmail.com/business/article-organigram-aurora-cannabis-takeover-curaleaf-holdings/",
+   "publisher": "Globe and Mail — Business"
+  },
+  {
+   "title": "DECIBEL CANNABIS COMPANY INC (TSXV: DB) quote, +0.00% on about $29,059",
+   "url": "https://finance.yahoo.com/quote/DB.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "The claim that the combined company would operate five EU-GMP certified production and distribution facilities rests on the companies' own statement, as reported."
+ ],
+ "brief": [
+  "Organigram Holdings has offered $7.80 a share for Aurora Cannabis, valuing the deal at about $561 million. Shareholders can take cash, 5.86 Organigram shares, or a combination of $3.75 in cash and 3.04 Organigram shares. The offer is roughly 21 per cent above Curaleaf Holdings' competing bid of US$5 a share.",
+  "Aurora has spent several months fending off a hostile takeover attempt from Curaleaf. Completion needs at least two-thirds of votes cast by Aurora shareholders at a special meeting expected in December. Organigram has arranged a $188-million private placement with British American Tobacco and $210 million in loan facilities from ATB Financial.",
+  "The theme comprises 8 listed venture names; 2 traded today, 0 higher and 1 lower, for a median move of -2.17% against -0.77% for the S&P/TSX Venture Composite. Decibel Cannabis Company Inc (TSXV: DB) was unchanged at $1.80, and is in the theme because its registered name contains \"cannabis.\" Nothing ties the two together."
+ ],
+ "body": [
+  "Organigram Holdings has offered $7.80 a share for Aurora Cannabis, a deal the companies value at about $561 million. Aurora shareholders will be able to elect cash, 5.86 Organigram shares, or a blend of $3.75 in cash and 3.04 Organigram shares for each Aurora share they hold, giving them some choice over how much Organigram equity they end up owning.",
+  "The offer represents roughly a 21-per-cent premium to Curaleaf Holdings Inc.'s most recent bid of US$5 a share. Curaleaf, a Connecticut-based cannabis operator, has pursued a hostile takeover of Aurora for several months.",
+  "Completion requires at least two-thirds of the votes cast by Aurora shareholders in favour, at a special meeting the companies expect to hold in December.",
+  "Organigram has lined up financing to support the transaction: a $188-million private placement with British American Tobacco and $210 million in loan facilities from ATB Financial.",
+  "The companies said the combined business would operate five EU-GMP certified production and distribution facilities if the deal closes.",
+  "The cannabis theme comprises 8 listed venture names; 2 traded today, 0 higher and 1 lower, for a median move of -2.17% against -0.77% for the S&P/TSX Venture Composite, a spread of -1.40 percentage points.",
+  "Decibel Cannabis Company Inc (TSXV: DB) was unchanged at $1.80 today, and is in the theme because its registered name contains \"cannabis.\" The move and the takeover offer fall on the same day; nothing in either disclosure connects them."
+ ]
+}

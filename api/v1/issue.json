@@ -1,250 +1,200 @@
 {
  "api": "v1",
- "generated_at": "2026-11-04T01:07:04Z",
+ "generated_at": "2026-11-04T01:42:40Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-11-03",
- "count": 5,
+ "issue_date": "2026-11-04",
+ "count": 4,
  "entries": [
   {
-   "slug": "falcon-energy-materials-agrees-to-pay-us-22-million-for-a-chinese",
-   "url": "https://www.cmbulletin.com/posts/falcon-energy-materials-agrees-to-pay-us-22-million-for-a-chinese.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/falcon-energy-materials-agrees-to-pay-us-22-million-for-a-chinese.json",
-   "date": "2026-11-03T13:44:05Z",
-   "headline": "Falcon Energy Materials agrees to pay US$22 million for a Chinese graphite stake",
-   "dek": "The deal gives the TSX Venture-listed company a 49% stake in a profitable anode-material producer in Shandong province, funded by a private placement closed in September.",
-   "caption": "An industrial materials processing facility, illustrative; Tuesday's deal centres on a Chinese graphite anode producer that supplies battery manufacturers.",
+   "slug": "new-break-resources-raises-523-820-to-keep-drilling-near-timmins",
+   "url": "https://www.cmbulletin.com/posts/new-break-resources-raises-523-820-to-keep-drilling-near-timmins.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/new-break-resources-raises-523-820-to-keep-drilling-near-timmins.json",
+   "date": "2026-11-04T01:18:44Z",
+   "headline": "New Break Resources raises $523,820 to keep drilling near Timmins",
+   "dek": "The non-brokered flow-through financing funds continued drilling at the company's Moray gold project, about 49 kilometres southeast of Timmins, Ontario.",
+   "caption": "A drill rig works a forested claim near Timmins, Ontario, where small explorers routinely tap flow-through financing to fund Canadian exploration.",
    "sections": [
     "mining"
    ],
    "tags": [
-    "M&A",
     "Mining",
-    "Graphite",
-    "China"
-   ],
-   "tickers": [
-    "TSXV:FLCN",
-    "OTCQB:FLCNF"
-   ],
-   "image": "https://www.cmbulletin.com/images/falcon-energy-materials-agrees-to-pay-us-22-million-for-a-chinese.png",
-   "source_name": "TheNewswire.ca",
-   "sources": [
-    {
-     "title": "Falcon Energy Materials PLC Announces Landmark Acquisition of 49% Strategic Interest in Established Graphite Anode Producer",
-     "url": "https://thenewswire.com/press-releases/1AXXFzEM6-falcon-energy-materials-plc-announces-landmark-acquisition-of-49-strategic-interest-in-established-graphite-anode-producer.html",
-     "publisher": "TheNewswire.ca"
-    }
-   ],
-   "unverified_claims": [
-    "Weihai's profitability and the terms of its long-term supply contracts rest solely on Falcon's own announcement and have not been independently verified.",
-    "Falcon's characterization of the deal as 'a defining milestone' is the company's own assessment."
-   ],
-   "brief": [
-    "Falcon Energy Materials plc (TSX-V: FLCN; OTCQB: FLCNF), through its wholly owned subsidiary Falcon EMG Holdings Ltd, has agreed to acquire a 49% non-operating equity interest in Weihai Hensen New Materials Technology Co., Ltd., a Chinese producer of natural flake and synthetic graphite anode materials, for US$22 million in cash.",
-    "Weihai operates a 25,000-tonne-per-year production facility in Shandong province and has been profitable since starting commercial output in the second half of 2025, selling under long-term contracts to Chinese anode manufacturers. Falcon says the purchase is fully funded by a C$34-million placement closed September 23, and expects to close by year-end, pending Chinese regulatory approvals.",
-    "Under a shareholder agreement, Falcon will have the right to nominate a director, veto power over key decisions requiring unanimous approval, and rights of first offer or refusal on Weihai's shares. CEO Matthieu Bos called the acquisition 'a defining milestone for Falcon.'"
-   ],
-   "body": [
-    "Falcon Energy Materials plc (TSX-V: FLCN; OTCQB: FLCNF) has agreed to acquire a 49% strategic, non-operating equity interest in Weihai Hensen New Materials Technology Co., Ltd., a Chinese producer of natural flake graphite and synthetic graphite anode materials, for US$22 million in cash. The transaction is being carried out through Falcon EMG Holdings Ltd, a wholly owned Falcon subsidiary, under an Equity Transfer Agreement with Weihai's sole equity holder.",
-    "Weihai is based in Shandong province and operates a production facility with capacity for 25,000 tonnes a year of coated spheronized purified graphite, or CSPG, a processed anode material. Founded in 2023, the company began commercial production in the second half of 2025. Falcon's announcement describes Weihai as profitable, selling its output under long-term contracts to leading Chinese anode material manufacturers.",
-    "Falcon describes the acquisition as a step in its strategy to become, in its own words, 'an integrated, global supplier of critical battery materials.' The 49% stake is structured as non-operating, so Falcon will not run Weihai's daily operations, but a shareholder agreement gives Falcon the right to nominate a director, a requirement that key decisions receive unanimous board approval, and rights of first offer and first refusal over Weihai's remaining equity.",
-    "Falcon said the purchase is fully funded from a C$34-million non-brokered private placement that it closed on September 23, 2026. A non-brokered placement is one sold directly to investors without an underwriting syndicate acting as agent.",
-    "The acquisition itself is expected to close by the end of the fourth quarter of 2026, subject to Chinese regulatory approvals, including registrations with the State Administration for Market Regulation and the State Administration of Foreign Exchange, as well as other customary closing conditions.",
-    "Falcon chief executive Matthieu Bos said the acquisition is 'a defining milestone for Falcon,' calling it the execution of commitments the company had previously made to its shareholders regarding its battery-materials strategy. Falcon's shares trade on the TSX Venture Exchange under the symbol FLCN and on the OTCQB marketplace under FLCNF."
-   ]
-  },
-  {
-   "slug": "salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported",
-   "url": "https://www.cmbulletin.com/posts/salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported.json",
-   "date": "2026-11-03T13:44:05Z",
-   "headline": "Salesforce agrees to buy voice-AI startup Cresta in a deal reported at $2.7 billion",
-   "dek": "The company has not disclosed terms; Cresta's voice agents already serve Marriott, Comcast and Alaska Airlines, and the deal should close early in fiscal 2028.",
-   "caption": "A customer-service call centre sits dim and quiet, illustrative of the voice-automation technology at the centre of Tuesday's acquisition.",
-   "sections": [
-    "tech"
-   ],
-   "tags": [
-    "M&A",
-    "Artificial Intelligence",
-    "Enterprise Software"
-   ],
-   "tickers": [
-    "TSXV:DMGI",
-    "TSXV:NDA"
-   ],
-   "image": "https://www.cmbulletin.com/images/salesforce-agrees-to-buy-voice-ai-startup-cresta-in-a-deal-reported.png",
-   "source_name": "Salesforce",
-   "sources": [
-    {
-     "title": "Salesforce Signs Definitive Agreement to Acquire Cresta",
-     "url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/",
-     "publisher": "Salesforce"
-    },
-    {
-     "title": "DMG BLOCKCHAIN SOLUTIONS INC (TSXV: DMGI) quote, -11.54% on about $67,827",
-     "url": "https://finance.yahoo.com/quote/DMGI.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "NEPTUNE DIGITAL ASSETS CORP (TSXV: NDA) quote, -2.08% on about $30,181",
-     "url": "https://finance.yahoo.com/quote/NDA.V",
-     "publisher": "Yahoo Finance"
-    }
-   ],
-   "unverified_claims": [
-    "The $2.7 billion purchase price is reported by The Information; Salesforce's own announcement does not state a price."
-   ],
-   "brief": [
-    "Salesforce has signed a definitive agreement to acquire Cresta, an artificial intelligence company whose voice agents handle customer service calls and coach human representatives in real time. Salesforce's own announcement names no purchase price; The Information has reported the deal at approximately $2.7 billion. Cresta already serves Marriott, Comcast and Alaska Airlines.",
-    "The acquisition pairs Cresta's voice technology with Salesforce's Service Cloud and Agentforce products, extending the company's customer-service push from chat into phone calls. Kishan Chetan, who leads Agentforce and Service Cloud, said voice is 'where service is hardest to get right.' The deal is expected to close in the first quarter of Salesforce's 2028 fiscal year, subject to regulatory approval.",
-    "Away from Salesforce, the venture board's digital assets theme comprises 14 listed names; four traded today, one higher and two lower, for a median move of -1.04% against -0.37% for the S&P/TSX Venture Composite. Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 11.54% to CAD0.345, and is in the theme because its registered name contains \"blockchain.\" Nothing connects the two."
-   ],
-   "body": [
-    "Salesforce has signed a definitive agreement to acquire Cresta, an artificial intelligence company whose voice agents handle customer service calls end-to-end and coach human representatives in real time. Salesforce's own announcement does not state a purchase price; The Information has reported the deal at approximately $2.7 billion. Cresta already serves enterprise clients including Marriott, Comcast and Alaska Airlines.",
-    "The acquisition is intended to pair Cresta's voice technology with Salesforce's Service Cloud and Agentforce products, extending the company's customer-service push from text and chat into phone calls. Kishan Chetan, who leads Agentforce and Service Cloud for Salesforce, said in the announcement that voice is 'where service is hardest to get right, and where it matters most to customers.'",
-    "Cresta chief executive Ping Wu said the combination will help 'turn every customer interaction into a competitive advantage' by building real-time conversation intelligence directly into Salesforce's service platform. Salesforce said Cresta will continue to support the contact-centre and telephony platforms its customers currently use after the deal closes.",
-    "The deal is expected to close in the first quarter of Salesforce's 2028 fiscal year, subject to regulatory approval and other customary closing conditions, the companies said. Neither company's announcement discloses the terms of the transaction beyond the expected timing, and the $2.7-billion figure circulating in media reports has not been confirmed by either party.",
-    "On the venture boards, the digital assets theme comprises 14 listed venture names; 4 traded today, 1 higher and 2 lower, for a median move of -1.04% against -0.37% for the S&P/TSX Venture Composite, a spread of -0.67 percentage points.",
-    "Dmg Blockchain Solutions Inc (TSXV: DMGI) fell 11.54% to CAD0.345, and is in the theme because its registered name contains \"blockchain.\" Neptune Digital Assets Corp (TSXV: NDA) fell 2.08% to CAD0.47, and is in the theme because its registered name contains \"digital asset.\" The moves and Salesforce's announcement fall on the same day; nothing in either company's disclosure connects the two."
-   ]
-  },
-  {
-   "slug": "standard-uranium-boosts-its-flow-through-placement-to-2-million",
-   "url": "https://www.cmbulletin.com/posts/standard-uranium-boosts-its-flow-through-placement-to-2-million.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/standard-uranium-boosts-its-flow-through-placement-to-2-million.json",
-   "date": "2026-11-03T13:06:16Z",
-   "headline": "Standard Uranium boosts its flow-through placement to $2 million",
-   "dek": "Strong demand led the Saskatchewan-focused explorer to increase the non-brokered offering to 25 million units at $0.08, with warrants exercisable at $0.12.",
-   "caption": "A flow-through placement for Standard Uranium's Saskatchewan projects grew to $2 million on what the company called strong demand.",
-   "sections": [
-    "mining"
-   ],
-   "tags": [
     "Financing",
-    "Uranium",
-    "Mining"
+    "Flow-Through"
    ],
    "tickers": [
-    "TSXV:STND",
-    "OTCQB:STTDF"
+    "CSE:NBRK",
+    "OTCQB:NBRKF",
+    "FSE:O91"
    ],
-   "image": "https://www.cmbulletin.com/images/standard-uranium-boosts-its-flow-through-placement-to-2-million.png",
+   "image": "https://www.cmbulletin.com/images/new-break-resources-raises-523-820-to-keep-drilling-near-timmins.png",
    "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
-     "title": "Standard Uranium Upsizes LIFE Offering",
-     "url": "https://investingnews.com/standard-uranium-upsizes-life-offering/",
+     "title": "New Break Closes $523,820 Non-Brokered Flow-Through Financing",
+     "url": "https://investingnews.com/new-break-closes-523820-non-brokered-flow-through-financing/",
      "publisher": "Investing News Network — Resource Investing"
     }
    ],
-   "unverified_claims": [
-    "The company's characterization of 'strong demand' driving the upsize is the company's own stated reason.",
-    "No closing date is given; completion remains subject to TSX Venture Exchange acceptance."
-   ],
+   "unverified_claims": [],
    "brief": [
-    "Standard Uranium Ltd. (TSXV: STND) has increased the size of its previously announced non-brokered private placement, citing strong demand. The company will now offer up to 25 million flow-through units at $0.08 each, for gross proceeds of up to $2 million.",
-    "Each unit includes one flow-through common share and half a warrant; each whole warrant allows the holder to buy one additional common share at $0.12, exercisable starting 61 days after closing and expiring 24 months later. The company said net proceeds will fund exploration of its Saskatchewan uranium projects.",
-    "The offering carries no resale hold period under Canadian securities law and remains subject to TSX Venture Exchange approval; the release does not give a closing date. Finders may receive fees for introducing eligible subscribers to the offering."
+    "New Break Resources Ltd. (CSE: NBRK) has closed a non-brokered private-placement flow-through financing, issuing 2,381,000 flow-through shares at $0.22 each for gross proceeds of $523,820.",
+    "The company paid $12,012 in finder's fees and issued 54,600 finder warrants exercisable at $0.22 for 24 months. The FT Shares are subject to a statutory hold period of four months and one day, expiring March 4, 2027. Patricia Quigley, a control person, bought 455,000 of them.",
+    "Proceeds will be used for Canadian Exploration Expenses tied to ongoing drilling at the company's Moray gold project, located approximately 49 kilometres southeast of Timmins, Ontario."
    ],
    "body": [
-    "Standard Uranium Ltd. (TSXV: STND, OTCQB: STTDF) has increased the size of a previously announced private placement, citing strong investor demand. The non-brokered offering, conducted under the listed issuer financing exemption in National Instrument 45-106, will now raise up to $2 million through the sale of as many as 25 million flow-through units priced at $0.08 each.",
-    "Each flow-through unit consists of one common share, issued under the flow-through provisions of the Income Tax Act, and one half of a common share purchase warrant. A whole warrant entitles its holder to buy one additional common share at $0.12, with the right to exercise beginning 61 days after closing and running until 24 months after that date.",
-    "A flow-through share lets the issuer renounce the associated tax deductions to the subscriber rather than claiming them itself, which is why flow-through financings are priced at a premium and used specifically to fund Canadian exploration spending. Standard Uranium said the net proceeds from this offering will go toward exploring its Saskatchewan uranium projects.",
-    "The release states the securities issued will not be subject to a resale hold period under applicable Canadian securities laws. Completion remains subject to acceptance by the TSX Venture Exchange, and finder's fees are payable to eligible parties who introduce subscribers to the offering, though no rate or specific finder is named.",
-    "The release does not give a closing date for the offering, and it does not state the size of the previously announced placement that this increase replaces, so the scale of today's upsizing cannot be measured against the original offer. Standard Uranium has not named a specific lead or sole finder in the release."
+    "New Break Resources Ltd. (CSE: NBRK, OTCQB: NBRKF, FSE: O91) has closed a non-brokered private-placement flow-through financing, issuing 2,381,000 common shares that qualify as flow-through shares at a price of $0.22 per share, for gross proceeds of $523,820.",
+    "Flow-through shares let a mining explorer pass eligible Canadian Exploration Expenses to the purchaser rather than claim the deduction itself; New Break said it will renounce the expenses to purchasers of the FT Shares with an effective date no later than December 31, 2026.",
+    "The company paid $12,012 in finder's fees and issued 54,600 finder warrants, each exercisable at $0.22 for a period of 24 months.",
+    "Patricia Quigley, identified by the company as a control person, purchased 455,000 of the FT Shares in the financing.",
+    "The securities are subject to a statutory hold period of four months and one day, expiring March 4, 2027.",
+    "New Break said proceeds will be used for Canadian Exploration Expenses in connection with ongoing drilling at the company's Moray gold project, located approximately 49 kilometres southeast of Timmins, Ontario."
    ]
   },
   {
-   "slug": "aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov",
-   "url": "https://www.cmbulletin.com/posts/aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov.json",
-   "date": "2026-11-03T13:06:16Z",
-   "headline": "Aether Global pushes InMotion Energy deal deadline three weeks to Nov. 21",
-   "dek": "The defence-and-security technology company and clean-energy fleet firm InMotion now have until November 21 to sign a definitive agreement under their proposed business combination.",
-   "caption": "Aether Global and InMotion Energy now have until November 21 to sign a definitive combination agreement.",
-   "sections": [
-    "tech"
-   ],
-   "tags": [
-    "M&A",
-    "Defense Tech",
-    "Clean Energy"
-   ],
-   "tickers": [
-    "CSE:AETH",
-    "OTC:AETHF"
-   ],
-   "image": "https://www.cmbulletin.com/images/aether-global-pushes-inmotion-energy-deal-deadline-three-weeks-to-nov.png",
-   "source_name": "TheNewswire.ca",
-   "sources": [
-    {
-     "title": "Aether Global Innovations Announces Extension of Letter of Intent with InMotion Energy Corp.",
-     "url": "https://thenewswire.com/press-releases/1AJ6F1WNo-aether-global-innovations-announces-extension-of-letter-of-intent-with-inmotion-energy-corp.html",
-     "publisher": "TheNewswire.ca"
-    }
-   ],
-   "unverified_claims": [
-    "The release does not disclose financial terms, an exchange ratio, or a valuation for the proposed business combination.",
-    "There is no assurance stated in the release that the transaction will be completed by the new deadline or at all."
-   ],
-   "brief": [
-    "Aether Global Innovations Corp. (CSE: AETH), a defence and security technology company, has extended the exclusivity period and term of its letter of intent with InMotion Energy Corp. by three weeks, to November 21 from October 31. All other terms of the original LOI remain unchanged, the company said.",
-    "The proposed combination would bring together Aether's unmanned-systems and counter-drone business with InMotion, a clean-energy company developing solar power systems for transportation fleets. The deal is classified as a \"Fundamental Change\" under Canadian Securities Exchange policy and would require a definitive agreement, shareholder approval and CSE approval before it could complete.",
-    "The original letter of intent was signed September 28. The companies said they continue to work toward finalizing and executing a definitive agreement by the new deadline, with no assurance the transaction will ultimately be completed."
-   ],
-   "body": [
-    "Aether Global Innovations Corp. (CSE: AETH, OTC: AETHF), a defence and security technology company, has extended the exclusivity period and term of its binding letter of intent with InMotion Energy Corp. by three weeks, moving the deadline to November 21 from October 31. The company said all other terms of the original LOI, first signed September 28, remain unchanged.",
-    "The proposed transaction would combine Aether's unmanned-systems and counter-drone business with InMotion, which operates through its subsidiary Deecell Inc. developing solar power systems for transportation fleets. Aether described the pairing as a proposed business combination between the two companies, which the release classifies as a \"Fundamental Change\" under Canadian Securities Exchange policy.",
-    "Completing the deal requires the parties to execute a definitive agreement, obtain shareholder approval, and secure CSE approval, none of which have yet occurred. The companies said they continue to work toward finalizing those steps by the new November 21 deadline, and the release states there is no assurance the transaction will be completed.",
-    "The announcement does not disclose financial terms for the proposed combination, an exchange ratio, or a valuation for either company. Both Aether and InMotion remain separately listed companies while the parties negotiate toward a definitive agreement, and the release gives no specifics beyond the extended timeline and the classification of the deal as a Fundamental Change.",
-    "Today's release is itself short: it extends one deadline and confirms no other term has moved. Readers following either company should expect the next disclosure to be either a definitive agreement or confirmation that the proposed combination has lapsed at the new November 21 deadline."
-   ]
-  },
-  {
-   "slug": "a-spacex-tesla-merger-could-hand-musk-56-voting-control",
-   "url": "https://www.cmbulletin.com/posts/a-spacex-tesla-merger-could-hand-musk-56-voting-control.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/a-spacex-tesla-merger-could-hand-musk-56-voting-control.json",
-   "date": "2026-11-03T13:06:16Z",
-   "headline": "A SpaceX-Tesla merger could hand Musk 56% voting control",
-   "dek": "Barclays estimates the combination would give Musk roughly 37% ownership of the combined company, without triggering the $1-trillion Tesla pay package shareholders approved.",
-   "caption": "An empty boardroom at Tesla's scale of ambition: voting control, not cash, is what a SpaceX combination would actually hand Musk.",
+   "slug": "organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis",
+   "url": "https://www.cmbulletin.com/posts/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.json",
+   "date": "2026-11-04T01:18:44Z",
+   "headline": "Organigram is offering $561 million to take over rival Aurora Cannabis",
+   "dek": "The bid, worth $7.80 a share, tops Curaleaf Holdings' hostile offer and needs two-thirds shareholder approval at a December vote.",
+   "caption": "A quiet production floor sits idle under fluorescent light, as Canada's cannabis producers consolidate around fewer, larger players.",
    "sections": [
     "news"
    ],
    "tags": [
     "M&A",
-    "Governance",
-    "Space"
+    "Cannabis",
+    "Takeover Bid"
    ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/a-spacex-tesla-merger-could-hand-musk-56-voting-control.png",
-   "source_name": "Reuters (via Investing.com)",
+   "tickers": [
+    "TSX:ACB",
+    "TSXV:DB"
+   ],
+   "image": "https://www.cmbulletin.com/images/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.png",
+   "source_name": "Globe and Mail — Business",
    "sources": [
     {
-     "title": "Musk's pay under a SpaceX-Tesla merger: voting control, but no $1 trillion payday",
-     "url": "https://www.investing.com/news/stock-market-news/musks-pay-under-a-spacextesla-merger-voting-control-but-no-1-trillion-payday-4994340",
-     "publisher": "Reuters (via Investing.com)"
+     "title": "Organigram launches $561-million takeover offer for Aurora Cannabis",
+     "url": "https://www.theglobeandmail.com/business/article-organigram-aurora-cannabis-takeover-curaleaf-holdings/",
+     "publisher": "Globe and Mail — Business"
+    },
+    {
+     "title": "DECIBEL CANNABIS COMPANY INC (TSXV: DB) quote, +0.00% on about $29,059",
+     "url": "https://finance.yahoo.com/quote/DB.V",
+     "publisher": "Yahoo Finance"
     }
    ],
    "unverified_claims": [
-    "Barclays' estimates of Musk's post-merger ownership (~37%) and voting power (~56%) are analyst projections about a hypothetical transaction, not a confirmed deal or company disclosure.",
-    "There is no confirmed SpaceX-Tesla merger; the analysis describes what voting control would look like under one."
+    "The claim that the combined company would operate five EU-GMP certified production and distribution facilities rests on the companies' own statement, as reported."
    ],
    "brief": [
-    "A SpaceX-Tesla merger would give Elon Musk about 56% of the combined company's voting power, Barclays analysts estimate, versus the roughly 29% he would hold even if he meets every milestone under the $1-trillion Tesla pay package shareholders already approved, Reuters reported.",
-    "SpaceX's own compensation plan hands Musk 85% voting control immediately, without operational milestones, with the stock's value tied to targets including Mars colonization and data-center buildouts worth up to $719 billion at the highest level. Tesla's $2-trillion market-cap threshold for any merger-linked award compares with its current $1.6-trillion valuation.",
-    "On the venture boards, the space theme comprises two listed names; of those, none cleared the C$25,000 daily-volume threshold this bulletin uses to call a price change a trade, so none is named here. The S&P/TSX Venture Composite fell 0.37% on the day."
+    "Organigram Holdings has offered $7.80 a share for Aurora Cannabis, valuing the deal at about $561 million. Shareholders can take cash, 5.86 Organigram shares, or a combination of $3.75 in cash and 3.04 Organigram shares. The offer is roughly 21 per cent above Curaleaf Holdings' competing bid of US$5 a share.",
+    "Aurora has spent several months fending off a hostile takeover attempt from Curaleaf. Completion needs at least two-thirds of votes cast by Aurora shareholders at a special meeting expected in December. Organigram has arranged a $188-million private placement with British American Tobacco and $210 million in loan facilities from ATB Financial.",
+    "The theme comprises 8 listed venture names; 2 traded today, 0 higher and 1 lower, for a median move of -2.17% against -0.77% for the S&P/TSX Venture Composite. Decibel Cannabis Company Inc (TSXV: DB) was unchanged at $1.80, and is in the theme because its registered name contains \"cannabis.\" Nothing ties the two together."
    ],
    "body": [
-    "A merger between SpaceX and Tesla could hand Elon Musk substantially more control over the combined company than the $1-trillion pay package Tesla shareholders approved last year, Reuters reported. Barclays analysts estimate that in a merger, Musk would own roughly 37% of the combined entity but hold about 56% of its voting power, a figure well above the roughly 29% voting control the Tesla package alone would eventually give him if every milestone is met.",
-    "The difference comes from how the two pay structures are built. Tesla's package requires Musk to hit a series of market-capitalization and operational milestones before any additional stock, and the voting power that comes with it, is released. SpaceX's own compensation plan, approved separately, gives Musk 85% voting control from the outset, with no operational conditions attached, because of a special class of shares that carries ten votes each.",
-    "SpaceX's stock-based incentives are themselves tied to ambitious targets — Mars colonization, data-center expansion, and further market-capitalization goals — that could be worth as much as $719 billion at the highest tier, according to the reporting. Under a merger scenario, any additional Tesla-linked award would not trigger until the combined company's market capitalization reached $2 trillion, versus Tesla's current standalone valuation of about $1.6 trillion; reaching that threshold would issue Musk $20 billion in shares.",
-    "Governance observers quoted in the reporting were skeptical that the pay structure itself was the real story. Corporate governance expert Charles Elson called the package \"a distraction from the real story, which is complete control.\" Accounting professor Matthew Bloomfield described the SpaceX plan as \"just a marketing document,\" saying Musk includes ambitious targets to \"get a bunch of people hyped.\"",
-    "SpaceX completed its initial public offering in the summer of 2026, and the merger itself remains speculative — there is no confirmed transaction, only analysis of what one could look like under the two companies' existing pay structures. The $1-trillion Tesla package approved by shareholders last year was structured around milestones Musk had not yet met at the time of the reporting.",
-    "On the venture boards, the space theme — two listed names — saw muted activity on the day: one showed a print, but neither cleared the C$25,000 daily-volume floor this bulletin requires before naming a price change a trade, so neither is identified here. The S&P/TSX Venture Composite, the benchmark against which this bulletin measures small-cap moves, fell 0.37% over the same session."
+    "Organigram Holdings has offered $7.80 a share for Aurora Cannabis, a deal the companies value at about $561 million. Aurora shareholders will be able to elect cash, 5.86 Organigram shares, or a blend of $3.75 in cash and 3.04 Organigram shares for each Aurora share they hold, giving them some choice over how much Organigram equity they end up owning.",
+    "The offer represents roughly a 21-per-cent premium to Curaleaf Holdings Inc.'s most recent bid of US$5 a share. Curaleaf, a Connecticut-based cannabis operator, has pursued a hostile takeover of Aurora for several months.",
+    "Completion requires at least two-thirds of the votes cast by Aurora shareholders in favour, at a special meeting the companies expect to hold in December.",
+    "Organigram has lined up financing to support the transaction: a $188-million private placement with British American Tobacco and $210 million in loan facilities from ATB Financial.",
+    "The companies said the combined business would operate five EU-GMP certified production and distribution facilities if the deal closes.",
+    "The cannabis theme comprises 8 listed venture names; 2 traded today, 0 higher and 1 lower, for a median move of -2.17% against -0.77% for the S&P/TSX Venture Composite, a spread of -1.40 percentage points.",
+    "Decibel Cannabis Company Inc (TSXV: DB) was unchanged at $1.80 today, and is in the theme because its registered name contains \"cannabis.\" The move and the takeover offer fall on the same day; nothing in either disclosure connects them."
+   ]
+  },
+  {
+   "slug": "pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court",
+   "url": "https://www.cmbulletin.com/posts/pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court.json",
+   "date": "2026-11-04T01:18:44Z",
+   "headline": "PyroGenesis buys its Montreal plant for $3.1 million after a court fight",
+   "dek": "The plasma-technology company settled a Quebec court dispute over its purchase option before closing on the facility it has occupied since 2012.",
+   "caption": "A manufacturing plant sits on a quiet industrial block, its ownership settled after a dispute over the right to buy it.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Real Estate",
+    "Industrial Technology",
+    "Legal Settlement"
+   ],
+   "tickers": [
+    "TSX:PYR",
+    "OTCQX:PYRGF",
+    "FRA:8PY1"
+   ],
+   "image": "https://www.cmbulletin.com/images/pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "PyroGenesis Completes Purchase of its Turcot Manufacturing Facility",
+     "url": "https://investingnews.com/pyrogenesis-completes-purchase-of-its-turcot-manufacturing-facility/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The claim that the facility was acquired at a discount to its current market value rests solely on the company's own statement."
+   ],
+   "brief": [
+    "PyroGenesis Inc. (TSX: PYR) has completed its purchase of the Turcot manufacturing facility at 5655 Philippe-Turcot in Montreal for $3.1 million. The 40,902-square-foot building has housed the company's manufacturing, R&D and office space since September 1, 2012.",
+    "The purchase settles a Quebec Superior Court action in which PyroGenesis sought to enforce a contractual option to buy the property, which the owner had contested; the closing followed an environmental assessment and the closing of financing.",
+    "PyroGenesis said it will remain in the building under a lease while it pursues a sale-leaseback of the property, which it said it acquired \"at a discount to its current market value.\" It said it is in discussions with interested parties on such a transaction."
+   ],
+   "body": [
+    "PyroGenesis Inc. (TSX: PYR, OTCQX: PYRGF, FRA: 8PY1), a plasma-based technology provider to heavy industry and defence, has completed its purchase of the Turcot manufacturing facility at 5655 Philippe-Turcot in Montreal for $3.1 million.",
+    "The building measures 40,902 square feet (3,800 square metres) and sits about 6.2 kilometres, or roughly a 10-minute drive, from the company's downtown Montreal headquarters. PyroGenesis has occupied the property since September 1, 2012.",
+    "The purchase settles an action PyroGenesis had filed in the Superior Court of Quebec, in which it sought to enforce a contractual option to buy the property that the building's owner had contested.",
+    "The closing followed completion of a comprehensive environmental assessment of the building and its surrounding property, and the closing of financing, the company said.",
+    "PyroGenesis said it plans to remain in the facility and continue operating there under a lease agreement, while it pursues a sale-leaseback of the property — an arrangement in which an owner sells a building and immediately leases it back from the buyer, converting the asset into cash while keeping the building in use.",
+    "The company's chief executive said PyroGenesis \"acquired the property at a discount to its current market value\" and that proceeds from a sale-leaseback would \"provide additional capital to accelerate projects.\" PyroGenesis said it is in discussions with interested parties regarding such a transaction.",
+    "The building houses PyroGenesis's manufacturing activities, research and development programs, pilot plant systems, metal powder production, testing apparatus and office space, the company said."
+   ]
+  },
+  {
+   "slug": "lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on",
+   "url": "https://www.cmbulletin.com/posts/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.json",
+   "date": "2026-11-04T01:18:44Z",
+   "headline": "Lighthouse Gold can't confirm its own historical drill results sit on its land",
+   "dek": "The company also pushed back its private placement's expected closing by about a week, to the week of November 9.",
+   "caption": "Dense forest covers the Guyana property where a junior gold explorer now says it cannot confirm decades-old drill results fall within its boundaries.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Exploration",
+    "Correction"
+   ],
+   "tickers": [
+    "CSE:LGHT"
+   ],
+   "image": "https://www.cmbulletin.com/images/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Lighthouse Gold Provides Clarification Regarding Historical Drill Results at Sardine Hill and Update on Private Placement",
+     "url": "https://thenewswire.com/press-releases/1LymF9GZ1-lighthouse-gold-provides-clarification-regarding-historical-drill-results-at-sardine-hill-and-update-on-private-placement.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The explanation that historical drill locations were recorded on a local grid rather than accurate UTM coordinates rests solely on the company's own statement."
+   ],
+   "brief": [
+    "Lighthouse Gold Inc. (CSE: LGHT) said it can no longer confirm that historical drill results it had cited for its Sardine Hill zone, in Guyana, fall within the boundaries of the property. The results — a 113.5-metre interval grading 1.39 g/t gold and a 93-metre interval grading 0.69 g/t gold — were referenced in its June 15 and October 20, 2026 releases.",
+    "The company said the underlying reports date to 1997 and 2002, predate the NI 43-101 disclosure standard, and recorded drill locations on \"an historical local grid\" rather than accurate UTM coordinates. It plans further work to locate the holes relative to the property boundary.",
+    "Separately, Lighthouse said the expected closing of its previously announced private placement has moved to the week of November 9, 2026, from on or about November 4, subject to customary conditions including Canadian Securities Exchange acceptance. The release discloses no placement size or price."
+   ],
+   "body": [
+    "Lighthouse Gold Inc. (CSE: LGHT) said it can no longer confirm that historical drill results it had cited for the Sardine Hill zone, part of its Mariwa–Sardine Hill – Lower Cuyuni Gold Property in Guyana, fall within the boundaries of the property.",
+    "The company's news releases of June 15 and October 20, 2026 had referred to a historical mineralized interval of 113.5 metres grading 1.39 g/t gold and a deeper interval of 93 metres grading 0.69 g/t gold at Sardine Hill.",
+    "Lighthouse said the underlying historical reports date to 1997 and 2002, predate the NI 43-101 disclosure standard, and recorded drill locations on \"an historical local grid\" rather than accurate UTM coordinates, so that the location of the holes relative to the property boundary \"is therefore not based on accurate UTM positioning.\"",
+    "The company said it plans further work to locate the historical drill holes relative to the property's boundaries.",
+    "Separately, Lighthouse said the expected closing of its previously announced private placement has moved to the week of November 9, 2026, from on or about November 4, subject to customary conditions including acceptance by the Canadian Securities Exchange. The release does not disclose the size or pricing of the placement.",
+    "NI 43-101 is the Canadian securities standard that governs disclosure of technical and scientific information about mineral projects; sources predating it are commonly labelled historical rather than current until a qualified person can verify them."
    ]
   }
  ]

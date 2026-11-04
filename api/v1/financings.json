@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-11-04T01:07:04Z",
+ "generated_at": "2026-11-04T01:42:40Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 61,
+ "count": 62,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -1250,6 +1250,24 @@
    "warrant_expiry": null,
    "hold_expiry": null,
    "entry_url": "https://www.cmbulletin.com/posts/standard-uranium-boosts-its-flow-through-placement-to-2-million.html"
+  },
+  {
+   "company": "Lighthouse Gold Inc.",
+   "ticker": "CSE:LGHT",
+   "type": "Private placement",
+   "currency": "C$",
+   "closed": "",
+   "agent": "",
+   "hold_period": false,
+   "note": "Expected closing moved to the week of November 9, 2026, from on or about November 4, subject to customary conditions including CSE acceptance; the release discloses no placement size or price.",
+   "gross": null,
+   "units": null,
+   "price": null,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.html"
   }
  ]
 }

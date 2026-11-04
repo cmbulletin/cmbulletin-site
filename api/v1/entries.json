@@ -1,11 +1,167 @@
 {
  "api": "v1",
- "generated_at": "2026-11-04T01:07:04Z",
+ "generated_at": "2026-11-04T01:42:40Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 131,
+ "count": 135,
  "entries": [
+  {
+   "slug": "new-break-resources-raises-523-820-to-keep-drilling-near-timmins",
+   "url": "https://www.cmbulletin.com/posts/new-break-resources-raises-523-820-to-keep-drilling-near-timmins.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/new-break-resources-raises-523-820-to-keep-drilling-near-timmins.json",
+   "date": "2026-11-04T01:18:44Z",
+   "headline": "New Break Resources raises $523,820 to keep drilling near Timmins",
+   "dek": "The non-brokered flow-through financing funds continued drilling at the company's Moray gold project, about 49 kilometres southeast of Timmins, Ontario.",
+   "caption": "A drill rig works a forested claim near Timmins, Ontario, where small explorers routinely tap flow-through financing to fund Canadian exploration.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Flow-Through"
+   ],
+   "tickers": [
+    "CSE:NBRK",
+    "OTCQB:NBRKF",
+    "FSE:O91"
+   ],
+   "image": "https://www.cmbulletin.com/images/new-break-resources-raises-523-820-to-keep-drilling-near-timmins.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "New Break Closes $523,820 Non-Brokered Flow-Through Financing",
+     "url": "https://investingnews.com/new-break-closes-523820-non-brokered-flow-through-financing/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "New Break Resources Ltd. (CSE: NBRK) has closed a non-brokered private-placement flow-through financing, issuing 2,381,000 flow-through shares at $0.22 each for gross proceeds of $523,820.",
+    "The company paid $12,012 in finder's fees and issued 54,600 finder warrants exercisable at $0.22 for 24 months. The FT Shares are subject to a statutory hold period of four months and one day, expiring March 4, 2027. Patricia Quigley, a control person, bought 455,000 of them.",
+    "Proceeds will be used for Canadian Exploration Expenses tied to ongoing drilling at the company's Moray gold project, located approximately 49 kilometres southeast of Timmins, Ontario."
+   ]
+  },
+  {
+   "slug": "organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis",
+   "url": "https://www.cmbulletin.com/posts/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.json",
+   "date": "2026-11-04T01:18:44Z",
+   "headline": "Organigram is offering $561 million to take over rival Aurora Cannabis",
+   "dek": "The bid, worth $7.80 a share, tops Curaleaf Holdings' hostile offer and needs two-thirds shareholder approval at a December vote.",
+   "caption": "A quiet production floor sits idle under fluorescent light, as Canada's cannabis producers consolidate around fewer, larger players.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "M&A",
+    "Cannabis",
+    "Takeover Bid"
+   ],
+   "tickers": [
+    "TSX:ACB",
+    "TSXV:DB"
+   ],
+   "image": "https://www.cmbulletin.com/images/organigram-is-offering-561-million-to-take-over-rival-aurora-cannabis.png",
+   "source_name": "Globe and Mail — Business",
+   "sources": [
+    {
+     "title": "Organigram launches $561-million takeover offer for Aurora Cannabis",
+     "url": "https://www.theglobeandmail.com/business/article-organigram-aurora-cannabis-takeover-curaleaf-holdings/",
+     "publisher": "Globe and Mail — Business"
+    },
+    {
+     "title": "DECIBEL CANNABIS COMPANY INC (TSXV: DB) quote, +0.00% on about $29,059",
+     "url": "https://finance.yahoo.com/quote/DB.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "The claim that the combined company would operate five EU-GMP certified production and distribution facilities rests on the companies' own statement, as reported."
+   ],
+   "brief": [
+    "Organigram Holdings has offered $7.80 a share for Aurora Cannabis, valuing the deal at about $561 million. Shareholders can take cash, 5.86 Organigram shares, or a combination of $3.75 in cash and 3.04 Organigram shares. The offer is roughly 21 per cent above Curaleaf Holdings' competing bid of US$5 a share.",
+    "Aurora has spent several months fending off a hostile takeover attempt from Curaleaf. Completion needs at least two-thirds of votes cast by Aurora shareholders at a special meeting expected in December. Organigram has arranged a $188-million private placement with British American Tobacco and $210 million in loan facilities from ATB Financial.",
+    "The theme comprises 8 listed venture names; 2 traded today, 0 higher and 1 lower, for a median move of -2.17% against -0.77% for the S&P/TSX Venture Composite. Decibel Cannabis Company Inc (TSXV: DB) was unchanged at $1.80, and is in the theme because its registered name contains \"cannabis.\" Nothing ties the two together."
+   ]
+  },
+  {
+   "slug": "pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court",
+   "url": "https://www.cmbulletin.com/posts/pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court.json",
+   "date": "2026-11-04T01:18:44Z",
+   "headline": "PyroGenesis buys its Montreal plant for $3.1 million after a court fight",
+   "dek": "The plasma-technology company settled a Quebec court dispute over its purchase option before closing on the facility it has occupied since 2012.",
+   "caption": "A manufacturing plant sits on a quiet industrial block, its ownership settled after a dispute over the right to buy it.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Real Estate",
+    "Industrial Technology",
+    "Legal Settlement"
+   ],
+   "tickers": [
+    "TSX:PYR",
+    "OTCQX:PYRGF",
+    "FRA:8PY1"
+   ],
+   "image": "https://www.cmbulletin.com/images/pyrogenesis-buys-its-montreal-plant-for-3-1-million-after-a-court.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "PyroGenesis Completes Purchase of its Turcot Manufacturing Facility",
+     "url": "https://investingnews.com/pyrogenesis-completes-purchase-of-its-turcot-manufacturing-facility/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "The claim that the facility was acquired at a discount to its current market value rests solely on the company's own statement."
+   ],
+   "brief": [
+    "PyroGenesis Inc. (TSX: PYR) has completed its purchase of the Turcot manufacturing facility at 5655 Philippe-Turcot in Montreal for $3.1 million. The 40,902-square-foot building has housed the company's manufacturing, R&D and office space since September 1, 2012.",
+    "The purchase settles a Quebec Superior Court action in which PyroGenesis sought to enforce a contractual option to buy the property, which the owner had contested; the closing followed an environmental assessment and the closing of financing.",
+    "PyroGenesis said it will remain in the building under a lease while it pursues a sale-leaseback of the property, which it said it acquired \"at a discount to its current market value.\" It said it is in discussions with interested parties on such a transaction."
+   ]
+  },
+  {
+   "slug": "lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on",
+   "url": "https://www.cmbulletin.com/posts/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.json",
+   "date": "2026-11-04T01:18:44Z",
+   "headline": "Lighthouse Gold can't confirm its own historical drill results sit on its land",
+   "dek": "The company also pushed back its private placement's expected closing by about a week, to the week of November 9.",
+   "caption": "Dense forest covers the Guyana property where a junior gold explorer now says it cannot confirm decades-old drill results fall within its boundaries.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Exploration",
+    "Correction"
+   ],
+   "tickers": [
+    "CSE:LGHT"
+   ],
+   "image": "https://www.cmbulletin.com/images/lighthouse-gold-can-t-confirm-its-own-historical-drill-results-sit-on.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Lighthouse Gold Provides Clarification Regarding Historical Drill Results at Sardine Hill and Update on Private Placement",
+     "url": "https://thenewswire.com/press-releases/1LymF9GZ1-lighthouse-gold-provides-clarification-regarding-historical-drill-results-at-sardine-hill-and-update-on-private-placement.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The explanation that historical drill locations were recorded on a local grid rather than accurate UTM coordinates rests solely on the company's own statement."
+   ],
+   "brief": [
+    "Lighthouse Gold Inc. (CSE: LGHT) said it can no longer confirm that historical drill results it had cited for its Sardine Hill zone, in Guyana, fall within the boundaries of the property. The results — a 113.5-metre interval grading 1.39 g/t gold and a 93-metre interval grading 0.69 g/t gold — were referenced in its June 15 and October 20, 2026 releases.",
+    "The company said the underlying reports date to 1997 and 2002, predate the NI 43-101 disclosure standard, and recorded drill locations on \"an historical local grid\" rather than accurate UTM coordinates. It plans further work to locate the holes relative to the property boundary.",
+    "Separately, Lighthouse said the expected closing of its previously announced private placement has moved to the week of November 9, 2026, from on or about November 4, subject to customary conditions including Canadian Securities Exchange acceptance. The release discloses no placement size or price."
+   ]
+  },
   {
    "slug": "falcon-energy-materials-agrees-to-pay-us-22-million-for-a-chinese",
    "url": "https://www.cmbulletin.com/posts/falcon-energy-materials-agrees-to-pay-us-22-million-for-a-chinese.html",
