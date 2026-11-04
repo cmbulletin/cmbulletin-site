@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-11-04T18:16:54Z",
+ "generated_at": "2026-11-04T18:36:50Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 140,
+ "count": 141,
  "entries": [
   {
    "slug": "bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut",
@@ -85,6 +85,54 @@
     "Global Uranium Corp. filed an amended offering document on November 3, 2026 for its non-brokered private placement under the listed issuer financing exemption, raising the minimum subscription to 3,636,364 units for gross proceeds of $800,000.08. The maximum remains 4,239,711 units for $932,736.42, both at $0.22 per unit, with closing expected on or about November 6, 2026.",
     "Each unit comprises one common share and one warrant exercisable at $0.30, not available until 61 days after closing and expiring 24 months after closing. Separately, the company entered a committed, unsecured, non-revolving loan facility of up to $1,000,000 with an arm's-length lender, charging 12% simple annual interest, with no amount drawn as of the announcement.",
     "Advances may be drawn until October 30, 2028 on five business days' notice, with each advance due 24 months later and all amounts owed by November 3, 2030. The company said proceeds from both will fund exploration and option payments on its Astro project in Saskatchewan and its Wyoming projects, plus working capital."
+   ]
+  },
+  {
+   "slug": "amd-takes-a-1-07-billion-charge-tied-to-its-openai-and-meta-chip-deals",
+   "url": "https://www.cmbulletin.com/posts/amd-takes-a-1-07-billion-charge-tied-to-its-openai-and-meta-chip-deals.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/amd-takes-a-1-07-billion-charge-tied-to-its-openai-and-meta-chip-deals.json",
+   "date": "2026-11-04T12:55:18Z",
+   "headline": "AMD takes a $1.07 billion charge tied to its OpenAI and Meta chip deals",
+   "dek": "The non-cash charge reflects warrants that let the two AI customers buy up to roughly 10% of the chipmaker.",
+   "caption": "Rack-mounted servers, lit by their status lights.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "AI",
+    "Semiconductors",
+    "Earnings"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/amd-takes-a-1-07-billion-charge-tied-to-its-openai-and-meta-chip-deals.png",
+   "source_name": "Reuters (via WHBL)",
+   "sources": [
+    {
+     "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
+     "url": "https://whbl.com/2026/11/03/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge/",
+     "publisher": "Reuters (via WHBL)"
+    },
+    {
+     "title": "Sparc AI Inc. (CSE: SPAI) quote, +0.99% on about $55,349",
+     "url": "https://finance.yahoo.com/quote/SPAI.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Predictiv AI Inc. (CSE: PAI) quote, +0.00% on about $29,201",
+     "url": "https://finance.yahoo.com/quote/PAI.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Yocale.ai Inc. (CSE: YAI) quote, +0.00% on about $53,650",
+     "url": "https://finance.yahoo.com/quote/YAI.CN",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Advanced Micro Devices recorded a $1.07 billion non-cash charge, or 66 cents a share, in the third quarter ended September 26, tied to warrants it issued to OpenAI and Meta Platforms as part of multibillion-dollar AI chip supply agreements.",
+    "Under a February agreement, AMD agreed to sell Meta up to $60 billion of AI chips over five years, with Meta receiving warrants to buy as much as 10% of AMD if shipment milestones are met.",
+    "On the venture boards, the theme comprises 29 listed venture names; 16 traded today, 6 higher and 5 lower, for a median move of +0.00% against -0.77% for the S&P/TSX Venture Composite. Sparc AI Inc. (CSE: SPAI) rose 0.99% to CAD2.04, and is in the theme because its registered name contains \"ai\"."
    ]
   },
   {
