@@ -1,11 +1,51 @@
 {
  "api": "v1",
- "generated_at": "2026-11-04T01:47:05Z",
+ "generated_at": "2026-11-04T13:15:31Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 137,
+ "count": 138,
  "entries": [
+  {
+   "slug": "bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut",
+   "url": "https://www.cmbulletin.com/posts/bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut.json",
+   "date": "2026-11-04T12:55:18Z",
+   "headline": "Bastion Square Partners II raises $1.5 million in its TSX Venture debut",
+   "dek": "The Vancouver capital pool company sold 15 million shares at 10 cents each and will look for an acquisition target to complete its qualifying transaction.",
+   "caption": "An empty boardroom table sits beneath a window overlooking a city skyline, before any deal has been struck.",
+   "sections": [
+    "financings"
+   ],
+   "tags": [
+    "Financing",
+    "IPO",
+    "Capital Pool Company"
+   ],
+   "tickers": [
+    "TSXV:BASQ.P"
+   ],
+   "image": "https://www.cmbulletin.com/images/bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut.png",
+   "source_name": "Newsfile Corp. (via Finanznachrichten)",
+   "sources": [
+    {
+     "title": "Bastion Square Partners II Inc. Closes Initial Public Offering and Lists on the TSX Venture Exchange as a Capital Pool Company",
+     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70024876-bastion-square-partners-ii-inc-bastion-square-partners-ii-inc-closes-initial-public-offering-and-lists-on-the-tsx-venture-exchange-as-capital-poo-296.htm",
+     "publisher": "Newsfile Corp. (via Finanznachrichten)"
+    },
+    {
+     "title": "Bastion Square Partners II Inc. (BASQ.P) Raises $1.5 Million in IPO, Lists on TSX Venture Exchange as Capital Pool Company",
+     "url": "https://kalkinemedia.com/ca/news/announcements/bastion-square-partners-ii-inc-basqp-raises-15-million-in-ipo-lists-on-tsx-venture-exchange-as-capital-pool-company",
+     "publisher": "Kalkine Media — Canada"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Bastion Square Partners II Inc., a Vancouver-based capital pool company, closed its initial public offering on November 3, 2026, raising $1.5 million in gross proceeds through the sale of 15,000,000 common shares at $0.10 each. The shares listed on the TSX Venture Exchange that day under a trading halt pending closing.",
+    "Trading in the shares, under the symbol BASQ.P, is set to resume November 9, 2026. The company now has 27,000,000 shares outstanding, of which 13,825,000 are held in escrow. Independent Trading Group (ITG), Inc. acted as agent, earning a $55,000 cash commission, a $10,000 corporate finance fee and 500,000 warrants exercisable at $0.10 until November 3, 2028.",
+    "Directors and officers were granted 2,700,000 incentive stock options at $0.10, exercisable for five years; directors also bought 1,825,000 of the offered shares themselves. The company has no business of its own: net proceeds will fund the search for an acquisition target to complete a qualifying transaction under TSX Venture Exchange rules."
+   ]
+  },
   {
    "slug": "new-break-closes-523-820-flow-through-financing-for-its-timmins-area",
    "url": "https://www.cmbulletin.com/posts/new-break-closes-523-820-flow-through-financing-for-its-timmins-area.html",

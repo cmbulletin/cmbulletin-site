@@ -1,10 +1,10 @@
 {
  "api": "v1",
- "generated_at": "2026-11-04T01:47:05Z",
+ "generated_at": "2026-11-04T13:15:31Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 62,
+ "count": 63,
  "note": "Terms as announced by the issuer. close_confirmed is true only where an exchange bulletin recorded the closing; closed_by and closed_source say which.",
  "financings": [
   {
@@ -78,6 +78,24 @@
    "warrant_expiry": null,
    "hold_expiry": "2027-03-04",
    "entry_url": "https://www.cmbulletin.com/posts/new-break-closes-523-820-flow-through-financing-for-its-timmins-area.html"
+  },
+  {
+   "company": "Bastion Square Partners II Inc.",
+   "ticker": "TSXV:BASQ.P",
+   "type": "Initial public offering (capital pool company)",
+   "currency": "$",
+   "closed": "2026-11-03",
+   "agent": "Independent Trading Group (ITG), Inc.",
+   "hold_period": false,
+   "note": "Agent received 500,000 non-transferable warrants exercisable at $0.10 until Nov 3, 2028, plus a $55,000 cash commission and a $10,000 corporate finance fee. Trading resumes Nov 9, 2026 under BASQ.P. The release states figures in plain '$' and does not designate Canadian or US currency.",
+   "gross": 1500000.0,
+   "units": 15000000.0,
+   "price": 0.1,
+   "warrant_strike": null,
+   "warrant_months": null,
+   "warrant_expiry": null,
+   "hold_expiry": null,
+   "entry_url": "https://www.cmbulletin.com/posts/bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut.html"
   },
   {
    "company": "Ashley Gold Corp.",
