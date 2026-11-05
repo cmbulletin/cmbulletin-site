@@ -1,6 +1,6 @@
 {
  "api": "v1",
- "generated_at": "2026-11-05T01:14:00Z",
+ "generated_at": "2026-11-05T01:34:26Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
@@ -22,7 +22,7 @@
   },
   "markets": {
    "url": "https://www.cmbulletin.com/api/v1/markets.json",
-   "what": "The rail and the four section boards, delayed, as of fetched_at."
+   "what": "The rail and the section boards, delayed, as of fetched_at."
   },
   "quotes": {
    "url": "https://cmbulletin-quotes.cmbulletin.workers.dev/",

@@ -1,12 +1,30 @@
 {
  "api": "v1",
- "generated_at": "2026-11-05T01:14:00Z",
+ "generated_at": "2026-11-05T01:34:26Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 400,
+ "count": 558,
  "note": "Third-party headlines with a one-sentence summary written by the Bulletin. The article stays with its publisher; follow the link.",
  "items": [
+  {
+   "id": "0a4e570a41e77f779de5",
+   "section": "financings",
+   "headline": "Fingerprint Expands Bot Detection to Uncover Hidden Muse, Instinct and Grok Bot Traffic as AI Agents Increasingly Conceal Their Identities",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261104999557/en/Fingerprint-Expands-Bot-Detection-to-Uncover-Hidden-Muse-Instinct-and-Grok-Bot-Traffic-as-AI-Agents-Increasingly-Conceal-Their-Identities/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-11-05T01:05:00+00:00"
+  },
+  {
+   "id": "5e050ab5d53c44fcd243",
+   "section": "energy",
+   "headline": "Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz",
+   "summary": "Africa's liquefied natural gas exports are projected to rise 175% as buyers shift away from supplies routed through the Strait of Hormuz.",
+   "publisher": "OilPrice.com",
+   "url": "https://oilprice.com/Energy/Natural-Gas/Africas-LNG-Exports-Set-to-Soar-175-as-Buyers-Flee-Hormuz.html",
+   "published": "2026-11-05T01:00:00+00:00"
+  },
   {
    "id": "0284a948b193e553c5f7",
    "section": "tech",
@@ -15,6 +33,33 @@
    "publisher": "Fierce Biotech",
    "url": "https://www.fiercebiotech.com/cro/charles-river-teams-ipsen-use-virtual-control-groups-toxicology-studies",
    "published": "2026-11-05T00:55:32.176176+00:00"
+  },
+  {
+   "id": "c9a148ec613d3cc5c1ea",
+   "section": "news",
+   "headline": "Korea to Introduce Cornerstone Lockups to Curb Post-IPO Selloffs",
+   "summary": "South Korea plans to introduce cornerstone investor lockup requirements aimed at curbing heavy share selloffs that have followed recent IPOs.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-05/korea-to-introduce-cornerstone-lockups-to-curb-post-ipo-selloffs",
+   "published": "2026-11-05T00:48:32+00:00"
+  },
+  {
+   "id": "3c9a28dba90db0c4732e",
+   "section": "sectors",
+   "headline": "33,000 truckers sidelined over violations as highway blitzes hit Arkansas, Virginia",
+   "summary": "About 33,000 truckers have been sidelined for violations as regulators intensified highway enforcement blitzes in Arkansas and Virginia.",
+   "publisher": "FreightWaves",
+   "url": "https://www.freightwaves.com/news/33000-truckers-sidelined-over-violations-as-highway-blitzes-hit-arkansas-virginia",
+   "published": "2026-11-05T00:37:57+00:00"
+  },
+  {
+   "id": "8bc183b97578f8e04c87",
+   "section": "sectors",
+   "headline": "Transportation committee in House set for overhaul post-election",
+   "summary": "The House transportation committee is expected to see significant membership changes following the midterm election results.",
+   "publisher": "FreightWaves",
+   "url": "https://www.freightwaves.com/news/transportation-committee-in-house-set-for-overhaul-post-election",
+   "published": "2026-11-05T00:29:00+00:00"
   },
   {
    "id": "b4301ab3dbcef1511050",
@@ -42,6 +87,15 @@
    "publisher": "The New York Times",
    "url": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
    "published": "2026-11-05T00:01:15+00:00"
+  },
+  {
+   "id": "24b3c80488e4aa04ef42",
+   "section": "news",
+   "headline": "Copper is booming but not everyone is striking gold",
+   "summary": "Copper prices are rising sharply, but the Financial Times reports the gains are not being shared evenly across the metal's producers.",
+   "publisher": "Financial Times",
+   "url": "https://www.ft.com/content/6c4d1285-535d-4e86-895b-afddd1d15491?syn-25a6b1a6=1",
+   "published": "2026-11-05T00:01:03+00:00"
   },
   {
    "id": "a118875cf14c6e2b8905",
@@ -80,6 +134,15 @@
    "published": "2026-11-04T23:58:33+00:00"
   },
   {
+   "id": "e679b9103cf551cc8b27",
+   "section": "news",
+   "headline": "Gold Extends Rebound Above $4,100 as Dollar and Yields Decline",
+   "summary": "Gold extended its rebound to above $4,100 an ounce as the US dollar and bond yields both declined.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/gold-holds-above-4-000-as-dollar-yields-fall-on-midterm-result",
+   "published": "2026-11-04T23:58:33+00:00"
+  },
+  {
    "id": "76adebae119f84aa79c2",
    "section": "news",
    "headline": "JetBlue raises checked baggage fees again as jet fuel prices remain high",
@@ -111,6 +174,15 @@
    "section": "news",
    "headline": "Australian Chain David Jones Collapses After Almost 200 Years",
    "summary": "Bloomberg reported that Australian retail chain David Jones has collapsed after operating for nearly 200 years.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years",
+   "published": "2026-11-04T23:44:05+00:00"
+  },
+  {
+   "id": "e886cbe491305711a4e5",
+   "section": "news",
+   "headline": "Australia Chain David Jones Collapses After Almost 200 Years",
+   "summary": "Australian department store chain David Jones has collapsed after almost 200 years in operation, Bloomberg reported.",
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-04/australian-chain-david-jones-collapses-after-almost-200-years",
    "published": "2026-11-04T23:44:05+00:00"
@@ -159,6 +231,15 @@
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-wsp-global-engineering-montreal-earnings/",
    "published": "2026-11-04T23:12:19+00:00"
+  },
+  {
+   "id": "d7247dcd209d3f17591e",
+   "section": "sectors",
+   "headline": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
+   "summary": "",
+   "publisher": "Defense News",
+   "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/",
+   "published": "2026-11-04T23:08:17+00:00"
   },
   {
    "id": "b03a10692f0100efec60",
@@ -215,6 +296,42 @@
    "published": "2026-11-04T22:55:30+00:00"
   },
   {
+   "id": "af008838a6bd02a53bd0",
+   "section": "markets",
+   "headline": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+   "summary": "Tokenization and stablecoin initiatives are seen surviving the Democratic sweep in Washington even as broader cryptocurrency regulation faces renewed uncertainty.",
+   "publisher": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+   "published": "2026-11-04T22:55:00+00:00"
+  },
+  {
+   "id": "1cf33cfea6c20df0dfd8",
+   "section": "news",
+   "headline": "DBS Profit Misses Estimates on Trading Drop, Names Lim Chair",
+   "summary": "DBS reported third-quarter profit below estimates on a drop in trading income and named Lim as its new chair, Bloomberg reported.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/dbs-profit-misses-estimates-on-trading-income-names-lim-chair",
+   "published": "2026-11-04T22:52:52+00:00"
+  },
+  {
+   "id": "f72542a95cb2f9110906",
+   "section": "markets",
+   "headline": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+   "summary": "Crypto industry hopes for favorable Washington policy are fading, though Grayscale and BlackRock executives still expect digital-asset growth to continue.",
+   "publisher": "CoinDesk",
+   "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+   "published": "2026-11-04T22:51:42+00:00"
+  },
+  {
+   "id": "def5f594eecc61f0dff3",
+   "section": "news",
+   "headline": "Host Hotels & Resorts CEO on 3Q Quarterly Results",
+   "summary": "",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-11-04/host-hotels-resorts-ceo-on-3q-quarterly-results-video",
+   "published": "2026-11-04T22:48:47+00:00"
+  },
+  {
    "id": "39a65a5280939d749dbd",
    "section": "tech",
    "headline": "Nintendo's biggest ROM chip supplier is bowing out of the business",
@@ -222,6 +339,15 @@
    "publisher": "Ars Technica",
    "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
    "published": "2026-11-04T22:47:51+00:00"
+  },
+  {
+   "id": "1623d226d781cbdb2dd0",
+   "section": "sectors",
+   "headline": "What now? Budget fight, Hegseth impeachment on deck for defense-focused lawmakers after midterms",
+   "summary": "",
+   "publisher": "Breaking Defense",
+   "url": "https://breakingdefense.com/2026/11/what-now-budget-fight-hegseth-impeachment-on-deck-for-defense-focused-lawmakers-after-midterms/",
+   "published": "2026-11-04T22:47:45+00:00"
   },
   {
    "id": "679d57c2491b084ddb5b",
@@ -233,6 +359,15 @@
    "published": "2026-11-04T22:37:45+00:00"
   },
   {
+   "id": "6de9a8b134cbfcdd1553",
+   "section": "news",
+   "headline": "Sony Needs More Than ‘GTA’ and Spider-Man to Lift Stock Further",
+   "summary": "Bloomberg reports Sony will need more than its GTA and Spider-Man franchises to drive further gains in its share price.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/sony-needs-more-than-gta-and-spider-man-to-lift-stock-further",
+   "published": "2026-11-04T22:30:00+00:00"
+  },
+  {
    "id": "ec0a5cee10ebaa9dade3",
    "section": "tech",
    "headline": "Hackers exploited iOS and Android flaws to infect phones",
@@ -240,6 +375,51 @@
    "publisher": "Ars Technica",
    "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
    "published": "2026-11-04T22:26:49+00:00"
+  },
+  {
+   "id": "e3ec0f1900d66d28118e",
+   "section": "sectors",
+   "headline": "ArcBest reports Q3 tonnage gains",
+   "summary": "Trucking carrier ArcBest reported an increase in third-quarter freight tonnage volumes, according to a report from Trucking Dive.",
+   "publisher": "Trucking Dive",
+   "url": "https://www.truckingdive.com/news/arcbest-reports-q3-tonnage-gains/873746/",
+   "published": "2026-11-04T22:17:00+00:00"
+  },
+  {
+   "id": "d8079755e3070c74ad05",
+   "section": "news",
+   "headline": "Asian Stocks Mixed as Investors Rotate From Chips: Markets Wrap",
+   "summary": "Asian equity markets traded mixed as investors rotated out of semiconductor shares, according to Bloomberg's markets wrap.",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
+   "published": "2026-11-04T22:15:04+00:00"
+  },
+  {
+   "id": "6dab7ac65e68becea8e3",
+   "section": "sectors",
+   "headline": "Class 8 truck orders plunge 36% as EPA uncertainty rattles fleets",
+   "summary": "New orders for Class 8 trucks fell 36% as regulatory uncertainty around EPA emissions rules unsettled fleet buyers.",
+   "publisher": "FreightWaves",
+   "url": "https://www.freightwaves.com/news/class-8-truck-orders-plunge-36-as-epa-uncertainty-rattles-fleets",
+   "published": "2026-11-04T22:05:33+00:00"
+  },
+  {
+   "id": "b48470fada6859d7810e",
+   "section": "sectors",
+   "headline": "Mortgage policy faces tight runway in split Washington",
+   "summary": "Federal mortgage policy faces a narrow path forward given divided control of Washington following the midterm elections.",
+   "publisher": "HousingWire",
+   "url": "https://www.housingwire.com/articles/mortgage-agenda-narrows-divided-dc/",
+   "published": "2026-11-04T22:04:01+00:00"
+  },
+  {
+   "id": "d1ec5fc0c4a55e1fd479",
+   "section": "news",
+   "headline": "Election Night TV Viewers Rise With NBC in Lead, Fox Falling",
+   "summary": "",
+   "publisher": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-04/election-night-tv-viewers-rise-with-nbc-in-the-lead-fox-falling",
+   "published": "2026-11-04T22:03:01+00:00"
   },
   {
    "id": "dbe52ab623cca5162229",
@@ -287,6 +467,15 @@
    "published": "2026-11-04T21:48:18+00:00"
   },
   {
+   "id": "c38deb4040c50802d900",
+   "section": "sectors",
+   "headline": "HECM broker rankings for August stay steady as shift to proprietary products rolls on",
+   "summary": "",
+   "publisher": "HousingWire",
+   "url": "https://www.housingwire.com/articles/hecm-endorsements-broker-rankings/",
+   "published": "2026-11-04T21:47:30+00:00"
+  },
+  {
    "id": "504eeff42edb29c4e067",
    "section": "mining",
    "headline": "Omega Pacific Announces LIFE Offering",
@@ -296,6 +485,24 @@
    "published": "2026-11-04T21:47:00+00:00"
   },
   {
+   "id": "84df2879667e809be034",
+   "section": "sectors",
+   "headline": "Zillow pushes Preferred agent program toward 100% of buyer connections",
+   "summary": "Zillow is expanding its Preferred Agent program in an effort to route nearly all buyer connections through partner agents.",
+   "publisher": "HousingWire",
+   "url": "https://www.housingwire.com/articles/zillow-traffic-ai-mode-q3/",
+   "published": "2026-11-04T21:46:55+00:00"
+  },
+  {
+   "id": "712c5603a067435dff8c",
+   "section": "sectors",
+   "headline": "Marijuana legalization in Texas? Believe it: What the midterm election blue wave means for cannabis.",
+   "summary": "Texas could move toward marijuana legalization following midterm election gains for Democrats, according to MJBizDaily.",
+   "publisher": "MJBizDaily",
+   "url": "https://mjbizdaily.com/news/marijuana-legalization-in-texas-believe-it-what-the-midterm-election-blue-wave-means-for-cannabis/619079/",
+   "published": "2026-11-04T21:43:21+00:00"
+  },
+  {
    "id": "2742cf59a106593af3c8",
    "section": "news",
    "headline": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
@@ -303,6 +510,15 @@
    "publisher": "BBC",
    "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
    "published": "2026-11-04T21:41:15+00:00"
+  },
+  {
+   "id": "77d6344f57e896c3143d",
+   "section": "sectors",
+   "headline": "Google makes big plans for wallet",
+   "summary": "Google is expanding its digital wallet product with new agentic retail capabilities aimed at automated shopping, Retail Dive reported.",
+   "publisher": "Retail Dive",
+   "url": "https://www.retaildive.com/news/google-wallet-digital-agentic-retail/873721/",
+   "published": "2026-11-04T21:41:00+00:00"
   },
   {
    "id": "6f3feb0280b774c4d62f",
@@ -332,6 +548,33 @@
    "published": "2026-11-04T21:29:25+00:00"
   },
   {
+   "id": "94e872c5527d3e8961c5",
+   "section": "sectors",
+   "headline": "The Hidden Data Challenges for Autonomous Trucking Safety",
+   "summary": "",
+   "publisher": "FreightWaves",
+   "url": "https://www.freightwaves.com/news/the-hidden-data-challenges-for-autonomous-trucking-safety",
+   "published": "2026-11-04T21:18:12+00:00"
+  },
+  {
+   "id": "3e2682086892809f4c60",
+   "section": "sectors",
+   "headline": "Bright turns on Ocusell integration so agents enter listings once",
+   "summary": "",
+   "publisher": "HousingWire",
+   "url": "https://www.housingwire.com/articles/bright-ocusell-onelist-integration/",
+   "published": "2026-11-04T21:16:49+00:00"
+  },
+  {
+   "id": "11b67d089bdd40f9bd2c",
+   "section": "sectors",
+   "headline": "8 Inches of Rain Shut Down Busiest US Rail Line for 60 Hours",
+   "summary": "Roughly eight inches of rainfall forced a 60-hour shutdown of one of the busiest rail lines in the United States.",
+   "publisher": "FreightWaves",
+   "url": "https://www.freightwaves.com/news/8-inches-of-rain-shut-down-busiest-us-rail-line-for-60-hours",
+   "published": "2026-11-04T21:16:33+00:00"
+  },
+  {
    "id": "1d2623beb96c05490d70",
    "section": "mining",
    "headline": "Trekor Announces $164 Million of Adjusted EBITDA in Third Quarter",
@@ -348,6 +591,15 @@
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/labrador-iron-ore-royalty-corporation-results-for-the-third-quarter-ended-september-30-2026/",
    "published": "2026-11-04T21:13:00+00:00"
+  },
+  {
+   "id": "844cc37e1100fe0a9fc6",
+   "section": "sectors",
+   "headline": "Cava Q3 comps growth moderates",
+   "summary": "Restaurant chain Cava reported that growth in comparable sales moderated in the third quarter, according to Restaurant Dive.",
+   "publisher": "Restaurant Dive",
+   "url": "https://www.restaurantdive.com/news/cava-q3-2026-comps-growth-moderates-price-mix-traffic/873779/",
+   "published": "2026-11-04T21:12:00+00:00"
   },
   {
    "id": "c29c30082b60cec09391",
@@ -380,7 +632,7 @@
    "id": "739e7618794a4dffb895",
    "section": "financings",
    "headline": "Lumen Technologies Reports Solid Third Quarter 2026 Results; Strategic Growth and Operating Leverage Gain Momentum",
-   "summary": "",
+   "summary": "Lumen Technologies reported third-quarter 2026 results it characterized as solid, citing strategic growth initiatives and improved operating leverage.",
    "publisher": "Business Wire — Financial",
    "url": "http://www.businesswire.com/news/home/20261104332828/en/Lumen-Technologies-Reports-Solid-Third-Quarter-2026-Results-Strategic-Growth-and-Operating-Leverage-Gain-Momentum/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-11-04T21:01:00+00:00"
@@ -389,10 +641,28 @@
    "id": "d9bf4eaaba008c717905",
    "section": "energy",
    "headline": "Iran War and AI Boom Drive Global Gas Supply Crunch",
-   "summary": "",
+   "summary": "The Iran conflict and surging AI-driven power demand are together tightening global natural gas supply, according to OilPrice.com.",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Energy/Natural-Gas/Iran-War-and-AI-Boom-Drive-Global-Gas-Supply-Crunch.html",
    "published": "2026-11-04T21:00:00+00:00"
+  },
+  {
+   "id": "2cb63fca3ef3645af6ce",
+   "section": "sectors",
+   "headline": "How will midterm Democratic wins affect the ag industry?",
+   "summary": "",
+   "publisher": "Farm Progress",
+   "url": "https://www.farmprogress.com/markets-and-quotes/afternoon-market-recap",
+   "published": "2026-11-04T21:00:00+00:00"
+  },
+  {
+   "id": "93352887751f0e86517a",
+   "section": "sectors",
+   "headline": "From coal to cedar: A chat with Tofino Woodshop",
+   "summary": "",
+   "publisher": "Canadian Forest Industries",
+   "url": "https://www.woodbusiness.ca/from-coal-to-cedar-a-chat-with-tofino-woodshop-2/",
+   "published": "2026-11-04T20:59:21+00:00"
   },
   {
    "id": "40fa09e2e08fe3c29f83",
@@ -407,10 +677,19 @@
    "id": "0ad208238b09b02a506f",
    "section": "tech",
    "headline": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-   "summary": "",
+   "summary": "Large technology companies are framing voter backlash against AI as opposition to the Trump administration rather than to the technology itself.",
    "publisher": "Ars Technica",
    "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
    "published": "2026-11-04T20:55:50+00:00"
+  },
+  {
+   "id": "d3c73efa2d47efa271b5",
+   "section": "sectors",
+   "headline": "Ballot roulette: Florida voters pick property tax break over local services",
+   "summary": "Florida voters approved a ballot measure cutting property taxes at the expense of funding for local services.",
+   "publisher": "HousingWire",
+   "url": "https://www.housingwire.com/articles/florida-amendment-3-passes/",
+   "published": "2026-11-04T20:55:26+00:00"
   },
   {
    "id": "ddbd8ffda53707df8a76",
@@ -425,10 +704,19 @@
    "id": "0450263bacd27509637b",
    "section": "energy",
    "headline": "Oil Plunges as Election Shifts Iran Outlook",
-   "summary": "",
+   "summary": "Oil prices fell sharply after the election results altered the market's outlook on Iran-related supply risk.",
    "publisher": "Rigzone",
    "url": "https://www.rigzone.com/news/wire/oil_plunges_as_election_shifts_iran_outlook-04-nov-2026-185012-article/?rss=true",
    "published": "2026-11-04T20:50:39+00:00"
+  },
+  {
+   "id": "de554808eeb4fcc05963",
+   "section": "sectors",
+   "headline": "GXO’s contract wins surge 34%, but growth comes amid cost pressures",
+   "summary": "Logistics provider GXO reported a 34% surge in new contract wins, though growth is coming alongside rising cost pressures.",
+   "publisher": "FreightWaves",
+   "url": "https://www.freightwaves.com/news/gxos-contract-wins-surge-34-but-growth-comes-amid-cost-pressures",
+   "published": "2026-11-04T20:47:48+00:00"
   },
   {
    "id": "97bdcfb4004c3c135c51",
@@ -476,6 +764,60 @@
    "published": "2026-11-04T20:30:00+00:00"
   },
   {
+   "id": "8f8091755a65ea4154cd",
+   "section": "markets",
+   "headline": "Crypto's powerhouse super PAC suffers costly setback as Democrats sweep Congress",
+   "summary": "",
+   "publisher": "CoinDesk",
+   "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
+   "published": "2026-11-04T20:29:12+00:00"
+  },
+  {
+   "id": "3188840c3f03c311d597",
+   "section": "mining",
+   "headline": "SURGE ENERGY INC. ANNOUNCES THIRD QUARTER FINANCIAL & OPERATING RESULTS; OPERATIONS UPDATE; 2027 CAPITAL AND OPERATING BUDGET; BASE DIVIDEND INCREASE",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/surge-energy-inc-announces-third-quarter-financial-operating-results-operations-update-2027-capital-and-operating-budget-base-dividend-increase/",
+   "published": "2026-11-04T20:27:00+00:00"
+  },
+  {
+   "id": "b145a5039ff21b0d57d0",
+   "section": "news",
+   "headline": "U.S. midterm results raise hopes of tariff relief for Canada’s aluminum sector",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-aluminum-sector-us-midterm-trump-tariff/",
+   "published": "2026-11-04T20:21:50+00:00"
+  },
+  {
+   "id": "0e5477dd817f4a80f2fb",
+   "section": "sectors",
+   "headline": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
+   "summary": "",
+   "publisher": "Defense News",
+   "url": "https://www.defensenews.com/global/mideast-africa/2026/11/04/under-threat-of-air-strikes-us-looks-to-bolster-base-infrastructure-with-3d-printing/",
+   "published": "2026-11-04T20:16:52+00:00"
+  },
+  {
+   "id": "aa8875411443e8738d09",
+   "section": "sectors",
+   "headline": "LGI Homes Q3 2026 earnings reveal leadership test in downturn",
+   "summary": "",
+   "publisher": "HousingWire",
+   "url": "https://www.housingwire.com/articles/lgi-earnings-leadership-test/",
+   "published": "2026-11-04T20:14:18+00:00"
+  },
+  {
+   "id": "ccf779fecf5e9be90f4d",
+   "section": "mining",
+   "headline": "Ur-Energy Announces Date for Third Quarter 2026 Results and Conference Call and Webcast",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/ur-energy-announces-date-for-third-quarter-2026-results-and-conference-call-and-webcast/",
+   "published": "2026-11-04T20:10:00+00:00"
+  },
+  {
    "id": "5e6c65930e0969341662",
    "section": "financings",
    "headline": "Every Critical System Should Have a Backup: Elliptic Opens Up Fast Track Monitoring to the Crypto Industry",
@@ -483,6 +825,24 @@
    "publisher": "Business Wire — Financial",
    "url": "http://www.businesswire.com/news/home/20261104344709/en/Every-Critical-System-Should-Have-a-Backup-Elliptic-Opens-Up-Fast-Track-Monitoring-to-the-Crypto-Industry/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-11-04T20:07:00+00:00"
+  },
+  {
+   "id": "b4ea5a6bc70ff165d1e0",
+   "section": "mining",
+   "headline": "B2Gold Reports Q3 2026 Results - Lowers Annual All-In Sustaining Cost Guidance and Remains On-Track to Achieve Production Guidance",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/b2gold-reports-q3-2026-results-lowers-annual-all-in-sustaining-cost-guidance-and-remains-on-track-to-achieve-production-guidance/",
+   "published": "2026-11-04T20:06:22+00:00"
+  },
+  {
+   "id": "533bb20f23b95853e2ca",
+   "section": "mining",
+   "headline": "Homeland Appoints Heida Mani as Chair of Advisory Board",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/homeland-appoints-heida-mani-as-chair-of-advisory-board/",
+   "published": "2026-11-04T20:01:00+00:00"
   },
   {
    "id": "c6abb097fa76036d3e82",
@@ -512,6 +872,123 @@
    "published": "2026-11-04T20:00:00+00:00"
   },
   {
+   "id": "e82d335cd7982ee2131b",
+   "section": "mining",
+   "headline": "NOVAGOLD Shareholders Approve Transaction to Consolidate 100% Ownership of Donlin Gold",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/novagold-shareholders-approve-transaction-to-consolidate-100-ownership-of-donlin-gold/",
+   "published": "2026-11-04T20:00:00+00:00"
+  },
+  {
+   "id": "a050550c823166e15dc4",
+   "section": "sectors",
+   "headline": "USTR urged to permanently suspend China-linked ship fees",
+   "summary": "",
+   "publisher": "Supply Chain Dive",
+   "url": "https://www.supplychaindive.com/news/ustr-urged-to-permanently-suspend-china-linked-ship-fees/873618/",
+   "published": "2026-11-04T19:58:00+00:00"
+  },
+  {
+   "id": "b06c108d06611add0921",
+   "section": "news",
+   "headline": "Savers get a raise as the Bank of Canada turns hawkish",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/investing/personal-finance/article-savers-get-a-raise-as-the-bank-of-canada-turns-hawkish/",
+   "published": "2026-11-04T19:53:20+00:00"
+  },
+  {
+   "id": "802f30bf982d20d74d4e",
+   "section": "mining",
+   "headline": "Copper One Announces Automatic Conversion of Special Warrants. Prospectus Supplement Available on SEDAR+",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/copper-one-announces-automatic-conversion-of-special-warrants-prospectus-supplement-available-on-sedar/",
+   "published": "2026-11-04T19:50:00+00:00"
+  },
+  {
+   "id": "8557085b0e035a3cfd4b",
+   "section": "mining",
+   "headline": "North Arrow Extends Tlou Discovery to More than 700 m Strike and Drills 1.9 g/t Au over 20 m Within 1.2 g/t Au over 42 m, Kraaipan Gold Project, Botswana",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/north-arrow-extends-tlou-discovery-to-more-than-700-m-strike-and-drills-1-9-g-t-au-over-20-m-within-1-2-g-t-au-over-42-m-kraaipan-gold-project-botswana/",
+   "published": "2026-11-04T19:49:00+00:00"
+  },
+  {
+   "id": "3fbf610f06e184457cb1",
+   "section": "sectors",
+   "headline": "Nationwide Equities debuts ReverseReach tool for mortgage broker lead generation help",
+   "summary": "",
+   "publisher": "HousingWire",
+   "url": "https://www.housingwire.com/articles/nationwide-equities-reversereach-reverse-mortgage-broker-tool/",
+   "published": "2026-11-04T19:43:24+00:00"
+  },
+  {
+   "id": "128c93ec19f84e551039",
+   "section": "sectors",
+   "headline": "Navy appoints Rucker as new PAE Maritime lead",
+   "summary": "",
+   "publisher": "Breaking Defense",
+   "url": "https://breakingdefense.com/2026/11/navy-appoints-rucker-as-new-pae-maritime-lead/",
+   "published": "2026-11-04T19:43:20+00:00"
+  },
+  {
+   "id": "bcf17f324fe43ece4c6e",
+   "section": "sectors",
+   "headline": "Emirates rolls out enhanced air cargo service for data center operators",
+   "summary": "",
+   "publisher": "FreightWaves",
+   "url": "https://www.freightwaves.com/news/emirates-rolls-out-enhanced-air-cargo-service-for-data-center-operators",
+   "published": "2026-11-04T19:41:24+00:00"
+  },
+  {
+   "id": "59892793d20088560dd9",
+   "section": "sectors",
+   "headline": "Transpacific emerges as liner shipping’s golden trade",
+   "summary": "",
+   "publisher": "Splash247",
+   "url": "https://splash247.com/transpacific-emerges-as-liner-shippings-golden-trade/",
+   "published": "2026-11-04T19:31:00+00:00"
+  },
+  {
+   "id": "ae23011c786fce0abc05",
+   "section": "mining",
+   "headline": "Helium Evolution Enters Into Investor Relations Agreement and Amends Option Agreement",
+   "summary": "",
+   "publisher": "Investing News Network",
+   "url": "https://investingnews.com/helium-evolution-enters-into-investor-relations-agreement-and-amends-option-agreement/",
+   "published": "2026-11-04T19:30:00+00:00"
+  },
+  {
+   "id": "be5ef6c756587a10600f",
+   "section": "sectors",
+   "headline": "NAR advances strategic plan with new tools, MLS outreach and housing initiatives",
+   "summary": "",
+   "publisher": "HousingWire",
+   "url": "https://www.housingwire.com/articles/nar-q3-2026-strategic-plan-update-mls-housing-law-fraud/",
+   "published": "2026-11-04T19:27:57+00:00"
+  },
+  {
+   "id": "7339a33dd9a6d3681a27",
+   "section": "sectors",
+   "headline": "Medicare spends more on hospices owned by private equity firms, study finds",
+   "summary": "",
+   "publisher": "Healthcare Dive",
+   "url": "https://www.healthcaredive.com/news/medicare-spends-more-hospices-owned-private-equity-firms-study-finds/873773/",
+   "published": "2026-11-04T19:12:42+00:00"
+  },
+  {
+   "id": "18211016a77e896280ed",
+   "section": "news",
+   "headline": "Maple Leaf plans to hike prices for food products early next year",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/economy/article-maple-leaf-foods-earnings-price-hike/",
+   "published": "2026-11-04T19:11:22+00:00"
+  },
+  {
    "id": "9ca904d485c8b3a9023e",
    "section": "news",
    "headline": "Seeking Fast Cars and Fat Wallets: A California Racetrack Looks to Grow",
@@ -539,6 +1016,15 @@
    "published": "2026-11-04T19:08:23+00:00"
   },
   {
+   "id": "97d8cc10b84ee4fb64c1",
+   "section": "news",
+   "headline": "AMD to pay $2.9-billion for AI chip firm Taalas in one of the largest Canadian tech takeovers",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/",
+   "published": "2026-11-04T19:07:12+00:00"
+  },
+  {
    "id": "fdf98af5d92eb0b5e6fd",
    "section": "energy",
    "headline": "Polar Vortex Puts Europe's Gas Reserves at Risk",
@@ -557,6 +1043,24 @@
    "published": "2026-11-04T18:54:44+00:00"
   },
   {
+   "id": "8653e7661b06cd1a2ad8",
+   "section": "sectors",
+   "headline": "Intermodal leads weekly gains as US rail traffic rises 3.5%, says AAR",
+   "summary": "",
+   "publisher": "FreightWaves",
+   "url": "https://www.freightwaves.com/news/intermodal-leads-weekly-gains-as-us-rail-traffic-rises-3-5-says-aar",
+   "published": "2026-11-04T18:52:17+00:00"
+  },
+  {
+   "id": "adc1919a35cbfa60019e",
+   "section": "sectors",
+   "headline": "Dotted Line: Faster military construction creates opportunities, risks for contractors",
+   "summary": "",
+   "publisher": "Construction Dive",
+   "url": "https://www.constructiondive.com/news/dotted-line-faster-military-construction-opportunities-risks/873712/",
+   "published": "2026-11-04T18:51:00+00:00"
+  },
+  {
    "id": "b064f700e007d0ace8ef",
    "section": "tech",
    "headline": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
@@ -566,6 +1070,24 @@
    "published": "2026-11-04T18:50:55+00:00"
   },
   {
+   "id": "dccf5dc68e005e6cf8c0",
+   "section": "news",
+   "headline": "Sherritt to temporarily lay off 280 employees, almost half of Canadian staff",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-sherritt-layoffs-canadian-staff/",
+   "published": "2026-11-04T18:34:20+00:00"
+  },
+  {
+   "id": "f7ce384065c187cb2505",
+   "section": "sectors",
+   "headline": "Suffolk deepens tech push with new innovation center",
+   "summary": "",
+   "publisher": "Construction Dive",
+   "url": "https://www.constructiondive.com/news/suffolk-new-innovation-center-tech-ai-push/873767/",
+   "published": "2026-11-04T18:31:00+00:00"
+  },
+  {
    "id": "ac1ea562533aef7268b0",
    "section": "energy",
    "headline": "Oil Crashes 9% as Trump and Vance Blame Iran War for Midterm Rout",
@@ -573,6 +1095,24 @@
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crashes-9-as-Trump-and-Vance-Blame-Iran-War-for-Midterm-Rout.html",
    "published": "2026-11-04T18:30:00+00:00"
+  },
+  {
+   "id": "03ae4734975e1b756c08",
+   "section": "sectors",
+   "headline": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+   "summary": "",
+   "publisher": "Defense News",
+   "url": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+   "published": "2026-11-04T18:27:06+00:00"
+  },
+  {
+   "id": "9767a5e0d92ee83ff220",
+   "section": "sectors",
+   "headline": "Naval Group unveils new drone carrier concept",
+   "summary": "",
+   "publisher": "Breaking Defense",
+   "url": "https://breakingdefense.com/2026/11/naval-group-unveils-new-drone-carrier-concept/",
+   "published": "2026-11-04T18:25:58+00:00"
   },
   {
    "id": "729314f59a641b9c9fa0",
@@ -773,6 +1313,24 @@
    "published": "2026-11-04T17:43:27+00:00"
   },
   {
+   "id": "1d2e87bfe24cfb79f7e0",
+   "section": "sectors",
+   "headline": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
+   "summary": "",
+   "publisher": "Defense News",
+   "url": "https://www.defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price/",
+   "published": "2026-11-04T17:38:06+00:00"
+  },
+  {
+   "id": "32400327964769fe0919",
+   "section": "sectors",
+   "headline": "India taps two domestic shipbuilders for $5.7B corvette program",
+   "summary": "",
+   "publisher": "Breaking Defense",
+   "url": "https://breakingdefense.com/2026/11/india-taps-two-domestic-shipbuilders-for-5-7b-corvette-program/",
+   "published": "2026-11-04T17:37:32+00:00"
+  },
+  {
    "id": "25f4173987aef46c12ab",
    "section": "energy",
    "headline": "Fire Shuts Equinor’s Visund Platform in Norwegian North Sea",
@@ -854,6 +1412,24 @@
    "published": "2026-11-04T17:19:47+00:00"
   },
   {
+   "id": "dd3974309220e154a12b",
+   "section": "sectors",
+   "headline": "Sanofi stops development of Nurix-partnered immune drug",
+   "summary": "",
+   "publisher": "BioPharma Dive",
+   "url": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/",
+   "published": "2026-11-04T17:18:00+00:00"
+  },
+  {
+   "id": "4a20efe6b980396b7db3",
+   "section": "sectors",
+   "headline": "Wayfair notches ‘strongest quarter of growth’ since the pandemic",
+   "summary": "",
+   "publisher": "Retail Dive",
+   "url": "https://www.retaildive.com/news/wayfair-strongest-quarter-since-pandemic/873740/",
+   "published": "2026-11-04T17:18:00+00:00"
+  },
+  {
    "id": "2a67e53b2993b4262b73",
    "section": "news",
    "headline": "Stocks climb after Democrats’ sweep",
@@ -899,6 +1475,24 @@
    "published": "2026-11-04T17:00:00+00:00"
   },
   {
+   "id": "b7943d3524b8bb71b2a6",
+   "section": "sectors",
+   "headline": "Outdoor Voices inks licensing deal for UK and EU",
+   "summary": "",
+   "publisher": "Retail Dive",
+   "url": "https://www.retaildive.com/news/outdoor-voices-expands-uk-eu/873730/",
+   "published": "2026-11-04T16:57:00+00:00"
+  },
+  {
+   "id": "3e0601740a6f2074a5e1",
+   "section": "sectors",
+   "headline": "‘This will normalize’: What Adidas’ Q3 reveals about the broader footwear market",
+   "summary": "",
+   "publisher": "Retail Dive",
+   "url": "https://www.retaildive.com/news/adidas-q3-earnings-sales-growth-lifestyle-footwear-market/873640/",
+   "published": "2026-11-04T16:51:00+00:00"
+  },
+  {
    "id": "1ae969d8025ea5d03653",
    "section": "financings",
    "headline": "Snyk Named a Leader in Agentic Development Security Tools by Independent Research Firm",
@@ -906,6 +1500,15 @@
    "publisher": "Business Wire — Financial",
    "url": "http://www.businesswire.com/news/home/20261104404305/en/Snyk-Named-a-Leader-in-Agentic-Development-Security-Tools-by-Independent-Research-Firm/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-11-04T16:45:00+00:00"
+  },
+  {
+   "id": "ab410d3013fa37294512",
+   "section": "sectors",
+   "headline": "Western Forest Products and Tla’amin Nation complete sale of Stillwater Forest Operation",
+   "summary": "",
+   "publisher": "Canadian Forest Industries",
+   "url": "https://www.woodbusiness.ca/western-forest-products-and-tlaamin-nation-complete-sale-of-stillwater-forest-operation/",
+   "published": "2026-11-04T16:44:08+00:00"
   },
   {
    "id": "211990915cf9b0ad0336",
@@ -935,6 +1538,15 @@
    "published": "2026-11-04T16:41:26+00:00"
   },
   {
+   "id": "88303113488c0711d4f1",
+   "section": "sectors",
+   "headline": "Hydro Flask, Osprey owner receives acquisition proposal valued at $1.6B",
+   "summary": "",
+   "publisher": "Retail Dive",
+   "url": "https://www.retaildive.com/news/hydro-flask-osprey-owner-receives-acquisition-proposal-valued-at-16b/873719/",
+   "published": "2026-11-04T16:31:00+00:00"
+  },
+  {
    "id": "c4fb0013357b3f2e87ac",
    "section": "energy",
    "headline": "Dangote Breaks Ground on $2.5 Billion Namibia Fuel Hub for Southern Africa",
@@ -942,6 +1554,15 @@
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Latest-Energy-News/World-News/Dangote-Breaks-Ground-on-25-Billion-Namibia-Fuel-Hub-for-Southern-Africa.html",
    "published": "2026-11-04T16:30:00+00:00"
+  },
+  {
+   "id": "4e3b09fccdb17c2953b8",
+   "section": "sectors",
+   "headline": "EXCLUSIVE: House China committee pushes Air Force on think tank cuts",
+   "summary": "",
+   "publisher": "Breaking Defense",
+   "url": "https://breakingdefense.com/2026/11/house-china-committee-pushes-air-force-on-think-tank-cuts/",
+   "published": "2026-11-04T16:28:45+00:00"
   },
   {
    "id": "0540784808f330d41937",
@@ -953,6 +1574,15 @@
    "published": "2026-11-04T16:28:00+00:00"
   },
   {
+   "id": "c7d81caa3060b170a87a",
+   "section": "sectors",
+   "headline": "Ahold Delhaize braces for impact of cybersecurity incident",
+   "summary": "",
+   "publisher": "Grocery Dive",
+   "url": "https://www.grocerydive.com/news/ahold-delhaize-united-states-third-quarter-earnings/873745/",
+   "published": "2026-11-04T16:20:50+00:00"
+  },
+  {
    "id": "f3afcd6008f5dbda8208",
    "section": "news",
    "headline": "Midterms Shocker Will Reverberate Through the Energy Industry",
@@ -960,6 +1590,42 @@
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/midterms-shocker-will-reverberate-through-the-energy-industry",
    "published": "2026-11-04T16:16:28+00:00"
+  },
+  {
+   "id": "2086b1255b18270b5805",
+   "section": "sectors",
+   "headline": "Shield AI cofounder teases ‘snowball’ of X-BAT fighter drone announcements in Europe",
+   "summary": "",
+   "publisher": "Breaking Defense",
+   "url": "https://breakingdefense.com/2026/11/shield-ai-cofounder-teases-snowball-of-x-bat-fighter-drone-announcements-in-europe/",
+   "published": "2026-11-04T16:15:00+00:00"
+  },
+  {
+   "id": "35acfcf336afae3c31fa",
+   "section": "sectors",
+   "headline": "Philips settles with DOJ over recalled CPAP machines",
+   "summary": "",
+   "publisher": "MedTech Dive",
+   "url": "https://www.medtechdive.com/news/philips-settles-with-doj-over-recalled-cpap-machines/873738/",
+   "published": "2026-11-04T16:13:34+00:00"
+  },
+  {
+   "id": "96e24a028abe8a0b66e4",
+   "section": "sectors",
+   "headline": "Novo gets much-needed lift as Wegovy pill tops Wall Street forecasts",
+   "summary": "",
+   "publisher": "BioPharma Dive",
+   "url": "https://www.biopharmadive.com/news/novo-wegovy-pill-sales-3q-2026-earnings-cfo/873693/",
+   "published": "2026-11-04T16:13:00+00:00"
+  },
+  {
+   "id": "7cc957a2281c4d72cacb",
+   "section": "markets",
+   "headline": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
+   "summary": "",
+   "publisher": "CoinDesk",
+   "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+   "published": "2026-11-04T16:11:29+00:00"
   },
   {
    "id": "0600f8bf72e4d586f0d9",
@@ -971,6 +1637,15 @@
    "published": "2026-11-04T16:11:21+00:00"
   },
   {
+   "id": "5a49c978c1c236d8ef65",
+   "section": "sectors",
+   "headline": "Key to buy private capital adviser in boost to investment bank",
+   "summary": "",
+   "publisher": "Banking Dive",
+   "url": "https://www.bankingdive.com/news/keycorp-buy-atlantic-pacific-capital-investment-bank/873739/",
+   "published": "2026-11-04T16:11:05+00:00"
+  },
+  {
    "id": "a6dd023c3b6390550e2d",
    "section": "news",
    "headline": "Canfor reports smaller third-quarter loss than a year earlier, sales edged up",
@@ -978,6 +1653,33 @@
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-canfor-third-quarter-results-market-conditions/",
    "published": "2026-11-04T16:11:02+00:00"
+  },
+  {
+   "id": "3fa3e47cc8a1c47459c0",
+   "section": "sectors",
+   "headline": "3 takeaways from TCT 2026",
+   "summary": "",
+   "publisher": "MedTech Dive",
+   "url": "https://www.medtechdive.com/news/3-takeaways-from-tct-2026/873743/",
+   "published": "2026-11-04T16:10:49+00:00"
+  },
+  {
+   "id": "6fdd5076bf08443ea2d4",
+   "section": "sectors",
+   "headline": "Cleveland-Cliffs confirms compliance with Stelco labor commitments",
+   "summary": "",
+   "publisher": "Manufacturing Dive",
+   "url": "https://www.manufacturingdive.com/news/cleveland-cliffs-confirms-compliance-stelco-amid-canada-dispute/873709/",
+   "published": "2026-11-04T16:10:00+00:00"
+  },
+  {
+   "id": "79ad707d690f6ac7e397",
+   "section": "markets",
+   "headline": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+   "summary": "",
+   "publisher": "CoinDesk",
+   "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+   "published": "2026-11-04T16:08:14+00:00"
   },
   {
    "id": "0ded7c396417626a2671",
@@ -998,6 +1700,15 @@
    "published": "2026-11-04T16:06:03+00:00"
   },
   {
+   "id": "53374c41d96a66ad6287",
+   "section": "sectors",
+   "headline": "FIS, Toast CFOs exit",
+   "summary": "",
+   "publisher": "Payments Dive",
+   "url": "https://www.paymentsdive.com/news/fis-toast-cfos-exit/873750/",
+   "published": "2026-11-04T16:03:00+00:00"
+  },
+  {
    "id": "53479c35c18696061df5",
    "section": "financings",
    "headline": "Billington Critical Infrastructure CyberSecurity Summit to Focus on Nation-State Threats, AI, and Cascading Risks to U.S. Infrastructure",
@@ -1005,6 +1716,24 @@
    "publisher": "Business Wire — Financial",
    "url": "http://www.businesswire.com/news/home/20261104403551/en/Billington-Critical-Infrastructure-CyberSecurity-Summit-to-Focus-on-Nation-State-Threats-AI-and-Cascading-Risks-to-U.S.-Infrastructure/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-11-04T16:00:00+00:00"
+  },
+  {
+   "id": "deca6b3879ff51e04912",
+   "section": "sectors",
+   "headline": "Kraft Heinz to sell North American coffee business to private equity firm",
+   "summary": "",
+   "publisher": "Food Dive",
+   "url": "https://www.fooddive.com/news/kraft-heinz-sell-coffee-maxwellhouse-private-equit/873720/",
+   "published": "2026-11-04T16:00:00+00:00"
+  },
+  {
+   "id": "9db046606255bcc4d56f",
+   "section": "sectors",
+   "headline": "Block reaches $964M DOJ pact",
+   "summary": "",
+   "publisher": "Payments Dive",
+   "url": "https://www.paymentsdive.com/news/block-reaches-964m-doj-pact/873729/",
+   "published": "2026-11-04T15:58:00+00:00"
   },
   {
    "id": "56d89bd830ed17fa2876",
@@ -1034,6 +1763,33 @@
    "published": "2026-11-04T15:48:25+00:00"
   },
   {
+   "id": "5f7ef760869a71ef3d43",
+   "section": "sectors",
+   "headline": "CVS to split into two companies in stunning strategic about-face",
+   "summary": "",
+   "publisher": "Healthcare Dive",
+   "url": "https://www.healthcaredive.com/news/cvs-split-two-companies-strategic-about-face/873660/",
+   "published": "2026-11-04T15:47:46+00:00"
+  },
+  {
+   "id": "1e941261a04f9f9943a6",
+   "section": "sectors",
+   "headline": "CVS to split into two companies in stunning strategic about-face",
+   "summary": "",
+   "publisher": "BioPharma Dive",
+   "url": "https://www.biopharmadive.com/news/cvs-split-two-companies-strategic-about-face/873742/",
+   "published": "2026-11-04T15:47:46+00:00"
+  },
+  {
+   "id": "9e0fd5e1c4f0a35ad45c",
+   "section": "sectors",
+   "headline": "Optimum forms group to explore 'potential strategic and financial transactions'",
+   "summary": "",
+   "publisher": "Light Reading",
+   "url": "https://www.lightreading.com/cable-technology/optimum-forms-group-to-explore-potential-strategic-and-financial-transactions-",
+   "published": "2026-11-04T15:46:16+00:00"
+  },
+  {
    "id": "910c49434ba21cc1c85d",
    "section": "news",
    "headline": "Citadel Securities’ Rubner Says Stocks Are Set Up for Year-End Gains After Vote",
@@ -1061,12 +1817,30 @@
    "published": "2026-11-04T15:42:18+00:00"
   },
   {
+   "id": "9c6c951e4c06dd8e51a8",
+   "section": "sectors",
+   "headline": "Mondelēz sues YouTuber’s Joyride candy brand for copying Sour Patch Kids",
+   "summary": "",
+   "publisher": "Food Dive",
+   "url": "https://www.fooddive.com/news/Mondelez-lawsuit-sour-patch-kids-joyride-ryan-trahan/873621/",
+   "published": "2026-11-04T15:41:00+00:00"
+  },
+  {
    "id": "c363ec8ec892d9d8a7cb",
    "section": "energy",
    "headline": "US Oil Inventories Fall Further As Demand Holds",
    "summary": "US crude oil inventories declined further last week even as demand held steady, according to the latest data.",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Inventories-Fall-Further-As-Demand-Holds.html",
+   "published": "2026-11-04T15:37:00+00:00"
+  },
+  {
+   "id": "22639909b1f3bf69a986",
+   "section": "sectors",
+   "headline": "Celsius accused of ‘healthwashing’ in class action lawsuit",
+   "summary": "",
+   "publisher": "Food Dive",
+   "url": "https://www.fooddive.com/news/celsius-class-action-lawsuit-health-washing-claims/873724/",
    "published": "2026-11-04T15:37:00+00:00"
   },
   {
@@ -1088,6 +1862,24 @@
    "published": "2026-11-04T15:30:00+00:00"
   },
   {
+   "id": "50af9f110a96a8fd3273",
+   "section": "sectors",
+   "headline": "Biopharma likely to climb higher after ‘blue wave,’ analysts say",
+   "summary": "",
+   "publisher": "BioPharma Dive",
+   "url": "https://www.biopharmadive.com/news/biotech-pharma-midterm-elections-impact/873667/",
+   "published": "2026-11-04T15:28:00+00:00"
+  },
+  {
+   "id": "71231de1598b20fbf021",
+   "section": "markets",
+   "headline": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
+   "summary": "",
+   "publisher": "CoinDesk",
+   "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
+   "published": "2026-11-04T15:27:20+00:00"
+  },
+  {
    "id": "c49bf9b9858ab86b2478",
    "section": "news",
    "headline": "Why John Stolzfus Stays Bullish",
@@ -1095,6 +1887,15 @@
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/videos/2026-11-04/why-john-stolzfus-stays-bullish-video",
    "published": "2026-11-04T15:26:07+00:00"
+  },
+  {
+   "id": "d09c6da54d01a50b061d",
+   "section": "sectors",
+   "headline": "Congress’s defense advocates take big hit in 2026 midterm elections",
+   "summary": "",
+   "publisher": "Breaking Defense",
+   "url": "https://breakingdefense.com/2026/11/congresss-defense-advocates-take-big-hit-in-2026-midterm-elections/",
+   "published": "2026-11-04T15:25:49+00:00"
   },
   {
    "id": "75a071f2b8350a2bf75c",
@@ -1115,6 +1916,24 @@
    "published": "2026-11-04T15:21:04+00:00"
   },
   {
+   "id": "c4d0ba10bbdc59c64a63",
+   "section": "sectors",
+   "headline": "UK airshow RIAT permanently relocates from Fairford",
+   "summary": "",
+   "publisher": "Breaking Defense",
+   "url": "https://breakingdefense.com/2026/11/uk-airshow-riat-permanently-relocates-from-fairford/",
+   "published": "2026-11-04T15:15:47+00:00"
+  },
+  {
+   "id": "c8e2f0bf18a8efa31392",
+   "section": "sectors",
+   "headline": "Which restaurant brands are winning in franchising?",
+   "summary": "",
+   "publisher": "Restaurant Dive",
+   "url": "https://www.restaurantdive.com/news/franchising-growth-declines-fdd-data/833285/",
+   "published": "2026-11-04T15:15:00+00:00"
+  },
+  {
    "id": "db8874ca054a6dcf42d5",
    "section": "news",
    "headline": "Canada’s services sector contracts for fifth straight month in October",
@@ -1133,6 +1952,15 @@
    "published": "2026-11-04T15:13:14+00:00"
   },
   {
+   "id": "dd342bef08aba912ac31",
+   "section": "sectors",
+   "headline": "Schneider National says rail partner shift offers network boost",
+   "summary": "",
+   "publisher": "Trucking Dive",
+   "url": "https://www.truckingdive.com/news/schneider-national-says-rail-partner-shift-offers-network-boost/873490/",
+   "published": "2026-11-04T15:09:00+00:00"
+  },
+  {
    "id": "abe67a8e05e90cf761c5",
    "section": "tech",
    "headline": "The DEA banned a drug some opioid users called a miracle",
@@ -1142,6 +1970,24 @@
    "published": "2026-11-04T15:08:48+00:00"
   },
   {
+   "id": "f4f6f370c5c89af2bf17",
+   "section": "sectors",
+   "headline": "Kroger taps RFID, computer vision data to boost inventory management",
+   "summary": "",
+   "publisher": "Grocery Dive",
+   "url": "https://www.grocerydive.com/news/kroger-rfid-computer-vision-data-inventory-management/873639/",
+   "published": "2026-11-04T15:07:00+00:00"
+  },
+  {
+   "id": "34b81757301440c56c38",
+   "section": "sectors",
+   "headline": "FedEx Network 2.0 headed to Los Angeles, other markets post-holidays",
+   "summary": "",
+   "publisher": "Trucking Dive",
+   "url": "https://www.truckingdive.com/news/fedex-network-20-headed-to-los-angeles-other-markets-post-holidays/873695/",
+   "published": "2026-11-04T15:06:00+00:00"
+  },
+  {
    "id": "ed6497f4a8f6e6f74fe5",
    "section": "energy",
    "headline": "Europa Appeals to Revive Cloughton Gas Project",
@@ -1149,6 +1995,15 @@
    "publisher": "Rigzone",
    "url": "https://www.rigzone.com/news/europa_appeals_to_revive_cloughton_gas_project-04-nov-2026-185007-article/?rss=true",
    "published": "2026-11-04T15:05:51+00:00"
+  },
+  {
+   "id": "3015ba5b983a69510caa",
+   "section": "sectors",
+   "headline": "Old Dominion expects year-end performance to be ‘above seasonality’",
+   "summary": "",
+   "publisher": "Trucking Dive",
+   "url": "https://www.truckingdive.com/news/old-dominion-expects-year-end-performance-to-be-above-seasonality/873107/",
+   "published": "2026-11-04T15:05:00+00:00"
   },
   {
    "id": "ad9524a128afb7e1589b",
@@ -1187,6 +2042,51 @@
    "published": "2026-11-04T15:00:00+00:00"
   },
   {
+   "id": "9f4f372f54c1ef5b7f61",
+   "section": "sectors",
+   "headline": "USDA Exports: Spain buys soybeans",
+   "summary": "",
+   "publisher": "Farm Progress",
+   "url": "https://www.farmprogress.com/marketing/flash-sales",
+   "published": "2026-11-04T14:59:55+00:00"
+  },
+  {
+   "id": "3168e2747e5d1abc6279",
+   "section": "sectors",
+   "headline": "HUD launches ‘express lane’ for LIHTC multifamily construction loans",
+   "summary": "",
+   "publisher": "Construction Dive",
+   "url": "https://www.constructiondive.com/news/hud-express-lane-lihtc-multifamily-construction-loans/873694/",
+   "published": "2026-11-04T14:53:00+00:00"
+  },
+  {
+   "id": "2dcf5c87481567ca7f0a",
+   "section": "sectors",
+   "headline": "ADM earnings up sharply in third quarter",
+   "summary": "",
+   "publisher": "World Grain",
+   "url": "https://www.world-grain.com/articles/23417-adm-earnings-up-sharply-in-third-quarter",
+   "published": "2026-11-04T14:51:51+00:00"
+  },
+  {
+   "id": "2e805f77f07f8c61c32a",
+   "section": "sectors",
+   "headline": "AT&T, Rakuten tout integration with Starlink rival AST SpaceMobile for D2D services",
+   "summary": "",
+   "publisher": "Light Reading",
+   "url": "https://www.lightreading.com/satellite/at-t-rakuten-tout-integration-with-starlink-rival-ast-spacemobile-for-d2d-services",
+   "published": "2026-11-04T14:48:53+00:00"
+  },
+  {
+   "id": "076bcec5f309d5238ac0",
+   "section": "sectors",
+   "headline": "Amazon deploys thousands of smart glasses to delivery drivers",
+   "summary": "",
+   "publisher": "Supply Chain Dive",
+   "url": "https://www.supplychaindive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873620/",
+   "published": "2026-11-04T14:47:00+00:00"
+  },
+  {
    "id": "6098480ded7ee44031a4",
    "section": "news",
    "headline": "Sequoia shuts London office as VC firm refocuses on Silicon Valley",
@@ -1205,6 +2105,69 @@
    "published": "2026-11-04T14:42:20+00:00"
   },
   {
+   "id": "d20cd8a1e41ed11046e0",
+   "section": "sectors",
+   "headline": "Acquisition to grow The Andersons ethanol capacity by 40%",
+   "summary": "",
+   "publisher": "World Grain",
+   "url": "https://www.world-grain.com/articles/23416-acquisition-to-grow-the-andersons-ethanol-capacity-by-40",
+   "published": "2026-11-04T14:40:17+00:00"
+  },
+  {
+   "id": "e129830758991638250b",
+   "section": "sectors",
+   "headline": "Banks should play up human touch to stand out in AI era: fintech CEO",
+   "summary": "",
+   "publisher": "Banking Dive",
+   "url": "https://www.bankingdive.com/news/banking-ai-agents-threaten-customer-relationships-human-personetics/873706/",
+   "published": "2026-11-04T14:37:15+00:00"
+  },
+  {
+   "id": "f99c8c12286984c7a90c",
+   "section": "markets",
+   "headline": "The election changes Washington. The work on crypto continues",
+   "summary": "",
+   "publisher": "CoinDesk",
+   "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+   "published": "2026-11-04T14:25:12+00:00"
+  },
+  {
+   "id": "2fd5a4ca366476bce239",
+   "section": "sectors",
+   "headline": "Patients want a human in the loop for AI healthcare tools",
+   "summary": "",
+   "publisher": "Healthcare Dive",
+   "url": "https://www.healthcaredive.com/news/patients-want-human-in-loop-ai-healthcare-tools/873704/",
+   "published": "2026-11-04T14:24:08+00:00"
+  },
+  {
+   "id": "a937284fb859cfac1b42",
+   "section": "sectors",
+   "headline": "Festival Foods launches revamped loyalty program, app and website",
+   "summary": "",
+   "publisher": "Grocery Dive",
+   "url": "https://www.grocerydive.com/news/festival-foods-revamped-loyalty-rewards-program-app-website/873623/",
+   "published": "2026-11-04T14:22:28+00:00"
+  },
+  {
+   "id": "7ab4ac7d7bff2004ca61",
+   "section": "sectors",
+   "headline": "McDonald’s pilots mix-and-match bundles",
+   "summary": "",
+   "publisher": "Restaurant Dive",
+   "url": "https://www.restaurantdive.com/news/mcdonalds-tests-entry-level-value-mix-match-bundles/873702/",
+   "published": "2026-11-04T14:18:26+00:00"
+  },
+  {
+   "id": "d32604dce191ebf0dd0c",
+   "section": "sectors",
+   "headline": "Democratic wins could mean big changes for ag policy",
+   "summary": "",
+   "publisher": "Farm Progress",
+   "url": "https://www.farmprogress.com/farm-policy/democratic-wins-could-mean-big-changes-for-ag-policy",
+   "published": "2026-11-04T14:15:00+00:00"
+  },
+  {
    "id": "deb1cec473871d62b08e",
    "section": "news",
    "headline": "Ex-RBC employee found guilty after viewing PM’s data, opening fraudulent accounts",
@@ -1221,6 +2184,15 @@
    "publisher": "Business Wire — Financial",
    "url": "http://www.businesswire.com/news/home/20261104188805/en/As-AI-Use-Grows-New-Report-from-Evotix-and-What-Works-Institute-Reveals-Changing-EHS-Priorities-and-New-Challenges/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-11-04T14:04:00+00:00"
+  },
+  {
+   "id": "a5981861d112a986129c",
+   "section": "markets",
+   "headline": "Live updates: Bitcoin rises above $80,000 as stocks gain following Blue Wave",
+   "summary": "",
+   "publisher": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+   "published": "2026-11-04T14:00:53+00:00"
   },
   {
    "id": "1570686b57907b2ccf44",
@@ -1313,6 +2285,24 @@
    "published": "2026-11-04T14:00:00+00:00"
   },
   {
+   "id": "77820b64fdbd27acff11",
+   "section": "sectors",
+   "headline": "America’s hospital brand deserts: Why clinicians keep pointing to the same few regions",
+   "summary": "",
+   "publisher": "Healthcare Dive",
+   "url": "https://www.healthcaredive.com/spons/americas-hospital-brand-deserts-why-clinicians-keep-pointing-to-the-same/873696/",
+   "published": "2026-11-04T14:00:00+00:00"
+  },
+  {
+   "id": "3e1f05a2562082ec4049",
+   "section": "sectors",
+   "headline": "Nearly 200K construction workers quit in September, the most in over 3 years",
+   "summary": "",
+   "publisher": "Construction Dive",
+   "url": "https://www.constructiondive.com/news/construction-workforce-market-bls-september/873692/",
+   "published": "2026-11-04T14:00:00+00:00"
+  },
+  {
    "id": "b06cbf51817ea26e8cf3",
    "section": "energy",
    "headline": "Woodside's Louisiana LNG to Supply QatarEnergy for 20 Years",
@@ -1331,6 +2321,15 @@
    "published": "2026-11-04T13:55:51+00:00"
   },
   {
+   "id": "1b4b82287d1f0bc9080a",
+   "section": "sectors",
+   "headline": "Record grain ending stocks forecast in Ukraine",
+   "summary": "",
+   "publisher": "World Grain",
+   "url": "https://www.world-grain.com/articles/23415-record-grain-ending-stocks-forecast-in-ukraine",
+   "published": "2026-11-04T13:55:04+00:00"
+  },
+  {
    "id": "87a902d589cf772146c0",
    "section": "news",
    "headline": "Elon Musk’s businesses brace for greater scrutiny as blue wave flips Texas",
@@ -1338,6 +2337,24 @@
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-elon-musk-businesses-brace-for-greater-scrutiny-midterm-results/",
    "published": "2026-11-04T13:50:47+00:00"
+  },
+  {
+   "id": "42cd6485177cf329eb00",
+   "section": "sectors",
+   "headline": "Arabian Mills net profit climbs in third quarter",
+   "summary": "",
+   "publisher": "World Grain",
+   "url": "https://www.world-grain.com/articles/23414-arabian-mills-net-profit-climbs-in-third-quarter",
+   "published": "2026-11-04T13:49:03+00:00"
+  },
+  {
+   "id": "49745d19bcb87094f4c7",
+   "section": "financings",
+   "headline": "IonQ Completes Acquisition of Elisity, Extending Quantum Security for Enterprises and Government",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261102959024/en/IonQ-Completes-Acquisition-of-Elisity-Extending-Quantum-Security-for-Enterprises-and-Government/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-11-04T13:45:00+00:00"
   },
   {
    "id": "b09381f886a940a07b6d",
@@ -1358,12 +2375,66 @@
    "published": "2026-11-04T13:39:00+00:00"
   },
   {
+   "id": "293f17939999f862a7d1",
+   "section": "sectors",
+   "headline": "USDA steps in with $472.5 million ag purchase to aid struggling farmers",
+   "summary": "",
+   "publisher": "Farm Progress",
+   "url": "https://www.farmprogress.com/tv-and-radio/usda-steps-in-with-472-5-million-ag-purchase-to-aid-struggling-farmers",
+   "published": "2026-11-04T13:38:55+00:00"
+  },
+  {
+   "id": "ae96043473584b0bf02c",
+   "section": "sectors",
+   "headline": "Amdocs shares nosedive on legal bust-up with T-Mobile",
+   "summary": "",
+   "publisher": "Light Reading",
+   "url": "https://www.lightreading.com/ai-machine-learning/amdocs-shares-nosedive-on-legal-bust-up-with-t-mobile",
+   "published": "2026-11-04T13:34:16+00:00"
+  },
+  {
    "id": "db8dbdc6d849963c7546",
    "section": "energy",
    "headline": "European Gas Prices Fall 2% as Traders Wait on Trump’s Next Move in Iran",
    "summary": "",
    "publisher": "OilPrice.com",
    "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Fall-2-as-Traders-Wait-on-Trumps-Next-Move-in-Iran.html",
+   "published": "2026-11-04T13:30:00+00:00"
+  },
+  {
+   "id": "db875f660e641cb63e35",
+   "section": "sectors",
+   "headline": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
+   "summary": "",
+   "publisher": "Light Reading",
+   "url": "https://www.lightreading.com/5g/spacex-boldly-goes-into-huge-5g-network-rollout-with-qualcomm",
+   "published": "2026-11-04T13:30:00+00:00"
+  },
+  {
+   "id": "bb01876c967b5ff40ed7",
+   "section": "sectors",
+   "headline": "3 keys to unlocking ag tech value in 2027",
+   "summary": "",
+   "publisher": "Farm Progress",
+   "url": "https://www.farmprogress.com/markets-and-quotes/morning-market-review",
+   "published": "2026-11-04T13:30:00+00:00"
+  },
+  {
+   "id": "ce945d70d334f5ac5760",
+   "section": "financings",
+   "headline": "NETSCOUT to Participate in Upcoming Investor Conferences",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261104469209/en/NETSCOUT-to-Participate-in-Upcoming-Investor-Conferences/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-11-04T13:30:00+00:00"
+  },
+  {
+   "id": "413ee1b730f4bc263555",
+   "section": "financings",
+   "headline": "Half of Organizations Lack a Formal Critical Event Management Strategy as Global Threats Accelerate, New Everbridge Report Finds",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261104544289/en/Half-of-Organizations-Lack-a-Formal-Critical-Event-Management-Strategy-as-Global-Threats-Accelerate-New-Everbridge-Report-Finds/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-11-04T13:30:00+00:00"
   },
   {
@@ -1383,6 +2454,15 @@
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-toys-r-us-canada-to-open-within-300-staples-stores-by-end-of-2027/",
    "published": "2026-11-04T13:26:43+00:00"
+  },
+  {
+   "id": "a9dce4cae63311686f10",
+   "section": "sectors",
+   "headline": "Lufthansa Cargo rides airfreight pricing power to stronger yields",
+   "summary": "",
+   "publisher": "The Loadstar",
+   "url": "https://theloadstar.com/lufthansa-cargo-rides-airfreight-pricing-power-to-stronger-yields/",
+   "published": "2026-11-04T13:24:58+00:00"
   },
   {
    "id": "6601d7494a78f289a081",
@@ -1410,6 +2490,15 @@
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5?syn-25a6b1a6=1",
    "published": "2026-11-04T13:14:01+00:00"
+  },
+  {
+   "id": "dea53f6d5d7c43e66b72",
+   "section": "sectors",
+   "headline": "ONE profits soar, thanks to surging rates and volumes",
+   "summary": "",
+   "publisher": "The Loadstar",
+   "url": "https://theloadstar.com/one-profits-soar-thanks-to-surging-rates-and-volumes/",
+   "published": "2026-11-04T13:13:40+00:00"
   },
   {
    "id": "00712b2de95808fd52a3",
@@ -1529,6 +2618,33 @@
    "published": "2026-11-04T13:00:00+00:00"
   },
   {
+   "id": "146e914386d3e5a83d2b",
+   "section": "sectors",
+   "headline": "Can ‘BattMan’ secure the US battery manufacturing supply chain?",
+   "summary": "",
+   "publisher": "Supply Chain Dive",
+   "url": "https://www.supplychaindive.com/news/can-battman-secure-the-us-battery-manufacturing-supply-chain/873699/",
+   "published": "2026-11-04T12:54:00+00:00"
+  },
+  {
+   "id": "6e1ce32b3bd276ba919f",
+   "section": "sectors",
+   "headline": "Wave of feeder newbuilds could bring a chill to charter rates in 2027",
+   "summary": "",
+   "publisher": "The Loadstar",
+   "url": "https://theloadstar.com/wave-of-feeder-newbuilds-could-bring-a-chill-to-charter-rates-in-2027/",
+   "published": "2026-11-04T12:53:14+00:00"
+  },
+  {
+   "id": "8b5e50d6a7980c8de30f",
+   "section": "sectors",
+   "headline": "Upgraded CBH Mingenew ready for harvest",
+   "summary": "",
+   "publisher": "World Grain",
+   "url": "https://www.world-grain.com/articles/23413-upgraded-cbh-mingenew-ready-for-harvest",
+   "published": "2026-11-04T12:52:52+00:00"
+  },
+  {
    "id": "f5157b0a58fd735f0539",
    "section": "news",
    "headline": "JPMorgan, BofA Prepare $2.4 Billion Debt Sale for CVC’s IFF Deal",
@@ -1547,6 +2663,15 @@
    "published": "2026-11-04T12:52:25+00:00"
   },
   {
+   "id": "ccf8147baa6a290cf02a",
+   "section": "sectors",
+   "headline": "Eurobites: VodafoneThree claims world first with Ericsson MIMO rollout",
+   "summary": "",
+   "publisher": "Light Reading",
+   "url": "https://www.lightreading.com/5g/eurobites-vodafonethree-claims-world-first-with-ericsson-mimo-rollout",
+   "published": "2026-11-04T12:52:02+00:00"
+  },
+  {
    "id": "8445d386ca83845f2882",
    "section": "news",
    "headline": "CVS Health to break up $117bn healthcare empire",
@@ -1554,6 +2679,15 @@
    "publisher": "Financial Times — Companies",
    "url": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1",
    "published": "2026-11-04T12:46:20+00:00"
+  },
+  {
+   "id": "f81720cf9b617c80e79e",
+   "section": "sectors",
+   "headline": "Editorial: Resilience a key ingredient for wheat foods",
+   "summary": "",
+   "publisher": "World Grain",
+   "url": "https://www.world-grain.com/articles/23412-editorial-resilience-a-key-ingredient-for-wheat-foods",
+   "published": "2026-11-04T12:44:46+00:00"
   },
   {
    "id": "5b41a1c31f3deac6fd80",
@@ -1592,6 +2726,15 @@
    "published": "2026-11-04T12:40:40+00:00"
   },
   {
+   "id": "ecd185985b9844cd60be",
+   "section": "sectors",
+   "headline": "Torm strikes eight-tanker newbuild deal in joint venture push",
+   "summary": "",
+   "publisher": "Splash247",
+   "url": "https://splash247.com/torm-strikes-eight-tanker-newbuild-deal-through-joint-venture/",
+   "published": "2026-11-04T12:40:00+00:00"
+  },
+  {
    "id": "44ad200775ffe342e7b1",
    "section": "tech",
    "headline": "A tiny squeeze dramatically changes the magnetism of exotic materials",
@@ -1599,6 +2742,15 @@
    "publisher": "ScienceDaily",
    "url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
    "published": "2026-11-04T12:37:52+00:00"
+  },
+  {
+   "id": "fdf731f1733353b3992d",
+   "section": "sectors",
+   "headline": "Saildrone expands its European market reach with manufacturing partner in Norway",
+   "summary": "",
+   "publisher": "Defense News",
+   "url": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway/",
+   "published": "2026-11-04T12:37:22+00:00"
   },
   {
    "id": "09d52a1173a40e790395",
@@ -1626,6 +2778,24 @@
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-mcdonalds-results-us-sales-value-push/",
    "published": "2026-11-04T12:33:24+00:00"
+  },
+  {
+   "id": "e2d3b1ec53bc97dd02e3",
+   "section": "sectors",
+   "headline": "Defense tech company aims to build US supply chain for new laptop line",
+   "summary": "",
+   "publisher": "Supply Chain Dive",
+   "url": "https://www.supplychaindive.com/news/defense-tech-company-aims-to-build-us-supply-chain-for-new-laptop-line/873658/",
+   "published": "2026-11-04T12:32:00+00:00"
+  },
+  {
+   "id": "cc5aebfdc24d26fa7562",
+   "section": "sectors",
+   "headline": "Transpacific the most profitable container trade by far, says Alphaliner",
+   "summary": "",
+   "publisher": "The Loadstar",
+   "url": "https://theloadstar.com/transpacific-the-most-profitable-container-trade-by-far-says-alphaliner/",
+   "published": "2026-11-04T12:31:58+00:00"
   },
   {
    "id": "05339008cccdd8d315a6",
@@ -1691,6 +2861,15 @@
    "published": "2026-11-04T12:20:42+00:00"
   },
   {
+   "id": "bc6b575de5163e71685a",
+   "section": "sectors",
+   "headline": "Benelux returns to China for LPG carrier brace",
+   "summary": "",
+   "publisher": "Splash247",
+   "url": "https://splash247.com/benelux-returns-to-china-for-lpg-carrier-brace/",
+   "published": "2026-11-04T12:20:00+00:00"
+  },
+  {
    "id": "eb9f2845eedab24ff192",
    "section": "news",
    "headline": "‘Population collapse’ makes AI productivity gains vital, says top Meta executive",
@@ -1734,6 +2913,15 @@
    "publisher": "The Globe and Mail",
    "url": "https://www.theglobeandmail.com/business/article-maple-leaf-foods-third-quarter-results/",
    "published": "2026-11-04T12:09:24+00:00"
+  },
+  {
+   "id": "e0e741c5a5ed2401cccb",
+   "section": "sectors",
+   "headline": "SKT rebounds on stronger mobile, broadband sales",
+   "summary": "",
+   "publisher": "Light Reading",
+   "url": "https://www.lightreading.com/wireless/skt-rebounds-on-stronger-mobile-broadband-sales",
+   "published": "2026-11-04T12:09:06+00:00"
   },
   {
    "id": "d50ef7466bbde5a1f8e7",
@@ -1790,6 +2978,15 @@
    "published": "2026-11-04T12:00:01+00:00"
   },
   {
+   "id": "c5bd9c580ed0902792b7",
+   "section": "news",
+   "headline": "‘Tight timeline’ to nail down trade-offs in Pathways deals, Cenovus executive says",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-cenovus-third-quarter-results-record-oil-production/",
+   "published": "2026-11-04T12:00:01+00:00"
+  },
+  {
    "id": "10b6806741e3411b5ff6",
    "section": "news",
    "headline": "US Mortgage Rates Retreat for Third Week While Holding Above 7%",
@@ -1814,6 +3011,15 @@
    "summary": "",
    "publisher": "Investing News Network",
    "url": "https://investingnews.com/vox-royalty-provides-update-timeline-for-assets-entering-production/",
+   "published": "2026-11-04T12:00:00+00:00"
+  },
+  {
+   "id": "37a871c5d1ca8a1d986a",
+   "section": "financings",
+   "headline": "908 Devices to Participate in the Stifel 2026 Healthcare Conference",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261104520044/en/908-Devices-to-Participate-in-the-Stifel-2026-Healthcare-Conference/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
    "published": "2026-11-04T12:00:00+00:00"
   },
   {
@@ -1862,6 +3068,24 @@
    "published": "2026-11-04T11:55:35+00:00"
   },
   {
+   "id": "a6ca51c15ca52f62cf72",
+   "section": "sectors",
+   "headline": "Air cargo cashes in on AI boom – but who has the edge?",
+   "summary": "",
+   "publisher": "The Loadstar",
+   "url": "https://theloadstar.com/air-cargo-cashes-in-on-ai-boom-but-who-has-the-edge/",
+   "published": "2026-11-04T11:52:34+00:00"
+  },
+  {
+   "id": "3fb38c18530afbc43018",
+   "section": "sectors",
+   "headline": "Idan Ofer turns to Japan for boxship quartet",
+   "summary": "",
+   "publisher": "Splash247",
+   "url": "https://splash247.com/idan-ofer-turns-to-japan-for-boxship-quartet/",
+   "published": "2026-11-04T11:50:00+00:00"
+  },
+  {
    "id": "eab7845ad74cc3cdd9e3",
    "section": "news",
    "headline": "Greater Toronto home sales down nearly 8% from a year ago in October",
@@ -1898,6 +3122,15 @@
    "published": "2026-11-04T11:40:24+00:00"
   },
   {
+   "id": "4c4dee92900fc637555a",
+   "section": "sectors",
+   "headline": "SoftBank and Sceye seal five-year commercial HAPS deal",
+   "summary": "",
+   "publisher": "Light Reading",
+   "url": "https://www.lightreading.com/satellite/softbank-and-sceye-seal-five-year-commercial-haps-deal",
+   "published": "2026-11-04T11:39:09+00:00"
+  },
+  {
    "id": "9d5ddb56862986fd2e8d",
    "section": "news",
    "headline": "Anthropic is an opportunity to rethink IPO rules",
@@ -1905,6 +3138,15 @@
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/5083bad9-2a6e-4dc8-9627-1d41f9aa5b5b",
    "published": "2026-11-04T11:38:48+00:00"
+  },
+  {
+   "id": "754f2be517456e7ef961",
+   "section": "sectors",
+   "headline": "Schneider picks Norfolk over CSX, you say?",
+   "summary": "",
+   "publisher": "The Loadstar",
+   "url": "https://theloadstar.com/schneider-picks-norfolk-over-csx-you-say/",
+   "published": "2026-11-04T11:36:58+00:00"
   },
   {
    "id": "f7fad0f6fe288cda478a",
@@ -1925,6 +3167,15 @@
    "published": "2026-11-04T11:31:00+00:00"
   },
   {
+   "id": "d722664b1f7afc1a6d53",
+   "section": "sectors",
+   "headline": "Plan, don’t predict: Cannabis leaders on preparing for 2027",
+   "summary": "",
+   "publisher": "MJBizDaily",
+   "url": "https://mjbizdaily.com/news/plan-dont-predict-cannabis-leaders-on-preparing-for-2027/618968/",
+   "published": "2026-11-04T11:30:14+00:00"
+  },
+  {
    "id": "7438f01ac53b39b866ab",
    "section": "energy",
    "headline": "Renewables Stocks Soar as Democrats Sweep U.S. Congress",
@@ -1943,6 +3194,15 @@
    "published": "2026-11-04T11:23:57+00:00"
   },
   {
+   "id": "d96724377d0aacc69c8e",
+   "section": "sectors",
+   "headline": "Infrastructure can’t cope with pace of pan-American air trade growth",
+   "summary": "",
+   "publisher": "The Loadstar",
+   "url": "https://theloadstar.com/infrastructure-cant-cope-with-pace-of-pan-american-air-trade-growth/",
+   "published": "2026-11-04T11:23:30+00:00"
+  },
+  {
    "id": "50ebc20e1128101f51c3",
    "section": "tech",
    "headline": "NASA is racing against time to save the Hubble Space Telescope",
@@ -1952,9 +3212,27 @@
    "published": "2026-11-04T11:22:33+00:00"
   },
   {
+   "id": "74e3dc5efe7b7641f8b3",
+   "section": "sectors",
+   "headline": "Laskaridis doubles Hengli LR2 bet with fresh pair",
+   "summary": "",
+   "publisher": "Splash247",
+   "url": "https://splash247.com/laskaridis-doubles-hengli-lr2-bet-with-fresh-pair/",
+   "published": "2026-11-04T11:20:00+00:00"
+  },
+  {
    "id": "40e0bea7655ca42df718",
    "section": "news",
    "headline": "US midterms results night as it happened: Democrats rout Republicans to win Senate and House",
+   "summary": "",
+   "publisher": "Financial Times",
+   "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+   "published": "2026-11-04T11:18:44+00:00"
+  },
+  {
+   "id": "7f3f9c7858f015836190",
+   "section": "news",
+   "headline": "US midterms as it happened: Democrats rout Republicans to win Senate and House",
    "summary": "",
    "publisher": "Financial Times",
    "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
@@ -2015,6 +3293,15 @@
    "published": "2026-11-04T11:00:00+00:00"
   },
   {
+   "id": "2109f9c7c056e4a9d857",
+   "section": "sectors",
+   "headline": "Cameroon’s Gulfcam taps new chief to drive Camship expansion",
+   "summary": "",
+   "publisher": "Splash247",
+   "url": "https://splash247.com/cameroons-gulfcam-taps-new-chief-to-drive-camship-expansion/",
+   "published": "2026-11-04T10:59:51+00:00"
+  },
+  {
    "id": "025b98cb86bb33a9161c",
    "section": "energy",
    "headline": "Heat raised for UK's MAST Upgrade fusion machine",
@@ -2022,6 +3309,15 @@
    "publisher": "World Nuclear News",
    "url": "https://www.world-nuclear-news.org/articles/twelve-tonne-component-raises-uk-fusion-machines-heat",
    "published": "2026-11-04T10:56:34+00:00"
+  },
+  {
+   "id": "9c644405b532c7516285",
+   "section": "sectors",
+   "headline": "Ardmore trims ageing tonnage amid Chinese newbuild drive",
+   "summary": "",
+   "publisher": "Splash247",
+   "url": "https://splash247.com/ardmore-trims-ageing-tonnage-amid-chinese-newbuild-drive/",
+   "published": "2026-11-04T10:55:00+00:00"
   },
   {
    "id": "c9b4362f34a54b3e6dfe",
@@ -2058,6 +3354,15 @@
    "publisher": "Rigzone",
    "url": "https://www.rigzone.com/news/totalenergies_bags_15year_deal_to_supply_lng_to_chinas_jiangsu-04-nov-2026-185003-article/?rss=true",
    "published": "2026-11-04T10:37:55+00:00"
+  },
+  {
+   "id": "5319290b6ac4e98c2676",
+   "section": "sectors",
+   "headline": "Greenland’s scrubber ban sparks calls for wider Arctic crackdown",
+   "summary": "",
+   "publisher": "Splash247",
+   "url": "https://splash247.com/greenlands-scrubber-ban-sparks-calls-for-wider-arctic-crackdown/",
+   "published": "2026-11-04T10:31:31+00:00"
   },
   {
    "id": "6fadb91407c9c2ae3f7e",
@@ -2103,6 +3408,15 @@
    "publisher": "Financial Times — Companies",
    "url": "https://www.ft.com/content/7a017d37-e102-4de3-8b84-a2974c1a2b06?syn-25a6b1a6=1",
    "published": "2026-11-04T10:27:15+00:00"
+  },
+  {
+   "id": "44bb93ae1172e04a0e51",
+   "section": "sectors",
+   "headline": "Babcock launches digital platform to link warship construction and fleet support",
+   "summary": "",
+   "publisher": "Defense News",
+   "url": "https://www.defensenews.com/global/europe/2026/11/04/babcock-launches-digital-platform-to-link-warship-construction-and-fleet-support/",
+   "published": "2026-11-04T10:26:16+00:00"
   },
   {
    "id": "10ba5b0cc3d291ef51c8",
@@ -2213,6 +3527,15 @@
    "published": "2026-11-04T10:00:00+00:00"
   },
   {
+   "id": "86cae7c66ae33e7aaea2",
+   "section": "news",
+   "headline": "Thélyson Orélien, and why AI detectors are almost never wrong",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/commentary/article-thelyson-orelien-and-why-ai-detectors-are-almost-never-wrong/",
+   "published": "2026-11-04T10:00:00+00:00"
+  },
+  {
    "id": "74fe5af4e314613928d4",
    "section": "news",
    "headline": "Ahold Delhaize cuts profit forecast after cyber attack",
@@ -2220,6 +3543,15 @@
    "publisher": "Financial Times — Companies",
    "url": "https://www.ft.com/content/c65eb5ae-0d16-4786-a8db-9db28d1791d7?syn-25a6b1a6=1",
    "published": "2026-11-04T09:53:41+00:00"
+  },
+  {
+   "id": "b3e41e82a0d4f90aae89",
+   "section": "sectors",
+   "headline": "France tasks Naval Group to develop large oceangoing underwater drone",
+   "summary": "",
+   "publisher": "Defense News",
+   "url": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/",
+   "published": "2026-11-04T09:51:15+00:00"
   },
   {
    "id": "fe9d39074e4636680c7f",
@@ -2240,6 +3572,24 @@
    "published": "2026-11-04T09:34:38+00:00"
   },
   {
+   "id": "2f31670dda2ccb44a04c",
+   "section": "financings",
+   "headline": "CrowdStrike Unveils Agentic Adversary Emulation on the Falcon Platform to Identify and Close Exploitable Attack Paths",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261104932077/en/CrowdStrike-Unveils-Agentic-Adversary-Emulation-on-the-Falcon-Platform-to-Identify-and-Close-Exploitable-Attack-Paths/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-11-04T09:25:00+00:00"
+  },
+  {
+   "id": "b13d409f4fa01ba25fa0",
+   "section": "sectors",
+   "headline": "Lady Luck and the lifer: Dan Wall’s Expeditors is on a tear",
+   "summary": "",
+   "publisher": "The Loadstar",
+   "url": "https://theloadstar.com/lady-luck-and-the-lifer-dan-walls-expeditors-is-on-a-tear/",
+   "published": "2026-11-04T09:17:59+00:00"
+  },
+  {
    "id": "edd440d9c918cf07a54a",
    "section": "news",
    "headline": "Novo sales boosted by Wegovy weight-loss pill",
@@ -2258,6 +3608,24 @@
    "published": "2026-11-04T09:00:00+00:00"
   },
   {
+   "id": "aee6d1c1ead6ddb29aba",
+   "section": "financings",
+   "headline": "CrowdStrike Extends the Agentic SOC to Detect and Stop the Agent Insider Threat",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261104432041/en/CrowdStrike-Extends-the-Agentic-SOC-to-Detect-and-Stop-the-Agent-Insider-Threat/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-11-04T09:00:00+00:00"
+  },
+  {
+   "id": "5554eb0b0f4e75ba3319",
+   "section": "financings",
+   "headline": "Riassunto: Speech Processing Solutions lancia Philips SpeechLive Legal Direct e Philips SpeechLive Professional Direct con riconoscimento vocale in tempo reale direttamente al cursore",
+   "summary": "",
+   "publisher": "Business Wire — Financial",
+   "url": "http://www.businesswire.com/news/home/20261029073996/it/?feedref=JjAwJuNHiystnCoBq_hl-V2wqxRmnpgZtOypyHtjMYiqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu4s9L7CzgBlYMXxVoyWhzlQ",
+   "published": "2026-11-04T09:00:00+00:00"
+  },
+  {
    "id": "d3b78152f77a20ccc1fb",
    "section": "energy",
    "headline": "Lone Star Goes Blue",
@@ -2265,6 +3633,33 @@
    "publisher": "Rigzone",
    "url": "https://www.rigzone.com/news/wire/lone_star_goes_blue-04-nov-2026-185002-article/?rss=true",
    "published": "2026-11-04T08:18:48+00:00"
+  },
+  {
+   "id": "ed335fd09581ee812c6f",
+   "section": "sectors",
+   "headline": "Late-season weather robbed corn yields",
+   "summary": "",
+   "publisher": "Farm Progress",
+   "url": "https://www.farmprogress.com/corn/late-season-weather-robbed-corn-yields",
+   "published": "2026-11-04T08:00:00+00:00"
+  },
+  {
+   "id": "65051a15fd8c44a716e2",
+   "section": "sectors",
+   "headline": "Don't let a safener give you false confidence about crop injury",
+   "summary": "",
+   "publisher": "Farm Progress",
+   "url": "https://www.farmprogress.com/weeds/don-t-let-a-safener-give-you-false-confidence-about-crop-injury",
+   "published": "2026-11-04T08:00:00+00:00"
+  },
+  {
+   "id": "a88673620ec2bd238f70",
+   "section": "sectors",
+   "headline": "Behind Country Mutual’s decision to sue AFBF",
+   "summary": "",
+   "publisher": "Farm Progress",
+   "url": "https://www.farmprogress.com/farm-business/behind-country-mutual-s-decision-to-sue-afbf",
+   "published": "2026-11-04T08:00:00+00:00"
   },
   {
    "id": "c58a36aa91463809e731",
@@ -2312,6 +3707,15 @@
    "published": "2026-11-04T06:40:23+00:00"
   },
   {
+   "id": "34372bdfe42fb7de0513",
+   "section": "sectors",
+   "headline": "MBDA’s high-speed strike missile to have range ‘far’ exceeding Exocet",
+   "summary": "",
+   "publisher": "Defense News",
+   "url": "https://www.defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet/",
+   "published": "2026-11-04T06:30:53+00:00"
+  },
+  {
    "id": "4caed811548775937f6f",
    "section": "news",
    "headline": "Seriously, stop worrying about market concentration",
@@ -2355,6 +3759,24 @@
    "publisher": "Bloomberg",
    "url": "https://www.bloomberg.com/news/articles/2026-11-04/european-stocks-set-to-dip-as-democrat-sweep-stokes-ai-worries",
    "published": "2026-11-04T05:51:38+00:00"
+  },
+  {
+   "id": "e53b7208c1245fb47183",
+   "section": "sectors",
+   "headline": "Historic election victory as Massachusetts rejects cannabis sales ban, $1.65 billion industry safe",
+   "summary": "",
+   "publisher": "MJBizDaily",
+   "url": "https://mjbizdaily.com/news/historic-night-for-cannabis-as-massachusetts-rejects-effort-to-ban-1-65-billion-industry/619051/",
+   "published": "2026-11-04T05:48:23+00:00"
+  },
+  {
+   "id": "d67c098d76acfa78573a",
+   "section": "news",
+   "headline": "With Democrats taking Congress, the trade war will continue and could even be worse",
+   "summary": "",
+   "publisher": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/commentary/article-with-democrats-in-the-house-the-trade-war-will-continue-and-could-even/",
+   "published": "2026-11-04T05:20:52+00:00"
   },
   {
    "id": "cf36d9278abe19731fb3",
