@@ -1,0 +1,76 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-05T13:54:10Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds",
+ "url": "https://www.cmbulletin.com/posts/600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds.json",
+ "date": "2026-11-05T13:35:59Z",
+ "headline": "600,000 Nvidia AI chips sit stranded in Hong Kong as China withholds approval",
+ "dek": "Beijing has let only small allotments of about 10,000 H200 chips reach each of four major Chinese tech firms, even as unofficial prices for the chips in China triple.",
+ "caption": "Shipping containers stacked at a quiet port terminal, where high-value cargo often waits for customs clearance before onward shipment.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "Semiconductors",
+  "Trade Policy",
+  "Artificial Intelligence"
+ ],
+ "tickers": [
+  "CSE:AIDR",
+  "CSE:SPAI",
+  "CSE:GOGO",
+  "TSXV:PINK"
+ ],
+ "image": "https://www.cmbulletin.com/images/600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds.png",
+ "source_name": "Reuters",
+ "sources": [
+  {
+   "title": "Exclusive-Nvidia chips pile up in Hong Kong as China withholds import approval",
+   "url": "https://www.globalbankingandfinance.com/exclusive-nvidia-chips-pile-up-hong-kong-china-withholds/",
+   "publisher": "Reuters"
+  },
+  {
+   "title": "Rocket Doctor AI Inc. (CSE: AIDR) quote, +6.45% on about $30,343",
+   "url": "https://finance.yahoo.com/quote/AIDR.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "Sparc AI Inc. (CSE: SPAI) quote, -3.43% on about $152,295",
+   "url": "https://finance.yahoo.com/quote/SPAI.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "GoGo AI Network Inc. (CSE: GOGO) quote, +0.00% on about $29,263",
+   "url": "https://finance.yahoo.com/quote/GOGO.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "PERIMETER MEDICAL IMAGING AI IN (TSXV: PINK) quote, +0.00% on about $73,998",
+   "url": "https://finance.yahoo.com/quote/PINK.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "The figure of about 600,000 H200 chips stockpiled in Hong Kong is sourced to unnamed 'people familiar with the matter' cited by Reuters, not to an official disclosure by Nvidia or Chinese authorities.",
+  "The claim that Alibaba, ByteDance, DeepSeek and Tencent have each received about 10,000 H200 chips rests on unnamed sources; none of the four companies responded to Reuters.",
+  "The claim that Beijing previously capped approvals at fewer than 200,000 chips is reporting Reuters attributes to a July report from a separate outlet, The Information."
+ ],
+ "brief": [
+  "About 600,000 of Nvidia's advanced H200 artificial-intelligence chips are stranded in Hong Kong awaiting shipment into mainland China, Reuters reported, as Beijing withholds approval for large-scale imports despite strong demand from Chinese technology firms. Alibaba, ByteDance, DeepSeek and Tencent have each received about 10,000 H200 chips in recent months, according to people familiar with the matter.",
+  "The scarcity has pushed up unofficial prices: an eight-card H200 server sold for more than 6 million yuan, or about $900,000, in mainland China by late October, roughly three times its price a year earlier, Reuters reported. Servers built with Nvidia's newer Blackwell chips commanded more than 20 million yuan apiece. Beijing's restraint reflects concern about dependence on US technology.",
+  "On the venture boards, the artificial-intelligence theme comprises 29 listed names; 17 traded today, 4 higher and 5 lower, for a median move of +0.00% against +2.48% for the S&P/TSX Venture Composite. Rocket Doctor AI Inc. (CSE: AIDR) rose 6.45% to CAD0.495; its registered name contains \"ai\"."
+ ],
+ "body": [
+  "About 600,000 of Nvidia's advanced H200 artificial-intelligence chips are sitting in warehouses in Hong Kong awaiting shipment into mainland China, two people familiar with the matter told Reuters, as Beijing withholds approval for large-scale imports despite strong demand from Chinese technology firms. Major Chinese internet companies — Alibaba, ByteDance, DeepSeek and Tencent among them — have each received only about 10,000 H200 chips in recent months, the people said, with additional small quantities reaching the mainland through intermediaries and indirect routes.",
+  "US export controls dating to 2022 had previously restricted China's access to Nvidia's most capable AI accelerators, and Beijing has imposed its own constraints on the imports in turn, reflecting concern about dependence on American technology.",
+  "Earlier reporting cited by Reuters said Beijing had told companies in July that they could expect approval for fewer than 200,000 H200 chips in total for training AI models, with priority for everyday inference work going to domestically made processors instead. China's Ministry of Industry and Information Technology and the National Development and Reform Commission did not respond to Reuters' requests for comment, nor did Nvidia or the four technology companies named in the report.",
+  "The scarcity has pushed unofficial prices sharply higher inside China. An eight-card H200 server was offered for more than 6 million yuan, or about $900,000, in the mainland market by late October — roughly three times its price a year earlier, Reuters reported. Servers built around Nvidia's newer Blackwell chips were commanding more than 20 million yuan apiece in the same unofficial market.",
+  "On the TSX Venture and CSE boards, 29 listed venture names make up this bulletin's artificial-intelligence theme. Seventeen of them traded today: four moved higher and five moved lower, for a median move of +0.00% against a +2.48% gain for the S&P/TSX Venture Composite. Twelve saw no trades at all.",
+  "Four of the theme's names were among the largest movers. Rocket Doctor AI Inc. (CSE: AIDR), whose registered name contains \"ai,\" rose 6.45% to C$0.495. Sparc AI Inc. (CSE: SPAI), also qualifying on its name, fell 3.43% to C$1.97. GoGo AI Network Inc. (CSE: GOGO) and Perimeter Medical Imaging Ai In (TSXV: PINK), both in the theme for the same reason, were unchanged at C$0.015 and C$0.18 respectively.",
+  "The moves and the Hong Kong stockpile report fall on the same trading day. Nothing in Reuters' reporting, or in the companies' own filings, connects the two. Twelve of the theme's 29 listed names did not trade at all today."
+ ]
+}

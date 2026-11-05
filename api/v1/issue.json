@@ -1,12 +1,129 @@
 {
  "api": "v1",
- "generated_at": "2026-11-05T13:24:12Z",
+ "generated_at": "2026-11-05T13:54:10Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "issue_date": "2026-11-05",
- "count": 3,
+ "count": 5,
  "entries": [
+  {
+   "slug": "lighthouse-gold-issues-35-million-shares-to-option-a-guyana-gold",
+   "url": "https://www.cmbulletin.com/posts/lighthouse-gold-issues-35-million-shares-to-option-a-guyana-gold.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/lighthouse-gold-issues-35-million-shares-to-option-a-guyana-gold.json",
+   "date": "2026-11-05T13:35:59Z",
+   "headline": "Lighthouse Gold issues 35 million shares to option a Guyana gold property",
+   "dek": "The CSE has accepted the property option deal for filing, though transfer of Guyana's mining permits still needs approval from the country's mines regulator.",
+   "caption": "Dense tropical rainforest along a river in Guyana's interior, terrain typical of the country's small-scale gold mining districts.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "M&A",
+    "Guyana"
+   ],
+   "tickers": [
+    "CSE:LGHT"
+   ],
+   "image": "https://www.cmbulletin.com/images/lighthouse-gold-issues-35-million-shares-to-option-a-guyana-gold.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Lighthouse Gold Closes Mariwa-Sardine Hill Gold Property Acquisition and Announces Termination of Private Placement",
+     "url": "https://thenewswire.com/press-releases/1LYzFXWZa-lighthouse-gold-closes-mariwa-sardine-hill-gold-property-acquisition-and-announces-termination-of-private-placement.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization of the deal as an 'exclusive right to acquire a 100% interest' rather than a completed purchase rests on the release's own wording; the permits transfer only once Guyana's mines regulator approves it, which has not yet happened.",
+    "The reason for the private placement's termination is not given by the company and is not independently known."
+   ],
+   "brief": [
+    "Lighthouse Gold Inc. (CSE: LGHT) has received Canadian Securities Exchange acceptance for its acquisition of the Mariwa–Sardine Hill–Lower Cuyuni gold property in Guyana's Oko Gold District, under a property option purchase agreement with 1464911 B.C. Ltd. It has paid US$150,000 cash and issued 35,000,000 shares at C$0.185 each, worth C$6,475,000, plus a US$100,000 deposit paid earlier.",
+    "The 35,000,000 shares equal about 15.98% of Lighthouse Gold's outstanding shares and carry a resale restriction of at least four months and a day. The company holds the right to acquire a 100% interest, but the permits transfer only once Guyana's mines regulator, the GGMC, approves it.",
+    "Separately, Lighthouse Gold said a private placement it announced on October 22 and 23, 2026, has been terminated, with no securities issued and no proceeds received. The release gives no reason for the termination and no replacement financing has been announced."
+   ],
+   "body": [
+    "Lighthouse Gold Inc. (CSE: LGHT), a Canadian gold explorer focused on Guyana, said it has received acceptance from the Canadian Securities Exchange for its acquisition of the Mariwa–Sardine Hill–Lower Cuyuni gold property in the Oko Gold District of Guyana's Cuyuni-Mazaruni region. The deal is a definitive property option purchase agreement with the vendor, 1464911 B.C. Ltd. Lighthouse Gold has now paid US$150,000 cash and issued 35,000,000 common shares at a deemed C$0.185 each, worth C$6,475,000, on top of a US$100,000 deposit paid earlier under the original letter of intent.",
+    "The release describes this as an option rather than an outright purchase: Lighthouse Gold 'holds the exclusive right to acquire a 100% interest' in the property, and the company says any transfer of the underlying mining permits on exercise of that option is subject to approval from Guyana's Geology and Mines Commission. The vendor, 1464911 B.C. Ltd., already held 20,000 Lighthouse Gold shares before the deal and now holds 35,020,000, about 15.99% of the company, following what Lighthouse Gold describes as an arm's-length transaction.",
+    "The underlying property, Mariwa–Sardine Hill – Lower Cuyuni, sits in the Oko Gold District of Guyana's Cuyuni-Mazaruni region and comprises three medium-scale mining permits covering about 3,240 acres. Each permit was originally granted on November 4, 2015 for a five-year term and has since been renewed by the Guyana Geology and Mines Commission; the release states the permits are currently in good standing. Lighthouse Gold describes the property as being at an early exploration stage, with no established mineral resources or reserves.",
+    "The 35,000,000 consideration shares are subject to a resale restriction until the later of four months and one day from issuance, or ten trading days after the company files financial statements reflecting the acquisition's value. Today's announcement follows two earlier releases on the same transaction, dated June 15 and October 20, 2026, as the deal progressed toward the CSE's acceptance for filing.",
+    "Separately, Lighthouse Gold said a private placement it announced on October 22 and October 23, 2026, has been terminated. No securities were issued and no proceeds were received under that financing, and the release gives no reason for the termination and discloses no replacement financing plan.",
+    "Lighthouse Gold describes itself as a Canadian gold exploration company focused on advancing exploration and mining assets in Guyana. The release names Will Rascan as interim chief executive officer and Geoff Balderson as chief financial officer and a director, and states that the Canadian Securities Exchange and its Regulation Services Provider do not accept responsibility for the release's adequacy or accuracy."
+   ]
+  },
+  {
+   "slug": "600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds",
+   "url": "https://www.cmbulletin.com/posts/600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds.json",
+   "date": "2026-11-05T13:35:59Z",
+   "headline": "600,000 Nvidia AI chips sit stranded in Hong Kong as China withholds approval",
+   "dek": "Beijing has let only small allotments of about 10,000 H200 chips reach each of four major Chinese tech firms, even as unofficial prices for the chips in China triple.",
+   "caption": "Shipping containers stacked at a quiet port terminal, where high-value cargo often waits for customs clearance before onward shipment.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "Semiconductors",
+    "Trade Policy",
+    "Artificial Intelligence"
+   ],
+   "tickers": [
+    "CSE:AIDR",
+    "CSE:SPAI",
+    "CSE:GOGO",
+    "TSXV:PINK"
+   ],
+   "image": "https://www.cmbulletin.com/images/600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds.png",
+   "source_name": "Reuters",
+   "sources": [
+    {
+     "title": "Exclusive-Nvidia chips pile up in Hong Kong as China withholds import approval",
+     "url": "https://www.globalbankingandfinance.com/exclusive-nvidia-chips-pile-up-hong-kong-china-withholds/",
+     "publisher": "Reuters"
+    },
+    {
+     "title": "Rocket Doctor AI Inc. (CSE: AIDR) quote, +6.45% on about $30,343",
+     "url": "https://finance.yahoo.com/quote/AIDR.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Sparc AI Inc. (CSE: SPAI) quote, -3.43% on about $152,295",
+     "url": "https://finance.yahoo.com/quote/SPAI.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "GoGo AI Network Inc. (CSE: GOGO) quote, +0.00% on about $29,263",
+     "url": "https://finance.yahoo.com/quote/GOGO.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "PERIMETER MEDICAL IMAGING AI IN (TSXV: PINK) quote, +0.00% on about $73,998",
+     "url": "https://finance.yahoo.com/quote/PINK.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "The figure of about 600,000 H200 chips stockpiled in Hong Kong is sourced to unnamed 'people familiar with the matter' cited by Reuters, not to an official disclosure by Nvidia or Chinese authorities.",
+    "The claim that Alibaba, ByteDance, DeepSeek and Tencent have each received about 10,000 H200 chips rests on unnamed sources; none of the four companies responded to Reuters.",
+    "The claim that Beijing previously capped approvals at fewer than 200,000 chips is reporting Reuters attributes to a July report from a separate outlet, The Information."
+   ],
+   "brief": [
+    "About 600,000 of Nvidia's advanced H200 artificial-intelligence chips are stranded in Hong Kong awaiting shipment into mainland China, Reuters reported, as Beijing withholds approval for large-scale imports despite strong demand from Chinese technology firms. Alibaba, ByteDance, DeepSeek and Tencent have each received about 10,000 H200 chips in recent months, according to people familiar with the matter.",
+    "The scarcity has pushed up unofficial prices: an eight-card H200 server sold for more than 6 million yuan, or about $900,000, in mainland China by late October, roughly three times its price a year earlier, Reuters reported. Servers built with Nvidia's newer Blackwell chips commanded more than 20 million yuan apiece. Beijing's restraint reflects concern about dependence on US technology.",
+    "On the venture boards, the artificial-intelligence theme comprises 29 listed names; 17 traded today, 4 higher and 5 lower, for a median move of +0.00% against +2.48% for the S&P/TSX Venture Composite. Rocket Doctor AI Inc. (CSE: AIDR) rose 6.45% to CAD0.495; its registered name contains \"ai\"."
+   ],
+   "body": [
+    "About 600,000 of Nvidia's advanced H200 artificial-intelligence chips are sitting in warehouses in Hong Kong awaiting shipment into mainland China, two people familiar with the matter told Reuters, as Beijing withholds approval for large-scale imports despite strong demand from Chinese technology firms. Major Chinese internet companies — Alibaba, ByteDance, DeepSeek and Tencent among them — have each received only about 10,000 H200 chips in recent months, the people said, with additional small quantities reaching the mainland through intermediaries and indirect routes.",
+    "US export controls dating to 2022 had previously restricted China's access to Nvidia's most capable AI accelerators, and Beijing has imposed its own constraints on the imports in turn, reflecting concern about dependence on American technology.",
+    "Earlier reporting cited by Reuters said Beijing had told companies in July that they could expect approval for fewer than 200,000 H200 chips in total for training AI models, with priority for everyday inference work going to domestically made processors instead. China's Ministry of Industry and Information Technology and the National Development and Reform Commission did not respond to Reuters' requests for comment, nor did Nvidia or the four technology companies named in the report.",
+    "The scarcity has pushed unofficial prices sharply higher inside China. An eight-card H200 server was offered for more than 6 million yuan, or about $900,000, in the mainland market by late October — roughly three times its price a year earlier, Reuters reported. Servers built around Nvidia's newer Blackwell chips were commanding more than 20 million yuan apiece in the same unofficial market.",
+    "On the TSX Venture and CSE boards, 29 listed venture names make up this bulletin's artificial-intelligence theme. Seventeen of them traded today: four moved higher and five moved lower, for a median move of +0.00% against a +2.48% gain for the S&P/TSX Venture Composite. Twelve saw no trades at all.",
+    "Four of the theme's names were among the largest movers. Rocket Doctor AI Inc. (CSE: AIDR), whose registered name contains \"ai,\" rose 6.45% to C$0.495. Sparc AI Inc. (CSE: SPAI), also qualifying on its name, fell 3.43% to C$1.97. GoGo AI Network Inc. (CSE: GOGO) and Perimeter Medical Imaging Ai In (TSXV: PINK), both in the theme for the same reason, were unchanged at C$0.015 and C$0.18 respectively.",
+    "The moves and the Hong Kong stockpile report fall on the same trading day. Nothing in Reuters' reporting, or in the companies' own filings, connects the two. Twelve of the theme's 29 listed names did not trade at all today."
+   ]
+  },
   {
    "slug": "copper-one-s-19-9-million-special-warrants-convert-into-shares-and",
    "url": "https://www.cmbulletin.com/posts/copper-one-s-19-9-million-special-warrants-convert-into-shares-and.html",
