@@ -1,12 +1,182 @@
 {
  "api": "v1",
- "generated_at": "2026-11-05T00:57:50Z",
+ "generated_at": "2026-11-05T01:14:00Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
  "issue_date": "2026-11-04",
- "count": 4,
+ "count": 7,
  "entries": [
+  {
+   "slug": "midterm-results-lift-hopes-for-an-end-to-50-aluminum-tariffs",
+   "url": "https://www.cmbulletin.com/posts/midterm-results-lift-hopes-for-an-end-to-50-aluminum-tariffs.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/midterm-results-lift-hopes-for-an-end-to-50-aluminum-tariffs.json",
+   "date": "2026-11-05T01:07:24Z",
+   "headline": "Midterm results lift hopes for an end to 50% aluminum tariffs",
+   "dek": "Canadian producers have already rerouted roughly 800,000 tonnes of shipments to Europe as Washington's 50 per cent tariff reshapes trade flows.",
+   "caption": "Aluminum ingots stacked in a storage yard, shipments increasingly routed toward European ports rather than the United States.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Tariffs",
+    "Trade",
+    "Metals"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/midterm-results-lift-hopes-for-an-end-to-50-aluminum-tariffs.png",
+   "source_name": "Globe and Mail — Business",
+   "sources": [
+    {
+     "title": "U.S. midterm results raise hopes of tariff relief for Canada’s aluminum sector",
+     "url": "https://www.theglobeandmail.com/business/article-aluminum-sector-us-midterm-trump-tariff/",
+     "publisher": "Globe and Mail — Business"
+    }
+   ],
+   "unverified_claims": [
+    "Jean Simard's characterization of the midterm results as an 'overwhelmingly clearer' signal of tariff relief is his own assessment; no change in U.S. tariff policy has been announced."
+   ],
+   "brief": [
+    "Canada's aluminum producers are watching the outcome of the U.S. midterm elections for a sign that Washington's 50 per cent tariff on their exports might ease. Jean Simard, chief executive of the Aluminum Association of Canada, said he is 'far more optimistic than I've ever been, because the signal is overwhelmingly clearer than I thought it would be.'",
+    "The 50 per cent rate has applied since June 4, 2025, after Washington doubled an earlier 25 per cent tariff from March 2025. Producers have since rerouted roughly 800,000 tonnes of aluminum to Europe, against about 100,000 tonnes in a comparable period under normal conditions — a shift against the roughly 3.3 million tonnes Canada produces annually.",
+    "No company in CM Bulletin's tariffs theme traded enough today to clear the C$25,000 liquidity floor the theme is measured against, so none is named. The venture board's exposure to this story, such as it is, did not trade on it today."
+   ],
+   "body": [
+    "Canada's aluminum industry is watching the outcome of the U.S. midterm elections for a sign that Washington might ease the 50 per cent tariff it has placed on Canadian aluminum exports. Jean Simard, chief executive of the Aluminum Association of Canada, said he is 'far more optimistic than I've ever been, because the signal is overwhelmingly clearer than I thought it would be.'",
+    "The 50 per cent rate has been in place since June 4, 2025, when Washington doubled an earlier 25 per cent tariff that took effect in March 2025. Tariffs on Canadian aluminum go back further still: a 10 per cent duty was first imposed in 2018. Three producers account for most of the Canadian industry's primary output: Rio Tinto, Alcoa and Aluminerie Alouette.",
+    "Faced with the tariff, Canadian producers have redirected shipments toward Europe. Exports there have totalled roughly 800,000 tonnes since March 2025, against about 100,000 tonnes over a comparable period under normal market conditions. Canada produces about 3.3 million tonnes of aluminum annually and has historically sent about 90 per cent of it to the United States.",
+    "Andreas Schotter of Western University cautioned against reading the midterm results as a clean signal that U.S. trade policy will soften, saying 'even on the Democratic side, there's a strong \"America First\" notion.' The Canadian Federation of Independent Business has reported that 87 per cent of Canadian small businesses want a tariff agreement reached as quickly as possible.",
+    "None of the venture names in CM Bulletin's tariffs theme traded enough today to clear the C$25,000 daily-volume floor the theme is measured against, so this entry names none of them. That is itself a fact about the theme worth recording: whatever exposure the junior board carries to a resolution of the aluminum dispute, it was not visible in today's trading.",
+    "Nothing in this report ties the midterm results to any specific change in U.S. trade policy; Simard's optimism is his own reading of the political signal, not a description of an announced decision."
+   ]
+  },
+  {
+   "slug": "amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas",
+   "url": "https://www.cmbulletin.com/posts/amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas.json",
+   "date": "2026-11-05T01:07:24Z",
+   "headline": "AMD discloses a $2.9-billion price for AI chipmaker Taalas",
+   "dek": "The Toronto startup, founded three years ago by former AMD executives, was valued at just over $750 million last November.",
+   "caption": "A semiconductor wafer under cleanroom lighting; AI inference chips are increasingly purpose-built rather than general use.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "M&A",
+    "Semiconductors",
+    "Artificial Intelligence"
+   ],
+   "tickers": [
+    "TSXV:DM",
+    "CSE:AIDR"
+   ],
+   "image": "https://www.cmbulletin.com/images/amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas.png",
+   "source_name": "Globe and Mail — Business",
+   "sources": [
+    {
+     "title": "AMD to pay $2.9-billion for AI chip firm Taalas in one of the largest Canadian tech takeovers",
+     "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/",
+     "publisher": "Globe and Mail — Business"
+    },
+    {
+     "title": "DATAMETREX AI LIMITED (TSXV: DM) quote, +125.00% on about $61,129",
+     "url": "https://finance.yahoo.com/quote/DM.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Rocket Doctor AI Inc. (CSE: AIDR) quote, +6.45% on about $30,343",
+     "url": "https://finance.yahoo.com/quote/AIDR.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Sparc AI Inc. (CSE: SPAI) quote, -3.43% on about $152,886",
+     "url": "https://finance.yahoo.com/quote/SPAI.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "GoGo AI Network Inc. (CSE: GOGO) quote, +0.00% on about $29,265",
+     "url": "https://finance.yahoo.com/quote/GOGO.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "PERIMETER MEDICAL IMAGING AI IN (TSXV: PINK) quote, +0.00% on about $73,989",
+     "url": "https://finance.yahoo.com/quote/PINK.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "AMD disclosed in a securities filing that it will pay approximately US$2.9 billion in cash and stock for Taalas, the Toronto-based chipmaker it first agreed to acquire in August. US$1.4 billion of the total is contingent on unspecified conditions, the filing said.",
+    "Taalas designs chips tailored to specific AI systems rather than general-purpose processors — its first was built for Meta's Llama large language models. Founded in August 2023 by three former long-time AMD executives, the company had raised more than US$225 million in venture funding, including a US$169 million Series B round in February.",
+    "The AI theme's 29 listed venture names saw 18 trade today, 5 higher and 5 lower, for a median move of +0.00% against +2.48% for the S&P/TSX Venture Composite. Datametrex AI (TSXV: DM) rose 125.00% to C$0.045, and Rocket Doctor AI (CSE: AIDR) rose 6.45% to C$0.495, moves that coincided with AMD's filing but are not connected to it."
+   ],
+   "body": [
+    "AMD disclosed in a securities filing that it will pay approximately US$2.9 billion, in cash and stock, for Taalas, the Toronto-based chipmaker it first agreed to acquire in August. The filing states that US$1.4 billion of the total purchase amount is dependent on unspecified conditions, which the filing did not detail. The acquisition has not yet closed and remains subject to regulatory approval.",
+    "Taalas designs semiconductor chips built for a single purpose: running the inference step of large language models, rather than the general-purpose processors AMD and its rivals have historically built. Its first chip was tailored specifically to Meta Platforms' Llama family of models, a narrower design approach than the flexible chips most of the industry produces.",
+    "The company was founded in August 2023 by Ljubisa Bajic, who serves as chief executive, along with Lejla Bajic and Drago Ignjatovic. All three are former long-time AMD executives, placing the deal inside a small circle of engineers who previously worked for the acquirer.",
+    "Taalas had raised more than US$225 million in venture financing before the AMD deal, including a US$169 million Series B round closed in February with investors including Fidelity and Quiet Capital. In November 2025 the company issued equity at US$94.51 a share, implying a valuation above US$750 million at the time — a figure the US$2.9-billion price represents a sharp markup on.",
+    "On the venture boards, AMD's filing coincided with no broad move in the companies in CM Bulletin's artificial intelligence theme. Of 29 listed venture names carrying 'ai' in their registered names, 18 traded today — 5 higher and 5 lower — for a median move of +0.00%, against a +2.48% gain for the S&P/TSX Venture Composite, a spread of 2.48 percentage points.",
+    "The largest move in the theme was Datametrex AI Limited (TSXV: DM), which rose 125.00% to C$0.045. Rocket Doctor AI Inc. (CSE: AIDR) rose 6.45% to C$0.495. Sparc AI Inc. (CSE: SPAI) fell 3.43% to C$1.97. GoGo AI Network Inc. (CSE: GOGO) and Perimeter Medical Imaging Ai Inc. (TSXV: PINK) were both unchanged, at C$0.015 and C$0.18 respectively. Nothing ties any of these moves to AMD's disclosure; they fell on the same day and nothing more.",
+    "AMD has not disclosed when the Taalas deal is expected to close, beyond saying it remains subject to regulatory approval."
+   ]
+  },
+  {
+   "slug": "north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this",
+   "url": "https://www.cmbulletin.com/posts/north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this.json",
+   "date": "2026-11-05T01:07:24Z",
+   "headline": "North Korea tests new air-defence missile in its fourth launch this month",
+   "dek": "State media said a cruise missile unit also struck a virtual airport target in a drill from the east coast.",
+   "caption": "A radar dish turns against a grey sky, the kind of system nations test to track incoming threats.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Defence",
+    "Geopolitics",
+    "North Korea"
+   ],
+   "tickers": [
+    "CSE:QESS",
+    "TSXV:PNG"
+   ],
+   "image": "https://www.cmbulletin.com/images/north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this.png",
+   "source_name": "Reuters (via Yahoo News)",
+   "sources": [
+    {
+     "title": "North Korea says it tested air-defence missile, staged cruise missile drill",
+     "url": "https://www.yahoo.com/news/articles/north-korea-test-fires-air-211817711.html",
+     "publisher": "Reuters (via Yahoo News)"
+    },
+    {
+     "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, +5.66% on about $80,785",
+     "url": "https://finance.yahoo.com/quote/QESS.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -5.57% on about $4,474,105",
+     "url": "https://finance.yahoo.com/quote/PNG.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "The characterization that the test confirmed the missile system's reliability and tracking ability is North Korea's own state media account (KCNA) and has not been independently verified."
+   ],
+   "brief": [
+    "North Korea said it test-fired a newly designed air-defence missile system and staged a cruise-missile strike drill, according to state media KCNA. A sub-unit of the country's long-range strategic cruise missile unit struck a virtual airport target in the drill, staged from the Sondok area on the east coast.",
+    "KCNA said the test confirmed the 'technical specifications and reliability' of new materials and guidance modes, and the system's ability to identify and track targets. South Korea's Defence Ministry confirmed Pyongyang fired multiple missiles toward the sea from Sondok, in what Reuters reported was the fourth North Korean weapons launch in a month.",
+    "On the venture boards, CM Bulletin's defence theme — 8 listed names, 6 of which traded — showed a median move of -2.62% against +2.48% for the S&P/TSX Venture Composite. Aegis Critical Energy Defence (CSE: QESS) rose 5.66% to C$0.28; Kraken Robotics (TSXV: PNG) fell 5.57% to C$3.56. Neither move is tied to North Korea's test."
+   ],
+   "body": [
+    "North Korea said it test-fired a newly designed air-defence missile system, according to state media KCNA. The agency said North Korea separately staged a cruise-missile strike drill the same day, carried out by a sub-unit of its long-range strategic cruise missile unit.",
+    "The cruise-missile drill struck a virtual airport target and was staged from the Sondok area on North Korea's east coast, KCNA said.",
+    "KCNA said the air-defence test confirmed the 'technical specifications and reliability' of new materials and multiple guidance modes used in the missile, as well as the system's ability to identify and track targets.",
+    "South Korea's Defence Ministry separately confirmed that Pyongyang had fired multiple missiles toward the sea from the Sondok area. Reuters reported that the exercises marked the fourth North Korean weapons launch in a month.",
+    "On the venture boards, CM Bulletin's defence-and-drones theme comprises eight listed venture names. Six traded today, two higher and four lower, for a median move of -2.62 per cent, against a +2.48 per cent gain for the S&P/TSX Venture Composite — a spread of 5.10 percentage points between the theme and the board.",
+    "Aegis Critical Energy Defence Corp. (CSE: QESS), which is in the theme because its registered name contains 'defence,' rose 5.66 per cent to C$0.28. Kraken Robotics Inc. (TSXV: PNG), named for being Kraken Robotics Inc., fell 5.57 per cent to C$3.56. Both moves fell on the same day as North Korea's test; neither is connected to it.",
+    "Nothing connects North Korea's test to trading in CM Bulletin's defence-and-drones theme. The two fall on the same day in different markets, and no figure in this report should be read as evidence that one moved the other."
+   ]
+  },
   {
    "slug": "bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut",
    "url": "https://www.cmbulletin.com/posts/bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut.html",

@@ -1,0 +1,75 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-05T01:14:00Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas",
+ "url": "https://www.cmbulletin.com/posts/amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas.json",
+ "date": "2026-11-05T01:07:24Z",
+ "headline": "AMD discloses a $2.9-billion price for AI chipmaker Taalas",
+ "dek": "The Toronto startup, founded three years ago by former AMD executives, was valued at just over $750 million last November.",
+ "caption": "A semiconductor wafer under cleanroom lighting; AI inference chips are increasingly purpose-built rather than general use.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "M&A",
+  "Semiconductors",
+  "Artificial Intelligence"
+ ],
+ "tickers": [
+  "TSXV:DM",
+  "CSE:AIDR"
+ ],
+ "image": "https://www.cmbulletin.com/images/amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas.png",
+ "source_name": "Globe and Mail — Business",
+ "sources": [
+  {
+   "title": "AMD to pay $2.9-billion for AI chip firm Taalas in one of the largest Canadian tech takeovers",
+   "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/",
+   "publisher": "Globe and Mail — Business"
+  },
+  {
+   "title": "DATAMETREX AI LIMITED (TSXV: DM) quote, +125.00% on about $61,129",
+   "url": "https://finance.yahoo.com/quote/DM.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "Rocket Doctor AI Inc. (CSE: AIDR) quote, +6.45% on about $30,343",
+   "url": "https://finance.yahoo.com/quote/AIDR.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "Sparc AI Inc. (CSE: SPAI) quote, -3.43% on about $152,886",
+   "url": "https://finance.yahoo.com/quote/SPAI.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "GoGo AI Network Inc. (CSE: GOGO) quote, +0.00% on about $29,265",
+   "url": "https://finance.yahoo.com/quote/GOGO.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "PERIMETER MEDICAL IMAGING AI IN (TSXV: PINK) quote, +0.00% on about $73,989",
+   "url": "https://finance.yahoo.com/quote/PINK.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [],
+ "brief": [
+  "AMD disclosed in a securities filing that it will pay approximately US$2.9 billion in cash and stock for Taalas, the Toronto-based chipmaker it first agreed to acquire in August. US$1.4 billion of the total is contingent on unspecified conditions, the filing said.",
+  "Taalas designs chips tailored to specific AI systems rather than general-purpose processors — its first was built for Meta's Llama large language models. Founded in August 2023 by three former long-time AMD executives, the company had raised more than US$225 million in venture funding, including a US$169 million Series B round in February.",
+  "The AI theme's 29 listed venture names saw 18 trade today, 5 higher and 5 lower, for a median move of +0.00% against +2.48% for the S&P/TSX Venture Composite. Datametrex AI (TSXV: DM) rose 125.00% to C$0.045, and Rocket Doctor AI (CSE: AIDR) rose 6.45% to C$0.495, moves that coincided with AMD's filing but are not connected to it."
+ ],
+ "body": [
+  "AMD disclosed in a securities filing that it will pay approximately US$2.9 billion, in cash and stock, for Taalas, the Toronto-based chipmaker it first agreed to acquire in August. The filing states that US$1.4 billion of the total purchase amount is dependent on unspecified conditions, which the filing did not detail. The acquisition has not yet closed and remains subject to regulatory approval.",
+  "Taalas designs semiconductor chips built for a single purpose: running the inference step of large language models, rather than the general-purpose processors AMD and its rivals have historically built. Its first chip was tailored specifically to Meta Platforms' Llama family of models, a narrower design approach than the flexible chips most of the industry produces.",
+  "The company was founded in August 2023 by Ljubisa Bajic, who serves as chief executive, along with Lejla Bajic and Drago Ignjatovic. All three are former long-time AMD executives, placing the deal inside a small circle of engineers who previously worked for the acquirer.",
+  "Taalas had raised more than US$225 million in venture financing before the AMD deal, including a US$169 million Series B round closed in February with investors including Fidelity and Quiet Capital. In November 2025 the company issued equity at US$94.51 a share, implying a valuation above US$750 million at the time — a figure the US$2.9-billion price represents a sharp markup on.",
+  "On the venture boards, AMD's filing coincided with no broad move in the companies in CM Bulletin's artificial intelligence theme. Of 29 listed venture names carrying 'ai' in their registered names, 18 traded today — 5 higher and 5 lower — for a median move of +0.00%, against a +2.48% gain for the S&P/TSX Venture Composite, a spread of 2.48 percentage points.",
+  "The largest move in the theme was Datametrex AI Limited (TSXV: DM), which rose 125.00% to C$0.045. Rocket Doctor AI Inc. (CSE: AIDR) rose 6.45% to C$0.495. Sparc AI Inc. (CSE: SPAI) fell 3.43% to C$1.97. GoGo AI Network Inc. (CSE: GOGO) and Perimeter Medical Imaging Ai Inc. (TSXV: PINK) were both unchanged, at C$0.015 and C$0.18 respectively. Nothing ties any of these moves to AMD's disclosure; they fell on the same day and nothing more.",
+  "AMD has not disclosed when the Taalas deal is expected to close, beyond saying it remains subject to regulatory approval."
+ ]
+}

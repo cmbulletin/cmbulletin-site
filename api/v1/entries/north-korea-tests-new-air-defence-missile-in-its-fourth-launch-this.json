@@ -1,0 +1,62 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-05T01:14:00Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this",
+ "url": "https://www.cmbulletin.com/posts/north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this.json",
+ "date": "2026-11-05T01:07:24Z",
+ "headline": "North Korea tests new air-defence missile in its fourth launch this month",
+ "dek": "State media said a cruise missile unit also struck a virtual airport target in a drill from the east coast.",
+ "caption": "A radar dish turns against a grey sky, the kind of system nations test to track incoming threats.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "Defence",
+  "Geopolitics",
+  "North Korea"
+ ],
+ "tickers": [
+  "CSE:QESS",
+  "TSXV:PNG"
+ ],
+ "image": "https://www.cmbulletin.com/images/north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this.png",
+ "source_name": "Reuters (via Yahoo News)",
+ "sources": [
+  {
+   "title": "North Korea says it tested air-defence missile, staged cruise missile drill",
+   "url": "https://www.yahoo.com/news/articles/north-korea-test-fires-air-211817711.html",
+   "publisher": "Reuters (via Yahoo News)"
+  },
+  {
+   "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, +5.66% on about $80,785",
+   "url": "https://finance.yahoo.com/quote/QESS.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -5.57% on about $4,474,105",
+   "url": "https://finance.yahoo.com/quote/PNG.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "The characterization that the test confirmed the missile system's reliability and tracking ability is North Korea's own state media account (KCNA) and has not been independently verified."
+ ],
+ "brief": [
+  "North Korea said it test-fired a newly designed air-defence missile system and staged a cruise-missile strike drill, according to state media KCNA. A sub-unit of the country's long-range strategic cruise missile unit struck a virtual airport target in the drill, staged from the Sondok area on the east coast.",
+  "KCNA said the test confirmed the 'technical specifications and reliability' of new materials and guidance modes, and the system's ability to identify and track targets. South Korea's Defence Ministry confirmed Pyongyang fired multiple missiles toward the sea from Sondok, in what Reuters reported was the fourth North Korean weapons launch in a month.",
+  "On the venture boards, CM Bulletin's defence theme — 8 listed names, 6 of which traded — showed a median move of -2.62% against +2.48% for the S&P/TSX Venture Composite. Aegis Critical Energy Defence (CSE: QESS) rose 5.66% to C$0.28; Kraken Robotics (TSXV: PNG) fell 5.57% to C$3.56. Neither move is tied to North Korea's test."
+ ],
+ "body": [
+  "North Korea said it test-fired a newly designed air-defence missile system, according to state media KCNA. The agency said North Korea separately staged a cruise-missile strike drill the same day, carried out by a sub-unit of its long-range strategic cruise missile unit.",
+  "The cruise-missile drill struck a virtual airport target and was staged from the Sondok area on North Korea's east coast, KCNA said.",
+  "KCNA said the air-defence test confirmed the 'technical specifications and reliability' of new materials and multiple guidance modes used in the missile, as well as the system's ability to identify and track targets.",
+  "South Korea's Defence Ministry separately confirmed that Pyongyang had fired multiple missiles toward the sea from the Sondok area. Reuters reported that the exercises marked the fourth North Korean weapons launch in a month.",
+  "On the venture boards, CM Bulletin's defence-and-drones theme comprises eight listed venture names. Six traded today, two higher and four lower, for a median move of -2.62 per cent, against a +2.48 per cent gain for the S&P/TSX Venture Composite — a spread of 5.10 percentage points between the theme and the board.",
+  "Aegis Critical Energy Defence Corp. (CSE: QESS), which is in the theme because its registered name contains 'defence,' rose 5.66 per cent to C$0.28. Kraken Robotics Inc. (TSXV: PNG), named for being Kraken Robotics Inc., fell 5.57 per cent to C$3.56. Both moves fell on the same day as North Korea's test; neither is connected to it.",
+  "Nothing connects North Korea's test to trading in CM Bulletin's defence-and-drones theme. The two fall on the same day in different markets, and no figure in this report should be read as evidence that one moved the other."
+ ]
+}
