@@ -296,6 +296,8 @@ a.stretch:hover { color: inherit; }
 /* The second tier: two stories side by side, then In brief beneath them. */
 .second { display: grid; gap: 30px 32px; }
 @media (min-width: 640px) { .second { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+/* Three across rather than two and an empty cell. Four sit two by two. */
+@media (min-width: 1000px) { .second--three { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 /* One story in the second tier: picture beside text across the row, rather
    than half a row of story and half a row of nothing. */
 /* 3 Nov 2026: the text carries the summary's opening, and the photo is cut to
