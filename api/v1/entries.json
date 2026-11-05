@@ -1,11 +1,137 @@
 {
  "api": "v1",
- "generated_at": "2026-11-05T01:34:26Z",
+ "generated_at": "2026-11-05T13:24:12Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 144,
+ "count": 147,
  "entries": [
+  {
+   "slug": "copper-one-s-19-9-million-special-warrants-convert-into-shares-and",
+   "url": "https://www.cmbulletin.com/posts/copper-one-s-19-9-million-special-warrants-convert-into-shares-and.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/copper-one-s-19-9-million-special-warrants-convert-into-shares-and.json",
+   "date": "2026-11-05T13:05:41Z",
+   "headline": "Copper One's 19.9 million special warrants convert into shares and warrants",
+   "dek": "The automatic conversion, completing a September financing, hands holders new common shares plus warrants exercisable at $0.50 for two years.",
+   "caption": "Copper One's September financing completes on November 6 as its special warrants convert automatically into shares and two-year warrants.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Warrants",
+    "CSE"
+   ],
+   "tickers": [
+    "CSE:CEXY",
+    "OTC:CEXYF"
+   ],
+   "image": "https://www.cmbulletin.com/images/copper-one-s-19-9-million-special-warrants-convert-into-shares-and.png",
+   "source_name": "TheNewswire.ca",
+   "sources": [
+    {
+     "title": "Copper One Announces Automatic Conversion of Special Warrants. Prospectus Supplement Available on SEDAR+",
+     "url": "https://thenewswire.com/press-releases/1LpMFYZyb-copper-one-announces-automatic-conversion-of-special-warrants-prospectus-supplement-available-on-sedar.html",
+     "publisher": "TheNewswire.ca"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Copper One Resources will see 19,889,750 special warrants, issued September 29, 2026, automatically convert into common shares and warrants on November 6, 2026, the company said. The special warrants comprised 12,383,000 non-flow-through and 7,506,750 flow-through warrants; holders need take no action.",
+    "The conversion delivers 19,889,750 common shares and 9,944,875 share purchase warrants. Each warrant lets the holder buy one common share at $0.50 for two years from the offering's closing date; the company may accelerate that expiry on 30 days' notice if the shares trade at $1.25 or higher for five straight sessions on the CSE.",
+    "A prospectus supplement dated November 3, 2026 qualifies the shares and warrants for distribution in British Columbia, Alberta and Ontario and is available on SEDAR+. Copper One trades on the Canadian Securities Exchange under CEXY, on the US OTC market under CEXYF, and on the Frankfurt Stock Exchange under IW8."
+   ]
+  },
+  {
+   "slug": "coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count",
+   "url": "https://www.cmbulletin.com/posts/coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count.json",
+   "date": "2026-11-05T13:05:41Z",
+   "headline": "CopperCorp plans to raise up to C$3 million and shrink its share count",
+   "dek": "The explorer's non-brokered placement pairs units and subscription receipts with a one-for-five share consolidation ahead of TSX Venture Exchange approval.",
+   "caption": "Temperate forest in western Tasmania, Australia, where CopperCorp Resources is exploring for copper, gold and rare earth elements.",
+   "sections": [
+    "mining"
+   ],
+   "tags": [
+    "Mining",
+    "Financing",
+    "Private Placement",
+    "TSXV"
+   ],
+   "tickers": [
+    "TSXV:CPER",
+    "OTCQB:CPCPF"
+   ],
+   "image": "https://www.cmbulletin.com/images/coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count.png",
+   "source_name": "Investing News Network — Resource Investing",
+   "sources": [
+    {
+     "title": "CopperCorp Announces Non-Brokered Private Placement of up to C$3.0M and Share Consolidation",
+     "url": "https://investingnews.com/coppercorp-announces-non-brokered-private-placement-of-up-to-c-3-0m-and-share-consolidation/",
+     "publisher": "Investing News Network — Resource Investing"
+    }
+   ],
+   "unverified_claims": [
+    "Whether company insiders will in fact participate in the placement rests on the company's own statement that insiders 'may participate'; this is not yet confirmed."
+   ],
+   "brief": [
+    "CopperCorp Resources, which is exploring for copper, gold and rare earth elements at its AMC project in western Tasmania, Australia, plans a non-brokered private placement of up to C$3.0 million. The raise combines up to 4,444,444 units at $0.1125 each, for up to $500,000, and up to 18,518,519 subscription receipts at $0.135 each, for up to $2.5 million.",
+    "Each unit carries one post-consolidation share and one warrant exercisable at $0.18 for 24 months; each subscription receipt converts, once escrow conditions clear, into a unit of one share and half a warrant exercisable at $0.24 for 24 months. The conversion depends on completion of the company's Skyline Project sale. Shares carry the usual four-month-and-a-day hold.",
+    "CopperCorp is also consolidating its shares on a one-for-five basis, cutting its roughly 118.96 million shares outstanding to about 23.79 million. The financing and consolidation remain subject to final TSX Venture Exchange approval, and proceeds are earmarked for exploration and drilling at the AMC project and for working capital."
+   ]
+  },
+  {
+   "slug": "ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia",
+   "url": "https://www.cmbulletin.com/posts/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.json",
+   "date": "2026-11-05T13:05:41Z",
+   "headline": "Ukrainian drones set fire to a major Ozon warehouse in Russia",
+   "dek": "The attack hit Adygeysk for a second time, even as Ozon had already projected $367 million in losses from strikes on 11 of its sites.",
+   "caption": "A freight yard at dusk, the kind of logistics infrastructure Ukraine's drone campaign has repeatedly targeted inside Russia.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Geopolitical",
+    "E-Commerce",
+    "Russia",
+    "Defence"
+   ],
+   "tickers": [
+    "CSE:QESS",
+    "TSXV:PNG"
+   ],
+   "image": "https://www.cmbulletin.com/images/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.png",
+   "source_name": "Reuters (via The Star)",
+   "sources": [
+    {
+     "title": "Ukrainian drone strike sets fire to hub of e-retailer Ozon in southern Russia",
+     "url": "https://www.thestar.com.my/news/world/2026/11/04/ukrainian-drone-strike-sets-fire-to-hub-of-e-retailer-ozon-in-southern-russia",
+     "publisher": "Reuters (via The Star)"
+    },
+    {
+     "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, +5.66% on about $80,085",
+     "url": "https://finance.yahoo.com/quote/QESS.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -5.57% on about $4,482,396",
+     "url": "https://finance.yahoo.com/quote/PNG.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "Ozon's $367 million loss projection and its order-cancellation response are the company's own statements, not independently verified.",
+    "The absence of reported casualties rests on Ozon's and a regional official's statements as reported; no independent casualty count was available."
+   ],
+   "brief": [
+    "A Ukrainian drone strike set fire to a logistics hub operated by Russian e-commerce retailer Ozon in Adygeysk, in southern Russia, on November 4, 2026, the company and a regional official said. Debris also damaged two nearby villages. Ozon said it was not aware of any casualties and that all staff had been evacuated.",
+    "It was the second strike on this facility. Ukraine has targeted dozens of warehouses run by Ozon and rival Wildberries since July as part of a campaign against Russia's economy and war effort. Ozon said it would cancel orders it cannot fulfil and temporarily stop accepting deliveries from sellers at the site; its shares fell 0.4%.",
+    "On the venture boards, the defence theme's 8 names saw 6 trade today, 2 up and 4 down, a median move of -2.62% against +2.48% for the Venture Composite. Aegis Critical Energy Defence Corp (CSE: QESS) rose 5.66% to C$0.28, its name containing \"defence\"; Kraken Robotics (TSXV: PNG) fell 5.57% to C$3.56, its name. Nothing ties the moves to it."
+   ]
+  },
   {
    "slug": "midterm-results-lift-hopes-for-an-end-to-50-aluminum-tariffs",
    "url": "https://www.cmbulletin.com/posts/midterm-results-lift-hopes-for-an-end-to-50-aluminum-tariffs.html",
@@ -13,7 +139,7 @@
    "date": "2026-11-05T01:07:24Z",
    "headline": "Midterm results lift hopes for an end to 50% aluminum tariffs",
    "dek": "Canadian producers have already rerouted roughly 800,000 tonnes of shipments to Europe as Washington's 50 per cent tariff reshapes trade flows.",
-   "caption": "Aluminum ingots stacked in a storage yard, shipments increasingly routed toward European ports rather than the United States.",
+   "caption": "Aluminum billets in a casting machine at a smelter.",
    "sections": [
     "news"
    ],

@@ -1,0 +1,62 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-05T13:24:12Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia",
+ "url": "https://www.cmbulletin.com/posts/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.json",
+ "date": "2026-11-05T13:05:41Z",
+ "headline": "Ukrainian drones set fire to a major Ozon warehouse in Russia",
+ "dek": "The attack hit Adygeysk for a second time, even as Ozon had already projected $367 million in losses from strikes on 11 of its sites.",
+ "caption": "A freight yard at dusk, the kind of logistics infrastructure Ukraine's drone campaign has repeatedly targeted inside Russia.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "Geopolitical",
+  "E-Commerce",
+  "Russia",
+  "Defence"
+ ],
+ "tickers": [
+  "CSE:QESS",
+  "TSXV:PNG"
+ ],
+ "image": "https://www.cmbulletin.com/images/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.png",
+ "source_name": "Reuters (via The Star)",
+ "sources": [
+  {
+   "title": "Ukrainian drone strike sets fire to hub of e-retailer Ozon in southern Russia",
+   "url": "https://www.thestar.com.my/news/world/2026/11/04/ukrainian-drone-strike-sets-fire-to-hub-of-e-retailer-ozon-in-southern-russia",
+   "publisher": "Reuters (via The Star)"
+  },
+  {
+   "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, +5.66% on about $80,085",
+   "url": "https://finance.yahoo.com/quote/QESS.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -5.57% on about $4,482,396",
+   "url": "https://finance.yahoo.com/quote/PNG.V",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "Ozon's $367 million loss projection and its order-cancellation response are the company's own statements, not independently verified.",
+  "The absence of reported casualties rests on Ozon's and a regional official's statements as reported; no independent casualty count was available."
+ ],
+ "brief": [
+  "A Ukrainian drone strike set fire to a logistics hub operated by Russian e-commerce retailer Ozon in Adygeysk, in southern Russia, on November 4, 2026, the company and a regional official said. Debris also damaged two nearby villages. Ozon said it was not aware of any casualties and that all staff had been evacuated.",
+  "It was the second strike on this facility. Ukraine has targeted dozens of warehouses run by Ozon and rival Wildberries since July as part of a campaign against Russia's economy and war effort. Ozon said it would cancel orders it cannot fulfil and temporarily stop accepting deliveries from sellers at the site; its shares fell 0.4%.",
+  "On the venture boards, the defence theme's 8 names saw 6 trade today, 2 up and 4 down, a median move of -2.62% against +2.48% for the Venture Composite. Aegis Critical Energy Defence Corp (CSE: QESS) rose 5.66% to C$0.28, its name containing \"defence\"; Kraken Robotics (TSXV: PNG) fell 5.57% to C$3.56, its name. Nothing ties the moves to it."
+ ],
+ "body": [
+  "A Ukrainian drone strike set fire to a logistics hub operated by Russian e-commerce retailer Ozon in Adygeysk, in southern Russia, on November 4, 2026, the company and a regional official said. It was the second time this specific facility had been hit. Debris from the strike also damaged two nearby villages, according to reporting on the attack. Ozon said it was not aware of any casualties and that all staff at the site had been evacuated.",
+  "The strike is part of a broader Ukrainian campaign that has targeted dozens of warehouses run by Ozon and its rival Wildberries since July, aimed at disrupting Russia's economy and its war effort, according to reporting on the pattern of attacks. Ozon said it would cancel orders it could not fulfil from the Adygeysk site and would temporarily stop accepting deliveries from third-party sellers there while it assesses the damage.",
+  "Ahead of this strike, Ozon had already projected 30.1 billion roubles (about $367 million) in losses from drone attacks across 11 of its sites, the company said in a financial results release last week. Ozon's stock fell about 0.4% following the latest attack. The strike came as both sides prepared for peace talks scheduled for November 10 and 11, and followed a Ukrainian strike on a Russian oil refinery and Russian strikes on Ukrainian energy infrastructure in the preceding days.",
+  "On Canada's venture boards, the defence and drones theme comprises eight listed names. Six traded today, two higher and four lower, for a median move of -2.62% against +2.48% for the S&P/TSX Venture Composite, a spread of -5.10 percentage points. The attack on Ozon's logistics hub and these moves fall on the same trading day; nothing in either release ties one to the other.",
+  "Aegis Critical Energy Defence Corp (CSE: QESS) rose 5.66% to C$0.28 and is in the theme because its registered name contains \"defence.\" Kraken Robotics Inc (TSXV: PNG) fell 5.57% to C$3.56 and is in the theme because its registered name is Kraken Robotics Inc. Both traded today; the group's median move was negative even though these two names moved in opposite directions."
+ ]
+}

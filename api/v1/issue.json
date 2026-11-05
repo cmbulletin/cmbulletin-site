@@ -1,403 +1,156 @@
 {
  "api": "v1",
- "generated_at": "2026-11-05T01:34:26Z",
+ "generated_at": "2026-11-05T13:24:12Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-11-04",
- "count": 7,
+ "issue_date": "2026-11-05",
+ "count": 3,
  "entries": [
   {
-   "slug": "midterm-results-lift-hopes-for-an-end-to-50-aluminum-tariffs",
-   "url": "https://www.cmbulletin.com/posts/midterm-results-lift-hopes-for-an-end-to-50-aluminum-tariffs.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/midterm-results-lift-hopes-for-an-end-to-50-aluminum-tariffs.json",
-   "date": "2026-11-05T01:07:24Z",
-   "headline": "Midterm results lift hopes for an end to 50% aluminum tariffs",
-   "dek": "Canadian producers have already rerouted roughly 800,000 tonnes of shipments to Europe as Washington's 50 per cent tariff reshapes trade flows.",
-   "caption": "Aluminum ingots stacked in a storage yard, shipments increasingly routed toward European ports rather than the United States.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "Tariffs",
-    "Trade",
-    "Metals"
-   ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/midterm-results-lift-hopes-for-an-end-to-50-aluminum-tariffs.png",
-   "source_name": "Globe and Mail — Business",
-   "sources": [
-    {
-     "title": "U.S. midterm results raise hopes of tariff relief for Canada’s aluminum sector",
-     "url": "https://www.theglobeandmail.com/business/article-aluminum-sector-us-midterm-trump-tariff/",
-     "publisher": "Globe and Mail — Business"
-    }
-   ],
-   "unverified_claims": [
-    "Jean Simard's characterization of the midterm results as an 'overwhelmingly clearer' signal of tariff relief is his own assessment; no change in U.S. tariff policy has been announced."
-   ],
-   "brief": [
-    "Canada's aluminum producers are watching the outcome of the U.S. midterm elections for a sign that Washington's 50 per cent tariff on their exports might ease. Jean Simard, chief executive of the Aluminum Association of Canada, said he is 'far more optimistic than I've ever been, because the signal is overwhelmingly clearer than I thought it would be.'",
-    "The 50 per cent rate has applied since June 4, 2025, after Washington doubled an earlier 25 per cent tariff from March 2025. Producers have since rerouted roughly 800,000 tonnes of aluminum to Europe, against about 100,000 tonnes in a comparable period under normal conditions — a shift against the roughly 3.3 million tonnes Canada produces annually.",
-    "No company in CM Bulletin's tariffs theme traded enough today to clear the C$25,000 liquidity floor the theme is measured against, so none is named. The venture board's exposure to this story, such as it is, did not trade on it today."
-   ],
-   "body": [
-    "Canada's aluminum industry is watching the outcome of the U.S. midterm elections for a sign that Washington might ease the 50 per cent tariff it has placed on Canadian aluminum exports. Jean Simard, chief executive of the Aluminum Association of Canada, said he is 'far more optimistic than I've ever been, because the signal is overwhelmingly clearer than I thought it would be.'",
-    "The 50 per cent rate has been in place since June 4, 2025, when Washington doubled an earlier 25 per cent tariff that took effect in March 2025. Tariffs on Canadian aluminum go back further still: a 10 per cent duty was first imposed in 2018. Three producers account for most of the Canadian industry's primary output: Rio Tinto, Alcoa and Aluminerie Alouette.",
-    "Faced with the tariff, Canadian producers have redirected shipments toward Europe. Exports there have totalled roughly 800,000 tonnes since March 2025, against about 100,000 tonnes over a comparable period under normal market conditions. Canada produces about 3.3 million tonnes of aluminum annually and has historically sent about 90 per cent of it to the United States.",
-    "Andreas Schotter of Western University cautioned against reading the midterm results as a clean signal that U.S. trade policy will soften, saying 'even on the Democratic side, there's a strong \"America First\" notion.' The Canadian Federation of Independent Business has reported that 87 per cent of Canadian small businesses want a tariff agreement reached as quickly as possible.",
-    "None of the venture names in CM Bulletin's tariffs theme traded enough today to clear the C$25,000 daily-volume floor the theme is measured against, so this entry names none of them. That is itself a fact about the theme worth recording: whatever exposure the junior board carries to a resolution of the aluminum dispute, it was not visible in today's trading.",
-    "Nothing in this report ties the midterm results to any specific change in U.S. trade policy; Simard's optimism is his own reading of the political signal, not a description of an announced decision."
-   ]
-  },
-  {
-   "slug": "amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas",
-   "url": "https://www.cmbulletin.com/posts/amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas.json",
-   "date": "2026-11-05T01:07:24Z",
-   "headline": "AMD discloses a $2.9-billion price for AI chipmaker Taalas",
-   "dek": "The Toronto startup, founded three years ago by former AMD executives, was valued at just over $750 million last November.",
-   "caption": "A semiconductor wafer under cleanroom lighting; AI inference chips are increasingly purpose-built rather than general use.",
-   "sections": [
-    "tech"
-   ],
-   "tags": [
-    "M&A",
-    "Semiconductors",
-    "Artificial Intelligence"
-   ],
-   "tickers": [
-    "TSXV:DM",
-    "CSE:AIDR"
-   ],
-   "image": "https://www.cmbulletin.com/images/amd-discloses-a-2-9-billion-price-for-ai-chipmaker-taalas.png",
-   "source_name": "Globe and Mail — Business",
-   "sources": [
-    {
-     "title": "AMD to pay $2.9-billion for AI chip firm Taalas in one of the largest Canadian tech takeovers",
-     "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas/",
-     "publisher": "Globe and Mail — Business"
-    },
-    {
-     "title": "DATAMETREX AI LIMITED (TSXV: DM) quote, +125.00% on about $61,129",
-     "url": "https://finance.yahoo.com/quote/DM.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "Rocket Doctor AI Inc. (CSE: AIDR) quote, +6.45% on about $30,343",
-     "url": "https://finance.yahoo.com/quote/AIDR.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "Sparc AI Inc. (CSE: SPAI) quote, -3.43% on about $152,886",
-     "url": "https://finance.yahoo.com/quote/SPAI.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "GoGo AI Network Inc. (CSE: GOGO) quote, +0.00% on about $29,265",
-     "url": "https://finance.yahoo.com/quote/GOGO.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "PERIMETER MEDICAL IMAGING AI IN (TSXV: PINK) quote, +0.00% on about $73,989",
-     "url": "https://finance.yahoo.com/quote/PINK.V",
-     "publisher": "Yahoo Finance"
-    }
-   ],
-   "unverified_claims": [],
-   "brief": [
-    "AMD disclosed in a securities filing that it will pay approximately US$2.9 billion in cash and stock for Taalas, the Toronto-based chipmaker it first agreed to acquire in August. US$1.4 billion of the total is contingent on unspecified conditions, the filing said.",
-    "Taalas designs chips tailored to specific AI systems rather than general-purpose processors — its first was built for Meta's Llama large language models. Founded in August 2023 by three former long-time AMD executives, the company had raised more than US$225 million in venture funding, including a US$169 million Series B round in February.",
-    "The AI theme's 29 listed venture names saw 18 trade today, 5 higher and 5 lower, for a median move of +0.00% against +2.48% for the S&P/TSX Venture Composite. Datametrex AI (TSXV: DM) rose 125.00% to C$0.045, and Rocket Doctor AI (CSE: AIDR) rose 6.45% to C$0.495, moves that coincided with AMD's filing but are not connected to it."
-   ],
-   "body": [
-    "AMD disclosed in a securities filing that it will pay approximately US$2.9 billion, in cash and stock, for Taalas, the Toronto-based chipmaker it first agreed to acquire in August. The filing states that US$1.4 billion of the total purchase amount is dependent on unspecified conditions, which the filing did not detail. The acquisition has not yet closed and remains subject to regulatory approval.",
-    "Taalas designs semiconductor chips built for a single purpose: running the inference step of large language models, rather than the general-purpose processors AMD and its rivals have historically built. Its first chip was tailored specifically to Meta Platforms' Llama family of models, a narrower design approach than the flexible chips most of the industry produces.",
-    "The company was founded in August 2023 by Ljubisa Bajic, who serves as chief executive, along with Lejla Bajic and Drago Ignjatovic. All three are former long-time AMD executives, placing the deal inside a small circle of engineers who previously worked for the acquirer.",
-    "Taalas had raised more than US$225 million in venture financing before the AMD deal, including a US$169 million Series B round closed in February with investors including Fidelity and Quiet Capital. In November 2025 the company issued equity at US$94.51 a share, implying a valuation above US$750 million at the time — a figure the US$2.9-billion price represents a sharp markup on.",
-    "On the venture boards, AMD's filing coincided with no broad move in the companies in CM Bulletin's artificial intelligence theme. Of 29 listed venture names carrying 'ai' in their registered names, 18 traded today — 5 higher and 5 lower — for a median move of +0.00%, against a +2.48% gain for the S&P/TSX Venture Composite, a spread of 2.48 percentage points.",
-    "The largest move in the theme was Datametrex AI Limited (TSXV: DM), which rose 125.00% to C$0.045. Rocket Doctor AI Inc. (CSE: AIDR) rose 6.45% to C$0.495. Sparc AI Inc. (CSE: SPAI) fell 3.43% to C$1.97. GoGo AI Network Inc. (CSE: GOGO) and Perimeter Medical Imaging Ai Inc. (TSXV: PINK) were both unchanged, at C$0.015 and C$0.18 respectively. Nothing ties any of these moves to AMD's disclosure; they fell on the same day and nothing more.",
-    "AMD has not disclosed when the Taalas deal is expected to close, beyond saying it remains subject to regulatory approval."
-   ]
-  },
-  {
-   "slug": "north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this",
-   "url": "https://www.cmbulletin.com/posts/north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this.json",
-   "date": "2026-11-05T01:07:24Z",
-   "headline": "North Korea tests new air-defence missile in its fourth launch this month",
-   "dek": "State media said a cruise missile unit also struck a virtual airport target in a drill from the east coast.",
-   "caption": "A radar dish turns against a grey sky, the kind of system nations test to track incoming threats.",
-   "sections": [
-    "news"
-   ],
-   "tags": [
-    "Defence",
-    "Geopolitics",
-    "North Korea"
-   ],
-   "tickers": [
-    "CSE:QESS",
-    "TSXV:PNG"
-   ],
-   "image": "https://www.cmbulletin.com/images/north-korea-tests-new-air-defence-missile-in-its-fourth-launch-this.png",
-   "source_name": "Reuters (via Yahoo News)",
-   "sources": [
-    {
-     "title": "North Korea says it tested air-defence missile, staged cruise missile drill",
-     "url": "https://www.yahoo.com/news/articles/north-korea-test-fires-air-211817711.html",
-     "publisher": "Reuters (via Yahoo News)"
-    },
-    {
-     "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, +5.66% on about $80,785",
-     "url": "https://finance.yahoo.com/quote/QESS.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -5.57% on about $4,474,105",
-     "url": "https://finance.yahoo.com/quote/PNG.V",
-     "publisher": "Yahoo Finance"
-    }
-   ],
-   "unverified_claims": [
-    "The characterization that the test confirmed the missile system's reliability and tracking ability is North Korea's own state media account (KCNA) and has not been independently verified."
-   ],
-   "brief": [
-    "North Korea said it test-fired a newly designed air-defence missile system and staged a cruise-missile strike drill, according to state media KCNA. A sub-unit of the country's long-range strategic cruise missile unit struck a virtual airport target in the drill, staged from the Sondok area on the east coast.",
-    "KCNA said the test confirmed the 'technical specifications and reliability' of new materials and guidance modes, and the system's ability to identify and track targets. South Korea's Defence Ministry confirmed Pyongyang fired multiple missiles toward the sea from Sondok, in what Reuters reported was the fourth North Korean weapons launch in a month.",
-    "On the venture boards, CM Bulletin's defence theme — 8 listed names, 6 of which traded — showed a median move of -2.62% against +2.48% for the S&P/TSX Venture Composite. Aegis Critical Energy Defence (CSE: QESS) rose 5.66% to C$0.28; Kraken Robotics (TSXV: PNG) fell 5.57% to C$3.56. Neither move is tied to North Korea's test."
-   ],
-   "body": [
-    "North Korea said it test-fired a newly designed air-defence missile system, according to state media KCNA. The agency said North Korea separately staged a cruise-missile strike drill the same day, carried out by a sub-unit of its long-range strategic cruise missile unit.",
-    "The cruise-missile drill struck a virtual airport target and was staged from the Sondok area on North Korea's east coast, KCNA said.",
-    "KCNA said the air-defence test confirmed the 'technical specifications and reliability' of new materials and multiple guidance modes used in the missile, as well as the system's ability to identify and track targets.",
-    "South Korea's Defence Ministry separately confirmed that Pyongyang had fired multiple missiles toward the sea from the Sondok area. Reuters reported that the exercises marked the fourth North Korean weapons launch in a month.",
-    "On the venture boards, CM Bulletin's defence-and-drones theme comprises eight listed venture names. Six traded today, two higher and four lower, for a median move of -2.62 per cent, against a +2.48 per cent gain for the S&P/TSX Venture Composite — a spread of 5.10 percentage points between the theme and the board.",
-    "Aegis Critical Energy Defence Corp. (CSE: QESS), which is in the theme because its registered name contains 'defence,' rose 5.66 per cent to C$0.28. Kraken Robotics Inc. (TSXV: PNG), named for being Kraken Robotics Inc., fell 5.57 per cent to C$3.56. Both moves fell on the same day as North Korea's test; neither is connected to it.",
-    "Nothing connects North Korea's test to trading in CM Bulletin's defence-and-drones theme. The two fall on the same day in different markets, and no figure in this report should be read as evidence that one moved the other."
-   ]
-  },
-  {
-   "slug": "bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut",
-   "url": "https://www.cmbulletin.com/posts/bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut.json",
-   "date": "2026-11-04T12:55:18Z",
-   "headline": "Bastion Square Partners II raises $1.5 million in its TSX Venture debut",
-   "dek": "The Vancouver capital pool company sold 15 million shares at 10 cents each and will look for an acquisition target to complete its qualifying transaction.",
-   "caption": "Downtown Vancouver across False Creek.",
-   "sections": [
-    "financings"
-   ],
-   "tags": [
-    "Financing",
-    "IPO",
-    "Capital Pool Company"
-   ],
-   "tickers": [
-    "TSXV:BASQ.P"
-   ],
-   "image": "https://www.cmbulletin.com/images/bastion-square-partners-ii-raises-1-5-million-in-its-tsx-venture-debut.png",
-   "source_name": "Newsfile Corp. (via Finanznachrichten)",
-   "sources": [
-    {
-     "title": "Bastion Square Partners II Inc. Closes Initial Public Offering and Lists on the TSX Venture Exchange as a Capital Pool Company",
-     "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70024876-bastion-square-partners-ii-inc-bastion-square-partners-ii-inc-closes-initial-public-offering-and-lists-on-the-tsx-venture-exchange-as-capital-poo-296.htm",
-     "publisher": "Newsfile Corp. (via Finanznachrichten)"
-    },
-    {
-     "title": "Bastion Square Partners II Inc. (BASQ.P) Raises $1.5 Million in IPO, Lists on TSX Venture Exchange as Capital Pool Company",
-     "url": "https://kalkinemedia.com/ca/news/announcements/bastion-square-partners-ii-inc-basqp-raises-15-million-in-ipo-lists-on-tsx-venture-exchange-as-capital-pool-company",
-     "publisher": "Kalkine Media — Canada"
-    }
-   ],
-   "unverified_claims": [],
-   "brief": [
-    "Bastion Square Partners II Inc., a Vancouver-based capital pool company, closed its initial public offering on November 3, 2026, raising $1.5 million in gross proceeds through the sale of 15,000,000 common shares at $0.10 each. The shares listed on the TSX Venture Exchange that day under a trading halt pending closing.",
-    "Trading in the shares, under the symbol BASQ.P, is set to resume November 9, 2026. The company now has 27,000,000 shares outstanding, of which 13,825,000 are held in escrow. Independent Trading Group (ITG), Inc. acted as agent, earning a $55,000 cash commission, a $10,000 corporate finance fee and 500,000 warrants exercisable at $0.10 until November 3, 2028.",
-    "Directors and officers were granted 2,700,000 incentive stock options at $0.10, exercisable for five years; directors also bought 1,825,000 of the offered shares themselves. The company has no business of its own: net proceeds will fund the search for an acquisition target to complete a qualifying transaction under TSX Venture Exchange rules."
-   ],
-   "body": [
-    "Bastion Square Partners II Inc., a Vancouver-based capital pool company, closed its initial public offering on November 3, 2026, raising $1.5 million in gross proceeds through the sale of 15,000,000 common shares at $0.10 each. The TSX Venture Exchange approved the listing on November 2, and the shares began trading under a halt pending closing.",
-    "Trading in the shares, under the symbol BASQ.P, is scheduled to resume on November 9, 2026. Following the offering, the company has 27,000,000 common shares outstanding, of which 13,825,000 are held in escrow.",
-    "Independent Trading Group (ITG), Inc. acted as agent for the offering. It received a cash commission of $55,000, a corporate finance fee of $10,000, reimbursement of its legal fees and expenses, and 500,000 non-transferable warrants exercisable at $0.10 per share until November 3, 2028.",
-    "The company's directors and officers were granted 2,700,000 incentive stock options at an exercise price of $0.10, exercisable for five years. Directors also personally purchased 1,825,000 of the shares sold in the offering, a related-party transaction disclosed in the filing.",
-    "A capital pool company such as Bastion Square has no business or assets of its own beyond the cash raised at listing. Under TSX Venture Exchange rules, it must use the proceeds to identify and evaluate a business or asset to acquire, a process the exchange calls a qualifying transaction.",
-    "The release named Briony Bayer, the company's Chief Financial Officer and Corporate Secretary, as the contact for further information. It did not disclose any potential acquisition target or sector of interest."
-   ]
-  },
-  {
-   "slug": "global-uranium-raises-its-private-placement-minimum-and-adds-a-1",
-   "url": "https://www.cmbulletin.com/posts/global-uranium-raises-its-private-placement-minimum-and-adds-a-1.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/global-uranium-raises-its-private-placement-minimum-and-adds-a-1.json",
-   "date": "2026-11-04T12:55:18Z",
-   "headline": "Global Uranium raises its private placement minimum and adds a $1 million loan",
-   "dek": "The Calgary-based explorer increased the minimum subscription to $800,000 and secured a separate credit facility to fund its Saskatchewan and Wyoming uranium projects.",
-   "caption": "Eroded badlands in Wyoming.",
+   "slug": "copper-one-s-19-9-million-special-warrants-convert-into-shares-and",
+   "url": "https://www.cmbulletin.com/posts/copper-one-s-19-9-million-special-warrants-convert-into-shares-and.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/copper-one-s-19-9-million-special-warrants-convert-into-shares-and.json",
+   "date": "2026-11-05T13:05:41Z",
+   "headline": "Copper One's 19.9 million special warrants convert into shares and warrants",
+   "dek": "The automatic conversion, completing a September financing, hands holders new common shares plus warrants exercisable at $0.50 for two years.",
+   "caption": "Copper One's September financing completes on November 6 as its special warrants convert automatically into shares and two-year warrants.",
    "sections": [
     "mining"
    ],
    "tags": [
     "Mining",
-    "Uranium",
-    "Financing"
+    "Financing",
+    "Warrants",
+    "CSE"
    ],
    "tickers": [
-    "CSE:GURN",
-    "OTCQB:GURFF"
+    "CSE:CEXY",
+    "OTC:CEXYF"
    ],
-   "image": "https://www.cmbulletin.com/images/global-uranium-raises-its-private-placement-minimum-and-adds-a-1.png",
-   "source_name": "GlobeNewswire (via Manila Times)",
+   "image": "https://www.cmbulletin.com/images/copper-one-s-19-9-million-special-warrants-convert-into-shares-and.png",
+   "source_name": "TheNewswire.ca",
    "sources": [
     {
-     "title": "Global Uranium Announces Amended LIFE Offering and $1 Million Loan Facility",
-     "url": "https://www.manilatimes.net/2026/11/04/tmt-newswire/globenewswire/global-uranium-announces-amended-life-offering-and-1-million-loan-facility/2461245",
-     "publisher": "GlobeNewswire (via Manila Times)"
-    },
-    {
-     "title": "Global Uranium Corp (GURN) Revises LIFE Offering and Secures $1M Unsecured Loan Facility",
-     "url": "https://kalkinemedia.com/ca/news/announcements/global-uranium-corp-gurn-revises-life-offering-and-secures-1m-unsecured-loan-facility",
-     "publisher": "Kalkine Media — Canada"
+     "title": "Copper One Announces Automatic Conversion of Special Warrants. Prospectus Supplement Available on SEDAR+",
+     "url": "https://thenewswire.com/press-releases/1LpMFYZyb-copper-one-announces-automatic-conversion-of-special-warrants-prospectus-supplement-available-on-sedar.html",
+     "publisher": "TheNewswire.ca"
     }
    ],
    "unverified_claims": [],
    "brief": [
-    "Global Uranium Corp. filed an amended offering document on November 3, 2026 for its non-brokered private placement under the listed issuer financing exemption, raising the minimum subscription to 3,636,364 units for gross proceeds of $800,000.08. The maximum remains 4,239,711 units for $932,736.42, both at $0.22 per unit, with closing expected on or about November 6, 2026.",
-    "Each unit comprises one common share and one warrant exercisable at $0.30, not available until 61 days after closing and expiring 24 months after closing. Separately, the company entered a committed, unsecured, non-revolving loan facility of up to $1,000,000 with an arm's-length lender, charging 12% simple annual interest, with no amount drawn as of the announcement.",
-    "Advances may be drawn until October 30, 2028 on five business days' notice, with each advance due 24 months later and all amounts owed by November 3, 2030. The company said proceeds from both will fund exploration and option payments on its Astro project in Saskatchewan and its Wyoming projects, plus working capital."
+    "Copper One Resources will see 19,889,750 special warrants, issued September 29, 2026, automatically convert into common shares and warrants on November 6, 2026, the company said. The special warrants comprised 12,383,000 non-flow-through and 7,506,750 flow-through warrants; holders need take no action.",
+    "The conversion delivers 19,889,750 common shares and 9,944,875 share purchase warrants. Each warrant lets the holder buy one common share at $0.50 for two years from the offering's closing date; the company may accelerate that expiry on 30 days' notice if the shares trade at $1.25 or higher for five straight sessions on the CSE.",
+    "A prospectus supplement dated November 3, 2026 qualifies the shares and warrants for distribution in British Columbia, Alberta and Ontario and is available on SEDAR+. Copper One trades on the Canadian Securities Exchange under CEXY, on the US OTC market under CEXYF, and on the Frankfurt Stock Exchange under IW8."
    ],
    "body": [
-    "Global Uranium Corp. (CSE: GURN; OTCQB: GURFF) filed an amended and restated offering document on November 3, 2026 for its non-brokered private placement under the listed issuer financing exemption (LIFE). The minimum subscription was increased to 3,636,364 units for gross proceeds of $800,000.08; the maximum offering remains 4,239,711 units for $932,736.42, both at an unchanged price of $0.22 per unit.",
-    "Each unit comprises one common share and one warrant exercisable at $0.30 per share. The warrant does not become exercisable until 61 days after closing and expires 24 months after closing. Closing is expected on or about November 6, 2026, subject to regulatory approvals including those of the Canadian Securities Exchange.",
-    "The release said the securities are expected to be immediately freely tradable under applicable Canadian securities laws, subject to the restrictions that apply to control persons, and that the offering is available to purchasers in Canada other than Quebec and New Brunswick.",
-    "Separately, the Calgary-based uranium explorer entered a committed, unsecured, non-revolving loan facility of up to $1,000,000 with an arm's-length lender. Advances can be requested on five business days' notice until October 30, 2028, each carrying 12% simple annual interest and due for repayment 24 months after it is drawn, with all amounts owed no later than November 3, 2030. No funds had been drawn as of the announcement.",
-    "The facility carries no demand-repayment clause and allows prepayment without penalty, the company said. Proceeds from both the placement and the facility are earmarked for exploration expenditures and option payments on the company's Astro uranium project in Saskatchewan and its Wyoming projects in the Great Divide Basin, Gas Hills and Copper Mountain districts, as well as corporate liabilities, administration and working capital.",
-    "The release does not name the arm's-length lender, and does not name an agent for the private placement."
+    "Copper One Resources Corp. (CSE: CEXY; OTC: CEXYF; FSE: IW8) will see 19,889,750 special warrants, issued September 29, 2026, automatically convert into common shares and warrants on November 6, 2026, the company said. The special warrants were issued in two tranches: 12,383,000 non-flow-through special warrants and 7,506,750 flow-through special warrants. Holders do not need to take any action; the conversion happens automatically under the terms of the original offering.",
+    "The conversion delivers a combined 19,889,750 common shares along with 9,944,875 share purchase warrants to the former special warrant holders. Each warrant entitles the holder to buy one common share at $0.50 for two years from the offering's closing date. The company may accelerate that two-year expiry on 30 days' notice if Copper One's shares trade at $1.25 or higher for five consecutive trading days on the Canadian Securities Exchange.",
+    "A prospectus supplement dated November 3, 2026 was filed to qualify the distribution of the securities underlying the special warrants in British Columbia, Alberta and Ontario, and is available on SEDAR+. It follows a short form base shelf prospectus the company filed in May 2025, as amended in March and October 2026. Copper One trades on the Canadian Securities Exchange under CEXY, on the US over-the-counter market under CEXYF, and on the Frankfurt Stock Exchange under IW8.",
+    "This release does not restate the price or use of proceeds from the original special warrant offering; it covers only the terms of today's automatic conversion and the prospectus supplement that qualifies the resulting shares and warrants for distribution."
    ]
   },
   {
-   "slug": "amd-takes-a-1-07-billion-charge-tied-to-its-openai-and-meta-chip-deals",
-   "url": "https://www.cmbulletin.com/posts/amd-takes-a-1-07-billion-charge-tied-to-its-openai-and-meta-chip-deals.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/amd-takes-a-1-07-billion-charge-tied-to-its-openai-and-meta-chip-deals.json",
-   "date": "2026-11-04T12:55:18Z",
-   "headline": "AMD takes a $1.07 billion charge tied to its OpenAI and Meta chip deals",
-   "dek": "The non-cash charge reflects warrants that let the two AI customers buy up to roughly 10% of the chipmaker.",
-   "caption": "Rack-mounted servers, lit by their status lights.",
+   "slug": "coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count",
+   "url": "https://www.cmbulletin.com/posts/coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count.json",
+   "date": "2026-11-05T13:05:41Z",
+   "headline": "CopperCorp plans to raise up to C$3 million and shrink its share count",
+   "dek": "The explorer's non-brokered placement pairs units and subscription receipts with a one-for-five share consolidation ahead of TSX Venture Exchange approval.",
+   "caption": "Temperate forest in western Tasmania, Australia, where CopperCorp Resources is exploring for copper, gold and rare earth elements.",
    "sections": [
-    "tech"
+    "mining"
    ],
    "tags": [
-    "AI",
-    "Semiconductors",
-    "Earnings"
+    "Mining",
+    "Financing",
+    "Private Placement",
+    "TSXV"
    ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/amd-takes-a-1-07-billion-charge-tied-to-its-openai-and-meta-chip-deals.png",
-   "source_name": "Reuters (via WHBL)",
+   "tickers": [
+    "TSXV:CPER",
+    "OTCQB:CPCPF"
+   ],
+   "image": "https://www.cmbulletin.com/images/coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count.png",
+   "source_name": "Investing News Network — Resource Investing",
    "sources": [
     {
-     "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
-     "url": "https://whbl.com/2026/11/03/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge/",
-     "publisher": "Reuters (via WHBL)"
-    },
-    {
-     "title": "Sparc AI Inc. (CSE: SPAI) quote, +0.99% on about $55,349",
-     "url": "https://finance.yahoo.com/quote/SPAI.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "Predictiv AI Inc. (CSE: PAI) quote, +0.00% on about $29,201",
-     "url": "https://finance.yahoo.com/quote/PAI.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "Yocale.ai Inc. (CSE: YAI) quote, +0.00% on about $53,650",
-     "url": "https://finance.yahoo.com/quote/YAI.CN",
-     "publisher": "Yahoo Finance"
+     "title": "CopperCorp Announces Non-Brokered Private Placement of up to C$3.0M and Share Consolidation",
+     "url": "https://investingnews.com/coppercorp-announces-non-brokered-private-placement-of-up-to-c-3-0m-and-share-consolidation/",
+     "publisher": "Investing News Network — Resource Investing"
     }
    ],
-   "unverified_claims": [],
+   "unverified_claims": [
+    "Whether company insiders will in fact participate in the placement rests on the company's own statement that insiders 'may participate'; this is not yet confirmed."
+   ],
    "brief": [
-    "Advanced Micro Devices recorded a $1.07 billion non-cash charge, or 66 cents a share, in the third quarter ended September 26, tied to warrants it issued to OpenAI and Meta Platforms as part of multibillion-dollar AI chip supply agreements.",
-    "Under a February agreement, AMD agreed to sell Meta up to $60 billion of AI chips over five years, with Meta receiving warrants to buy as much as 10% of AMD if shipment milestones are met.",
-    "On the venture boards, the theme comprises 29 listed venture names; 16 traded today, 6 higher and 5 lower, for a median move of +0.00% against -0.77% for the S&P/TSX Venture Composite. Sparc AI Inc. (CSE: SPAI) rose 0.99% to CAD2.04, and is in the theme because its registered name contains \"ai\"."
+    "CopperCorp Resources, which is exploring for copper, gold and rare earth elements at its AMC project in western Tasmania, Australia, plans a non-brokered private placement of up to C$3.0 million. The raise combines up to 4,444,444 units at $0.1125 each, for up to $500,000, and up to 18,518,519 subscription receipts at $0.135 each, for up to $2.5 million.",
+    "Each unit carries one post-consolidation share and one warrant exercisable at $0.18 for 24 months; each subscription receipt converts, once escrow conditions clear, into a unit of one share and half a warrant exercisable at $0.24 for 24 months. The conversion depends on completion of the company's Skyline Project sale. Shares carry the usual four-month-and-a-day hold.",
+    "CopperCorp is also consolidating its shares on a one-for-five basis, cutting its roughly 118.96 million shares outstanding to about 23.79 million. The financing and consolidation remain subject to final TSX Venture Exchange approval, and proceeds are earmarked for exploration and drilling at the AMC project and for working capital."
    ],
    "body": [
-    "Advanced Micro Devices recorded a $1.07 billion non-cash charge, equal to 66 cents a share, in the third quarter ended September 26. The charge relates to warrants the chipmaker has issued to OpenAI and Meta Platforms as part of multibillion-dollar agreements to supply them with AI chips.",
-    "Under a February agreement, AMD agreed to sell Meta up to $60 billion of AI chips over five years. Meta received warrants allowing it to buy as much as 10% of AMD if certain shipment milestones are met.",
-    "AMD shares rose 8% in extended trading after the results, and the company forecast 2027 growth faster than previously expected. Bob O'Donnell, chief analyst at TECHnalysis Research, said of the broader trend of chipmakers issuing customer warrants: \"While I do believe incentives played a role in some of their sales, I believe the bigger issue is that there is pent-up demand for a serious alternative to Nvidia.\"",
-    "AMD is not alone in using warrants to secure large AI customers. Cerebras has granted OpenAI warrants against a $20 billion commitment, Marvell issued Google warrants for a potential $12.2 billion stake, and Qualcomm gave Amazon warrants as part of a $60 billion deal, according to the report.",
-    "On Canada's venture boards, the artificial intelligence and data-centre theme comprises 29 listed names; 16 traded today, 6 higher and 5 lower, for a median move of +0.00% against -0.77% for the S&P/TSX Venture Composite, a spread of 0.77 percentage points in the theme's favour.",
-    "Sparc AI Inc. (CSE: SPAI) rose 0.99% to CAD2.04, and is in the theme because its registered name contains \"ai\". Predictiv AI Inc. (CSE: PAI) was unchanged at CAD0.105, also because its registered name contains \"ai\", as was Yocale.ai Inc. (CSE: YAI), unchanged at CAD0.74.",
-    "Roughly $55,000 of Sparc AI shares changed hands on the day, versus about $29,000 for Predictiv AI and $54,000 for Yocale.ai. AMD's results and the moves in these three Canadian venture names fell on the same day; nothing in either the company's statement or the quotes connects them, and no causal link is drawn here."
+    "CopperCorp Resources Inc. (TSXV: CPER; OTCQB: CPCPF), which is exploring for copper, gold and rare earth elements at its AMC project in western Tasmania, Australia, intends to raise up to C$3.0 million through a non-brokered private placement, the company said.",
+    "The offering's first tranche is up to 4,444,444 units priced at $0.1125 each, for gross proceeds of up to $500,000. Each unit is made up of one post-consolidation common share and one share purchase warrant, exercisable at $0.18 for 24 months from the date of issue.",
+    "The second tranche is up to 18,518,519 subscription receipts priced at $0.135 each, for gross proceeds of up to $2.5 million. Once escrow release conditions are satisfied, each receipt converts into a unit comprising one post-consolidation common share and one-half of a warrant, exercisable at $0.24 for 24 months. The conversion is contingent on completion of the sale of the company's Skyline Project, among other escrow conditions.",
+    "CopperCorp is also proceeding with a share consolidation on a one-for-five basis, reducing its roughly 118.96 million shares outstanding to approximately 23.79 million. Securities issued in the placement will be subject to the usual four-month-and-one-day resale hold. Company insiders may participate, which the company says will be treated as related-party transactions.",
+    "Proceeds are earmarked for exploration and drilling at the AMC project and for general corporate and working capital purposes, the company said. The offering and the share consolidation both remain subject to final acceptance by the TSX Venture Exchange, and finder's fees may be paid to eligible arm's-length parties under the exchange's policies. CopperCorp also trades on the OTCQB market in the United States under the symbol CPCPF."
    ]
   },
   {
-   "slug": "saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on",
-   "url": "https://www.cmbulletin.com/posts/saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on.json",
-   "date": "2026-11-04T12:55:18Z",
-   "headline": "Saudi Aramco's profit jumps 34% to $36.25 billion despite attacks on its facilities",
-   "dek": "Elevated crude and product prices drove the profit rise, and the board authorized a $21.9 billion dividend, even as Houthi strikes hit its facilities and Iranian activity disrupted Hormuz shipping.",
-   "caption": "Oil storage tanks sit beneath low cloud at a coastal export terminal.",
+   "slug": "ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia",
+   "url": "https://www.cmbulletin.com/posts/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.json",
+   "date": "2026-11-05T13:05:41Z",
+   "headline": "Ukrainian drones set fire to a major Ozon warehouse in Russia",
+   "dek": "The attack hit Adygeysk for a second time, even as Ozon had already projected $367 million in losses from strikes on 11 of its sites.",
+   "caption": "A freight yard at dusk, the kind of logistics infrastructure Ukraine's drone campaign has repeatedly targeted inside Russia.",
    "sections": [
-    "energy"
+    "news"
    ],
    "tags": [
-    "Energy",
-    "Oil & Gas",
-    "Earnings"
+    "Geopolitical",
+    "E-Commerce",
+    "Russia",
+    "Defence"
    ],
-   "tickers": [],
-   "image": "https://www.cmbulletin.com/images/saudi-aramco-s-profit-jumps-34-6-to-36-25-billion-despite-attacks-on.png",
-   "source_name": "The National",
+   "tickers": [
+    "CSE:QESS",
+    "TSXV:PNG"
+   ],
+   "image": "https://www.cmbulletin.com/images/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.png",
+   "source_name": "Reuters (via The Star)",
    "sources": [
     {
-     "title": "Aramco posts 34% jump in third-quarter profit despite attacks on energy infrastructure",
-     "url": "https://www.thenationalnews.com/business/energy/2026/11/03/aramco-posts-34-jump-in-q3-profit-despite-attacks-on-energy-infrastructure/",
-     "publisher": "The National"
+     "title": "Ukrainian drone strike sets fire to hub of e-retailer Ozon in southern Russia",
+     "url": "https://www.thestar.com.my/news/world/2026/11/04/ukrainian-drone-strike-sets-fire-to-hub-of-e-retailer-ozon-in-southern-russia",
+     "publisher": "Reuters (via The Star)"
     },
     {
-     "title": "STAMPER OIL AND GAS CORP (TSXV: STMP) quote, +40.00% on about $112,560",
-     "url": "https://finance.yahoo.com/quote/STMP.V",
+     "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, +5.66% on about $80,085",
+     "url": "https://finance.yahoo.com/quote/QESS.CN",
      "publisher": "Yahoo Finance"
     },
     {
-     "title": "RECONNAISSANCE ENERGY AFRICA LT (TSXV: RECO) quote, +4.00% on about $56,004",
-     "url": "https://finance.yahoo.com/quote/RECO.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "COELACANTH ENERGY INC (TSXV: CEI) quote, -2.90% on about $90,642",
-     "url": "https://finance.yahoo.com/quote/CEI.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "LOTUS CREEK EXPLORATION INC (TSXV: LTC) quote, -1.77% on about $131,163",
-     "url": "https://finance.yahoo.com/quote/LTC.V",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "ROBINSON ENERGY LIMITED (TSXV: ROB) quote, -1.52% on about $80,028",
-     "url": "https://finance.yahoo.com/quote/ROB.V",
+     "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -5.57% on about $4,482,396",
+     "url": "https://finance.yahoo.com/quote/PNG.V",
      "publisher": "Yahoo Finance"
     }
    ],
    "unverified_claims": [
-    "The attribution of the profit increase to higher crude and product prices is the company's own characterization, as reported.",
-    "CEO Amin Nasser's description of the attacks as amplifying 'the global energy supply crisis' is the company's own statement."
+    "Ozon's $367 million loss projection and its order-cancellation response are the company's own statements, not independently verified.",
+    "The absence of reported casualties rests on Ozon's and a regional official's statements as reported; no independent casualty count was available."
    ],
    "brief": [
-    "Saudi Arabian Oil Co. reported third-quarter net profit of $36.25 billion, up 34% from a year earlier, as revenue climbed to $140.5 billion from $111.6 billion. The company attributed the increase to higher prices for crude oil and refined chemical products, even as sales volumes fell.",
-    "The results followed Houthi missile and drone attacks on Aramco facilities, including its Dhahran headquarters and refining sites at Jazan and Riyadh, plus Iranian activity disrupting Strait of Hormuz shipping. Chief executive Amin Nasser said the attacks \"continued to amplify the global energy supply crisis\" in the quarter. The board authorized a $21.9 billion dividend, up 3.5% year on year.",
-    "On the venture boards, the oil, gas and power theme comprises 72 listed venture names; 34 traded today, 12 higher and 11 lower, for a median move of +0.00% against -0.77% for the S&P/TSX Venture Composite. Stamper Oil And Gas Corp (TSXV: STMP) rose 40.00% to CAD0.14, and is in the theme because its sector label is \"Oil & Gas E&P\"."
+    "A Ukrainian drone strike set fire to a logistics hub operated by Russian e-commerce retailer Ozon in Adygeysk, in southern Russia, on November 4, 2026, the company and a regional official said. Debris also damaged two nearby villages. Ozon said it was not aware of any casualties and that all staff had been evacuated.",
+    "It was the second strike on this facility. Ukraine has targeted dozens of warehouses run by Ozon and rival Wildberries since July as part of a campaign against Russia's economy and war effort. Ozon said it would cancel orders it cannot fulfil and temporarily stop accepting deliveries from sellers at the site; its shares fell 0.4%.",
+    "On the venture boards, the defence theme's 8 names saw 6 trade today, 2 up and 4 down, a median move of -2.62% against +2.48% for the Venture Composite. Aegis Critical Energy Defence Corp (CSE: QESS) rose 5.66% to C$0.28, its name containing \"defence\"; Kraken Robotics (TSXV: PNG) fell 5.57% to C$3.56, its name. Nothing ties the moves to it."
    ],
    "body": [
-    "Saudi Arabian Oil Co. reported third-quarter net profit of $36.25 billion, up 34% from a year earlier, as revenue climbed to $140.5 billion from $111.6 billion over the same period. The company attributed the increase to higher prices for crude oil and refined chemical products, even as sales volumes fell.",
-    "The results followed attacks on Aramco's operations: Houthi militants from Yemen launched missile and drone strikes targeting company facilities, including its Dhahran headquarters and refining operations in Jazan and Riyadh, while Iranian activity in the Strait of Hormuz disrupted shipping. Chief executive Amin Nasser said: \"Geopolitical uncertainty and attacks on key energy facilities continued to amplify the global energy supply crisis in the third quarter of 2026.\"",
-    "Aramco's board authorized a base dividend of $21.9 billion for the third quarter, up 3.5% from a year earlier and payable in the fourth quarter of 2026. Capital expenditure for the quarter totaled $10.5 billion, down from $12.6 billion a year earlier, and the company said it is pursuing additional overseas storage capacity and alternative export routes to help maintain supply reliability amid the disruptions.",
-    "On Canada's venture boards, the oil, gas and power theme comprises 72 listed venture names; 34 traded today, 12 higher and 11 lower, for a median move of +0.00% against -0.77% for the S&P/TSX Venture Composite, a spread of 0.77 percentage points.",
-    "The largest mover was Stamper Oil And Gas Corp (TSXV: STMP), up 40.00% to CAD0.14, followed by Reconnaissance Energy Africa Lt (TSXV: RECO), up 4.00% to CAD0.52; both are in the theme because their sector label is \"Oil & Gas E&P\". Among the decliners, Coelacanth Energy Inc (TSXV: CEI) fell 2.90% to CAD0.67, Lotus Creek Exploration Inc (TSXV: LTC) fell 1.77% to CAD4.43, and Robinson Energy Limited (TSXV: ROB) fell 1.52% to CAD3.24, each for the same reason.",
-    "Aramco's results and the moves among these five Canadian oil and gas names fell on the same calendar day. Nothing in either the company's release or the venture names' trading establishes a connection between the two, and none is drawn here."
+    "A Ukrainian drone strike set fire to a logistics hub operated by Russian e-commerce retailer Ozon in Adygeysk, in southern Russia, on November 4, 2026, the company and a regional official said. It was the second time this specific facility had been hit. Debris from the strike also damaged two nearby villages, according to reporting on the attack. Ozon said it was not aware of any casualties and that all staff at the site had been evacuated.",
+    "The strike is part of a broader Ukrainian campaign that has targeted dozens of warehouses run by Ozon and its rival Wildberries since July, aimed at disrupting Russia's economy and its war effort, according to reporting on the pattern of attacks. Ozon said it would cancel orders it could not fulfil from the Adygeysk site and would temporarily stop accepting deliveries from third-party sellers there while it assesses the damage.",
+    "Ahead of this strike, Ozon had already projected 30.1 billion roubles (about $367 million) in losses from drone attacks across 11 of its sites, the company said in a financial results release last week. Ozon's stock fell about 0.4% following the latest attack. The strike came as both sides prepared for peace talks scheduled for November 10 and 11, and followed a Ukrainian strike on a Russian oil refinery and Russian strikes on Ukrainian energy infrastructure in the preceding days.",
+    "On Canada's venture boards, the defence and drones theme comprises eight listed names. Six traded today, two higher and four lower, for a median move of -2.62% against +2.48% for the S&P/TSX Venture Composite, a spread of -5.10 percentage points. The attack on Ozon's logistics hub and these moves fall on the same trading day; nothing in either release ties one to the other.",
+    "Aegis Critical Energy Defence Corp (CSE: QESS) rose 5.66% to C$0.28 and is in the theme because its registered name contains \"defence.\" Kraken Robotics Inc (TSXV: PNG) fell 5.57% to C$3.56 and is in the theme because its registered name is Kraken Robotics Inc. Both traded today; the group's median move was negative even though these two names moved in opposite directions."
    ]
   }
  ]
