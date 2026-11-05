@@ -220,6 +220,9 @@ a.stretch:hover { color: inherit; }
 .photo--desk img { aspect-ratio: 2 / 1; }
 .photo--article img { aspect-ratio: 2 / 1; }
 @media (max-width: 719px) { .photo--lead img, .photo--article img { aspect-ratio: 3 / 2; } }
+/* A fifth shorter on anything wider than a phone, 4 November 2026 ("lets make
+   the images a bit smaller"). Phones keep the ratios above. */
+@media (min-width: 720px) { .photo--lead img, .photo--story img, .photo--desk img, .photo--article img { aspect-ratio: 2.5 / 1; } }
 
 /* Markets-page tables: hairline rows, right-aligned tabular figures, no boxes. */
 .mkt { width: 100%; border-collapse: collapse; font-family: var(--mono); font-size: calc(13px * var(--fs, 1)); }
@@ -274,7 +277,7 @@ a.stretch:hover { color: inherit; }
    two columns still end together. */
 .rt--side { display: none; }
 @media (min-width: 1360px) {
-  .lead { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); column-gap: clamp(28px, 2.4vw, 48px); align-items: start; }
+  .lead { display: grid; grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr); column-gap: clamp(28px, 2.4vw, 48px); align-items: start; }
   .lead__media .photo { margin: 0; }
   .lead__media .photo--lead img { aspect-ratio: 3 / 2; }
   .lead__media .rt--side { display: block; margin-top: 22px; }
@@ -306,7 +309,7 @@ a.stretch:hover { color: inherit; }
 .story__brief { display: none; font-size: calc(16px * var(--fs, 1)); line-height: 1.55; margin: 12px 0 0; }
 @media (min-width: 640px) {
   .second--one { grid-template-columns: minmax(0, 1fr); }
-  .second--one .story { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); column-gap: 28px; align-items: stretch; }
+  .second--one .story { display: grid; grid-template-columns: minmax(0, .9fr) minmax(0, 1fr); column-gap: 28px; align-items: stretch; }
   .second--one .story > .photo { margin: 0; position: relative; min-height: 240px; }
   .second--one .story > .photo img { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: auto; }
   .second--one .story__brief:not(.story__extra) { display: block; }
@@ -553,7 +556,7 @@ a.stretch:hover { color: inherit; }
 .panes__rail .wire__dek { font-size: calc(14.5px * var(--fs, 1)); }
 .rail-story { padding: 0 0 16px; border-bottom: 1px solid var(--rule); margin-bottom: 2px; }
 .rail-story + .rail-story { padding-top: 16px; }
-.rail-story img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; background: var(--rule); margin-bottom: 10px; }
+.rail-story img { width: 100%; aspect-ratio: 2 / 1; object-fit: cover; background: var(--rule); margin-bottom: 10px; }
 .rail-story__title { font-family: var(--sans); font-weight: 700; font-size: calc(20px * var(--fs, 1)); line-height: 1.2; letter-spacing: -.015em; margin: 0; }
 .rail-story__dek { font-size: calc(15px * var(--fs, 1)); line-height: 1.45; color: var(--ink-soft); margin: 6px 0 0; }
 @media (min-width: 1180px) {
@@ -697,7 +700,7 @@ th.sheet__num { text-align: right; }
    (absolutely placed, so it never sets the row's height itself). Conrad,
    3 Nov 2026: no blank space beside an image. */
 @media (min-width: 960px) {
-  .article__top:not(.article__top--text) { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); column-gap: clamp(32px, 3vw, 56px); align-items: stretch; }
+  .article__top:not(.article__top--text) { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); column-gap: clamp(32px, 3vw, 56px); align-items: stretch; }
   .article__top:not(.article__top--text) .article__head { display: flex; flex-direction: column; max-width: none; }
   .article__top:not(.article__top--text) .article__title { font-size: clamp(34px, 3.6vw, 80px); }
   .article__top:not(.article__top--text) .article__meta { margin-top: auto; }
