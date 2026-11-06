@@ -1,0 +1,48 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-06T13:41:00Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout",
+ "url": "https://www.cmbulletin.com/posts/nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout.json",
+ "date": "2026-11-06T13:32:04Z",
+ "headline": "Nasdaq futures jump 1.4% as chipmakers rebound from a $3 trillion rout",
+ "dek": "Nvidia, AMD and Micron rose in premarket trading a day after a rout tied to AI-regulation fears from Democrats' midterm win wiped nearly $3 trillion off the S&P 500.",
+ "caption": "Futures pointed higher Friday after chipmakers and AI infrastructure names stabilized from Thursday's steep market-wide selloff.",
+ "sections": [
+  "markets"
+ ],
+ "tags": [
+  "Markets",
+  "AI",
+  "Volatility",
+  "Technology"
+ ],
+ "tickers": [],
+ "image": "https://www.cmbulletin.com/images/nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout.png",
+ "source_name": "Reuters (via The Globe and Mail)",
+ "sources": [
+  {
+   "title": "Premarket: Nasdaq futures rise after steep AI selloff as chip stocks stabilize",
+   "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks/",
+   "publisher": "Reuters (via The Globe and Mail)"
+  }
+ ],
+ "unverified_claims": [],
+ "brief": [
+  "Nasdaq 100 E-minis rose 378.5 points, or 1.41%, by 6:24 a.m. ET Friday, while S&P 500 E-minis added 21.75 points, or 0.29%, and Dow E-minis fell 471 points, or 0.91%, Reuters reported. The moves followed Thursday's rout, in which the Nasdaq Composite posted its steepest one-day decline in 19 months and erased nearly $3 trillion from S&P 500 market value.",
+  "The rout followed Democrats' midterm election victory, including wins in several data-center states, which stoked fears that tougher AI regulation could slow data-center construction, Reuters reported. Jane Gibbons, an equity strategist at Jefferies, called the selloff 'reactionary, not a fundamental reset, driven by a collision of concerns around AI spend, policy and inflation.'",
+  "Nvidia rose 4.5% in premarket trading after its worst day since January 2025, and AMD, Intel, Broadcom and Micron Technology gained between 4.6% and 8.2%, Reuters reported. Traders were awaiting Friday's October jobs report, pricing in more than a 65% chance of a December rate increase, while Atlassian fell 14.1% and Airbnb rose 12.2% on earnings."
+ ],
+ "body": [
+  "Nasdaq 100 E-minis rose 378.5 points, or 1.41%, by 6:24 a.m. ET Friday, while S&P 500 E-minis added 21.75 points, or 0.29%, and Dow E-minis fell 471 points, or 0.91%, Reuters reported. The rally followed Thursday's rout, in which the Nasdaq Composite posted its steepest one-day decline in 19 months, confirmed it had entered correction territory, and was headed for a fourth straight weekly fall. The CBOE Volatility Index, which logged its biggest one-day jump in about 19 months on Thursday, eased to 26.70 on Friday.",
+  "The selloff followed Democrats' midterm election victory, including wins in several key data-center states, which stoked fears that tougher AI regulation under a Democratic Congress could slow the buildout of AI data centers, Reuters reported. Jane Gibbons, an equity strategist at Jefferies, called Thursday's selloff 'reactionary, not a fundamental reset, driven by a collision of concerns around AI spend, policy and inflation.' Optimism over the sector's rapid growth had earlier propelled stock markets to record highs this year.",
+  "Nvidia added 4.5% in premarket trading after suffering its worst day since January 2025, when the emergence of the low-cost Chinese AI model DeepSeek had rattled Wall Street, Reuters reported. Other chip stocks, including AMD, Intel, Broadcom and Micron Technology, rose between 4.6% and 8.2% in premarket trading, following steep losses in the previous session.",
+  "Data-center operators IREN and Applied Digital, so-called neoclouds CoreWeave and Nebius Group, and AI-exposed utilities and equipment suppliers such as GE Vernova and Constellation Energy all recovered from deep losses in the previous session, Reuters reported. The rebound came after those names had dropped sharply alongside chipmakers in Thursday's broader tech-led rout.",
+  "Elon Musk-led Tesla and SpaceX were also higher in premarket trading, up 2% and 4% respectively, after both had dropped sharply over the two previous sessions, Reuters reported. Megacap and growth stocks were broadly mixed Friday, the report said, even as chip and AI-infrastructure names that had fallen sharply a day earlier moved back up together in early trading.",
+  "A jump in crude oil prices on Thursday had also pressured equities, Reuters reported, on concerns that higher energy costs could feed inflation and push global central banks toward higher interest rates. Brent crude futures were broadly flat on Friday, but oil was still on track for sharp weekly declines, with the S&P 500 energy index on pace for a weekly drop of more than 11%. The S&P 500 overall was on course for its worst weekly performance since March 2025, when tariff policy had roiled global markets.",
+  "Investors were awaiting the October jobs report, due at 8:30 a.m. ET, for clues on the path of interest rates, with traders pricing in more than a 65% chance of a December rate increase, according to the CME FedWatch Tool cited by Reuters. Among individual movers, software firm Atlassian fell 14.1% after its first-quarter results, while Airbnb climbed 12.2% after the vacation-rental platform raised its full-year 2026 revenue growth forecast."
+ ]
+}

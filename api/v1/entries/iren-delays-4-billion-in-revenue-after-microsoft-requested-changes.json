@@ -1,0 +1,84 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-06T13:41:00Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "iren-delays-4-billion-in-revenue-after-microsoft-requested-changes",
+ "url": "https://www.cmbulletin.com/posts/iren-delays-4-billion-in-revenue-after-microsoft-requested-changes.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/iren-delays-4-billion-in-revenue-after-microsoft-requested-changes.json",
+ "date": "2026-11-06T13:13:15Z",
+ "headline": "IREN delays $4 billion in revenue after Microsoft requested changes",
+ "dek": "IREN said the delayed revenue remains fully contracted and funded, even as its shares stayed down 55% over the past month in a broader slide across AI data-centre stocks.",
+ "caption": "Rows of server racks inside a data center, representative of the AI infrastructure buildout now facing delivery delays and spending pressure.",
+ "sections": [
+  "tech"
+ ],
+ "tags": [
+  "AI",
+  "Data Centres",
+  "Earnings",
+  "Venture Markets"
+ ],
+ "tickers": [
+  "NASDAQ:IREN",
+  "CSE:AIML",
+  "CSE:RAIL",
+  "CSE:AIDR",
+  "TSXV:CTRL",
+  "CSE:SPAI"
+ ],
+ "image": "https://www.cmbulletin.com/images/iren-delays-4-billion-in-revenue-after-microsoft-requested-changes.png",
+ "source_name": "CNBC",
+ "sources": [
+  {
+   "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+   "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+   "publisher": "CNBC"
+  },
+  {
+   "title": "AI-ML Innovations Inc. (CSE: AIML) quote, -11.11% on about $27,671",
+   "url": "https://finance.yahoo.com/quote/AIML.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "Railtown AI Technologies Inc (CSE: RAIL) quote, -7.14% on about $29,138",
+   "url": "https://finance.yahoo.com/quote/RAIL.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "Rocket Doctor AI Inc. (CSE: AIDR) quote, -7.07% on about $61,100",
+   "url": "https://finance.yahoo.com/quote/AIDR.CN",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "EDGE TOTAL INTELLIGENCE INC (TSXV: CTRL) quote, -6.00% on about $27,997",
+   "url": "https://finance.yahoo.com/quote/CTRL.V",
+   "publisher": "Yahoo Finance"
+  },
+  {
+   "title": "Sparc AI Inc. (CSE: SPAI) quote, -3.05% on about $297,404",
+   "url": "https://finance.yahoo.com/quote/SPAI.CN",
+   "publisher": "Yahoo Finance"
+  }
+ ],
+ "unverified_claims": [
+  "IREN's statement that the more-than-$4-billion revenue target remains \"fully contracted and funded\" despite the delay rests on the company's own characterization and is not independently verified.",
+  "The identification of Microsoft as the customer requesting the design change comes from Daniel Roberts' comments on the earnings call, as reported by CNBC, rather than from a written release naming the customer."
+ ],
+ "brief": [
+  "IREN Limited said Thursday that more than $4 billion of contracted annualized revenue, expected by the end of 2026, will now arrive in January and potentially February. The company said the shift followed \"a customer-requested change and supplier timing\"; on the earnings call, co-CEO Daniel Roberts identified the customer as Microsoft, CNBC reported.",
+  "IREN said the target remains fully contracted and funded despite the delay. Quarterly revenue rose 66% to $228 million and AI Cloud revenue more than doubled to $200 million, while net loss narrowed to $263 million from $684 million. The company also plans $15 billion more in capital spending this fiscal year.",
+  "On the venture boards, the artificial intelligence and data centres theme comprises 29 listed names; 18 traded today, none higher and 14 lower, for a median move of -7.11% against -0.99% for the S&P/TSX Venture Composite. AI-ML Innovations Inc. (CSE: AIML) fell 11.11% to C$0.04, and Railtown AI Technologies Inc (CSE: RAIL) fell 7.14% to C$0.26."
+ ],
+ "body": [
+  "IREN Limited — described by CNBC as a \"neocloud\" — said Thursday that more than $4 billion of contracted annualized recurring revenue it had expected to reach by the end of 2026 will now arrive in January, and potentially as late as February. The company said the shift followed \"a customer-requested change and supplier timing.\" On the earnings call, co-CEO Daniel Roberts identified the customer making the request as Microsoft, CNBC reported.",
+  "Roberts told CNBC that Microsoft had asked IREN to \"reconfigure and upgrade some of the network infrastructure,\" and that the purpose was to let 200 megawatts of capacity serve \"these latest-generation frontier models.\" Despite the later timing, the company said the more-than-$4-billion target remains \"fully contracted and funded.\" IREN's shares rose in extended trading immediately after the results were released, CNBC reported, even after weeks of declines.",
+  "The report followed a rough stretch across AI infrastructure stocks: IREN's own shares had fallen 26% after Tuesday's U.S. midterm elections and were down 55% over the past month, CNBC reported, as the Nasdaq suffered its worst trading day since April 2025. Two other AI-infrastructure companies have fared similarly: CoreWeave has dropped 60% over the past month, and Nebius has declined 48% over the same period, both ahead of their own earnings reports this week.",
+  "Roberts told CNBC that \"capital markets have become more selective in the last few weeks,\" adding that the market's questions had moved from \"how big the contract is to whether it can be delivered, financed, and run at a profit.\" He said \"there is a disconnect between what we're seeing in public market and what we're seeing at the customer level.\" IREN holds contracts with Nvidia, Microsoft and 13 other customers, CNBC reported.",
+  "Quarterly revenue rose 66% sequentially to $228 million, beating the $221 million average analyst estimate compiled by LSEG, CNBC reported. AI Cloud revenue more than doubled to $200 million, while IREN's net loss narrowed to $263 million from $684 million in the prior quarter. The company's bitcoin mining business, its original line of business before the shift to AI, supplied the remainder of quarterly revenue.",
+  "Revenue backlog grew 22% to $20.3 billion, with roughly two-thirds of it held by investment-grade counterparties, the company said. IREN also said it plans $15 billion of capital expenditure over the rest of its fiscal year, with $9 billion already covered by cash and committed financing and a further $6 billion in \"target\" financing \"subject to market conditions.\" One customer has agreed to finance 90% of the GPU capital expenditure, Roberts said, and roughly a third of planned data-centre construction is being funded through customer prepayments for capacity.",
+  "On the venture boards, the read-through runs through the theme of artificial intelligence and data centres, which comprises 29 listed venture names. Eighteen of them traded today, none higher and 14 lower, for a median move of -7.11% against -0.99% for the S&P/TSX Venture Composite. AI-ML Innovations Inc. (CSE: AIML) fell 11.11% to C$0.04, and is in the theme because its registered name contains \"ai.\" Railtown AI Technologies Inc (CSE: RAIL) fell 7.14% to C$0.26, also because its registered name contains \"ai.\"",
+  "Three more names in the theme also fell: Rocket Doctor AI Inc. (CSE: AIDR) dropped 7.07% to C$0.46, also because its registered name contains \"ai\"; Edge Total Intelligence Inc (TSXV: CTRL) fell 6.00% to C$0.235, because its sector label is Software-Infrastructure; and Sparc AI Inc. (CSE: SPAI) fell 3.05% to C$1.91, again because its registered name contains \"ai.\" The moves fell on the same day as IREN's results; nothing in today's trading connects the two."
+ ]
+}

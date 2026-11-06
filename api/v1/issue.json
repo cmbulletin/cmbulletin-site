@@ -1,273 +1,255 @@
 {
  "api": "v1",
- "generated_at": "2026-11-06T05:31:23Z",
+ "generated_at": "2026-11-06T13:41:00Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "issue_date": "2026-11-05",
- "count": 5,
+ "issue_date": "2026-11-06",
+ "count": 4,
  "entries": [
   {
-   "slug": "lighthouse-gold-issues-35-million-shares-to-option-a-guyana-gold",
-   "url": "https://www.cmbulletin.com/posts/lighthouse-gold-issues-35-million-shares-to-option-a-guyana-gold.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/lighthouse-gold-issues-35-million-shares-to-option-a-guyana-gold.json",
-   "date": "2026-11-05T13:35:59Z",
-   "headline": "Lighthouse Gold issues 35 million shares to option a Guyana gold property",
-   "dek": "The CSE has accepted the property option deal for filing, though transfer of Guyana's mining permits still needs approval from the country's mines regulator.",
-   "caption": "Dense tropical rainforest along a river in Guyana's interior, terrain typical of the country's small-scale gold mining districts.",
+   "slug": "nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout",
+   "url": "https://www.cmbulletin.com/posts/nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout.json",
+   "date": "2026-11-06T13:32:04Z",
+   "headline": "Nasdaq futures jump 1.4% as chipmakers rebound from a $3 trillion rout",
+   "dek": "Nvidia, AMD and Micron rose in premarket trading a day after a rout tied to AI-regulation fears from Democrats' midterm win wiped nearly $3 trillion off the S&P 500.",
+   "caption": "Futures pointed higher Friday after chipmakers and AI infrastructure names stabilized from Thursday's steep market-wide selloff.",
    "sections": [
-    "mining"
+    "markets"
    ],
    "tags": [
-    "Mining",
-    "M&A",
-    "Guyana"
+    "Markets",
+    "AI",
+    "Volatility",
+    "Technology"
    ],
-   "tickers": [
-    "CSE:LGHT"
-   ],
-   "image": "https://www.cmbulletin.com/images/lighthouse-gold-issues-35-million-shares-to-option-a-guyana-gold.png",
-   "source_name": "TheNewswire.ca",
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout.png",
+   "source_name": "Reuters (via The Globe and Mail)",
    "sources": [
     {
-     "title": "Lighthouse Gold Closes Mariwa-Sardine Hill Gold Property Acquisition and Announces Termination of Private Placement",
-     "url": "https://thenewswire.com/press-releases/1LYzFXWZa-lighthouse-gold-closes-mariwa-sardine-hill-gold-property-acquisition-and-announces-termination-of-private-placement.html",
-     "publisher": "TheNewswire.ca"
-    }
-   ],
-   "unverified_claims": [
-    "The characterization of the deal as an 'exclusive right to acquire a 100% interest' rather than a completed purchase rests on the release's own wording; the permits transfer only once Guyana's mines regulator approves it, which has not yet happened.",
-    "The reason for the private placement's termination is not given by the company and is not independently known."
-   ],
-   "brief": [
-    "Lighthouse Gold Inc. (CSE: LGHT) has received Canadian Securities Exchange acceptance for its acquisition of the Mariwa–Sardine Hill–Lower Cuyuni gold property in Guyana's Oko Gold District, under a property option purchase agreement with 1464911 B.C. Ltd. It has paid US$150,000 cash and issued 35,000,000 shares at C$0.185 each, worth C$6,475,000, plus a US$100,000 deposit paid earlier.",
-    "The 35,000,000 shares equal about 15.98% of Lighthouse Gold's outstanding shares and carry a resale restriction of at least four months and a day. The company holds the right to acquire a 100% interest, but the permits transfer only once Guyana's mines regulator, the GGMC, approves it.",
-    "Separately, Lighthouse Gold said a private placement it announced on October 22 and 23, 2026, has been terminated, with no securities issued and no proceeds received. The release gives no reason for the termination and no replacement financing has been announced."
-   ],
-   "body": [
-    "Lighthouse Gold Inc. (CSE: LGHT), a Canadian gold explorer focused on Guyana, said it has received acceptance from the Canadian Securities Exchange for its acquisition of the Mariwa–Sardine Hill–Lower Cuyuni gold property in the Oko Gold District of Guyana's Cuyuni-Mazaruni region. The deal is a definitive property option purchase agreement with the vendor, 1464911 B.C. Ltd. Lighthouse Gold has now paid US$150,000 cash and issued 35,000,000 common shares at a deemed C$0.185 each, worth C$6,475,000, on top of a US$100,000 deposit paid earlier under the original letter of intent.",
-    "The release describes this as an option rather than an outright purchase: Lighthouse Gold 'holds the exclusive right to acquire a 100% interest' in the property, and the company says any transfer of the underlying mining permits on exercise of that option is subject to approval from Guyana's Geology and Mines Commission. The vendor, 1464911 B.C. Ltd., already held 20,000 Lighthouse Gold shares before the deal and now holds 35,020,000, about 15.99% of the company, following what Lighthouse Gold describes as an arm's-length transaction.",
-    "The underlying property, Mariwa–Sardine Hill – Lower Cuyuni, sits in the Oko Gold District of Guyana's Cuyuni-Mazaruni region and comprises three medium-scale mining permits covering about 3,240 acres. Each permit was originally granted on November 4, 2015 for a five-year term and has since been renewed by the Guyana Geology and Mines Commission; the release states the permits are currently in good standing. Lighthouse Gold describes the property as being at an early exploration stage, with no established mineral resources or reserves.",
-    "The 35,000,000 consideration shares are subject to a resale restriction until the later of four months and one day from issuance, or ten trading days after the company files financial statements reflecting the acquisition's value. Today's announcement follows two earlier releases on the same transaction, dated June 15 and October 20, 2026, as the deal progressed toward the CSE's acceptance for filing.",
-    "Separately, Lighthouse Gold said a private placement it announced on October 22 and October 23, 2026, has been terminated. No securities were issued and no proceeds were received under that financing, and the release gives no reason for the termination and discloses no replacement financing plan.",
-    "Lighthouse Gold describes itself as a Canadian gold exploration company focused on advancing exploration and mining assets in Guyana. The release names Will Rascan as interim chief executive officer and Geoff Balderson as chief financial officer and a director, and states that the Canadian Securities Exchange and its Regulation Services Provider do not accept responsibility for the release's adequacy or accuracy."
-   ]
-  },
-  {
-   "slug": "600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds",
-   "url": "https://www.cmbulletin.com/posts/600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds.json",
-   "date": "2026-11-05T13:35:59Z",
-   "headline": "600,000 Nvidia AI chips sit stranded in Hong Kong as China withholds approval",
-   "dek": "Beijing has let only small allotments of about 10,000 H200 chips reach each of four major Chinese tech firms, even as unofficial prices for the chips in China triple.",
-   "caption": "Shipping containers stacked at a quiet port terminal, where high-value cargo often waits for customs clearance before onward shipment.",
-   "sections": [
-    "tech"
-   ],
-   "tags": [
-    "Semiconductors",
-    "Trade Policy",
-    "Artificial Intelligence"
-   ],
-   "tickers": [
-    "CSE:AIDR",
-    "CSE:SPAI",
-    "CSE:GOGO",
-    "TSXV:PINK"
-   ],
-   "image": "https://www.cmbulletin.com/images/600-000-nvidia-ai-chips-sit-stranded-in-hong-kong-as-china-withholds.png",
-   "source_name": "Reuters",
-   "sources": [
-    {
-     "title": "Exclusive-Nvidia chips pile up in Hong Kong as China withholds import approval",
-     "url": "https://www.globalbankingandfinance.com/exclusive-nvidia-chips-pile-up-hong-kong-china-withholds/",
-     "publisher": "Reuters"
-    },
-    {
-     "title": "Rocket Doctor AI Inc. (CSE: AIDR) quote, +6.45% on about $30,343",
-     "url": "https://finance.yahoo.com/quote/AIDR.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "Sparc AI Inc. (CSE: SPAI) quote, -3.43% on about $152,295",
-     "url": "https://finance.yahoo.com/quote/SPAI.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "GoGo AI Network Inc. (CSE: GOGO) quote, +0.00% on about $29,263",
-     "url": "https://finance.yahoo.com/quote/GOGO.CN",
-     "publisher": "Yahoo Finance"
-    },
-    {
-     "title": "PERIMETER MEDICAL IMAGING AI IN (TSXV: PINK) quote, +0.00% on about $73,998",
-     "url": "https://finance.yahoo.com/quote/PINK.V",
-     "publisher": "Yahoo Finance"
-    }
-   ],
-   "unverified_claims": [
-    "The figure of about 600,000 H200 chips stockpiled in Hong Kong is sourced to unnamed 'people familiar with the matter' cited by Reuters, not to an official disclosure by Nvidia or Chinese authorities.",
-    "The claim that Alibaba, ByteDance, DeepSeek and Tencent have each received about 10,000 H200 chips rests on unnamed sources; none of the four companies responded to Reuters.",
-    "The claim that Beijing previously capped approvals at fewer than 200,000 chips is reporting Reuters attributes to a July report from a separate outlet, The Information."
-   ],
-   "brief": [
-    "About 600,000 of Nvidia's advanced H200 artificial-intelligence chips are stranded in Hong Kong awaiting shipment into mainland China, Reuters reported, as Beijing withholds approval for large-scale imports despite strong demand from Chinese technology firms. Alibaba, ByteDance, DeepSeek and Tencent have each received about 10,000 H200 chips in recent months, according to people familiar with the matter.",
-    "The scarcity has pushed up unofficial prices: an eight-card H200 server sold for more than 6 million yuan, or about $900,000, in mainland China by late October, roughly three times its price a year earlier, Reuters reported. Servers built with Nvidia's newer Blackwell chips commanded more than 20 million yuan apiece. Beijing's restraint reflects concern about dependence on US technology.",
-    "On the venture boards, the artificial-intelligence theme comprises 29 listed names; 17 traded today, 4 higher and 5 lower, for a median move of +0.00% against +2.48% for the S&P/TSX Venture Composite. Rocket Doctor AI Inc. (CSE: AIDR) rose 6.45% to CAD0.495; its registered name contains \"ai\"."
-   ],
-   "body": [
-    "About 600,000 of Nvidia's advanced H200 artificial-intelligence chips are sitting in warehouses in Hong Kong awaiting shipment into mainland China, two people familiar with the matter told Reuters, as Beijing withholds approval for large-scale imports despite strong demand from Chinese technology firms. Major Chinese internet companies — Alibaba, ByteDance, DeepSeek and Tencent among them — have each received only about 10,000 H200 chips in recent months, the people said, with additional small quantities reaching the mainland through intermediaries and indirect routes.",
-    "US export controls dating to 2022 had previously restricted China's access to Nvidia's most capable AI accelerators, and Beijing has imposed its own constraints on the imports in turn, reflecting concern about dependence on American technology.",
-    "Earlier reporting cited by Reuters said Beijing had told companies in July that they could expect approval for fewer than 200,000 H200 chips in total for training AI models, with priority for everyday inference work going to domestically made processors instead. China's Ministry of Industry and Information Technology and the National Development and Reform Commission did not respond to Reuters' requests for comment, nor did Nvidia or the four technology companies named in the report.",
-    "The scarcity has pushed unofficial prices sharply higher inside China. An eight-card H200 server was offered for more than 6 million yuan, or about $900,000, in the mainland market by late October — roughly three times its price a year earlier, Reuters reported. Servers built around Nvidia's newer Blackwell chips were commanding more than 20 million yuan apiece in the same unofficial market.",
-    "On the TSX Venture and CSE boards, 29 listed venture names make up this bulletin's artificial-intelligence theme. Seventeen of them traded today: four moved higher and five moved lower, for a median move of +0.00% against a +2.48% gain for the S&P/TSX Venture Composite. Twelve saw no trades at all.",
-    "Four of the theme's names were among the largest movers. Rocket Doctor AI Inc. (CSE: AIDR), whose registered name contains \"ai,\" rose 6.45% to C$0.495. Sparc AI Inc. (CSE: SPAI), also qualifying on its name, fell 3.43% to C$1.97. GoGo AI Network Inc. (CSE: GOGO) and Perimeter Medical Imaging Ai In (TSXV: PINK), both in the theme for the same reason, were unchanged at C$0.015 and C$0.18 respectively.",
-    "The moves and the Hong Kong stockpile report fall on the same trading day. Nothing in Reuters' reporting, or in the companies' own filings, connects the two. Twelve of the theme's 29 listed names did not trade at all today."
-   ]
-  },
-  {
-   "slug": "copper-one-s-19-9-million-special-warrants-convert-into-shares-and",
-   "url": "https://www.cmbulletin.com/posts/copper-one-s-19-9-million-special-warrants-convert-into-shares-and.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/copper-one-s-19-9-million-special-warrants-convert-into-shares-and.json",
-   "date": "2026-11-05T13:05:41Z",
-   "headline": "Copper One's 19.9 million special warrants convert into shares and warrants",
-   "dek": "The automatic conversion, completing a September financing, hands holders new common shares plus warrants exercisable at $0.50 for two years.",
-   "caption": "Copper One's September financing completes on November 6 as its special warrants convert automatically into shares and two-year warrants.",
-   "sections": [
-    "mining"
-   ],
-   "tags": [
-    "Mining",
-    "Financing",
-    "Warrants",
-    "CSE"
-   ],
-   "tickers": [
-    "CSE:CEXY",
-    "OTC:CEXYF"
-   ],
-   "image": "https://www.cmbulletin.com/images/copper-one-s-19-9-million-special-warrants-convert-into-shares-and.png",
-   "source_name": "TheNewswire.ca",
-   "sources": [
-    {
-     "title": "Copper One Announces Automatic Conversion of Special Warrants. Prospectus Supplement Available on SEDAR+",
-     "url": "https://thenewswire.com/press-releases/1LpMFYZyb-copper-one-announces-automatic-conversion-of-special-warrants-prospectus-supplement-available-on-sedar.html",
-     "publisher": "TheNewswire.ca"
+     "title": "Premarket: Nasdaq futures rise after steep AI selloff as chip stocks stabilize",
+     "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks/",
+     "publisher": "Reuters (via The Globe and Mail)"
     }
    ],
    "unverified_claims": [],
    "brief": [
-    "Copper One Resources will see 19,889,750 special warrants, issued September 29, 2026, automatically convert into common shares and warrants on November 6, 2026, the company said. The special warrants comprised 12,383,000 non-flow-through and 7,506,750 flow-through warrants; holders need take no action.",
-    "The conversion delivers 19,889,750 common shares and 9,944,875 share purchase warrants. Each warrant lets the holder buy one common share at $0.50 for two years from the offering's closing date; the company may accelerate that expiry on 30 days' notice if the shares trade at $1.25 or higher for five straight sessions on the CSE.",
-    "A prospectus supplement dated November 3, 2026 qualifies the shares and warrants for distribution in British Columbia, Alberta and Ontario and is available on SEDAR+. Copper One trades on the Canadian Securities Exchange under CEXY, on the US OTC market under CEXYF, and on the Frankfurt Stock Exchange under IW8."
+    "Nasdaq 100 E-minis rose 378.5 points, or 1.41%, by 6:24 a.m. ET Friday, while S&P 500 E-minis added 21.75 points, or 0.29%, and Dow E-minis fell 471 points, or 0.91%, Reuters reported. The moves followed Thursday's rout, in which the Nasdaq Composite posted its steepest one-day decline in 19 months and erased nearly $3 trillion from S&P 500 market value.",
+    "The rout followed Democrats' midterm election victory, including wins in several data-center states, which stoked fears that tougher AI regulation could slow data-center construction, Reuters reported. Jane Gibbons, an equity strategist at Jefferies, called the selloff 'reactionary, not a fundamental reset, driven by a collision of concerns around AI spend, policy and inflation.'",
+    "Nvidia rose 4.5% in premarket trading after its worst day since January 2025, and AMD, Intel, Broadcom and Micron Technology gained between 4.6% and 8.2%, Reuters reported. Traders were awaiting Friday's October jobs report, pricing in more than a 65% chance of a December rate increase, while Atlassian fell 14.1% and Airbnb rose 12.2% on earnings."
    ],
    "body": [
-    "Copper One Resources Corp. (CSE: CEXY; OTC: CEXYF; FSE: IW8) will see 19,889,750 special warrants, issued September 29, 2026, automatically convert into common shares and warrants on November 6, 2026, the company said. The special warrants were issued in two tranches: 12,383,000 non-flow-through special warrants and 7,506,750 flow-through special warrants. Holders do not need to take any action; the conversion happens automatically under the terms of the original offering.",
-    "The conversion delivers a combined 19,889,750 common shares along with 9,944,875 share purchase warrants to the former special warrant holders. Each warrant entitles the holder to buy one common share at $0.50 for two years from the offering's closing date. The company may accelerate that two-year expiry on 30 days' notice if Copper One's shares trade at $1.25 or higher for five consecutive trading days on the Canadian Securities Exchange.",
-    "A prospectus supplement dated November 3, 2026 was filed to qualify the distribution of the securities underlying the special warrants in British Columbia, Alberta and Ontario, and is available on SEDAR+. It follows a short form base shelf prospectus the company filed in May 2025, as amended in March and October 2026. Copper One trades on the Canadian Securities Exchange under CEXY, on the US over-the-counter market under CEXYF, and on the Frankfurt Stock Exchange under IW8.",
-    "This release does not restate the price or use of proceeds from the original special warrant offering; it covers only the terms of today's automatic conversion and the prospectus supplement that qualifies the resulting shares and warrants for distribution."
+    "Nasdaq 100 E-minis rose 378.5 points, or 1.41%, by 6:24 a.m. ET Friday, while S&P 500 E-minis added 21.75 points, or 0.29%, and Dow E-minis fell 471 points, or 0.91%, Reuters reported. The rally followed Thursday's rout, in which the Nasdaq Composite posted its steepest one-day decline in 19 months, confirmed it had entered correction territory, and was headed for a fourth straight weekly fall. The CBOE Volatility Index, which logged its biggest one-day jump in about 19 months on Thursday, eased to 26.70 on Friday.",
+    "The selloff followed Democrats' midterm election victory, including wins in several key data-center states, which stoked fears that tougher AI regulation under a Democratic Congress could slow the buildout of AI data centers, Reuters reported. Jane Gibbons, an equity strategist at Jefferies, called Thursday's selloff 'reactionary, not a fundamental reset, driven by a collision of concerns around AI spend, policy and inflation.' Optimism over the sector's rapid growth had earlier propelled stock markets to record highs this year.",
+    "Nvidia added 4.5% in premarket trading after suffering its worst day since January 2025, when the emergence of the low-cost Chinese AI model DeepSeek had rattled Wall Street, Reuters reported. Other chip stocks, including AMD, Intel, Broadcom and Micron Technology, rose between 4.6% and 8.2% in premarket trading, following steep losses in the previous session.",
+    "Data-center operators IREN and Applied Digital, so-called neoclouds CoreWeave and Nebius Group, and AI-exposed utilities and equipment suppliers such as GE Vernova and Constellation Energy all recovered from deep losses in the previous session, Reuters reported. The rebound came after those names had dropped sharply alongside chipmakers in Thursday's broader tech-led rout.",
+    "Elon Musk-led Tesla and SpaceX were also higher in premarket trading, up 2% and 4% respectively, after both had dropped sharply over the two previous sessions, Reuters reported. Megacap and growth stocks were broadly mixed Friday, the report said, even as chip and AI-infrastructure names that had fallen sharply a day earlier moved back up together in early trading.",
+    "A jump in crude oil prices on Thursday had also pressured equities, Reuters reported, on concerns that higher energy costs could feed inflation and push global central banks toward higher interest rates. Brent crude futures were broadly flat on Friday, but oil was still on track for sharp weekly declines, with the S&P 500 energy index on pace for a weekly drop of more than 11%. The S&P 500 overall was on course for its worst weekly performance since March 2025, when tariff policy had roiled global markets.",
+    "Investors were awaiting the October jobs report, due at 8:30 a.m. ET, for clues on the path of interest rates, with traders pricing in more than a 65% chance of a December rate increase, according to the CME FedWatch Tool cited by Reuters. Among individual movers, software firm Atlassian fell 14.1% after its first-quarter results, while Airbnb climbed 12.2% after the vacation-rental platform raised its full-year 2026 revenue growth forecast."
    ]
   },
   {
-   "slug": "coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count",
-   "url": "https://www.cmbulletin.com/posts/coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count.json",
-   "date": "2026-11-05T13:05:41Z",
-   "headline": "CopperCorp plans to raise up to C$3 million and shrink its share count",
-   "dek": "The explorer's non-brokered placement pairs units and subscription receipts with a one-for-five share consolidation ahead of TSX Venture Exchange approval.",
-   "caption": "Temperate forest in western Tasmania, Australia, where CopperCorp Resources is exploring for copper, gold and rare earth elements.",
-   "sections": [
-    "mining"
-   ],
-   "tags": [
-    "Mining",
-    "Financing",
-    "Private Placement",
-    "TSXV"
-   ],
-   "tickers": [
-    "TSXV:CPER",
-    "OTCQB:CPCPF"
-   ],
-   "image": "https://www.cmbulletin.com/images/coppercorp-plans-to-raise-up-to-c-3-million-and-shrink-its-share-count.png",
-   "source_name": "Investing News Network — Resource Investing",
-   "sources": [
-    {
-     "title": "CopperCorp Announces Non-Brokered Private Placement of up to C$3.0M and Share Consolidation",
-     "url": "https://investingnews.com/coppercorp-announces-non-brokered-private-placement-of-up-to-c-3-0m-and-share-consolidation/",
-     "publisher": "Investing News Network — Resource Investing"
-    }
-   ],
-   "unverified_claims": [
-    "Whether company insiders will in fact participate in the placement rests on the company's own statement that insiders 'may participate'; this is not yet confirmed."
-   ],
-   "brief": [
-    "CopperCorp Resources, which is exploring for copper, gold and rare earth elements at its AMC project in western Tasmania, Australia, plans a non-brokered private placement of up to C$3.0 million. The raise combines up to 4,444,444 units at $0.1125 each, for up to $500,000, and up to 18,518,519 subscription receipts at $0.135 each, for up to $2.5 million.",
-    "Each unit carries one post-consolidation share and one warrant exercisable at $0.18 for 24 months; each subscription receipt converts, once escrow conditions clear, into a unit of one share and half a warrant exercisable at $0.24 for 24 months. The conversion depends on completion of the company's Skyline Project sale. Shares carry the usual four-month-and-a-day hold.",
-    "CopperCorp is also consolidating its shares on a one-for-five basis, cutting its roughly 118.96 million shares outstanding to about 23.79 million. The financing and consolidation remain subject to final TSX Venture Exchange approval, and proceeds are earmarked for exploration and drilling at the AMC project and for working capital."
-   ],
-   "body": [
-    "CopperCorp Resources Inc. (TSXV: CPER; OTCQB: CPCPF), which is exploring for copper, gold and rare earth elements at its AMC project in western Tasmania, Australia, intends to raise up to C$3.0 million through a non-brokered private placement, the company said.",
-    "The offering's first tranche is up to 4,444,444 units priced at $0.1125 each, for gross proceeds of up to $500,000. Each unit is made up of one post-consolidation common share and one share purchase warrant, exercisable at $0.18 for 24 months from the date of issue.",
-    "The second tranche is up to 18,518,519 subscription receipts priced at $0.135 each, for gross proceeds of up to $2.5 million. Once escrow release conditions are satisfied, each receipt converts into a unit comprising one post-consolidation common share and one-half of a warrant, exercisable at $0.24 for 24 months. The conversion is contingent on completion of the sale of the company's Skyline Project, among other escrow conditions.",
-    "CopperCorp is also proceeding with a share consolidation on a one-for-five basis, reducing its roughly 118.96 million shares outstanding to approximately 23.79 million. Securities issued in the placement will be subject to the usual four-month-and-one-day resale hold. Company insiders may participate, which the company says will be treated as related-party transactions.",
-    "Proceeds are earmarked for exploration and drilling at the AMC project and for general corporate and working capital purposes, the company said. The offering and the share consolidation both remain subject to final acceptance by the TSX Venture Exchange, and finder's fees may be paid to eligible arm's-length parties under the exchange's policies. CopperCorp also trades on the OTCQB market in the United States under the symbol CPCPF."
-   ]
-  },
-  {
-   "slug": "ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia",
-   "url": "https://www.cmbulletin.com/posts/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.html",
-   "json": "https://www.cmbulletin.com/api/v1/entries/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.json",
-   "date": "2026-11-05T13:05:41Z",
-   "headline": "Ukrainian drones set fire to a major Ozon warehouse in Russia",
-   "dek": "The attack hit Adygeysk for a second time, even as Ozon had already projected $367 million in losses from strikes on 11 of its sites.",
-   "caption": "A freight yard at dusk, the kind of logistics infrastructure Ukraine's drone campaign has repeatedly targeted inside Russia.",
+   "slug": "elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms",
+   "url": "https://www.cmbulletin.com/posts/elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms.json",
+   "date": "2026-11-06T13:13:15Z",
+   "headline": "Elon Musk's Tesla and SpaceX have shed $456 billion since the midterms",
+   "dek": "Shares of both companies fell sharply this week as Democrats won control of Congress and unseated Musk allies in Texas, trimming his fortune by about $90 billion.",
+   "caption": "Markets digested a week of political upheaval as investors weighed new regulatory risk for major technology ventures.",
    "sections": [
     "news"
    ],
    "tags": [
-    "Geopolitical",
-    "E-Commerce",
-    "Russia",
-    "Defence"
+    "Markets",
+    "Regulatory",
+    "Electric Vehicles",
+    "Aerospace"
    ],
    "tickers": [
-    "CSE:QESS",
-    "TSXV:PNG"
+    "NASDAQ:TSLA",
+    "NASDAQ:SPCX"
    ],
-   "image": "https://www.cmbulletin.com/images/ukrainian-drones-set-fire-to-a-major-ozon-warehouse-in-russia.png",
-   "source_name": "Reuters (via The Star)",
+   "image": "https://www.cmbulletin.com/images/elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms.png",
+   "source_name": "CNBC",
    "sources": [
     {
-     "title": "Ukrainian drone strike sets fire to hub of e-retailer Ozon in southern Russia",
-     "url": "https://www.thestar.com.my/news/world/2026/11/04/ukrainian-drone-strike-sets-fire-to-hub-of-e-retailer-ozon-in-southern-russia",
-     "publisher": "Reuters (via The Star)"
+     "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+     "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+     "publisher": "CNBC"
+    }
+   ],
+   "unverified_claims": [
+    "Musk's net worth figures (over $1 trillion after SpaceX's IPO, now below $800 billion, a roughly $90 billion decline in the past week) are wealth estimates reported by CNBC rather than independently verified figures.",
+    "The claim that most of the candidates Musk backed lost their races rests on CNBC's own characterization rather than a specific vote tally given in the article."
+   ],
+   "brief": [
+    "Tesla shares fell about 11% and SpaceX shares fell about 9% on Thursday afternoon, CNBC reported, pushing the two companies' combined market-cap losses past $420 billion since Tuesday's close. By the end of Thursday's session, CNBC said the combined loss had grown to about $456 billion.",
+    "CNBC attributed the selloff to investor reaction to the midterm election results, in which Democrats won control of both chambers of Congress. In Texas, where both companies are headquartered, Democratic candidates defeated longtime Musk allies, including gubernatorial candidate Gina Hinojosa, who defeated incumbent Governor Greg Abbott, the report said.",
+    "On the venture boards, CM Bulletin's space theme produced no read-through today: no listed junior cleared the C$25,000 day-volume floor this bulletin requires before naming a security, so none of the theme's names are named here, and there is no group move to report against the venture composite."
+   ],
+   "body": [
+    "Tesla shares fell about 11% and SpaceX shares fell about 9% on Thursday afternoon, CNBC reported, extending a slide that began after Tuesday's midterm election results were released. The declines pushed the two companies' combined market-capitalization losses past $420 billion since Tuesday's close, and by the end of Thursday's session CNBC said the combined loss had grown to about $456 billion.",
+    "CNBC attributed the selloff to investor reaction to the midterm election results, in which Democrats won control of both chambers of Congress. In Texas, where both Tesla and SpaceX are headquartered, Democratic candidates defeated longtime allies of Elon Musk, including gubernatorial candidate Gina Hinojosa, who defeated incumbent Governor Greg Abbott, according to the report.",
+    "The report cited several specific investor concerns: the possibility of congressional probes into Musk and his companies, stricter regulatory oversight of artificial-intelligence infrastructure and data centers, potential delays to SpaceX's compute-capacity buildout in Texas, scrutiny of SpaceX's Starlink restrictions in Ukraine, and regulatory obstacles to a potential merger between Tesla and SpaceX.",
+    "The decline also affected Musk's personal fortune, which CNBC said had topped $1 trillion following SpaceX's initial public offering in June and has since fallen below $800 billion, a drop of roughly $90 billion over the past week, though CNBC noted he remains the world's richest person. Musk had contributed more than $470 million to Republican candidates and causes during the midterm campaign, and CNBC reported that most of the candidates he backed lost their races.",
+    "CM Bulletin tracks a space theme on the TSX Venture Exchange and the CSE each day, matching an issuer's registered name or sector label against the stories driving large-cap markets. On today's venture boards, no name assigned to the space theme traded enough volume to clear this bulletin's C$25,000 day-volume floor, the threshold used before any security is named in a read-through.",
+    "As a result, no venture issuer is named here in connection with today's Tesla and SpaceX story, and there is no group move to report for the space theme against the S&P/TSX Venture Composite. A stale price on a thinly traded name is not a reportable move, and the absence of qualifying trading today means the theme's venture names simply did not trade on it."
+   ]
+  },
+  {
+   "slug": "iren-delays-4-billion-in-revenue-after-microsoft-requested-changes",
+   "url": "https://www.cmbulletin.com/posts/iren-delays-4-billion-in-revenue-after-microsoft-requested-changes.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/iren-delays-4-billion-in-revenue-after-microsoft-requested-changes.json",
+   "date": "2026-11-06T13:13:15Z",
+   "headline": "IREN delays $4 billion in revenue after Microsoft requested changes",
+   "dek": "IREN said the delayed revenue remains fully contracted and funded, even as its shares stayed down 55% over the past month in a broader slide across AI data-centre stocks.",
+   "caption": "Rows of server racks inside a data center, representative of the AI infrastructure buildout now facing delivery delays and spending pressure.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "AI",
+    "Data Centres",
+    "Earnings",
+    "Venture Markets"
+   ],
+   "tickers": [
+    "NASDAQ:IREN",
+    "CSE:AIML",
+    "CSE:RAIL",
+    "CSE:AIDR",
+    "TSXV:CTRL",
+    "CSE:SPAI"
+   ],
+   "image": "https://www.cmbulletin.com/images/iren-delays-4-billion-in-revenue-after-microsoft-requested-changes.png",
+   "source_name": "CNBC",
+   "sources": [
+    {
+     "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+     "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+     "publisher": "CNBC"
     },
     {
-     "title": "Aegis Critical Energy Defence Corp. (CSE: QESS) quote, +5.66% on about $80,085",
-     "url": "https://finance.yahoo.com/quote/QESS.CN",
+     "title": "AI-ML Innovations Inc. (CSE: AIML) quote, -11.11% on about $27,671",
+     "url": "https://finance.yahoo.com/quote/AIML.CN",
      "publisher": "Yahoo Finance"
     },
     {
-     "title": "KRAKEN ROBOTICS INC (TSXV: PNG) quote, -5.57% on about $4,482,396",
-     "url": "https://finance.yahoo.com/quote/PNG.V",
+     "title": "Railtown AI Technologies Inc (CSE: RAIL) quote, -7.14% on about $29,138",
+     "url": "https://finance.yahoo.com/quote/RAIL.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Rocket Doctor AI Inc. (CSE: AIDR) quote, -7.07% on about $61,100",
+     "url": "https://finance.yahoo.com/quote/AIDR.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "EDGE TOTAL INTELLIGENCE INC (TSXV: CTRL) quote, -6.00% on about $27,997",
+     "url": "https://finance.yahoo.com/quote/CTRL.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Sparc AI Inc. (CSE: SPAI) quote, -3.05% on about $297,404",
+     "url": "https://finance.yahoo.com/quote/SPAI.CN",
      "publisher": "Yahoo Finance"
     }
    ],
    "unverified_claims": [
-    "Ozon's $367 million loss projection and its order-cancellation response are the company's own statements, not independently verified.",
-    "The absence of reported casualties rests on Ozon's and a regional official's statements as reported; no independent casualty count was available."
+    "IREN's statement that the more-than-$4-billion revenue target remains \"fully contracted and funded\" despite the delay rests on the company's own characterization and is not independently verified.",
+    "The identification of Microsoft as the customer requesting the design change comes from Daniel Roberts' comments on the earnings call, as reported by CNBC, rather than from a written release naming the customer."
    ],
    "brief": [
-    "A Ukrainian drone strike set fire to a logistics hub operated by Russian e-commerce retailer Ozon in Adygeysk, in southern Russia, on November 4, 2026, the company and a regional official said. Debris also damaged two nearby villages. Ozon said it was not aware of any casualties and that all staff had been evacuated.",
-    "It was the second strike on this facility. Ukraine has targeted dozens of warehouses run by Ozon and rival Wildberries since July as part of a campaign against Russia's economy and war effort. Ozon said it would cancel orders it cannot fulfil and temporarily stop accepting deliveries from sellers at the site; its shares fell 0.4%.",
-    "On the venture boards, the defence theme's 8 names saw 6 trade today, 2 up and 4 down, a median move of -2.62% against +2.48% for the Venture Composite. Aegis Critical Energy Defence Corp (CSE: QESS) rose 5.66% to C$0.28, its name containing \"defence\"; Kraken Robotics (TSXV: PNG) fell 5.57% to C$3.56, its name. Nothing ties the moves to it."
+    "IREN Limited said Thursday that more than $4 billion of contracted annualized revenue, expected by the end of 2026, will now arrive in January and potentially February. The company said the shift followed \"a customer-requested change and supplier timing\"; on the earnings call, co-CEO Daniel Roberts identified the customer as Microsoft, CNBC reported.",
+    "IREN said the target remains fully contracted and funded despite the delay. Quarterly revenue rose 66% to $228 million and AI Cloud revenue more than doubled to $200 million, while net loss narrowed to $263 million from $684 million. The company also plans $15 billion more in capital spending this fiscal year.",
+    "On the venture boards, the artificial intelligence and data centres theme comprises 29 listed names; 18 traded today, none higher and 14 lower, for a median move of -7.11% against -0.99% for the S&P/TSX Venture Composite. AI-ML Innovations Inc. (CSE: AIML) fell 11.11% to C$0.04, and Railtown AI Technologies Inc (CSE: RAIL) fell 7.14% to C$0.26."
    ],
    "body": [
-    "A Ukrainian drone strike set fire to a logistics hub operated by Russian e-commerce retailer Ozon in Adygeysk, in southern Russia, on November 4, 2026, the company and a regional official said. It was the second time this specific facility had been hit. Debris from the strike also damaged two nearby villages, according to reporting on the attack. Ozon said it was not aware of any casualties and that all staff at the site had been evacuated.",
-    "The strike is part of a broader Ukrainian campaign that has targeted dozens of warehouses run by Ozon and its rival Wildberries since July, aimed at disrupting Russia's economy and its war effort, according to reporting on the pattern of attacks. Ozon said it would cancel orders it could not fulfil from the Adygeysk site and would temporarily stop accepting deliveries from third-party sellers there while it assesses the damage.",
-    "Ahead of this strike, Ozon had already projected 30.1 billion roubles (about $367 million) in losses from drone attacks across 11 of its sites, the company said in a financial results release last week. Ozon's stock fell about 0.4% following the latest attack. The strike came as both sides prepared for peace talks scheduled for November 10 and 11, and followed a Ukrainian strike on a Russian oil refinery and Russian strikes on Ukrainian energy infrastructure in the preceding days.",
-    "On Canada's venture boards, the defence and drones theme comprises eight listed names. Six traded today, two higher and four lower, for a median move of -2.62% against +2.48% for the S&P/TSX Venture Composite, a spread of -5.10 percentage points. The attack on Ozon's logistics hub and these moves fall on the same trading day; nothing in either release ties one to the other.",
-    "Aegis Critical Energy Defence Corp (CSE: QESS) rose 5.66% to C$0.28 and is in the theme because its registered name contains \"defence.\" Kraken Robotics Inc (TSXV: PNG) fell 5.57% to C$3.56 and is in the theme because its registered name is Kraken Robotics Inc. Both traded today; the group's median move was negative even though these two names moved in opposite directions."
+    "IREN Limited — described by CNBC as a \"neocloud\" — said Thursday that more than $4 billion of contracted annualized recurring revenue it had expected to reach by the end of 2026 will now arrive in January, and potentially as late as February. The company said the shift followed \"a customer-requested change and supplier timing.\" On the earnings call, co-CEO Daniel Roberts identified the customer making the request as Microsoft, CNBC reported.",
+    "Roberts told CNBC that Microsoft had asked IREN to \"reconfigure and upgrade some of the network infrastructure,\" and that the purpose was to let 200 megawatts of capacity serve \"these latest-generation frontier models.\" Despite the later timing, the company said the more-than-$4-billion target remains \"fully contracted and funded.\" IREN's shares rose in extended trading immediately after the results were released, CNBC reported, even after weeks of declines.",
+    "The report followed a rough stretch across AI infrastructure stocks: IREN's own shares had fallen 26% after Tuesday's U.S. midterm elections and were down 55% over the past month, CNBC reported, as the Nasdaq suffered its worst trading day since April 2025. Two other AI-infrastructure companies have fared similarly: CoreWeave has dropped 60% over the past month, and Nebius has declined 48% over the same period, both ahead of their own earnings reports this week.",
+    "Roberts told CNBC that \"capital markets have become more selective in the last few weeks,\" adding that the market's questions had moved from \"how big the contract is to whether it can be delivered, financed, and run at a profit.\" He said \"there is a disconnect between what we're seeing in public market and what we're seeing at the customer level.\" IREN holds contracts with Nvidia, Microsoft and 13 other customers, CNBC reported.",
+    "Quarterly revenue rose 66% sequentially to $228 million, beating the $221 million average analyst estimate compiled by LSEG, CNBC reported. AI Cloud revenue more than doubled to $200 million, while IREN's net loss narrowed to $263 million from $684 million in the prior quarter. The company's bitcoin mining business, its original line of business before the shift to AI, supplied the remainder of quarterly revenue.",
+    "Revenue backlog grew 22% to $20.3 billion, with roughly two-thirds of it held by investment-grade counterparties, the company said. IREN also said it plans $15 billion of capital expenditure over the rest of its fiscal year, with $9 billion already covered by cash and committed financing and a further $6 billion in \"target\" financing \"subject to market conditions.\" One customer has agreed to finance 90% of the GPU capital expenditure, Roberts said, and roughly a third of planned data-centre construction is being funded through customer prepayments for capacity.",
+    "On the venture boards, the read-through runs through the theme of artificial intelligence and data centres, which comprises 29 listed venture names. Eighteen of them traded today, none higher and 14 lower, for a median move of -7.11% against -0.99% for the S&P/TSX Venture Composite. AI-ML Innovations Inc. (CSE: AIML) fell 11.11% to C$0.04, and is in the theme because its registered name contains \"ai.\" Railtown AI Technologies Inc (CSE: RAIL) fell 7.14% to C$0.26, also because its registered name contains \"ai.\"",
+    "Three more names in the theme also fell: Rocket Doctor AI Inc. (CSE: AIDR) dropped 7.07% to C$0.46, also because its registered name contains \"ai\"; Edge Total Intelligence Inc (TSXV: CTRL) fell 6.00% to C$0.235, because its sector label is Software-Infrastructure; and Sparc AI Inc. (CSE: SPAI) fell 3.05% to C$1.91, again because its registered name contains \"ai.\" The moves fell on the same day as IREN's results; nothing in today's trading connects the two."
+   ]
+  },
+  {
+   "slug": "gold-climbs-to-4-063-an-ounce-as-democrats-sweep-control-of-congress",
+   "url": "https://www.cmbulletin.com/posts/gold-climbs-to-4-063-an-ounce-as-democrats-sweep-control-of-congress.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/gold-climbs-to-4-063-an-ounce-as-democrats-sweep-control-of-congress.json",
+   "date": "2026-11-06T13:13:15Z",
+   "headline": "Gold climbs to $4,063 an ounce as Democrats sweep control of Congress",
+   "dek": "Spot silver also rose to $52.32 an ounce and the US Dollar Index slipped to near 101.5 after Democrats won both the House and the Senate in the midterms.",
+   "caption": "Gold bars sit in secure storage, a traditional hedge for investors navigating currency and political uncertainty.",
+   "sections": [
+    "markets"
+   ],
+   "tags": [
+    "Markets",
+    "Commodities",
+    "Precious Metals",
+    "Elections"
+   ],
+   "tickers": [
+    "TSXV:PNTR",
+    "TSXV:ARU",
+    "TSXV:TRR",
+    "CSE:LGHT",
+    "TSXV:SXL"
+   ],
+   "image": "https://www.cmbulletin.com/images/gold-climbs-to-4-063-an-ounce-as-democrats-sweep-control-of-congress.png",
+   "source_name": "Investing News Network — Daily",
+   "sources": [
+    {
+     "title": "Gold Price Climbs Above US$4,000 After Democrat Midterm Win",
+     "url": "https://investingnews.com/gold-climbs-after-democratic-win/",
+     "publisher": "Investing News Network — Daily"
+    },
+    {
+     "title": "PANTERA SILVER CORP (TSXV: PNTR) quote, -24.24% on about $133,750",
+     "url": "https://finance.yahoo.com/quote/PNTR.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "AURANIA RESOURCES LTD (TSXV: ARU) quote, +23.26% on about $44,255",
+     "url": "https://finance.yahoo.com/quote/ARU.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "TERRA ROSSA GOLD LTD (TSXV: TRR) quote, +17.65% on about $29,186",
+     "url": "https://finance.yahoo.com/quote/TRR.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Lighthouse Gold Inc. (CSE: LGHT) quote, -16.67% on about $31,120",
+     "url": "https://finance.yahoo.com/quote/LGHT.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "SLAM EXPLORATION INC (TSXV: SXL) quote, -16.67% on about $104,600",
+     "url": "https://finance.yahoo.com/quote/SXL.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "The analyst commentary linking the gold and silver price moves to US dollar weakness, higher expected government spending and potential Federal Reserve quantitative easing reflects the stated opinions of Rich Checkan, Peter Schiff and Craig Hemke as quoted in the source; it is not independently verified market analysis."
+   ],
+   "brief": [
+    "Spot gold climbed above US$4,000 an ounce on November 4, reaching US$4,063, while spot silver rose to US$52.32 by late afternoon. The move came as Democrats won control of both the House and the Senate in the US midterm elections, leaving President Trump facing an opposition Congress for the rest of his term.",
+    "The US Dollar Index fell about 0.3% to near 101.5 and Treasury yields moved lower. Analysts quoted in the report, including Peter Schiff of Euro Pacific Asset Management and Rich Checkan of Asset Strategies International, linked the moves to dollar weakness and expectations of higher government spending under a Democratic Congress.",
+    "The theme comprises 527 listed venture names; 349 traded today, 50 higher and 202 lower, for a median move of -2.20% against -0.99% for the S&P/TSX Venture Composite. Pantera Silver Corp (TSXV: PNTR) fell 24.24% to CAD0.25, and Aurania Resources Ltd (TSXV: ARU) rose 23.26% to CAD0.265."
+   ],
+   "body": [
+    "Spot gold rose above US$4,000 an ounce on Wednesday, November 4, advancing to US$4,063, while spot silver climbed to US$52.32 by 4:55 p.m. EST. The US Dollar Index fell about 0.3% on the day, trading near 101.5, and Treasury yields moved lower. The moves came as vote counts from the US midterm elections showed Democrats taking control of both chambers of Congress.",
+    "The result leaves President Donald Trump facing a Congress controlled by the opposing party for the remainder of his term. Rich Checkan, president and chief operating officer of Asset Strategies International, speaking at the New Orleans Investment Conference ahead of the vote, said: \"When it comes to precious metals, unless we are voting in a majority of politicians in this midterm who are then going to cut spending … unless that happens, gold is going higher.\"",
+    "Peter Schiff, chief economist and global strategist at Euro Pacific Asset Management, said a \"Democrat takeover of Congress could be bullish for gold and silver,\" adding that the Federal Reserve could eventually turn to quantitative easing to contain rising bond yields. Craig Hemke, publisher of TFMetalsReport.com, said: \"You can see where a big Democrat shift could be coming. But then to try to figure out the knockoff reactions of all these different markets, it's impossible to say.\"",
+    "The report does not characterize Wednesday's level as a record for either metal, and it draws no comparison with prices earlier in the week or the month. It also names no company or ticker tied to the gold or silver price move itself, beyond the three advisory firms whose principals were quoted on the midterm result.",
+    "On the venture boards, the gold and silver theme comprises 527 listed venture names; 349 traded today, 50 higher and 202 lower, for a median move of -2.20% against -0.99% for the S&P/TSX Venture Composite. Pantera Silver Corp (TSXV: PNTR) fell 24.24% to CAD0.25, and is in the theme because its registered name contains \"silver.\" Aurania Resources Ltd (TSXV: ARU) rose 23.26% to CAD0.265, and is in the theme because its sector label is \"Other Precious Metals & Mining.\"",
+    "Terra Rossa Gold Ltd (TSXV: TRR) rose 17.65% to CAD0.30, and is in the theme because its registered name contains \"gold.\" Lighthouse Gold Inc. (CSE: LGHT) fell 16.67% to CAD0.05, and is in the theme because its registered name contains \"gold.\" Slam Exploration Inc (TSXV: SXL) fell 16.67% to CAD0.05, and is in the theme because its sector label is \"Gold.\" The moves and the midterm-linked gold and silver rally fell on the same trading day; nothing in the data connects them."
    ]
   }
  ]

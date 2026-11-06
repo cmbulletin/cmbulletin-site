@@ -1,0 +1,53 @@
+{
+ "api": "v1",
+ "generated_at": "2026-11-06T13:41:00Z",
+ "publisher": "Capital Markets Bulletin",
+ "site": "https://www.cmbulletin.com/",
+ "terms": "https://www.cmbulletin.com/legal.html",
+ "slug": "elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms",
+ "url": "https://www.cmbulletin.com/posts/elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms.html",
+ "json": "https://www.cmbulletin.com/api/v1/entries/elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms.json",
+ "date": "2026-11-06T13:13:15Z",
+ "headline": "Elon Musk's Tesla and SpaceX have shed $456 billion since the midterms",
+ "dek": "Shares of both companies fell sharply this week as Democrats won control of Congress and unseated Musk allies in Texas, trimming his fortune by about $90 billion.",
+ "caption": "Markets digested a week of political upheaval as investors weighed new regulatory risk for major technology ventures.",
+ "sections": [
+  "news"
+ ],
+ "tags": [
+  "Markets",
+  "Regulatory",
+  "Electric Vehicles",
+  "Aerospace"
+ ],
+ "tickers": [
+  "NASDAQ:TSLA",
+  "NASDAQ:SPCX"
+ ],
+ "image": "https://www.cmbulletin.com/images/elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms.png",
+ "source_name": "CNBC",
+ "sources": [
+  {
+   "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+   "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+   "publisher": "CNBC"
+  }
+ ],
+ "unverified_claims": [
+  "Musk's net worth figures (over $1 trillion after SpaceX's IPO, now below $800 billion, a roughly $90 billion decline in the past week) are wealth estimates reported by CNBC rather than independently verified figures.",
+  "The claim that most of the candidates Musk backed lost their races rests on CNBC's own characterization rather than a specific vote tally given in the article."
+ ],
+ "brief": [
+  "Tesla shares fell about 11% and SpaceX shares fell about 9% on Thursday afternoon, CNBC reported, pushing the two companies' combined market-cap losses past $420 billion since Tuesday's close. By the end of Thursday's session, CNBC said the combined loss had grown to about $456 billion.",
+  "CNBC attributed the selloff to investor reaction to the midterm election results, in which Democrats won control of both chambers of Congress. In Texas, where both companies are headquartered, Democratic candidates defeated longtime Musk allies, including gubernatorial candidate Gina Hinojosa, who defeated incumbent Governor Greg Abbott, the report said.",
+  "On the venture boards, CM Bulletin's space theme produced no read-through today: no listed junior cleared the C$25,000 day-volume floor this bulletin requires before naming a security, so none of the theme's names are named here, and there is no group move to report against the venture composite."
+ ],
+ "body": [
+  "Tesla shares fell about 11% and SpaceX shares fell about 9% on Thursday afternoon, CNBC reported, extending a slide that began after Tuesday's midterm election results were released. The declines pushed the two companies' combined market-capitalization losses past $420 billion since Tuesday's close, and by the end of Thursday's session CNBC said the combined loss had grown to about $456 billion.",
+  "CNBC attributed the selloff to investor reaction to the midterm election results, in which Democrats won control of both chambers of Congress. In Texas, where both Tesla and SpaceX are headquartered, Democratic candidates defeated longtime allies of Elon Musk, including gubernatorial candidate Gina Hinojosa, who defeated incumbent Governor Greg Abbott, according to the report.",
+  "The report cited several specific investor concerns: the possibility of congressional probes into Musk and his companies, stricter regulatory oversight of artificial-intelligence infrastructure and data centers, potential delays to SpaceX's compute-capacity buildout in Texas, scrutiny of SpaceX's Starlink restrictions in Ukraine, and regulatory obstacles to a potential merger between Tesla and SpaceX.",
+  "The decline also affected Musk's personal fortune, which CNBC said had topped $1 trillion following SpaceX's initial public offering in June and has since fallen below $800 billion, a drop of roughly $90 billion over the past week, though CNBC noted he remains the world's richest person. Musk had contributed more than $470 million to Republican candidates and causes during the midterm campaign, and CNBC reported that most of the candidates he backed lost their races.",
+  "CM Bulletin tracks a space theme on the TSX Venture Exchange and the CSE each day, matching an issuer's registered name or sector label against the stories driving large-cap markets. On today's venture boards, no name assigned to the space theme traded enough volume to clear this bulletin's C$25,000 day-volume floor, the threshold used before any security is named in a read-through.",
+  "As a result, no venture issuer is named here in connection with today's Tesla and SpaceX story, and there is no group move to report for the space theme against the S&P/TSX Venture Composite. A stale price on a thinly traded name is not a reportable move, and the absence of qualifying trading today means the theme's venture names simply did not trade on it."
+ ]
+}

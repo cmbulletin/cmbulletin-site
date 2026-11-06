@@ -339,6 +339,9 @@ a.stretch:hover { color: inherit; }
 .desk__title { font-family: var(--sans); font-weight: 700; font-size: calc(19.5px * var(--fs, 1)); line-height: 1.14; letter-spacing: -.02em; margin: 0; }
 .desk__dek { font-size: calc(14.5px * var(--fs, 1)); line-height: 1.45; color: var(--ink-soft); margin: 6px 0 0; }
 .pennies td { font-size: calc(12.5px * var(--fs, 1)); }
+/* A size given in words ("$6.1 million across both issuers") never wrapped, because .mkt
+   .num does not, so it pushed the table out of its column at every width. */
+.pennies .num .sym { white-space: normal; }
 .pennies__fill { display: none; }
 .allfin { display: inline-block; margin-top: 14px; font-family: var(--mono); font-size: calc(12.5px * var(--fs, 1)); font-weight: 500; color: var(--accent); }
 

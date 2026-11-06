@@ -1,11 +1,221 @@
 {
  "api": "v1",
- "generated_at": "2026-11-06T05:31:23Z",
+ "generated_at": "2026-11-06T13:41:00Z",
  "publisher": "Capital Markets Bulletin",
  "site": "https://www.cmbulletin.com/",
  "terms": "https://www.cmbulletin.com/legal.html",
- "count": 149,
+ "count": 153,
  "entries": [
+  {
+   "slug": "nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout",
+   "url": "https://www.cmbulletin.com/posts/nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout.json",
+   "date": "2026-11-06T13:32:04Z",
+   "headline": "Nasdaq futures jump 1.4% as chipmakers rebound from a $3 trillion rout",
+   "dek": "Nvidia, AMD and Micron rose in premarket trading a day after a rout tied to AI-regulation fears from Democrats' midterm win wiped nearly $3 trillion off the S&P 500.",
+   "caption": "Futures pointed higher Friday after chipmakers and AI infrastructure names stabilized from Thursday's steep market-wide selloff.",
+   "sections": [
+    "markets"
+   ],
+   "tags": [
+    "Markets",
+    "AI",
+    "Volatility",
+    "Technology"
+   ],
+   "tickers": [],
+   "image": "https://www.cmbulletin.com/images/nasdaq-futures-jump-1-4-as-chipmakers-rebound-from-a-3-trillion-rout.png",
+   "source_name": "Reuters (via The Globe and Mail)",
+   "sources": [
+    {
+     "title": "Premarket: Nasdaq futures rise after steep AI selloff as chip stocks stabilize",
+     "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-nasdaq-futures-rise-after-steep-ai-selloff-as-chip-stocks/",
+     "publisher": "Reuters (via The Globe and Mail)"
+    }
+   ],
+   "unverified_claims": [],
+   "brief": [
+    "Nasdaq 100 E-minis rose 378.5 points, or 1.41%, by 6:24 a.m. ET Friday, while S&P 500 E-minis added 21.75 points, or 0.29%, and Dow E-minis fell 471 points, or 0.91%, Reuters reported. The moves followed Thursday's rout, in which the Nasdaq Composite posted its steepest one-day decline in 19 months and erased nearly $3 trillion from S&P 500 market value.",
+    "The rout followed Democrats' midterm election victory, including wins in several data-center states, which stoked fears that tougher AI regulation could slow data-center construction, Reuters reported. Jane Gibbons, an equity strategist at Jefferies, called the selloff 'reactionary, not a fundamental reset, driven by a collision of concerns around AI spend, policy and inflation.'",
+    "Nvidia rose 4.5% in premarket trading after its worst day since January 2025, and AMD, Intel, Broadcom and Micron Technology gained between 4.6% and 8.2%, Reuters reported. Traders were awaiting Friday's October jobs report, pricing in more than a 65% chance of a December rate increase, while Atlassian fell 14.1% and Airbnb rose 12.2% on earnings."
+   ]
+  },
+  {
+   "slug": "elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms",
+   "url": "https://www.cmbulletin.com/posts/elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms.json",
+   "date": "2026-11-06T13:13:15Z",
+   "headline": "Elon Musk's Tesla and SpaceX have shed $456 billion since the midterms",
+   "dek": "Shares of both companies fell sharply this week as Democrats won control of Congress and unseated Musk allies in Texas, trimming his fortune by about $90 billion.",
+   "caption": "Markets digested a week of political upheaval as investors weighed new regulatory risk for major technology ventures.",
+   "sections": [
+    "news"
+   ],
+   "tags": [
+    "Markets",
+    "Regulatory",
+    "Electric Vehicles",
+    "Aerospace"
+   ],
+   "tickers": [
+    "NASDAQ:TSLA",
+    "NASDAQ:SPCX"
+   ],
+   "image": "https://www.cmbulletin.com/images/elon-musk-s-tesla-and-spacex-have-shed-456-billion-since-the-midterms.png",
+   "source_name": "CNBC",
+   "sources": [
+    {
+     "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+     "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+     "publisher": "CNBC"
+    }
+   ],
+   "unverified_claims": [
+    "Musk's net worth figures (over $1 trillion after SpaceX's IPO, now below $800 billion, a roughly $90 billion decline in the past week) are wealth estimates reported by CNBC rather than independently verified figures.",
+    "The claim that most of the candidates Musk backed lost their races rests on CNBC's own characterization rather than a specific vote tally given in the article."
+   ],
+   "brief": [
+    "Tesla shares fell about 11% and SpaceX shares fell about 9% on Thursday afternoon, CNBC reported, pushing the two companies' combined market-cap losses past $420 billion since Tuesday's close. By the end of Thursday's session, CNBC said the combined loss had grown to about $456 billion.",
+    "CNBC attributed the selloff to investor reaction to the midterm election results, in which Democrats won control of both chambers of Congress. In Texas, where both companies are headquartered, Democratic candidates defeated longtime Musk allies, including gubernatorial candidate Gina Hinojosa, who defeated incumbent Governor Greg Abbott, the report said.",
+    "On the venture boards, CM Bulletin's space theme produced no read-through today: no listed junior cleared the C$25,000 day-volume floor this bulletin requires before naming a security, so none of the theme's names are named here, and there is no group move to report against the venture composite."
+   ]
+  },
+  {
+   "slug": "iren-delays-4-billion-in-revenue-after-microsoft-requested-changes",
+   "url": "https://www.cmbulletin.com/posts/iren-delays-4-billion-in-revenue-after-microsoft-requested-changes.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/iren-delays-4-billion-in-revenue-after-microsoft-requested-changes.json",
+   "date": "2026-11-06T13:13:15Z",
+   "headline": "IREN delays $4 billion in revenue after Microsoft requested changes",
+   "dek": "IREN said the delayed revenue remains fully contracted and funded, even as its shares stayed down 55% over the past month in a broader slide across AI data-centre stocks.",
+   "caption": "Rows of server racks inside a data center, representative of the AI infrastructure buildout now facing delivery delays and spending pressure.",
+   "sections": [
+    "tech"
+   ],
+   "tags": [
+    "AI",
+    "Data Centres",
+    "Earnings",
+    "Venture Markets"
+   ],
+   "tickers": [
+    "NASDAQ:IREN",
+    "CSE:AIML",
+    "CSE:RAIL",
+    "CSE:AIDR",
+    "TSXV:CTRL",
+    "CSE:SPAI"
+   ],
+   "image": "https://www.cmbulletin.com/images/iren-delays-4-billion-in-revenue-after-microsoft-requested-changes.png",
+   "source_name": "CNBC",
+   "sources": [
+    {
+     "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+     "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+     "publisher": "CNBC"
+    },
+    {
+     "title": "AI-ML Innovations Inc. (CSE: AIML) quote, -11.11% on about $27,671",
+     "url": "https://finance.yahoo.com/quote/AIML.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Railtown AI Technologies Inc (CSE: RAIL) quote, -7.14% on about $29,138",
+     "url": "https://finance.yahoo.com/quote/RAIL.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Rocket Doctor AI Inc. (CSE: AIDR) quote, -7.07% on about $61,100",
+     "url": "https://finance.yahoo.com/quote/AIDR.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "EDGE TOTAL INTELLIGENCE INC (TSXV: CTRL) quote, -6.00% on about $27,997",
+     "url": "https://finance.yahoo.com/quote/CTRL.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Sparc AI Inc. (CSE: SPAI) quote, -3.05% on about $297,404",
+     "url": "https://finance.yahoo.com/quote/SPAI.CN",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "IREN's statement that the more-than-$4-billion revenue target remains \"fully contracted and funded\" despite the delay rests on the company's own characterization and is not independently verified.",
+    "The identification of Microsoft as the customer requesting the design change comes from Daniel Roberts' comments on the earnings call, as reported by CNBC, rather than from a written release naming the customer."
+   ],
+   "brief": [
+    "IREN Limited said Thursday that more than $4 billion of contracted annualized revenue, expected by the end of 2026, will now arrive in January and potentially February. The company said the shift followed \"a customer-requested change and supplier timing\"; on the earnings call, co-CEO Daniel Roberts identified the customer as Microsoft, CNBC reported.",
+    "IREN said the target remains fully contracted and funded despite the delay. Quarterly revenue rose 66% to $228 million and AI Cloud revenue more than doubled to $200 million, while net loss narrowed to $263 million from $684 million. The company also plans $15 billion more in capital spending this fiscal year.",
+    "On the venture boards, the artificial intelligence and data centres theme comprises 29 listed names; 18 traded today, none higher and 14 lower, for a median move of -7.11% against -0.99% for the S&P/TSX Venture Composite. AI-ML Innovations Inc. (CSE: AIML) fell 11.11% to C$0.04, and Railtown AI Technologies Inc (CSE: RAIL) fell 7.14% to C$0.26."
+   ]
+  },
+  {
+   "slug": "gold-climbs-to-4-063-an-ounce-as-democrats-sweep-control-of-congress",
+   "url": "https://www.cmbulletin.com/posts/gold-climbs-to-4-063-an-ounce-as-democrats-sweep-control-of-congress.html",
+   "json": "https://www.cmbulletin.com/api/v1/entries/gold-climbs-to-4-063-an-ounce-as-democrats-sweep-control-of-congress.json",
+   "date": "2026-11-06T13:13:15Z",
+   "headline": "Gold climbs to $4,063 an ounce as Democrats sweep control of Congress",
+   "dek": "Spot silver also rose to $52.32 an ounce and the US Dollar Index slipped to near 101.5 after Democrats won both the House and the Senate in the midterms.",
+   "caption": "Gold bars sit in secure storage, a traditional hedge for investors navigating currency and political uncertainty.",
+   "sections": [
+    "markets"
+   ],
+   "tags": [
+    "Markets",
+    "Commodities",
+    "Precious Metals",
+    "Elections"
+   ],
+   "tickers": [
+    "TSXV:PNTR",
+    "TSXV:ARU",
+    "TSXV:TRR",
+    "CSE:LGHT",
+    "TSXV:SXL"
+   ],
+   "image": "https://www.cmbulletin.com/images/gold-climbs-to-4-063-an-ounce-as-democrats-sweep-control-of-congress.png",
+   "source_name": "Investing News Network — Daily",
+   "sources": [
+    {
+     "title": "Gold Price Climbs Above US$4,000 After Democrat Midterm Win",
+     "url": "https://investingnews.com/gold-climbs-after-democratic-win/",
+     "publisher": "Investing News Network — Daily"
+    },
+    {
+     "title": "PANTERA SILVER CORP (TSXV: PNTR) quote, -24.24% on about $133,750",
+     "url": "https://finance.yahoo.com/quote/PNTR.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "AURANIA RESOURCES LTD (TSXV: ARU) quote, +23.26% on about $44,255",
+     "url": "https://finance.yahoo.com/quote/ARU.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "TERRA ROSSA GOLD LTD (TSXV: TRR) quote, +17.65% on about $29,186",
+     "url": "https://finance.yahoo.com/quote/TRR.V",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "Lighthouse Gold Inc. (CSE: LGHT) quote, -16.67% on about $31,120",
+     "url": "https://finance.yahoo.com/quote/LGHT.CN",
+     "publisher": "Yahoo Finance"
+    },
+    {
+     "title": "SLAM EXPLORATION INC (TSXV: SXL) quote, -16.67% on about $104,600",
+     "url": "https://finance.yahoo.com/quote/SXL.V",
+     "publisher": "Yahoo Finance"
+    }
+   ],
+   "unverified_claims": [
+    "The analyst commentary linking the gold and silver price moves to US dollar weakness, higher expected government spending and potential Federal Reserve quantitative easing reflects the stated opinions of Rich Checkan, Peter Schiff and Craig Hemke as quoted in the source; it is not independently verified market analysis."
+   ],
+   "brief": [
+    "Spot gold climbed above US$4,000 an ounce on November 4, reaching US$4,063, while spot silver rose to US$52.32 by late afternoon. The move came as Democrats won control of both the House and the Senate in the US midterm elections, leaving President Trump facing an opposition Congress for the rest of his term.",
+    "The US Dollar Index fell about 0.3% to near 101.5 and Treasury yields moved lower. Analysts quoted in the report, including Peter Schiff of Euro Pacific Asset Management and Rich Checkan of Asset Strategies International, linked the moves to dollar weakness and expectations of higher government spending under a Democratic Congress.",
+    "The theme comprises 527 listed venture names; 349 traded today, 50 higher and 202 lower, for a median move of -2.20% against -0.99% for the S&P/TSX Venture Composite. Pantera Silver Corp (TSXV: PNTR) fell 24.24% to CAD0.25, and Aurania Resources Ltd (TSXV: ARU) rose 23.26% to CAD0.265."
+   ]
+  },
   {
    "slug": "lighthouse-gold-issues-35-million-shares-to-option-a-guyana-gold",
    "url": "https://www.cmbulletin.com/posts/lighthouse-gold-issues-35-million-shares-to-option-a-guyana-gold.html",
